@@ -21,3 +21,19 @@ If the entry already exists in the wrong category, open an issue instead.
 
 | Category | File |
 |----------|------|
+| 🎨 UI Enhancements | `categories/ui-enhancements.md` |
+| 🎭 Themes & Appearance | `categories/themes-appearance.md` |
+| 💬 Sessions & Messages | `categories/sessions-messages.md` |
+| 🧠 Memory | `categories/memory.md` |
+| 🛠️ Tools & Capabilities | `categories/tools-capabilities.md` |
+| 🔁 Workflow & Automation | `categories/workflow-automation.md` |
+| 🔔 Notifications & Integrations | `categories/notifications-integrations.md` |
+| 🔌 Models & Providers | `categories/models-providers.md` |
+| 🧑‍💻 Development & Runtime | `categories/development-runtime.md` |
+| 🎮 Just for Fun | `categories/fun.md` |
+| 📋 Awesome Lists & Collections | `categories/awesome-lists.md` |
+| ⚠️ Weakly Related | `categories/weakly-related.md` |
+
+## Not sure which category?
+
+Open an issue and we'll help categorize it.

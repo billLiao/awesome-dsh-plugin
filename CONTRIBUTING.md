@@ -27,6 +27,7 @@ If the entry already exists in the wrong category, open an issue instead.
 | 🧠 Memory | `categories/memory.md` |
 | 🛠️ Tools & Capabilities | `categories/tools-capabilities.md` |
 | 🔁 Workflow & Automation | `categories/workflow-automation.md` |
+| 🔔 Notifications & Integrations | `categories/notifications-integrations.md` |
 | 🔌 Models & Providers | `categories/models-providers.md` |
 | 🧑‍💻 Development & Runtime | `categories/development-runtime.md` |
 | 🎮 Just for Fun | `categories/fun.md` |

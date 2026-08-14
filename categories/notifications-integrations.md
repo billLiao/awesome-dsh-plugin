@@ -9,8 +9,8 @@
 
 ---
 
-- [hellosz/dsh-ntfy](https://github.com/hellosz/dsh-ntfy)
-- [zbxzbx98/dsh-peak-alert](https://github.com/zbxzbx98/dsh-peak-alert) — DeepSeek 峰谷定价提示插件（DSH Web 客户端插件，纯前端，无后端依赖）
+- [TerricSH/dsh-notify](https://github.com/TerricSH/dsh-notify) ⭐1
+- [Hyna-hla/dsh-vscode](https://github.com/Hyna-hla/dsh-vscode)
 
 ---
 

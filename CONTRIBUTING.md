@@ -15,23 +15,9 @@ Each plugin entry follows this format:
 - [owner/repo](url) — Description of what the plugin does.
 ```
 
+If the entry already exists in the wrong category, open an issue instead.
+
 ## Categories
 
 | Category | File |
 |----------|------|
-| 🎨 UI Enhancements | `categories/ui-enhancements.md` |
-| 🎭 Themes & Appearance | `categories/themes-appearance.md` |
-| 💬 Sessions & Messages | `categories/sessions-messages.md` |
-| 🧠 Memory | `categories/memory.md` |
-| 🛠️ Tools & Capabilities | `categories/tools-capabilities.md` |
-| 🔁 Workflow & Automation | `categories/workflow-automation.md` |
-| 🔔 Notifications & Integrations | `categories/notifications-integrations.md` |
-| 🔌 Models & Providers | `categories/models-providers.md` |
-| 🧑‍💻 Development & Runtime | `categories/development-runtime.md` |
-| 🔒 Security & Privacy | `categories/security-privacy.md` |
-| 🎮 Just for Fun | `categories/fun.md` |
-| 📋 Awesome Lists & Collections | `categories/awesome-lists.md` |
-
-## Not sure which category?
-
-Open an issue and we'll help categorize it.

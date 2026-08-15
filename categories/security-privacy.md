@@ -2,7 +2,7 @@
 
 > Credential management, encryption, audit, and security tooling.
 
-**53 plugins**
+**54 plugins**
 
 ---
 
@@ -13,6 +13,7 @@
 - [Zhenyu98/dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) ⭐6 — DSH 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突；Web UI 圆环面板 + context_audit 工具。Context Doctor for DeepSeek Harness: audit instruction-chain / skill catalog / tool schemas token cost.
 - [hyqhyq3/dsh-mcp-manager](https://github.com/hyqhyq3/dsh-mcp-manager) ⭐5 — MCP server manager plugin for DeepSeek Harness: Settings → MCP page, OAuth (PKCE + dynamic client registration) or static-token auth, tools registered as mcp__<name>__*
 - [Yuuz12/dsh-webui-auth](https://github.com/Yuuz12/dsh-webui-auth) ⭐2 — Persistent auth plugin for DeepSeek Harness WebUI: enforce login at the HTTP/transport layer (resources, /api, WebSocket) — unbypassable via devtools, zero dependencies.
+- [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐3 — Login gateway (password gate) for the DSH web UI: first-run setup, bcrypt + at-rest encryption, brute-force lockout, audit log, HTTPS, and owner/subuser multi-user account management.
 - [jkrandom-sudo/dsh-plugin-audit](https://github.com/jkrandom-sudo/dsh-plugin-audit) ⭐2 — Security audit for DeepSeek Harness plugins: static permission profile with file/line evidence + a runtime sentinel gating credential access and unknown-host egress · DSH 插件安全审计：静态权限画像（附文件/行号证据）+ 运行时哨兵，触及凭证或向未知主机外发数据时先请你批准
 - [030611/qiushi-dsh-evidence-audit](https://github.com/030611/qiushi-dsh-evidence-audit) ⭐2 — Observe-only hash-chained evidence receipts for DeepSeek Harness
 - [brittanistrehlowll-oss/dsh-quota-panel](https://github.com/brittanistrehlowll-oss/dsh-quota-panel) ⭐2 — Provider quota/balance corner panel for the dsh web surface (DeepSeek Harness plugin): server-side credential proxies plus a config-driven page badge.
@@ -62,4 +63,4 @@
 
 ---
 
-*Generated on 2026-08-14 · 53 plugins in this category*
+*Generated on 2026-08-14 · 54 plugins in this category*

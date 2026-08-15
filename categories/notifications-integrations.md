@@ -9,8 +9,8 @@
 
 ---
 
-- [TerricSH/dsh-notify](https://github.com/TerricSH/dsh-notify) ⭐1
-- [Hyna-hla/dsh-vscode](https://github.com/Hyna-hla/dsh-vscode)
+- [Zyy1997/dsh-sound-notify](https://github.com/Zyy1997/dsh-sound-notify) ⭐1 — dsh plugin: play a sound on the host when an agent finishes its turn or waits for approval
+- [CACppuccino/dsh-multiagent-enhence](https://github.com/CACppuccino/dsh-multiagent-enhence)
 
 ---
 

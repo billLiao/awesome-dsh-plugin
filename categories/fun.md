@@ -9,7 +9,7 @@
 
 ---
 
-- [Gin-7/dsh-pet-remielle](https://github.com/Gin-7/dsh-pet-remielle)
+- [pk7j7sqryy-ops/dsh-token-pet](https://github.com/pk7j7sqryy-ops/dsh-token-pet) — DSH 动态 Cordis 插件：卡通用量小部件 + 天气/预报/预警（Token Pet 布布玩偶）
 
 ---
 

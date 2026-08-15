@@ -10,7 +10,7 @@
 ---
 
 - [Zyy1997/dsh-sound-notify](https://github.com/Zyy1997/dsh-sound-notify) ⭐1 — dsh plugin: play a sound on the host when an agent finishes its turn or waits for approval
-- [CACppuccino/dsh-multiagent-enhence](https://github.com/CACppuccino/dsh-multiagent-enhence)
+- [shaomingbo/dsh-codex-auth-bridge](https://github.com/shaomingbo/dsh-codex-auth-bridge)
 
 ---
 

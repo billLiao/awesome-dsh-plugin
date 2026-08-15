@@ -29,6 +29,7 @@
 - [wangning19940904/dsh-llm-wiki](https://github.com/wangning19940904/dsh-llm-wiki) — Workspace-scoped, local-first LLM wiki plugin for DeepSeek Harness.
 - [Bryan-cmf/dsh-vector-memory](https://github.com/Bryan-cmf/dsh-vector-memory) — DSH-Plugin: durable agent memory core - mem_save/mem_search/mem_health backed by storageDomain (survives restarts), 記憶 view tab.
 - [YZz-S/dsh-dshx](https://github.com/YZz-S/dsh-dshx) — MCP client hub (stdio / Streamable HTTP / SSE) with a web console for DeepSeek Harness — manage MCP servers, agent skills, slash commands, project & global memory, and prompt sections.
+- [ZK-Andy/dsh-continual-evolve](https://github.com/ZK-Andy/dsh-continual-evolve) ⭐5 — Continual self-evolution: versioned, auditable, rollback-safe harness state (prompt notes, memories, skills, subagent specs) refined from session trajectories.
 
 ---
 

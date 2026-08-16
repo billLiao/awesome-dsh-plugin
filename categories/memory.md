@@ -4,11 +4,12 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**46 plugins**
+**47 plugins**
 
 
 ---
 
+- [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) ⭐42 — A DeepSeek Harness plugin for  Context insight dashboard — showing what the model's context window is made of and how it evolves.
 - [btspoony/mstar-harness](https://github.com/btspoony/mstar-harness) ⭐45 — A Skill-driven Harness/Loop Engineering Workflow Agent Plugin
 - [modusensus/dsh-mneme](https://github.com/modusensus/dsh-mneme) ⭐14 — A persistent, self-consolidating memory plugin for DeepSeek Harness with hybrid retrieval, reflection, conflict handling, and human-editable storage.
 - [knqiufan/powercontext-dsh](https://github.com/knqiufan/powercontext-dsh) ⭐10 — DeepSeek Harness plugin that connects to a PowerContext Server over HTTP for recall, memory, handoff, experience, and skills.

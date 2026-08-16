@@ -45,6 +45,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 
 ## Featured Plugins
+- [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill) - Complete reverse-skill pack (85 SKILL.md) as a DeepSeek Harness Cordis plugin: reverse engineering, authorized pentesting and security-research skill router.
 
 
 A selection of notable plugins by category:

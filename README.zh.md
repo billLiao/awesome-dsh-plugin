@@ -25,11 +25,11 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 
 | 💬 [会话与消息](categories/sessions-messages.md) | 210 | 会话管理、消息编辑、分享与对话工具。 |
 
-| 🧠 [记忆](categories/memory.md) | 46 | 持久记忆、知识库与上下文保留插件。 |
+| 🧠 [记忆](categories/memory.md) | 47 | 持久记忆、知识库与上下文保留插件。 |
 
 | 🛠️ [工具与能力](categories/tools-capabilities.md) | 443 | 视觉、浏览器、终端、SSH、Docker 等能力扩展。 |
 
-| 🔁 [工作流与自动化](categories/workflow-automation.md) | 238 | 自动化循环、定时任务、多智能体团队与工作流引擎。 |
+| 🔁 [工作流与自动化](categories/workflow-automation.md) | 237 | 自动化循环、定时任务、多智能体团队与工作流引擎。 |
 
 | 🔔 [通知与集成](categories/notifications-integrations.md) | 2 | 微信、Telegram、IM 桥接、桌面通知与外部集成。 |
 

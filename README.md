@@ -25,11 +25,11 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 | 💬 [Sessions & Messages](categories/sessions-messages.md) | 210 | Session management, message editing, sharing, and conversation tools. |
 
-| 🧠 [Memory](categories/memory.md) | 46 | Persistent memory, knowledge bases, and context retention plugins. |
+| 🧠 [Memory](categories/memory.md) | 47 | Persistent memory, knowledge bases, and context retention plugins. |
 
 | 🛠️ [Tools & Capabilities](categories/tools-capabilities.md) | 443 | Vision, browser, terminal, SSH, Docker, and other capability extensions. |
 
-| 🔁 [Workflow & Automation](categories/workflow-automation.md) | 238 | Automation loops, scheduled tasks, multi-agent teams, and workflow engines. |
+| 🔁 [Workflow & Automation](categories/workflow-automation.md) | 237 | Automation loops, scheduled tasks, multi-agent teams, and workflow engines. |
 
 | 🔔 [Notifications & Integrations](categories/notifications-integrations.md) | 2 | WeChat, Telegram, IM bridges, desktop notifications, and external integrations. |
 

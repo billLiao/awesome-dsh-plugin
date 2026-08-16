@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**6 plugins**
+**7 plugins**
 
 
 ---
@@ -15,8 +15,9 @@
 - [showlibia/dsh-plugin-installer](https://github.com/showlibia/dsh-plugin-installer) ⭐1
 - [q2316367743/dsh-plugin-manager](https://github.com/q2316367743/dsh-plugin-manager) ⭐1 — dsh 插件管理器
 - [zdjmrq/dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) — DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins
+- [hytime/dsh-companion](https://github.com/hytime/dsh-companion) — DSH Companion 三件套(插件/技能/CLI)发布仓库 - hy-companion 陪伴系统
 
 ---
 
 
-*Generated on 2026-08-16 · 6 plugins in this category*
+*Generated on 2026-08-16 · 7 plugins in this category*

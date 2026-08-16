@@ -17,7 +17,7 @@
 - [kinmat-A/dsh-theme-switch](https://github.com/kinmat-A/dsh-theme-switch) ⭐1 — 一款轻量级的 DSH 主题外观切换插件：自动检测已装皮肤，一键互斥切换，全部停用时回退官方外观，即时生效、重启保留。
 - [mmzm0808/dsh-ventus-whale](https://github.com/mmzm0808/dsh-ventus-whale) ⭐1
 - [MangMax/dsh-themes](https://github.com/MangMax/dsh-themes) ⭐1
-- [JAdpp/dsh-whale-galgame](https://github.com/JAdpp/dsh-whale-galgame) — A multi-character Galgame interface and optional desktop companion plugin for DeepSeek Harness Web.
+- [JAdpp/dsh-whale-galgame](https://github.com/JAdpp/dsh-whale-galgame) — 干活/推gal两不误~面向DeepSeek Harness 的跨会话上下文角色 Galgame 运行时插件，支持鲸鱼娘/GPT/Claude/Grok/Gemini/Kimi多个模型娘角色
 - [DKthreeFR/ATRI-Theme-DSH](https://github.com/DKthreeFR/ATRI-Theme-DSH) — ATRI 亚托莉主题的DeepSeepk Harnesss装饰
 - [xianshu-virtuous/dsh-whale-companion](https://github.com/xianshu-virtuous/dsh-whale-companion) — DeepSeek Harness whale-maid persona and automatic near-limit session continuation
 - [STARDUSTLC666/dsh-ppt](https://github.com/STARDUSTLC666/dsh-ppt) — DSH 技能插件：一句话生成完整演示文稿（HTML 放映 + PPTX 导出 + manifest），5 套视觉主题，中英双语，零运行时依赖。· One prompt to a full presentation for DeepSeek Harness.
@@ -34,4 +34,4 @@
 ---
 
 
-*Generated on 2026-08-14 · 21 plugins in this category*
+*Generated on 2026-08-16 · 21 plugins in this category*

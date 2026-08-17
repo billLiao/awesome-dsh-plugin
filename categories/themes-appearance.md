@@ -4,7 +4,7 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**94 plugins**
+**97 plugins**
 
 
 ---
@@ -13,11 +13,13 @@
 - [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) ⭐71 — DeepSeek Harness 滑动变阻器皮肤
 - [SenmuuuuW/dsh-whale-report](https://github.com/SenmuuuuW/dsh-whale-report) ⭐20 — 深迹 DeepTrace — Your Agent, in numbers. DSH 插件：从会话事件日志生成日报/周报/月报/年报/自定义区间，确定性洞察与协作复盘，只读、不改写历史。
 - [XCNXNXNX/dsh-portable-tavern](https://github.com/XCNXNXNX/dsh-portable-tavern) ⭐8 — DeepSeek Harness 的「便携酒馆」插件：RPG 式 SillyTavern V2/V3 角色卡生成器 + 酒馆角色扮演聊天。支持世界书、角色卡 JSON/PNG 导入导出、面板主题与本地音乐。独立插件，仅依赖官方 @deepseek-ai SDK。
+- [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐8
 - [zhijun-dai/Catppuccin-dsh-theme](https://github.com/zhijun-dai/Catppuccin-dsh-theme) ⭐7 — 🐱 Soothing pastel theme for DeepSeek Harness
-- [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐7
+- [starslittle/dsh-blue-whale](https://github.com/starslittle/dsh-blue-whale) ⭐6 — 复刻 DeepSeek Chat 蓝鲸配色的皮肤，亮色/深色跟随系统外观。
 - [rongzi5/dsh-whale-pet](https://github.com/rongzi5/dsh-whale-pet) ⭐5
 - [Misaki14987/dsh-theme-taffy](https://github.com/Misaki14987/dsh-theme-taffy) ⭐5 — 我不是雏草姬（自用
 - [tpmoonchefryan/dsh-joi-channel-theme](https://github.com/tpmoonchefryan/dsh-joi-channel-theme) ⭐5 — 轴伊 Joi 双衣装主题 for DeepSeek Harness — unofficial, non-commercial fan theme plugin 🍊
+- [Hyna-hla/dsh-remote](https://github.com/Hyna-hla/dsh-remote) ⭐5 — DSH Remote 手机遥控端：把电脑上的 DeepSeek Harness 装进口袋。手机连上就能给 AI 派活、看实时回复、批审批；支持局域网/内网穿透、扫码连接、审批通知、会话管理、多主题换装，还能解锁加密保险库。第三方社区作品，开源免费。
 - [Mochabafey/whale-notify](https://github.com/Mochabafey/whale-notify) ⭐4 — 鲸鱼通知——基于DeepSeek Harness的通知和鲸鱼娘人设插件
 - [yuxino/dsh-blue-whale-maid](https://github.com/yuxino/dsh-blue-whale-maid) ⭐4 — 运行在 deepseek harness 上的女仆酱
 - [xiaoyangcheng84-svg/dsh-skin-manager](https://github.com/xiaoyangcheng84-svg/dsh-skin-manager) ⭐4 — 一个可以管理皮肤的dsh插件
@@ -103,8 +105,9 @@
 - [wesky820/dsh-law](https://github.com/wesky820/dsh-law) — 深法：DeepSeek Harness 本地法律工作台插件，提供法律模式原生对话、案件看板、日程期限、可调分栏与多套法律主题
 - [Cerrda/dsh-cerrda-theme](https://github.com/Cerrda/dsh-cerrda-theme)
 - [statem-li/dsh-reasoning-effort](https://github.com/statem-li/dsh-reasoning-effort) — Codex-style DeepSeek Harness model and reasoning selector with model-advertised effort levels, DSH-native themes, left-c…
+- [d-ouyang/dsh-plugin-ascension](https://github.com/d-ouyang/dsh-plugin-ascension) — 渡劫飞升：DeepSeek Harness 的仙逆·王林修炼伙伴。监控 LLM 会话状态驱动动画，随使用修炼升境，境界越高皮肤越华丽。
 
 ---
 
 
-*Generated on 2026-08-18 · 94 plugins in this category*
+*Generated on 2026-08-18 · 97 plugins in this category*

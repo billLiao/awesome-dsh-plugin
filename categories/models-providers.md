@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**15 plugins**
+**14 plugins**
 
 
 ---
@@ -21,11 +21,10 @@
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
 - [QiE2035/dsh-llm-headers](https://github.com/QiE2035/dsh-llm-headers)
 - [OpenTritium/dsh-codex-shim](https://github.com/OpenTritium/dsh-codex-shim) — 让 GPT 在 DSH 中宾至如归    Make GPT feel at home in DSH.
-- [TikaFlow/dsh-model-reasoning](https://github.com/TikaFlow/dsh-model-reasoning) — 给所有第三方模型添加推理级别 / Add reasoningEfforts to all non-official models
 - [yujianjian1013/dsh-codex-media](https://github.com/yujianjian1013/dsh-codex-media)
 - [fonlan/dsh-model-router](https://github.com/fonlan/dsh-model-router)
 
 ---
 
 
-*Generated on 2026-08-18 · 15 plugins in this category*
+*Generated on 2026-08-18 · 14 plugins in this category*

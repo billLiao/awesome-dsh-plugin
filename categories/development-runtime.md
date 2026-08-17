@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**13 plugins**
+**14 plugins**
 
 
 ---
@@ -22,8 +22,9 @@
 - [jiay98528-dev/dsh-plugin-weaknet-adaptor](https://github.com/jiay98528-dev/dsh-plugin-weaknet-adaptor)
 - [omdsh-plugins/omdsh-plughub](https://github.com/omdsh-plugins/omdsh-plughub) — The omdsh plugin hub: a Settings tab that installs and removes omdsh plugins from a configurable upstream, and configures every installed one from the settings schema it already registers
 - [l541402398/dsh-top-leaderboard](https://github.com/l541402398/dsh-top-leaderboard) — DSH Web 插件热度榜单：侧栏「榜单」按钮 + 弹窗排行 + 类型区分 + 权限检测 + 一键安装
+- [cloader/dsh-devlaunch](https://github.com/cloader/dsh-devlaunch) — dsh的项目启动按钮
 
 ---
 
 
-*Generated on 2026-08-17 · 13 plugins in this category*
+*Generated on 2026-08-18 · 14 plugins in this category*

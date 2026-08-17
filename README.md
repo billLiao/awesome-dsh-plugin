@@ -10,7 +10,7 @@
 DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding agent (Web and headless), built on a framework where everything is a plugin: models, tools, sandboxes, session storage, UI, even the agent loop itself.
 
 
-**3394 plugins** collected from GitHub topic [`dsh-plugin`](https://github.com/topics/dsh-plugin) · [PRs welcome](#contributing)
+**3395 plugins** collected from GitHub topic [`dsh-plugin`](https://github.com/topics/dsh-plugin) · [PRs welcome](#contributing)
 
 
 ## Categories
@@ -27,7 +27,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 | 🧠 [Memory](categories/memory.md) | 88 | Persistent memory, knowledge bases, and context retention plugins. |
 
-| 🛠️ [Tools & Capabilities](categories/tools-capabilities.md) | 833 | Vision, browser, terminal, SSH, Docker, and other capability extensions. |
+| 🛠️ [Tools & Capabilities](categories/tools-capabilities.md) | 834 | Vision, browser, terminal, SSH, Docker, and other capability extensions. |
 
 | 🔁 [Workflow & Automation](categories/workflow-automation.md) | 521 | Automation loops, scheduled tasks, multi-agent teams, and workflow engines. |
 
@@ -92,7 +92,7 @@ A selection of notable plugins by category:
 - [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) ⭐4076 — A next-generation, source-available AI workspace with a self-evolving agent runtime for editable code, design, presentations, websites, and video—a Codex alternative that integrates DeepSeek Harness for subagent delegation, combining iPolloWork’s complete AI workbench with DSH’s specialized agents and both plugin ecosystems in one workflow.
 - [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) ⭐3279 — Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
 
-▶️ [View all 833 plugins →](categories/tools-capabilities.md)
+▶️ [View all 834 plugins →](categories/tools-capabilities.md)
 
 
 ### 🔁 Workflow & Automation

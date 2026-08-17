@@ -10,7 +10,7 @@
 DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行的 Coding Agent，底层又是一套「一切皆插件」的框架。
 
 
-**3394 个插件**，来自 GitHub 话题 [`dsh-plugin`](https://github.com/topics/dsh-plugin) · 欢迎 [PR](#贡献)
+**3395 个插件**，来自 GitHub 话题 [`dsh-plugin`](https://github.com/topics/dsh-plugin) · 欢迎 [PR](#贡献)
 
 
 ## 分类
@@ -27,7 +27,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 
 | 🧠 [记忆](categories/memory.md) | 88 | 持久记忆、知识库与上下文保留插件。 |
 
-| 🛠️ [工具与能力](categories/tools-capabilities.md) | 833 | 视觉、浏览器、终端、SSH、Docker 等能力扩展。 |
+| 🛠️ [工具与能力](categories/tools-capabilities.md) | 834 | 视觉、浏览器、终端、SSH、Docker 等能力扩展。 |
 
 | 🔁 [工作流与自动化](categories/workflow-automation.md) | 521 | 自动化循环、定时任务、多智能体团队与工作流引擎。 |
 
@@ -89,7 +89,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) ⭐4076 — A next-generation, source-available AI workspace with a self-evolving agent runtime for editable code, design, presentations, websites, and video—a Codex alternative that integrates DeepSeek Harness for subagent delegation, combining iPolloWork’s complete AI workbench with DSH’s specialized agents and both plugin ecosystems in one workflow.
 - [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) ⭐3279 — Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
 
-▶️ [查看全部 833 个插件 →](categories/tools-capabilities.md)
+▶️ [查看全部 834 个插件 →](categories/tools-capabilities.md)
 
 
 ### 🔁 工作流与自动化

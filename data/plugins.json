@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_repos": 3404,
-    "total_plugins": 3394,
+    "total_repos": 3405,
+    "total_plugins": 3395,
     "generated_at": "2026-08-17"
   },
   "categories": {
@@ -34020,6 +34020,19 @@
           "video-generation"
         ],
         "updated_at": "2026-08-17T04:01:45Z"
+      },
+      {
+        "full_name": "AfanSama/dsh-launcher",
+        "url": "https://github.com/AfanSama/dsh-launcher",
+        "description": "DSH 启动器 · DeepSeek Harness 桌面版启动器（macOS）",
+        "stars": 0,
+        "topics": [
+          "desktop",
+          "dsh",
+          "dsh-plugin",
+          "dsh-plugins"
+        ],
+        "updated_at": "2026-08-17T10:46:24Z"
       }
     ],
     "workflow-automation": [

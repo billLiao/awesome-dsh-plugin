@@ -4,7 +4,7 @@
 > Vision, browser, terminal, SSH, Docker, and other capability extensions.
 
 
-**833 plugins**
+**834 plugins**
 
 
 ---
@@ -842,8 +842,9 @@
 - [oThTJx/dsh-skill-ponytail](https://github.com/oThTJx/dsh-skill-ponytail) — DeepSeek Harness bundled skill: the lazy senior dev mode (from DietrichGebert/ponytail) — YAGNI ladder, stdlib first, one line before fifty. 6 skills, auto-applied.
 - [Wang-Lin-Chang/dsh-story](https://github.com/Wang-Lin-Chang/dsh-story) — Long-form novel assistant for DeepSeek Harness: story ledger + chapter anchors + foreshadow debt audit + 14 narrative invariants as hard rules (zero mis-kills). AI reviews can miss; the ledger can't.
 - [AtlasCloudAI/dsh-media-gen](https://github.com/AtlasCloudAI/dsh-media-gen) — Plan and execute Atlas Cloud image, video, audio, and 3D workflows in DeepSeek Harness.
+- [AfanSama/dsh-launcher](https://github.com/AfanSama/dsh-launcher) — DSH 启动器 · DeepSeek Harness 桌面版启动器（macOS）
 
 ---
 
 
-*Generated on 2026-08-17 · 833 plugins in this category*
+*Generated on 2026-08-17 · 834 plugins in this category*

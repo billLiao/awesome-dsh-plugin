@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**16 plugins**
+**18 plugins**
 
 
 ---
@@ -25,8 +25,10 @@
 - [cloader/dsh-devlaunch](https://github.com/cloader/dsh-devlaunch) — dsh的项目启动按钮
 - [RogueServitor-495/dsh-plugin-manager](https://github.com/RogueServitor-495/dsh-plugin-manager)
 - [Okkay712/DSH-dseyes](https://github.com/Okkay712/DSH-dseyes)
+- [sorry123maker/dsh-plugin-manager](https://github.com/sorry123maker/dsh-plugin-manager) — dsh三方插件管理，支持安装启用停用，支持热重载
+- [Yolotd/dsh-plugin-manager](https://github.com/Yolotd/dsh-plugin-manager)
 
 ---
 
 
-*Generated on 2026-08-18 · 16 plugins in this category*
+*Generated on 2026-08-19 · 18 plugins in this category*

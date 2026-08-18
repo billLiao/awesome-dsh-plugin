@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**17 plugins**
+**20 plugins**
 
 
 ---
@@ -16,18 +16,21 @@
 - [xiagaogaozi/dsh-subagent-pool](https://github.com/xiagaogaozi/dsh-subagent-pool) ⭐1 — DSH named-subagent pool: configure reusable subagents (model/reasoning preset) in settings and call them by name
 - [xiaozhiaixue/dsh-model-routing](https://github.com/xiaozhiaixue/dsh-model-routing) ⭐1 — dsh-model-routing
 - [realpkuasule/dsh-model-routing](https://github.com/realpkuasule/dsh-model-routing) ⭐1 — dsh-model-routing
+- [fonlan/dsh-model-router](https://github.com/fonlan/dsh-model-router) ⭐1
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
 - [QiE2035/dsh-llm-headers](https://github.com/QiE2035/dsh-llm-headers)
 - [OpenTritium/dsh-codex-shim](https://github.com/OpenTritium/dsh-codex-shim) — 让 GPT 在 DSH 中宾至如归    Make GPT feel at home in DSH.
 - [yujianjian1013/dsh-codex-media](https://github.com/yujianjian1013/dsh-codex-media)
-- [fonlan/dsh-model-router](https://github.com/fonlan/dsh-model-router)
 - [Yiklek/dsh-llm-retry-settings](https://github.com/Yiklek/dsh-llm-retry-settings) — DSH plugin: a settings page that views and edits each LLM provider's request retry policy
 - [R-LEI2536/dsh-more-agent-presets](https://github.com/R-LEI2536/dsh-more-agent-presets) — More Agent Presets for DSH derived from other coding agents (e.g. qwen code, iflow)
 - [shuxu-zhao/dsh-image-dscriber](https://github.com/shuxu-zhao/dsh-image-dscriber) — Giving text models eyes.
+- [fonlan/dsh-model-parameters](https://github.com/fonlan/dsh-model-parameters)
+- [shenzhantu/dsh-subagent-model](https://github.com/shenzhantu/dsh-subagent-model) — 通过模型插件用来修改subagent所使用的模型和Agent预设/Use model plugins to modify the model used by the subagent and the agent presets.
+- [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model)
 
 ---
 
 
-*Generated on 2026-08-18 · 17 plugins in this category*
+*Generated on 2026-08-19 · 20 plugins in this category*

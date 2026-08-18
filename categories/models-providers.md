@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**16 plugins**
+**17 plugins**
 
 
 ---
@@ -25,8 +25,9 @@
 - [fonlan/dsh-model-router](https://github.com/fonlan/dsh-model-router)
 - [Yiklek/dsh-llm-retry-settings](https://github.com/Yiklek/dsh-llm-retry-settings) — DSH plugin: a settings page that views and edits each LLM provider's request retry policy
 - [R-LEI2536/dsh-more-agent-presets](https://github.com/R-LEI2536/dsh-more-agent-presets) — More Agent Presets for DSH derived from other coding agents (e.g. qwen code, iflow)
+- [shuxu-zhao/dsh-image-dscriber](https://github.com/shuxu-zhao/dsh-image-dscriber) — Giving text models eyes.
 
 ---
 
 
-*Generated on 2026-08-18 · 16 plugins in this category*
+*Generated on 2026-08-18 · 17 plugins in this category*

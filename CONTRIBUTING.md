@@ -30,6 +30,7 @@ If the entry already exists in the wrong category, open an issue instead.
 | 🔔 Notifications & Integrations | `categories/notifications-integrations.md` |
 | 🔌 Models & Providers | `categories/models-providers.md` |
 | 🧑‍💻 Development & Runtime | `categories/development-runtime.md` |
+| 🔒 Security & Privacy | `categories/security-privacy.md` |
 | 🎮 Just for Fun | `categories/fun.md` |
 | 📋 Awesome Lists & Collections | `categories/awesome-lists.md` |
 | ⚠️ Weakly Related | `categories/weakly-related.md` |

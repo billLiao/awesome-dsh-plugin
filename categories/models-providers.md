@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**14 plugins**
+**16 plugins**
 
 
 ---
@@ -23,8 +23,10 @@
 - [OpenTritium/dsh-codex-shim](https://github.com/OpenTritium/dsh-codex-shim) — 让 GPT 在 DSH 中宾至如归    Make GPT feel at home in DSH.
 - [yujianjian1013/dsh-codex-media](https://github.com/yujianjian1013/dsh-codex-media)
 - [fonlan/dsh-model-router](https://github.com/fonlan/dsh-model-router)
+- [Yiklek/dsh-llm-retry-settings](https://github.com/Yiklek/dsh-llm-retry-settings) — DSH plugin: a settings page that views and edits each LLM provider's request retry policy
+- [R-LEI2536/dsh-more-agent-presets](https://github.com/R-LEI2536/dsh-more-agent-presets) — More Agent Presets for DSH derived from other coding agents (e.g. qwen code, iflow)
 
 ---
 
 
-*Generated on 2026-08-18 · 14 plugins in this category*
+*Generated on 2026-08-18 · 16 plugins in this category*

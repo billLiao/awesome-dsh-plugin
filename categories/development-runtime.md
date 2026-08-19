@@ -4,11 +4,12 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**18 plugins**
+**19 plugins**
 
 
 ---
 
+- [omdsh-dev/fabric](https://github.com/omdsh-dev/fabric) ⭐15 — 一种类似MC Fabric的dsh hook处理器
 - [omdsh-dev/dsh-mygo](https://github.com/omdsh-dev/dsh-mygo) ⭐11
 - [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐2 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
 - [LA7-F/dsh-MyCordis](https://github.com/LA7-F/dsh-MyCordis) ⭐2 — 可以让你的dsh中的“Cordis插件”变得可管理，可一键生成安装包|Make the "Cordis plugins" in your dsh manageable and generate installation packages with one click.
@@ -16,7 +17,7 @@
 - [omdsh-dev/dsh-sandbox-micro](https://github.com/omdsh-dev/dsh-sandbox-micro) ⭐1
 - [showlibia/dsh-plugin-installer](https://github.com/showlibia/dsh-plugin-installer) ⭐1
 - [q2316367743/dsh-plugin-manager](https://github.com/q2316367743/dsh-plugin-manager) ⭐1 — dsh 插件管理器
-- [hytime/dsh-companion](https://github.com/hytime/dsh-companion) ⭐1 — DSH Companion 三件套(插件/技能/CLI)发布仓库 - hy-companion 陪伴系统
+- [openrect/dsh-community-installer](https://github.com/openrect/dsh-community-installer) ⭐1 — Unofficial community installer for @deepseek-ai/dsh on Windows.
 - [zdjmrq/dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) — DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins
 - [GoGoGoDoge/dsh-plugin-installer](https://github.com/GoGoGoDoge/dsh-plugin-installer)
 - [jiay98528-dev/dsh-plugin-weaknet-adaptor](https://github.com/jiay98528-dev/dsh-plugin-weaknet-adaptor)
@@ -31,4 +32,4 @@
 ---
 
 
-*Generated on 2026-08-19 · 18 plugins in this category*
+*Generated on 2026-08-20 · 19 plugins in this category*

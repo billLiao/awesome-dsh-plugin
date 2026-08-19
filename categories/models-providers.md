@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**20 plugins**
+**21 plugins**
 
 
 ---
@@ -29,8 +29,9 @@
 - [fonlan/dsh-model-parameters](https://github.com/fonlan/dsh-model-parameters)
 - [shenzhantu/dsh-subagent-model](https://github.com/shenzhantu/dsh-subagent-model) — 通过模型插件用来修改subagent所使用的模型和Agent预设/Use model plugins to modify the model used by the subagent and the agent presets.
 - [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model)
+- [lilei0311/dsh-plugin-modality-fallback](https://github.com/lilei0311/dsh-plugin-modality-fallback)
 
 ---
 
 
-*Generated on 2026-08-19 · 20 plugins in this category*
+*Generated on 2026-08-19 · 21 plugins in this category*

@@ -18,7 +18,6 @@
 - [xiaozhiaixue/dsh-model-routing](https://github.com/xiaozhiaixue/dsh-model-routing) ⭐1 — dsh-model-routing
 - [realpkuasule/dsh-model-routing](https://github.com/realpkuasule/dsh-model-routing) ⭐1 — dsh-model-routing
 - [fonlan/dsh-model-router](https://github.com/fonlan/dsh-model-router) ⭐1
-- [mjylfz/dsh-subagent-codex](https://github.com/mjylfz/dsh-subagent-codex) ⭐1
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -32,6 +31,7 @@
 - [shenzhantu/dsh-subagent-model](https://github.com/shenzhantu/dsh-subagent-model) — 通过模型插件用来修改subagent所使用的模型和Agent预设/Use model plugins to modify the model used by the subagent and the agent presets.
 - [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model)
 - [lilei0311/dsh-plugin-modality-fallback](https://github.com/lilei0311/dsh-plugin-modality-fallback)
+- [Xpectuer/dsh-llm-approver](https://github.com/Xpectuer/dsh-llm-approver)
 
 ---
 

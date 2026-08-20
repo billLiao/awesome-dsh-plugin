@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**27 plugins**
+**28 plugins**
 
 
 ---
@@ -36,8 +36,9 @@
 - [MoRanYue/dsh-openrouter-providers](https://github.com/MoRanYue/dsh-openrouter-providers) — DSH 插件：设置页配置 OpenRouter 提供商列表，注入 provider.only / provider.order 路由参数；状态持久化
 - [morlay/dsh-llm-openai-compatible](https://github.com/morlay/dsh-llm-openai-compatible)
 - [taot/dsh-openai-codex-auth](https://github.com/taot/dsh-openai-codex-auth)
+- [Canson666/dsh-finish-reason-patch](https://github.com/Canson666/dsh-finish-reason-patch) — 将gpt之类的项目在dsh中出现without finish reason的情况解决，可以正常使用gpt模型
 
 ---
 
 
-*Generated on 2026-08-21 · 27 plugins in this category*
+*Generated on 2026-08-21 · 28 plugins in this category*

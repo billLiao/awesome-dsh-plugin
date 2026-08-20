@@ -4,7 +4,7 @@
 > Session management, message editing, sharing, and conversation tools.
 
 
-**810 plugins**
+**811 plugins**
 
 
 ---
@@ -44,6 +44,7 @@
 - [jjxjjjjiik-bot/dsh-chat-timeline](https://github.com/jjxjjjjiik-bot/dsh-chat-timeline) ⭐15 — 1:1 port of DeepSeek's official web right-side chat navigation rail (ScrollNav) as a DeepSeek Harness (DSH) plugin
 - [akqwpeter-prog/dsh-media-skills](https://github.com/MJorgin/dsh-media-skills) ⭐14 — Free vision & image generation for DeepSeek Harness — paste an image into any chat, even text-only sessions. GLM-4V-Flash / Qwen3-VL / Gemini failover chain, ModLens-style structured evidence, Kolors generation. 免费读图·生图 · 三引擎容错 · 无 Key 入库
 - [limuyang2/agent-team](https://github.com/limuyang2/agent-team) ⭐14 — Multi-agent team collaboration for DeepSeek Harness, with independent models, skills, MCP tools, contexts, and a shared workspace.
+- [Renzic-Stone/DSH-EasyRewrite](https://github.com/Renzic-Stone/DSH-EasyRewrite) ⭐14 — DSH Web 用户消息气泡内联编辑与撤回插件：惰性提交、无痕替换、版本翻页器、草稿自动备份、三语 i18n ｜ Inline edit & recall for user message bubbles in DSH Web: lazy commit, seamless replacement, version pager, auto draft backup, tri-lingual i18n.
 - [omdsh-dev/dsh-advisor](https://github.com/omdsh-dev/dsh-advisor) ⭐13 — Advisor - Pair a second model that passively reviews each turn and injects notes.  搭配一个会在每轮对话被动注入见解和审查的副模型。
 - [flizzywine/dsh-tavern](https://github.com/flizzywine/dsh-tavern) ⭐13 — 基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。
 - [ZK-Andy/dsh-continual-evolve](https://github.com/ZK-Andy/dsh-continual-evolve) ⭐12 — Continual self-evolution plugin for DeepSeek Harness: versioned, auditable, rollback-safe harness state refined from session trajectories, with a benchmark-driven validation loop.
@@ -823,4 +824,4 @@
 ---
 
 
-*Generated on 2026-08-21 · 810 plugins in this category*
+*Generated on 2026-08-21 · 811 plugins in this category*

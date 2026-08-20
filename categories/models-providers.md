@@ -18,6 +18,7 @@
 - [xiaozhiaixue/dsh-model-routing](https://github.com/xiaozhiaixue/dsh-model-routing) ⭐1 — dsh-model-routing
 - [realpkuasule/dsh-model-routing](https://github.com/realpkuasule/dsh-model-routing) ⭐1 — dsh-model-routing
 - [fonlan/dsh-model-router](https://github.com/fonlan/dsh-model-router) ⭐1
+- [Yiklek/dsh-llm-retry-settings](https://github.com/Yiklek/dsh-llm-retry-settings) ⭐1 — DSH plugin: a settings page that views and edits each LLM provider's request retry policy
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐1 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
@@ -25,7 +26,6 @@
 - [QiE2035/dsh-llm-headers](https://github.com/QiE2035/dsh-llm-headers)
 - [OpenTritium/dsh-codex-shim](https://github.com/OpenTritium/dsh-codex-shim) — 让 GPT 在 DSH 中宾至如归    Make GPT feel at home in DSH.
 - [yujianjian1013/dsh-codex-media](https://github.com/yujianjian1013/dsh-codex-media)
-- [Yiklek/dsh-llm-retry-settings](https://github.com/Yiklek/dsh-llm-retry-settings) — DSH plugin: a settings page that views and edits each LLM provider's request retry policy
 - [R-LEI2536/dsh-more-agent-presets](https://github.com/R-LEI2536/dsh-more-agent-presets) — More Agent Presets for DSH derived from other coding agents (e.g. qwen code, iflow)
 - [shuxu-zhao/dsh-image-dscriber](https://github.com/shuxu-zhao/dsh-image-dscriber) — Giving text models eyes.
 - [fonlan/dsh-model-parameters](https://github.com/fonlan/dsh-model-parameters)
@@ -40,4 +40,4 @@
 ---
 
 
-*Generated on 2026-08-20 · 27 plugins in this category*
+*Generated on 2026-08-21 · 27 plugins in this category*

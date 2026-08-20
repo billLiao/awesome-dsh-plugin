@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**9 plugins**
+**10 plugins**
 
 
 ---
@@ -18,8 +18,9 @@
 - [zbxzbx98/dsh-peak-alert](https://github.com/zbxzbx98/dsh-peak-alert) — DeepSeek 峰谷定价提示插件（DSH Web 客户端插件，纯前端，无后端依赖）
 - [jeffcwj/dsh-sounds](https://github.com/jeffcwj/dsh-sounds) — 给dsh添加opencode同款提示音和通知
 - [wumu-366/dsh-notify](https://github.com/wumu-366/dsh-notify)
+- [Swd146296/dsh-memos-bridge](https://github.com/Swd146296/dsh-memos-bridge)
 
 ---
 
 
-*Generated on 2026-08-20 · 9 plugins in this category*
+*Generated on 2026-08-20 · 10 plugins in this category*

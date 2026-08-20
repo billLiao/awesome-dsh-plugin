@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**25 plugins**
+**27 plugins**
 
 
 ---
@@ -34,8 +34,10 @@
 - [lilei0311/dsh-plugin-modality-fallback](https://github.com/lilei0311/dsh-plugin-modality-fallback)
 - [Xpectuer/dsh-llm-approver](https://github.com/Xpectuer/dsh-llm-approver)
 - [MoRanYue/dsh-openrouter-providers](https://github.com/MoRanYue/dsh-openrouter-providers) — DSH 插件：设置页配置 OpenRouter 提供商列表，注入 provider.only / provider.order 路由参数；状态持久化
+- [morlay/dsh-llm-openai-compatible](https://github.com/morlay/dsh-llm-openai-compatible)
+- [taot/dsh-openai-codex-auth](https://github.com/taot/dsh-openai-codex-auth)
 
 ---
 
 
-*Generated on 2026-08-20 · 25 plugins in this category*
+*Generated on 2026-08-20 · 27 plugins in this category*

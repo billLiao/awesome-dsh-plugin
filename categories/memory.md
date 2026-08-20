@@ -4,7 +4,7 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**142 plugins**
+**148 plugins**
 
 
 ---
@@ -12,7 +12,7 @@
 - [text2future/flowix](https://github.com/text2future/flowix) ⭐327 — Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding
 - [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) ⭐113 — Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
 - [btspoony/mstar-harness](https://github.com/btspoony/mstar-harness) ⭐51 — An omni-plugin for harness engineering workflows with multi-agents, programmatic gates and skills.
-- [modusensus/dsh-mneme](https://github.com/modusensus/dsh-mneme) ⭐27 — Structured memory engine for DeepSeek Harness. Offline semantic search, entity-attribute-timeline, autoDream self-consolidation, and human-editable Markdown storage.
+- [modusensus/dsh-mneme](https://github.com/modusensus/dsh-mneme) ⭐29 — Structured memory engine for DeepSeek Harness. Offline semantic search, entity-attribute-timeline, autoDream self-consolidation, and human-editable Markdown storage.
 - [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) ⭐16 — A caring memory companion for DSH — three-layer auto memory, proactive calendar reminders, warm AI greetings, per-turn auto-consolidation, and inheritance of memories from other AI tools.
 - [juntaoding/Flowboard](https://github.com/juntaoding/Flowboard) ⭐12 — 运行在 DeepSeek Harness 中的开源办公协作与团队管理插件，让目标、会议、Agent 执行、进度和资料在同一套办公逻辑中持续流动。
 - [knqiufan/powercontext-dsh](https://github.com/knqiufan/powercontext-dsh) ⭐11 — DeepSeek Harness plugin that connects to a PowerContext Server over HTTP for recall, memory, handoff, experience, and skills.
@@ -71,6 +71,7 @@
 - [JD962/dsh-subagent-pro](https://github.com/JD962/dsh-subagent-pro) ⭐1 — This plugin was developed using DeepSeek Harness and the DeepSeek V4 Flash 0731 / Pro 0813 models, with multiple rounds of refinement. It enhances the existing sub‑agent functionality and adds several other features.
 - [Cocowwy/dsh-plugin-agents-memory](https://github.com/Cocowwy/dsh-plugin-agents-memory) ⭐1 — Edit global AGENTS.md memory directly in DeepSeek Harness Web settings
 - [Vocllum/tdai-memory-dsh-plugin](https://github.com/Vocllum/tdai-memory-dsh-plugin) ⭐1 — Native DeepSeek Harness plugin for TencentDB Agent Memory
+- [rainow/dsh-simple-wiki-memory](https://github.com/rainow/dsh-simple-wiki-memory) ⭐1 — DSH的简化版llm-wiki记忆插件，纯md文档。A lightweight long-term memory framework for DeepSeek harness, simplified LLM-Wiki. No RAG, no vector DB, no LLM calls at runtime. Just Markdown + git.
 - [lemoncat7/dsh-knowledge](https://github.com/lemoncat7/dsh-knowledge) ⭐1 — Installable DeepSeek Harness knowledge base plugin
 - [Vocllum/DSH-TDAI-Memory-Adapter](https://github.com/Vocllum/DSH-TDAI-Memory-Adapter) ⭐1 — DeepSeek Harness 的 TencentDB Agent Memory Adapter：自动 recall、turn 捕获与只读搜索工具。
 - [xuedai-mayi/dsh-wenshan](https://github.com/xuedai-mayi/dsh-wenshan) ⭐1 — 问山：DeepSeek Harness 地理野外实习知识图谱插件与非官方二次开发项目
@@ -125,7 +126,6 @@
 - [zy-ultimately/dsh-knowledge-base](https://github.com/zy-ultimately/dsh-knowledge-base)
 - [Untidy-cocoabutter173/Flowboard](https://github.com/Untidy-cocoabutter173/Flowboard) — Align your team goals, meetings, agents, and documents in one workflow—Flowboard turns DeepSeek Harness into a natural hub for work without task management overhead.
 - [i1j/context-assembler-DSH](https://github.com/i1j/context-assembler-DSH) — Context Assembler DSH — DeepSeek Harness 上下文汇编插件：按话题块编排上下文，最大化每 token 互信息密度
-- [rainow/dsh-simple-wiki-memory](https://github.com/rainow/dsh-simple-wiki-memory) — DSH的简化版llm-wiki记忆插件，纯md文档。A lightweight long-term memory framework for DeepSeek harness, simplified LLM-Wiki. No RAG, no vector DB, no LLM calls at runtime. Just Markdown + git.
 - [hjj588/dsh-memory-vault](https://github.com/hjj588/dsh-memory-vault)
 - [jianxx/dsh-cc-plugins](https://github.com/jianxx/dsh-cc-plugins) — Claude Code feature-parity plugins for the DeepSeek Harness (dsh) — settings cascade, permission rules, hooks, memory, skills, subagents, and a CC Mode agent preset, installable into any dsh profile.
 - [skepsun/dsh-loom](https://github.com/skepsun/dsh-loom) — 极简·省 token 的 DSH 长期记忆插件：零 LLM 自动捕获、符号索引渐进披露、ESR 证据闭环。Minimalist token-saving memory for DeepSeek Harness: zero-LLM auto-capture, symbolic index, ESR-lite evidence closure.
@@ -151,8 +151,14 @@
 - [ABccgh/imakb](https://github.com/ABccgh/imakb) — DSH dynamic Cordis plugin: bulk import/update Wiki sites into Tencent IMA knowledge base (wiki_to_ima tool)
 - [HaoyueQin/dsh-better-reasoning-effort](https://github.com/HaoyueQin/dsh-better-reasoning-effort) — Reasoning-effort editing for third-party models in DeepSeek Harness: per-model thinking levels with a knowledge base + protocol inference, edited inside the official Models page card.
 - [logandoo/vibeweaver-dsh](https://github.com/logandoo/vibeweaver-dsh) — vibeweaver 的 deepseek harness 专属发行版，帮你的 dsh 交付可信任，经过验证的代码。
+- [wusai2333/dsh-yierpet-sentinel](https://github.com/wusai2333/dsh-yierpet-sentinel) — dsh plugin: forwards DeepSeek Harness lifecycle events to the YierPet desktop-pet sentinel (fire-and-forget)
+- [satan9394/dsh-knowledge-brain](https://github.com/satan9394/dsh-knowledge-brain) — DSH skill: 知识大脑层（合成答案带引用、自连线知识图谱零 LLM 调用、差距分析、24/7 梦境周期、公司大脑登录隔离）（受 garrytan/gbrain 29k★ 启发）
+- [satan9394/dsh-repo-graphify](https://github.com/satan9394/dsh-repo-graphify) — DSH skill: 仓库知识图谱（多模态提取、EXTRACTED/INFERRED/AMBIGUOUS 边标签、god nodes、71.5x token 节省、wiki 导航、--watch 同步）（受 safishamsi/graphify 48.7k★ 启发）
+- [satan9394/dsh-obsidian-vault](https://github.com/satan9394/dsh-obsidian-vault) — DSH skill: Obsidian 知识库操作（风味 Markdown wikilinks/callouts、Bases 视图、JSON Canvas、Obsidian CLI、Defuddle 网页净提取）（受 kepano/obsidian-skills 36k★ 启发）
+- [satan9394/dsh-content-distillation](https://github.com/satan9394/dsh-content-distillation) — DSH skill: 把书/长视频/播客蒸馏成可调用 AI skills（RIA-TV++ 七阶段流水线、三重验证、压力测试）（受 kangarooking/cangjie-skill 8.4k★ 启发）
+- [satan9394/dsh-colleague-creation](https://github.com/satan9394/dsh-colleague-creation) — DSH skill: 把真人蒸馏成 AI 技能（Work Skill + 五层人格、源材料采集、人格/文化/职级标签、增量演进与版本回滚）（受 titanwings/colleague-skill 23.5k★ 启发）
 
 ---
 
 
-*Generated on 2026-08-20 · 142 plugins in this category*
+*Generated on 2026-08-20 · 148 plugins in this category*

@@ -4,14 +4,14 @@
 > Automation loops, scheduled tasks, multi-agent teams, and workflow engines.
 
 
-**981 plugins**
+**1249 plugins**
 
 
 ---
 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐166722 — DeepSeek Harness: Everything is a Plugin.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) ⭐12459 — Harness engineering beginner tutorial, from 0 to 1
-- [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) ⭐2932 — 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) ⭐2938 — 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
 - [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) ⭐1241 — The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
 - [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) ⭐608 — AgentTeams plugin for DeepSeek Harness
 - [NanmiCoder/dsh-auto-mode](https://github.com/NanmiCoder/dsh-auto-mode) ⭐76 — Safe automatic permissions for DeepSeek Harness.
@@ -21,12 +21,13 @@
 - [ChangedenCZD/dsh-minimal-turbo](https://github.com/ChangedenCZD/dsh-minimal-turbo) ⭐42 — Deepseek Harness 极简模式 / 许愿模式 Windows 适配，享用满血 Deepseek-V4 系列模型。
 - [Awu12277/dsh-stock-watch](https://github.com/Awu12277/dsh-stock-watch) ⭐41 — A股自选股实时行情盯盘插件 - DeepSeek Harness Web 右上角可折叠弹窗
 - [Ephemeral-AI-Lab/dsh-plugins](https://github.com/Ephemeral-AI-Lab/dsh-plugins) ⭐40 — Make Deepseek Harness Great
+- [oil-oil/dsh-oil-creator](https://github.com/oil-oil/dsh-oil-creator) ⭐40 — AI-assisted local creator workbench for DeepSeek Harness
 - [01Virex/dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) ⭐35 — A DeepSeek Harness (dsh) web plugin that replaces the "Deep diving…" turn-status label with phase-aware, typewriter-animated, rainbow-gradient phrases — all configurable from a JSON file.
 - [omdsh-dev/dsh-lark](https://github.com/omdsh-dev/dsh-lark) ⭐32 — Lark/Feishu IM bot channel for DeepSeek Harness | 飞书 DeepSeek Harness （DSH）插件
 - [keleus/deepseek-pet](https://github.com/keleus/deepseek-pet) ⭐31 — 在你的deepseek-harness上养一只吃白饭的大蓝鲸
+- [Fishsb/dsh-prompt-enhancer](https://github.com/Fishsb/dsh-prompt-enhancer) ⭐30 — DeepSeek Harness (DSH) 插件：✨ 提示词一键增强 + 🔁 DSH 服务异常一键重启
 - [zhu168/dsh-save-money](https://github.com/zhu168/dsh-save-money) ⭐30 — Save-money plugin for DSH (DeepSeek Harness) — define your own "pause / resume" time windows; at pause time running long tasks are paused (not stopped) automatically, and they resume when the window ends.
-- [Fishsb/dsh-prompt-enhancer](https://github.com/Fishsb/dsh-prompt-enhancer) ⭐29 — DeepSeek Harness (DSH) 插件：✨ 提示词一键增强 + 🔁 DSH 服务异常一键重启
-- [skymecode/deepseek-harness-for-vscode](https://github.com/skymecode/deepseek-harness-for-vscode) ⭐27 — deepseek-harness for vscode .This is a community project, and we welcome your valuable feedback!
+- [skymecode/deepseek-harness-for-vscode](https://github.com/skymecode/deepseek-harness-for-vscode) ⭐30 — deepseek-harness for vscode .This is a community project, and we welcome your valuable feedback!
 - [hellodigua/dsh-emoji](https://github.com/hellodigua/dsh-emoji) ⭐24 — 让 AI 回复加入自定义表情，支持Bilibili、小红书、贴吧、知乎等多平台表情包，或自定义表情
 - [dream-num/dsh-univer-plugin](https://github.com/dream-num/dsh-univer-office) ⭐23 — Preview, create, edit office spreadsheets, docs & slides inside DeepSeek Harness. Power by Univer.
 - [YELEBAI/dsh-plugin-marketplace](https://github.com/YELEBAI/dsh-plugin-marketplace) ⭐20 — Verified plugin marketplace and autonomous registry for DeepSeek Harness
@@ -43,6 +44,7 @@
 - [openma-ai/deepseek-harness-acp](https://github.com/openma-ai/deepseek-harness-acp) ⭐12 — ACP server implementation for DeepSeek harness. dsh-acp
 - [alexchenzl/dsh-plugin-directory](https://github.com/alexchenzl/dsh-plugin-directory) ⭐12 — Community-driven DeekSeek Harness Plugin Directory
 - [timeance/dsh-approve-for-me](https://github.com/timeance/dsh-approve-for-me) ⭐12 — DeepSeek Harness plugin for rule-gated automatic sandbox approval with optional LLM review, one-time grants, fixed high-risk checks, and native human fallback.
+- [omdsh-dev/dsh-llm-fallbacks](https://github.com/omdsh-dev/dsh-llm-fallbacks) ⭐11 — An dsh plugin for role-based LLM retry&fallback strategy. 基于角色的模型重试备用策略插件
 - [w2112515/dsh-plugin-marketplace](https://github.com/w2112515/dsh-plugin-marketplace) ⭐11 — Out-of-tree installable plugin marketplace bundle for DeepSeek Harness
 - [Mombrane/dsh-subagent-monitor](https://github.com/Mombrane/dsh-subagent-monitor) ⭐11
 - [xmutfyh/dsh-plugin-writing-guard](https://github.com/xmutfyh/dsh-plugin-writing-guard) ⭐10 — DeepSeek Harness (DSH) academic writing guard for papers — 论文去AI味 / AI-writing style detection, evidence preservation, journal-fit calibration, manuscript proofreading, writing_audit & automatic checks. Local, zero network, zero LLM.
@@ -50,12 +52,13 @@
 - [TomoyoNatsume/dsh-qq-bridge](https://github.com/TomoyoNatsume/dsh-qq-bridge) ⭐10 — deepseek harness插件，连接QQ / DSH plugin for connecting QQ
 - [starslittle/dsh-queue-plus](https://github.com/starslittle/dsh-queue-plus) ⭐10 — DSH 排队消息增强面板：编辑、删除、插话、排序与批量删除功能
 - [Karbo123/DSH-EvoResearch](https://github.com/Karbo123/DSH-EvoResearch) ⭐9 — 自进化科研工作流
-- [omdsh-dev/dsh-llm-fallbacks](https://github.com/omdsh-dev/dsh-llm-fallbacks) ⭐9 — An dsh plugin for role-based LLM retry&fallback strategy. 基于角色的模型重试备用策略插件
 - [AcidGr/dsh-web-lan-access](https://github.com/AcidGr/dsh-web-lan-access) ⭐9 — DeepSeek Harness (dsh) Web plugin
 - [dshbox/cordis-rs](https://github.com/dshbox/cordis-rs) ⭐9 — Runtime-agnostic Rust port of Cordis, the plugin framework at the core of DeepSeek Harness — scoped dependency injection, lifecycle-owned effects, events, structured logging. Zero dependencies.
 - [lilwhich/my_better-dsh](https://github.com/lilwhich/dsh-plugin-gather) ⭐9 — for better dsh
 - [havingautism/dsh-deepresearch](https://github.com/havingautism/dsh-deepresearch) ⭐9
+- [TiantianFlow/dsh-tailscale-gateway](https://github.com/TiantianFlow/dsh-tailscale-gateway) ⭐9 — Private Tailscale access for DeepSeek Harness Web: exact user allowlists, loopback-only gateway, and guarded Serve setup
 - [kc0ed/dsh-bottom-bar](https://github.com/kc0ed/dsh-bottom-bar) ⭐8 — 用于提供更丰富的DeepSeek Harness底栏信息显示插件
+- [Fengze233/dsh-vscode](https://github.com/Fengze233/dsh-vscode) ⭐8 — 在 VS Code 侧边栏内嵌使用 DeepSeek Harness（DSH）网页界面的插件
 - [cloader/dsh-taskboard](https://github.com/cloader/dsh-taskboard) ⭐8 — deepseekharness 任务看板插件
 - [maddogfinance/dsh-trading](https://github.com/maddogfinance/dsh-trading) ⭐8 — Trading research workbench for DeepSeek Harness (dsh): typed market-data seam, deterministic indicators, interactive chart cards ｜ 交易研究工作台插件：数据接缝 · 确定性指标 · 交互式K线卡
 - [springbrand-lab/dsh-plugin-market](https://github.com/springbrand-lab/dsh-plugin-market) ⭐8 — Plugin marketplace for DeepSeek Harness Web settings: install, update and remove plugins across any local profile.
@@ -65,16 +68,16 @@
 - [wsxwj123/dsh-plugins](https://github.com/wsxwj123/dsh-plugins) ⭐7 — Independent plugins for DeepSeek Harness, organized as isolated packages in one monorepo.
 - [chunsi-w/dsh-trajectory-governor](https://github.com/chunsi-w/dsh-trajectory-governor) ⭐7 — Closed-loop trajectory policy plane for DeepSeek Harness
 - [EchoUser005/dsh-fate-spectrum](https://github.com/EchoUser005/dsh-fate-spectrum) ⭐7 — DeepSeek Harness plugin for Bazi & Zi Wei Dou Shu — deterministic, offline fate-chart calculation for AI agents.
-- [oil-oil/dsh-oil-creator](https://github.com/oil-oil/dsh-oil-creator) ⭐7 — AI-assisted local creator workbench for DeepSeek Harness
 - [sliverp/DeepSeek-harness-qqbot](https://github.com/sliverp/DeepSeek-harness-qqbot) ⭐7 — QQ Bot text and image channel plugin for DeepSeek Harness
 - [Vithrive/Deepseek-Harness-for-VS-Code](https://github.com/Vithrive/Deepseek-Harness-for-VS-Code) ⭐6 — Deepseek Harness for VS Code
 - [Civitasv/dsh-plugin-diff-review](https://github.com/Civitasv/dsh-plugin-diff-review) ⭐6 — Codex-style diff review inside DeepSeek Harness
-- [Fengze233/dsh-vscode](https://github.com/Fengze233/dsh-vscode) ⭐6 — 在 VS Code 侧边栏内嵌使用 DeepSeek Harness（DSH）网页界面的插件
 - [2768651338/dsh-plugin-manager](https://github.com/2768651338/dsh-plugin-manager) ⭐6 — DeepSeek Harness 的图形化插件管理插件：在 设置 → 插件 里新增「插件管家」标签页，用中文名和说明展示每个插件是做什么的，并提供一键启停开关与内置备注编辑——启停写入全局层补丁并实时热生效，备注保存到本地覆盖文件长期生效。
 - [fakechris/dsh-track](https://github.com/fakechris/dsh-track) ⭐6 — DSH Track Bridge 插件：嵌入式任务管理引擎——决策点协议、念头捕获墙、Linear 形 issue 存储（bundle），AI 与人之间的任务轨道
 - [Letter2025/dsh-approval-llm](https://github.com/Letter2025/dsh-approval-llm) ⭐6 — Model-based permission approval (approve-for-me) for DeepSeek Harness: an approval/request answerer backed by a separate reviewer model
+- [InfinitePersistence/dsh-serial-console](https://github.com/InfinitePersistence/dsh-serial-console) ⭐6 — Unofficial DeepSeek Harness plugin for board serial console, logging, and model-visible interaction.
+- [WM-CODER/custom-first-control-prompt](https://github.com/WM-CODER/custom-first-control-prompt) ⭐6 — DeepSeek Harness plugin for insert custom prompt
 - [Gumiho12345/dsh-plugin-net-access](https://github.com/Gumiho12345/dsh-plugin-net-access) ⭐5 — 为 DeepSeek Harness(dsh) 新增 Net Access 模式，用于解决 Windows 沙箱内 curl.exe 无法访问 HTTPS 的问题，文件写保护不变。 / Adds a Net Access mode to DeepSeek Harness(dsh): curl.exe can access HTTPS inside the Windows sandbox again, with file-write protection unchanged.
-- [Asher-2000/dsh-expert-mode](https://github.com/Asher-2000/dsh-expert-mode) ⭐5 — DSH (DeepSeek Harness) 专家模式 agent preset — 首席协调官 + 11 位领域专家子代理 Expert-mode preset for DeepSeek Harness
+- [Asher-2000/dsh-expert-mode](https://github.com/Asher-2000/dsh-expert-mode) ⭐5 — DSH (DeepSeek Harness) 专家模式 agent preset — 首席协调官 + 16位领域专家子代理 Expert-mode preset for DeepSeek Harness
 - [KhalilYamber/dsh-envoy](https://github.com/KhalilYamber/dsh-envoy) ⭐5 — Hana 插件：把 coding 任务外包给本机 DeepSeek Harness，审批同步回 Hana 内决策，结果以原生卡片带回
 - [yuko0331/DSH-telegram](https://github.com/yuko0331/DSH-telegram) ⭐5 — 通过 Telegram 私聊远程使用和查看 DeepSeek Harness
 - [yyh-001/dsh-expression](https://github.com/yyh-001/dsh-meme) ⭐5 — DeepSeek Harness 的表情包插件——找得到、发得出、学得会，纯文本斗图、情绪主动发图、像 QQ/微信 一样发图、AI 自动学图、自定义表情包 、多种风格随意切换。
@@ -97,7 +100,6 @@
 - [loster12520/dsh-btw](https://github.com/loster12520/dsh-btw) ⭐4 — deepseek harness版btw插件
 - [JMOKSZ/dsh-lark-bridge](https://github.com/JMOKSZ/dsh-lark-bridge) ⭐4 — Feishu (Lark) entry point for DeepSeek Harness: drive dsh agents from a Feishu bot with streaming cards, ask/approval buttons and attachments.
 - [Aa728848/dsh-llm-verifier](https://github.com/Aa728848/dsh-llm-verifier) ⭐4 — Configurable DSH-native LLM verifier with a Web settings page
-- [InfinitePersistence/dsh-serial-console](https://github.com/InfinitePersistence/dsh-serial-console) ⭐4 — Unofficial DeepSeek Harness plugin for board serial console, logging, and model-visible interaction.
 - [isolat-3k/dsh-kanban](https://github.com/isolat-3k/dsh-kanban) ⭐3 — 一个Hermes风格的看板插件，在deepseek harness上使用
 - [Scorp1o117/dsh-plugin-marketplace](https://github.com/Scorp1o117/dsh-plugin-marketplace) ⭐3 — Plugin marketplace for DeepSeek Harness | DeepSeek Harness 插件市场
 - [cdxiaodong/dsh-llm-inspector](https://github.com/cdxiaodong/dsh-llm-inspector) ⭐3
@@ -152,9 +154,9 @@
 - [hytime/dsh-companion](https://github.com/hytime/dsh-companion) ⭐2 — DSH Companion 三件套(插件/技能/CLI)发布仓库 - hy-companion 陪伴系统
 - [try-works/dsh-cloudflare](https://github.com/try-works/dsh-cloudflare) ⭐2 — A Cloudflare plugin for DeepSeek Harness. 1:1 functional parity with the Codex plugin for Cloudflare.
 - [hackerFish/dsh-video-studio](https://github.com/hackerFish/dsh-video-studio) ⭐2 — 鲸影 DSH Video Studio：DeepSeek Harness 原生视频/漫剧生成插件——六段导演流水线、多供应商免费额度调度、四层提示词自优化，质量优先省钱第二
-- [wingsky-1/dsh-plugin-hub](https://github.com/wingsky-1/dsh-plugin-hub) ⭐2 — DSH (DeepSeek Harness) 插件集：npm 分发，可一键装全家桶或单独安装
 - [pyf2818/dsh-bili-widget](https://github.com/pyf2818/dsh-bili-widget) ⭐2 — 🎬 DSH (DeepSeek Harness) B站悬浮看片插件：边 coding 边刷视频。推荐/热门/排行/搜索/关注UP主、自动连播、迷你模式、历史持久化
 - [whiteguo233/dsh-cc-connect](https://github.com/whiteguo233/dsh-cc-connect) ⭐2 — 通过cc connect远程使用dsh
+- [Johnny-xuan/dsh-paste-to-path](https://github.com/Johnny-xuan/dsh-paste-to-path) ⭐2 — A universal path-backed attachment dock for DeepSeek Harness.
 - [noname-iii/dsh-code-checker](https://github.com/noname-iii/dsh-code-checker) ⭐2 — A plugin for Deepseek Harness (well it may support other AI agent IDEs but I hadn't test it out yet) that checks for error when AI had finished writing the code.
 - [flg1217/dsh-llm-agy](https://github.com/flg1217/dsh-llm-agy) ⭐2 — AGY (Antigravity CLI) integration for DeepSeek Harness: LLM adapter subagents, deep web search, connectivity diagnostics panel
 - [yangzhaofeng496/dsh-feishu-plugin](https://github.com/yangzhaofeng496/dsh-feishu-plugin) ⭐2 — Feishu bot bridge plugin for DeepSeek Harness
@@ -174,6 +176,7 @@
 - [wxxb789/dsh-legion](https://github.com/wxxb789/dsh-legion) ⭐2 — DeepSeek Harness (DSH) plugin for multi-agent orchestration: semantic agent Profiles, exact LLM model routing, declarative Teams and Strategies, and bounded subagent delegation in TypeScript.
 - [MichengAI/dsh-automation](https://github.com/MichengAI/dsh-automation) ⭐2 — DSH Automation 基于 DeepSeek Harness 的定时任务、自动化任务插件
 - [kanneiren/dsh-network-settings](https://github.com/kanneiren/dsh-network-settings) ⭐2 — DSH Network Settings: Windows / WSL network path diagnostics and safe repair for DeepSeek Harness.
+- [pointer-a/dsh-server-login](https://github.com/pointer-a/dsh-server-login) ⭐2 — 面向公网的多租户 DSH 托管平台 —— 部署到一台公网服务器后，多个用户注册并经管理员审核，各自获得一套相互隔离的 deepseek-harness（DSH）环境，随时通过域名安全访问。
 - [SisyphusSQ/dsh-plugins](https://github.com/SisyphusSQ/dsh-plugins) ⭐2 — A monorepo for composable DeepSeek Harness (DSH) plugins.
 - [Y1X1n/dsh-prompt-optimizer](https://github.com/Y1X1n/dsh-prompt-optimizer) ⭐2 — 针对Deepseek Harness开发的提示词优化插件
 - [xiaozhe7772222/dsh-draw-router](https://github.com/xiaozhe7772222/dsh-draw-router) ⭐2 — Universal image generation router for DeepSeek Harness (DSH): auto-discovers image models from any OpenAI-compatible endpoint. Supports SenseNova, StepFun, Agnes, Qwen, Flux, SD, Imagen and more. | DeepSeek Harness 统一绘图路由器
@@ -210,7 +213,7 @@
 - [cinob/dsh-plugin-custom-provider-enhancer](https://github.com/cinob/dsh-plugin-custom-provider-enhancer) ⭐1 — ⚡ DeepSeek Harness 自定义模型增强插件：在配置第三方提供商时，自动从权威模型库补齐上下文大小、Token 上限、视觉多模态输入与思考强度档位。
 - [Jelee0145/dsh-auto-review](https://github.com/Jelee0145/dsh-auto-review) ⭐1 — Codex-style automated approval review for DeepSeek Harness: an isolated reviewer subagent decides sandbox escalations by intrinsic risk and user authorization. Community Beta — not an official DeepSeek AI plugin.
 - [rocker2018-droid/dsh-longtask-orchestrator](https://github.com/rocker2018-droid/dsh-longtask-orchestrator) ⭐1
-- [tttwh/dsh-plugin-audit](https://github.com/tttwh/dsh-plugin-Audit) ⭐1 — 将DeepSeek Harness插件列表按来源分组展示——官方插件与自行安装插件，一目了然。
+- [tttwh/dsh-plugin-audit](https://github.com/tttwh/dsh-plugin-diraud) ⭐1 — 将DeepSeek Harness插件列表按来源分组展示——官方插件与自行安装插件，一目了然。
 - [pppolf/dsh-webgate](https://github.com/pppolf/dsh-webgate) ⭐1 — DSH 远程访问插件：内网二维码 / cloudflared 隧道 / frp+自有服务器（含登录门户）
 - [Zhuchen00123/dsh-wsl-modes](https://github.com/Zhuchen00123/dsh-wsl-modes) ⭐1
 - [Badakonpro/dsh-llm-volcengine](https://github.com/Badakonpro/dsh-llm-volcengine) ⭐1 — 为 DeepSeek Harness (DSH) 接入火山方舟 Agent Plan 与 Coding Plan 的插件，思考强度（low/medium/high/xhigh/max）兼容性已实测验证
@@ -267,7 +270,6 @@
 - [magicOF2/dsh-schedule](https://github.com/magicOF2/dsh-schedule) ⭐1
 - [13323232dong/dsh-tunnel-qr-plugin](https://github.com/13323232dong/dsh-tunnel-qr-plugin) ⭐1 — DSH 免费公网隧道插件：一次性安全密钥二维码自动登录，支持定时刷新与 macOS、Linux、Windows。
 - [Tlyer233/dsh-vscode-review](https://github.com/Tlyer233/dsh-vscode-review) ⭐1 — deepseek harness review插件, 可以让你在vscode中直观看到dsh的"增删改"操作, 支持逐行ac或rj
-- [Johnny-xuan/dsh-paste-to-path](https://github.com/Johnny-xuan/dsh-paste-to-path) ⭐1 — A universal path-backed attachment dock for DeepSeek Harness.
 - [sliverp/dsh-hub-plugin](https://github.com/sliverp/dsh-hub-plugin) ⭐1 — Native DSH Hub marketplace plugin for DeepSeek Harness
 - [ChengxiuCDP/dsh-plugin-advisor](https://github.com/ChengxiuCDP/dsh-plugin-advisor) ⭐1
 - [jumpserver-east/jumpserver-dsh](https://github.com/jumpserver-east/jumpserver-dsh) ⭐1 — DeepSeek Harness plugin: manage JumpServer assets and operate on them through KoKo
@@ -340,7 +342,6 @@
 - [Starfie1d1272/dsh-v4-anchor](https://github.com/Starfie1d1272/dsh-v4-anchor) ⭐1 — Minimal first-turn RL anchor for DeepSeek V4 on DeepSeek Harness Standard.
 - [JD962/dsh-model-reasoning-intensity](https://github.com/JD962/dsh-model-reasoning-intensity) ⭐1 — This plugin complements DeepSeek Harness by fixing the problem where third-party platforms are unable to select the model's reasoning intensity.
 - [edusrez/dsh-smart-restart](https://github.com/edusrez/dsh-smart-restart) ⭐1 — Wake the main agent after a DeepSeek Harness (DSH) restart so interrupted work resumes without the user prompting.
-- [pointer-a/dsh-server-login](https://github.com/pointer-a/dsh-server-login) ⭐1 — 面向公网的多租户 DSH 托管平台 —— 部署到一台公网服务器后，多个用户注册并经管理员审核，各自获得一套相互隔离的 deepseek-harness（DSH）环境，随时通过域名安全访问。
 - [qwe225380/dsh-omni-router](https://github.com/qwe225380/dsh-omni-router) ⭐1 — Omni Router - auto-routing DeepSeek Harness preset: simple tasks run directly, complex tasks plan first with approval gate.
 - [hyper-dsh-plugins/dsh-open-efforts](https://github.com/hyper-dsh-plugins/dsh-open-efforts) ⭐1 — Choose reasoning effort for additional models in DeepSeek Harness.
 - [yugasun/dsh-plugins](https://github.com/yugasun/dsh-plugins) ⭐1
@@ -352,6 +353,7 @@
 - [AI-Scarlett/dsh-safe-plugin-manager](https://github.com/AI-Scarlett/dsh-safe-plugin-manager) ⭐1 — DSH STORE — third-party plugin marketplace and guarded lifecycle manager for DeepSeek Harness.
 - [victorzhong0110/dsh-outcome-loop](https://github.com/victorzhong0110/dsh-outcome-loop) ⭐1 — DeepSeek Harness (DSH) 任务结果账本与验收插件：机械证据验收、默认零额外 token、数据本地持有。Local-first task outcome ledger & acceptance plugin: evidence-backed verification, zero extra model cost, user-owned sidecar data.
 - [brittanistrehlowll-oss/dsh-control-center](https://github.com/brittanistrehlowll-oss/dsh-control-center) ⭐1
+- [fb0sh/dsh-pentester](https://github.com/fb0sh/dsh-pentester) ⭐1
 - [bob334477/harness-safe-exhaust-probe-qs](https://github.com/bob334477/harness-safe-exhaust-probe-qs) ⭐1 — DSH plugin spec: observing soft-signal drift
 - [baihejiangnan/dsh-plugin-pack-web](https://github.com/baihejiangnan/dsh-plugin-pack-web) ⭐1 — DeepSeek Harness 插件包 · Profile/Web 一键复刻 | DSH Plugin Pack
 - [runyuan-wang/dsh-route-certificate](https://github.com/runyuan-wang/dsh-route-certificate) ⭐1 — Experimental RouteCertificate observer for the DeepSeek Harness developer preview
@@ -362,6 +364,13 @@
 - [OpenSaozi/dsh-bigmodel-catalog](https://github.com/OpenSaozi/dsh-bigmodel-catalog) ⭐1 — 接入智谱 BigModel / GLM Coding Plan 作为 DeepSeek Harness 模型清单插件，解锁 glm-5.3 等模型。 | Live Zhipu BigModel / GLM catalog plugin for DeepSeek Harness.
 - [mmzm0808/dsh-ventus-search](https://github.com/mmzm0808/dsh-ventus-search) ⭐1 — 🔍 Ventus 搜索 · DeepSeek Harness 多引擎搜索与正文抓取插件 — Bing/360/Bilibili 并发搜索、评分去重、正文抽取、总开关与测试按钮 / Multi-engine web search and fetch providers for DeepSeek Harness (Bing, 360, Bilibili) with scoring, dedup, readability extraction, master switch and test button.
 - [watericetangcw/dsh-approve-for-me](https://github.com/watericetangcw/dsh-approve-for-me) ⭐1 — An Automated Escalation Reviewer Plugin for DeepSeek Harness
+- [LAU-MARS/dsh-cad](https://github.com/LAU-MARS/dsh-cad) ⭐1 — deepseek harness 2D and 3D CAD plugin
+- [xiaoyuer3921/dsh-showreel](https://github.com/xiaoyuer3921/dsh-showreel) ⭐1 — 鲸迹 · dsh-showreel — 把 DeepSeek Harness Agent 任务生成可编辑、隐私脱敏的竖屏战报视频（MP4/WebM + PNG 封面）。Turns the latest completed DSH turn into an editable, privacy-redacted vertical recap video.
+- [CJYLZS/dsh-opencode-go-autosync](https://github.com/CJYLZS/dsh-opencode-go-autosync) ⭐1 — auto sync opencode-go models in dsh
+- [falser101/dsh-mascot](https://github.com/falser101/dsh-mascot) ⭐1 — Draggable animated floating companion plugin for DeepSeek Harness (dsh web)
+- [scriptsnet/dsh-fleet](https://github.com/scriptsnet/dsh-fleet) ⭐1 — ⚡ DSH 多机算力组网：把朋友间/局域网/云上 ECS 的闲置算力汇聚成分布式 AI 算力池，一台机调用整个团队的算力。一个人掌控多台 Harness 并行开发研究。
+- [TryDing-T/dsh-Plugin--ChineseChess](https://github.com/TryDing-T/dsh-Plugin--ChineseChess) ⭐1 — 等待dsh任务的功夫来和dsh下一局象棋吧
+- [PlxloYzb/dsh-arc-context](https://github.com/PlxloYzb/dsh-arc-context) ⭐1
 - [stuarthu/dsh-hot-reload](https://github.com/stuarthu/dsh-hot-reload) — Live-reload upgraded DeepSeek Harness (dsh) plugins without restarting dsh — safe reloads in place, failed ones roll back and flag a restart.
 - [shuaixiangzi/dsh-mojian](https://github.com/shuaixiangzi/dsh-mojian) — 墨间 · DeepSeek Harness 小说工坊。网页写作室 + dsh-plugin。
 - [ljnljn2005/dsh-wecom-notify](https://github.com/ljnljn2005/dsh-wecom-notify) — DSH 插件：任务完成 / 报错 / 需要用户选择时，自动通过企业微信群机器人 webhook 发送通知（text 默认，可切换 markdown）
@@ -757,7 +766,6 @@
 - [guo6x/dsh-palate](https://github.com/guo6x/dsh-palate) — An eye that grows: accumulated design taste for DSH agents.
 - [Uknown-wang/dsh-approval-notify](https://github.com/Uknown-wang/dsh-approval-notify) — Windows toast + sound notifications for DeepSeek Harness elevation approvals
 - [Moveharder/dsh_plugins](https://github.com/Moveharder/dsh_plugins) — DeepSeek Harness Plugin Home.
-- [xiaoliang2/dsh-compact-after-task](https://github.com/xiaoliang2/dsh-compact-after-task) — 设置dsh自动压缩阈值插件
 - [scodypanda/dsh-sentinel](https://github.com/scodypanda/dsh-sentinel)
 - [kaixinbaba/dsh-model-preset](https://github.com/kaixinbaba/dsh-model-preset) — DeepSeek Harness model preset shortcuts with Settings customization
 - [cuddly-guacamole/dsh-auto-approval-llm](https://github.com/cuddly-guacamole/dsh-auto-approval-llm) — LLM-assisted auto approval + timeout fallback for the DeepSeek Harness Auto preset
@@ -790,7 +798,6 @@
 - [hpyperry/dsh-ref-lib](https://github.com/hpyperry/dsh-ref-lib) — deepseek harness 参考库插件
 - [0x0101010/dsh-feishu](https://github.com/0x0101010/dsh-feishu) — Feishu (Lark) long-connection channel plugin for DeepSeek Harness (dsh) — zero npm dependencies
 - [ROOOOOYczx/DSH-peakseek](https://github.com/ROOOOOYczx/DSH-peakseek) — DeepSeek Harness plugin with Beijing peak and idle pricing hints plus a one-click Windows installer.
-- [fb0sh/dsh-pentester](https://github.com/fb0sh/dsh-pentester)
 - [xiayuhkust/dsh-pace-popups](https://github.com/xiayuhkust/dsh-pace-popups) — User-facing pace-control popups for the DeepSeek Harness (dsh): install once, get the set (grasp-probe, crosslens, 记一笔, and a floating hub); switch any off in the bar.
 - [ZelinW1/dsh-cosplay](https://github.com/ZelinW1/dsh-cosplay) — A cosplay plugin for DeepSeek Harness.
 - [1162514620/plugin-center](https://github.com/1162514620/plugin-center) — DSH 插件中心：统一的插件管理面板，支持启用/禁用、插件市场浏览、AI 解释、一键重启
@@ -990,8 +997,269 @@
 - [niaccky/dsh-install-guard](https://github.com/niaccky/dsh-install-guard) — npm 安装门禁插件:在 DeepSeek Harness 执行 npm install 前审计漏洞、许可证、体积与包健康度,自动放行/询问/拦截。
 - [uckkk/dsh-caesar](https://github.com/uckkk/dsh-caesar) — 凯撒密码
 - [lokic7123-star/dsh-route-resilience](https://github.com/lokic7123-star/dsh-route-resilience) — Multi-route high-availability, fault isolation and observability for DeepSeek Harness: model groups fail over between authorized provider routes on rate limits, retry-after, transport and auth failures.
+- [minglu6/dsh-provider-qoder](https://github.com/minglu6/dsh-provider-qoder) — Qoder CN adapter plugin for DeepSeek Harness
+- [superslash-rico/dsh-plugin-slashx-gateway](https://github.com/superslash-rico/dsh-plugin-slashx-gateway) — DeepSeek Harness host bundle for SlashX request, response, rich media, async callbacks, and complete token metering
+- [winyh/dsh-idea](https://github.com/winyh/dsh-idea) — dsh-idea 是一个面向外部机会、市场变化和真实需求发现的 DeepSeek Harness 插件包。 dsh-idea is a DeepSeek Harness bundle for evidence-backed external opportunity discovery and product discovery.
+- [winyh/dsh-sales](https://github.com/winyh/dsh-sales) — dsh-sales 是一个 DeepSeek Harness 插件，负责把已经确认的客户机会推进到可成交、可复盘、可预测和可扩张的销售运营层。 dsh-sales is a DeepSeek Harness plugin for the commercial operating layer between qualified demand and repeatable revenue.
+- [winyh/dsh-product](https://github.com/winyh/dsh-product) — dsh-product 是一个“互联网资讯查询 + 本地项目上下文”的 DeepSeek Harness 插件，用于把已经确认的产品机会转化为可验证、可交付、可迭代的产品。 dsh-product is a web-aware DeepSeek Harness plugin that combines public internet research with local product context to turn a validated opportunity handoff into a shippable, observable and iterated product.
+- [JxaMe/dsh-condense](https://github.com/JxaMe/dsh-condense) — Token optimizer for DeepSeek Harness — condense your context, keep the essence. 为 DSH 的 agent 上下文减负并汇报每一分节省。
+- [zyfgood/dsh-feishu-bot](https://github.com/zyfgood/dsh-feishu-bot) — 飞书机器人指挥deepseek Harness工作
+- [EnglandTong/governance-multi-agent-harness](https://github.com/EnglandTong/governance-multi-agent-harness) — Governance-Multi-Agent-Harness-Plugin-for-DeepSeek-Harness
+- [lanbaolu/dsh-fail-soft](https://github.com/lanbaolu/dsh-fail-soft)
+- [yhfgyyf/dsh-auto-preset-router](https://github.com/yhfgyyf/dsh-auto-preset-router) — Routes the first DSH prompt to Standard, PTC, Minimal, or Cordis with DeepSeek V4 Flash.
+- [ZhangZiFei/dsh-model-aliases](https://github.com/ZhangZiFei/dsh-model-aliases) — 为 DeepSeek Harness Web 提供持久化模型别名：将提供商、模型与推理等级绑定为易记名称，并通过输入框旁的单一选择器快速切换。
+- [liuwenji007/dsh-muyu](https://github.com/liuwenji007/dsh-muyu) — DeepSeek Harness 电子木鱼：右下角的小肥鲸，敲头记功德，等 loop 时摸摸鱼头
+- [aizzaua/dsh-mail-connector](https://github.com/aizzaua/dsh-mail-connector) — A DeepSeek Harness plugin that gives your AI a mailbox — zero-dependency IMAP/SMTP engine for reading, searching, attachments, and sending.DeepSeek Harness 邮箱插件 · 零依赖 IMAP/SMTP 引擎，让 AI 读信、搜索、下载附件、发信。
+- [hemo94931/dsh-timeline](https://github.com/hemo94931/dsh-timeline)
+- [a903067276-rgb/dsh-todo-guard](https://github.com/a903067276-rgb/dsh-todo-guard) — Reliable todo panel for DeepSeek Harness (dsh) web: survives restarts, completion verified against evidence paths
+- [uckkk/dsh-bird-emu](https://github.com/uckkk/dsh-bird-emu) — 鸸鹋
+- [uckkk/dsh-inventory-turnover](https://github.com/uckkk/dsh-inventory-turnover) — 库存周转
+- [uckkk/dsh-car](https://github.com/uckkk/dsh-car) — 中非共和国国
+- [uckkk/dsh-nba-lakers](https://github.com/uckkk/dsh-nba-lakers) — 湖人
+- [uckkk/dsh-reptile-newt](https://github.com/uckkk/dsh-reptile-newt) — 欧螈
+- [uckkk/dsh-sleep-cycle](https://github.com/uckkk/dsh-sleep-cycle) — 睡眠周期入睡建议
+- [uckkk/dsh-sick-leave-pay](https://github.com/uckkk/dsh-sick-leave-pay) — 病假工资
+- [uckkk/dsh-scientist-lovelace](https://github.com/uckkk/dsh-scientist-lovelace) — 阿达·洛夫莱斯
+- [uckkk/dsh-annual-leave](https://github.com/uckkk/dsh-annual-leave) — 年假计算器
+- [uckkk/dsh-consumer-loan](https://github.com/uckkk/dsh-consumer-loan) — 消费贷月供
+- [uckkk/dsh-study-plan](https://github.com/uckkk/dsh-study-plan) — 备考时间分配
+- [uckkk/dsh-figure-wu-zetian](https://github.com/uckkk/dsh-figure-wu-zetian) — 武则天
+- [uckkk/dsh-rice-water](https://github.com/uckkk/dsh-rice-water) — 煮饭米水比
+- [uckkk/dsh-star-deneb](https://github.com/uckkk/dsh-star-deneb) — 天津四
+- [uckkk/dsh-city-munich-city](https://github.com/uckkk/dsh-city-munich-city) — 慕尼黑市
+- [uckkk/dsh-timezone-diff](https://github.com/uckkk/dsh-timezone-diff) — 时差换算
+- [uckkk/dsh-safe-shutter](https://github.com/uckkk/dsh-safe-shutter) — 安全快门
+- [uckkk/dsh-cat-siamese](https://github.com/uckkk/dsh-cat-siamese) — 暹罗猫
+- [uckkk/dsh-animal-owl](https://github.com/uckkk/dsh-animal-owl) — 猫头鹰
+- [uckkk/dsh-ad-roi](https://github.com/uckkk/dsh-ad-roi) — 广告ROI计算
+- [uckkk/dsh-exam-timing](https://github.com/uckkk/dsh-exam-timing) — 考试时间分配
+- [uckkk/dsh-water-intake](https://github.com/uckkk/dsh-water-intake) — 每日饮水量
+- [uckkk/dsh-noncompete-pay](https://github.com/uckkk/dsh-noncompete-pay) — 竞业限制补偿
+- [uckkk/dsh-scientist-shannon](https://github.com/uckkk/dsh-scientist-shannon) — 香农
+- [uckkk/dsh-club-river](https://github.com/uckkk/dsh-club-river) — 河床
+- [uckkk/dsh-figure-nelson](https://github.com/uckkk/dsh-figure-nelson) — 纳尔逊
+- [uckkk/dsh-severance-pay](https://github.com/uckkk/dsh-severance-pay) — 经济补偿金计算
+- [uckkk/dsh-roast-time](https://github.com/uckkk/dsh-roast-time) — 烤箱时间估算
+- [uckkk/dsh-reptile-salamander](https://github.com/uckkk/dsh-reptile-salamander) — 蝾螈
+- [uckkk/dsh-fx-convert](https://github.com/uckkk/dsh-fx-convert) — 汇率换算
+- [uckkk/dsh-bird-kiwi](https://github.com/uckkk/dsh-bird-kiwi) — 几维鸟
+- [uckkk/dsh-chad](https://github.com/uckkk/dsh-chad) — 乍得国
+- [uckkk/dsh-star-fomalhaut](https://github.com/uckkk/dsh-star-fomalhaut) — 北落师门
+- [uckkk/dsh-ev-vs-fuel](https://github.com/uckkk/dsh-ev-vs-fuel) — 油车电车成本对比
+- [uckkk/dsh-city-hamburg-city](https://github.com/uckkk/dsh-city-hamburg-city) — 汉堡市
+- [uckkk/dsh-nd-filter](https://github.com/uckkk/dsh-nd-filter) — ND滤镜快门计算
+- [uckkk/dsh-cat-persian](https://github.com/uckkk/dsh-cat-persian) — 波斯猫
+- [uckkk/dsh-animal-eagle](https://github.com/uckkk/dsh-animal-eagle) — 老鹰
+- [uckkk/dsh-revenue-plan](https://github.com/uckkk/dsh-revenue-plan) — 销售目标拆解
+- [uckkk/dsh-mandarin-grade](https://github.com/uckkk/dsh-mandarin-grade) — 普通话等级
+- [uckkk/dsh-contract-unlimited](https://github.com/uckkk/dsh-contract-unlimited) — 无固定期限合同判断
+- [uckkk/dsh-baby-milk](https://github.com/uckkk/dsh-baby-milk) — 宝宝奶量估算
+- [uckkk/dsh-club-boca](https://github.com/uckkk/dsh-club-boca) — 博卡青年
+- [uckkk/dsh-scientist-bohr](https://github.com/uckkk/dsh-scientist-bohr) — 玻尔
+- [uckkk/dsh-figure-mao](https://github.com/uckkk/dsh-figure-mao) — 毛泽东
+- [uckkk/dsh-overtime-pay](https://github.com/uckkk/dsh-overtime-pay) — 加班费计算器
+- [uckkk/dsh-cocktail-ratio](https://github.com/uckkk/dsh-cocktail-ratio) — 调酒比例
+- [uckkk/dsh-compound-interest](https://github.com/uckkk/dsh-compound-interest) — 复利计算器
+- [uckkk/dsh-bird-albatross](https://github.com/uckkk/dsh-bird-albatross) — 信天翁
+- [uckkk/dsh-burkina-faso](https://github.com/uckkk/dsh-burkina-faso) — 布基纳法索国
+- [uckkk/dsh-star-pollux](https://github.com/uckkk/dsh-star-pollux) — 北河三
+- [uckkk/dsh-flight-luggage](https://github.com/uckkk/dsh-flight-luggage) — 行李额度参考
+- [uckkk/dsh-city-manchester-city](https://github.com/uckkk/dsh-city-manchester-city) — 曼彻斯特市
+- [uckkk/dsh-club-flamengo](https://github.com/uckkk/dsh-club-flamengo) — 弗拉门戈
+- [uckkk/dsh-scientist-copernicus](https://github.com/uckkk/dsh-scientist-copernicus) — 哥白尼
+- [uckkk/dsh-figure-petra1](https://github.com/uckkk/dsh-figure-petra1) — 彼得大帝
+- [uckkk/dsh-unemployment-period](https://github.com/uckkk/dsh-unemployment-period) — 失业金领取期限
+- [uckkk/dsh-heart-rate](https://github.com/uckkk/dsh-heart-rate) — 运动心率区间
+- [uckkk/dsh-dog-chihuahua](https://github.com/uckkk/dsh-dog-chihuahua) — 吉娃娃
+- [uckkk/dsh-animal-dog](https://github.com/uckkk/dsh-animal-dog) — 狗
+- [uckkk/dsh-listing-price](https://github.com/uckkk/dsh-listing-price) — 定价策略
+- [uckkk/dsh-treasury-yield](https://github.com/uckkk/dsh-treasury-yield) — 国债收益率
+- [uckkk/dsh-cet-pass](https://github.com/uckkk/dsh-cet-pass) — 四六级过线判断
+- [uckkk/dsh-bird-seagull](https://github.com/uckkk/dsh-bird-seagull) — 海鸥
+- [uckkk/dsh-benin](https://github.com/uckkk/dsh-benin) — 贝宁国
+- [uckkk/dsh-reptile-tortoise](https://github.com/uckkk/dsh-reptile-tortoise) — 陆龟
+- [uckkk/dsh-crop-factor](https://github.com/uckkk/dsh-crop-factor) — 等效焦距换算
+- [uckkk/dsh-city-edinburgh-city](https://github.com/uckkk/dsh-city-edinburgh-city) — 爱丁堡市
+- [uckkk/dsh-train-refund](https://github.com/uckkk/dsh-train-refund) — 火车票退改费
+- [uckkk/dsh-mortgage-equal-principal](https://github.com/uckkk/dsh-mortgage-equal-principal) — 等额本金房贷计算器
+- [uckkk/dsh-club-galatasaray](https://github.com/uckkk/dsh-club-galatasaray) — 加拉塔萨雷
+- [uckkk/dsh-scientist-gauss](https://github.com/uckkk/dsh-scientist-gauss) — 高斯
+- [uckkk/dsh-figure-elizabeth1](https://github.com/uckkk/dsh-figure-elizabeth1) — 伊丽莎白一世
+- [uckkk/dsh-salary-deduction-limit](https://github.com/uckkk/dsh-salary-deduction-limit) — 工资扣除限额
+- [uckkk/dsh-running-pace](https://github.com/uckkk/dsh-running-pace) — 跑步配速计算
+- [uckkk/dsh-dog-samoyed](https://github.com/uckkk/dsh-dog-samoyed) — 萨摩耶
+- [uckkk/dsh-animal-cat](https://github.com/uckkk/dsh-animal-cat) — 猫
+- [uckkk/dsh-option-intrinsic](https://github.com/uckkk/dsh-option-intrinsic) — 期权内在价值
+- [uckkk/dsh-gpa-calc](https://github.com/uckkk/dsh-gpa-calc) — GPA换算
+- [uckkk/dsh-bird-crane](https://github.com/uckkk/dsh-bird-crane) — 鹤
+- [uckkk/dsh-dough-hydration](https://github.com/uckkk/dsh-dough-hydration) — 面团含水量
+- [uckkk/dsh-reptile-caiman](https://github.com/uckkk/dsh-reptile-caiman) — 凯门鳄
+- [uckkk/dsh-togo](https://github.com/uckkk/dsh-togo) — 多哥国
+- [uckkk/dsh-flash-gn](https://github.com/uckkk/dsh-flash-gn) — 闪光灯GN计算
+- [uckkk/dsh-city-dublin-city](https://github.com/uckkk/dsh-city-dublin-city) — 都柏林市
+- [uckkk/dsh-star-antares](https://github.com/uckkk/dsh-star-antares) — 心宿二
+- [uckkk/dsh-taxi-fare](https://github.com/uckkk/dsh-taxi-fare) — 打车费估算
+- [uckkk/dsh-club-celtic](https://github.com/uckkk/dsh-club-celtic) — 凯尔特人
+- [uckkk/dsh-mortgage-equal-installment](https://github.com/uckkk/dsh-mortgage-equal-installment) — 等额本息房贷计算器
+- [uckkk/dsh-scientist-euler](https://github.com/uckkk/dsh-scientist-euler) — 欧拉
+- [uckkk/dsh-figure-zhukov](https://github.com/uckkk/dsh-figure-zhukov) — 朱可夫
+- [uckkk/dsh-protein-intake](https://github.com/uckkk/dsh-protein-intake) — 蛋白质摄入计算
+- [uckkk/dsh-dog-chow-chow](https://github.com/uckkk/dsh-dog-chow-chow) — 松狮
+- [uckkk/dsh-overtime-limit](https://github.com/uckkk/dsh-overtime-limit) — 加班时长合规校验
+- [uckkk/dsh-animal-cow](https://github.com/uckkk/dsh-animal-cow) — 牛
+- [uckkk/dsh-coupon-profit](https://github.com/uckkk/dsh-coupon-profit) — 优惠券后毛利
+- [uckkk/dsh-cb-convert](https://github.com/uckkk/dsh-cb-convert) — 可转债转股价值
+- [uckkk/dsh-bird-swan](https://github.com/uckkk/dsh-bird-swan) — 天鹅
+- [uckkk/dsh-tea-brew](https://github.com/uckkk/dsh-tea-brew) — 泡茶水温时间
+- [uckkk/dsh-reptile-alligator](https://github.com/uckkk/dsh-reptile-alligator) — 短吻鳄
+- [uckkk/dsh-liberia](https://github.com/uckkk/dsh-liberia) — 利比里亚国
+- [uckkk/dsh-depth-of-field](https://github.com/uckkk/dsh-depth-of-field) — 景深计算器
+- [uckkk/dsh-city-copenhagen-city](https://github.com/uckkk/dsh-city-copenhagen-city) — 哥本哈根市
+- [uckkk/dsh-star-aldebaran](https://github.com/uckkk/dsh-star-aldebaran) — 毕宿五
+- [uckkk/dsh-ev-range](https://github.com/uckkk/dsh-ev-range) — 电动车续航估算
+- [uckkk/dsh-social-insurance](https://github.com/uckkk/dsh-social-insurance) — 五险一金计算
+- [uckkk/dsh-scientist-maxwell](https://github.com/uckkk/dsh-scientist-maxwell) — 麦克斯韦
+- [uckkk/dsh-club-benfica](https://github.com/uckkk/dsh-club-benfica) — 本菲卡
+- [uckkk/dsh-figure-churchill](https://github.com/uckkk/dsh-figure-churchill) — 丘吉尔
+- [uckkk/dsh-daily-calorie](https://github.com/uckkk/dsh-daily-calorie) — 每日热量需求
+- [uckkk/dsh-dog-corgi](https://github.com/uckkk/dsh-dog-corgi) — 柯基
+- [uckkk/dsh-work-injury-allowance](https://github.com/uckkk/dsh-work-injury-allowance) — 工伤伤残补助金
+- [uckkk/dsh-animal-horse](https://github.com/uckkk/dsh-animal-horse) — 马
+- [uckkk/dsh-gross-margin](https://github.com/uckkk/dsh-gross-margin) — 毛利率计算
+- [uckkk/dsh-lpr-convert](https://github.com/uckkk/dsh-lpr-convert) — LPR加点换算
+- [uckkk/dsh-bird-flamingo](https://github.com/uckkk/dsh-bird-flamingo) — 火烈鸟
+- [uckkk/dsh-coffee-temp](https://github.com/uckkk/dsh-coffee-temp) — 咖啡水温
+- [uckkk/dsh-reptile-anaconda](https://github.com/uckkk/dsh-reptile-anaconda) — 水蚺
+- [uckkk/dsh-sierra-leone](https://github.com/uckkk/dsh-sierra-leone) — 塞拉利昂国
+- [uckkk/dsh-exposure-calc](https://github.com/uckkk/dsh-exposure-calc) — 曝光组合计算
+- [uckkk/dsh-city-helsinki-city](https://github.com/uckkk/dsh-city-helsinki-city) — 赫尔辛基市
+- [uckkk/dsh-star-altair](https://github.com/uckkk/dsh-star-altair) — 牛郎星
+- [uckkk/dsh-fuel-cost](https://github.com/uckkk/dsh-fuel-cost) — 油耗成本计算
+- [uckkk/dsh-tax-bonus](https://github.com/uckkk/dsh-tax-bonus) — 年终奖个税
+- [uckkk/dsh-scientist-faraday](https://github.com/uckkk/dsh-scientist-faraday) — 法拉第
+- [uckkk/dsh-club-porto](https://github.com/uckkk/dsh-club-porto) — 波尔图
+- [uckkk/dsh-figure-gandhi](https://github.com/uckkk/dsh-figure-gandhi) — 甘地
+- [uckkk/dsh-bmi](https://github.com/uckkk/dsh-bmi) — BMI计算器
+- [uckkk/dsh-dog-shiba](https://github.com/uckkk/dsh-dog-shiba) — 柴犬
+- [uckkk/dsh-probation-period](https://github.com/uckkk/dsh-probation-period) — 试用期上限
+- [uckkk/dsh-animal-rabbit](https://github.com/uckkk/dsh-animal-rabbit) — 兔子
+- [uckkk/dsh-car-loan](https://github.com/uckkk/dsh-car-loan) — 车贷月供计算
+- [uckkk/dsh-bird-peacock](https://github.com/uckkk/dsh-bird-peacock) — 孔雀
+- [uckkk/dsh-coffee-ratio](https://github.com/uckkk/dsh-coffee-ratio) — 咖啡粉水比
+- [uckkk/dsh-reptile-rattlesnake](https://github.com/uckkk/dsh-reptile-rattlesnake) — 响尾蛇
+- [uckkk/dsh-city-oslo-city](https://github.com/uckkk/dsh-city-oslo-city) — 奥斯陆市
+- [uckkk/dsh-scientist-pasteur](https://github.com/uckkk/dsh-scientist-pasteur) — 巴斯德
+- [uckkk/dsh-pregnancy-week](https://github.com/uckkk/dsh-pregnancy-week) — 孕周预产期计算
+- [uckkk/dsh-club-ajax](https://github.com/uckkk/dsh-club-ajax) — 阿贾克斯
+- [uckkk/dsh-bird-hummingbird](https://github.com/uckkk/dsh-bird-hummingbird) — 蜂鸟
+- [uckkk/dsh-animal-monkey](https://github.com/uckkk/dsh-animal-monkey) — 猴子
+- [uckkk/dsh-tax-income](https://github.com/uckkk/dsh-tax-income) — 个税计算器
+- [uckkk/dsh-reptile-cobra](https://github.com/uckkk/dsh-reptile-cobra) — 眼镜蛇
+- [uckkk/dsh-star-hadar](https://github.com/uckkk/dsh-star-hadar) — 马腹一
+- [uckkk/dsh-gambia](https://github.com/uckkk/dsh-gambia) — 冈比亚国
+- [uckkk/dsh-scientist-mendeleev](https://github.com/uckkk/dsh-scientist-mendeleev) — 门捷列夫
+- [uckkk/dsh-dog-siberian-husky](https://github.com/uckkk/dsh-dog-siberian-husky) — 哈士奇
+- [uckkk/dsh-animal-bear](https://github.com/uckkk/dsh-animal-bear) — 棕熊
+- [uckkk/dsh-club-psg](https://github.com/uckkk/dsh-club-psg) — 巴黎圣日耳曼
+- [uckkk/dsh-bird-kingfisher](https://github.com/uckkk/dsh-bird-kingfisher) — 翠鸟
+- [uckkk/dsh-reptile-python](https://github.com/uckkk/dsh-reptile-python) — 蟒蛇
+- [uckkk/dsh-figure-lincoln](https://github.com/uckkk/dsh-figure-lincoln) — 林肯
+- [uckkk/dsh-scientist-von-neumann](https://github.com/uckkk/dsh-scientist-von-neumann) — 冯·诺依曼
+- [uckkk/dsh-city-stockholm-city](https://github.com/uckkk/dsh-city-stockholm-city) — 斯德哥尔摩市
+- [uckkk/dsh-cape-verde](https://github.com/uckkk/dsh-cape-verde) — 佛得角国
+- [uckkk/dsh-club-inter](https://github.com/uckkk/dsh-club-inter) — 国际米兰
+- [uckkk/dsh-dog-pug](https://github.com/uckkk/dsh-dog-pug) — 巴哥
+- [uckkk/dsh-bird-woodpecker](https://github.com/uckkk/dsh-bird-woodpecker) — 啄木鸟
+- [uckkk/dsh-star-achernar](https://github.com/uckkk/dsh-star-achernar) — 水委一
+- [uckkk/dsh-figure-confucius](https://github.com/uckkk/dsh-figure-confucius) — 孔子
+- [uckkk/dsh-reptile-monitor-lizard](https://github.com/uckkk/dsh-reptile-monitor-lizard) — 巨蜥
+- [uckkk/dsh-animal-wolf](https://github.com/uckkk/dsh-animal-wolf) — 狼
+- [uckkk/dsh-comoros](https://github.com/uckkk/dsh-comoros) — 科摩罗国
+- [uckkk/dsh-city-zurich-city](https://github.com/uckkk/dsh-city-zurich-city) — 苏黎世市
+- [uckkk/dsh-club-milan](https://github.com/uckkk/dsh-club-milan) — AC米兰
+- [uckkk/dsh-scientist-turing](https://github.com/uckkk/dsh-scientist-turing) — 图灵
+- [uckkk/dsh-figure-cleopatra](https://github.com/uckkk/dsh-figure-cleopatra) — 克利奥帕特拉
+- [uckkk/dsh-reptile-chameleon](https://github.com/uckkk/dsh-reptile-chameleon) — 变色龙
+- [uckkk/dsh-star-betelgeuse](https://github.com/uckkk/dsh-star-betelgeuse) — 参宿四
+- [uckkk/dsh-mauritius](https://github.com/uckkk/dsh-mauritius) — 毛里求斯国
+- [uckkk/dsh-club-juventus](https://github.com/uckkk/dsh-club-juventus) — 尤文图斯
+- [uckkk/dsh-city-budapest-city](https://github.com/uckkk/dsh-city-budapest-city) — 布达佩斯市
+- [uckkk/dsh-dog-rottweiler](https://github.com/uckkk/dsh-dog-rottweiler) — 罗威纳
+- [uckkk/dsh-scientist-feynman](https://github.com/uckkk/dsh-scientist-feynman) — 费曼
+- [uckkk/dsh-animal-kangaroo](https://github.com/uckkk/dsh-animal-kangaroo) — 袋鼠
+- [uckkk/dsh-reptile-gecko](https://github.com/uckkk/dsh-reptile-gecko) — 壁虎
+- [uckkk/dsh-bird-crow](https://github.com/uckkk/dsh-bird-crow) — 乌鸦
+- [uckkk/dsh-seychelles](https://github.com/uckkk/dsh-seychelles) — 塞舌尔国
+- [uckkk/dsh-star-procyon](https://github.com/uckkk/dsh-star-procyon) — 南河三
+- [uckkk/dsh-figure-genghis](https://github.com/uckkk/dsh-figure-genghis) — 成吉思汗
+- [uckkk/dsh-city-warsaw-city](https://github.com/uckkk/dsh-city-warsaw-city) — 华沙市
+- [uckkk/dsh-club-dortmund](https://github.com/uckkk/dsh-club-dortmund) — 多特蒙德
+- [uckkk/dsh-dog-beagle](https://github.com/uckkk/dsh-dog-beagle) — 比格犬
+- [uckkk/dsh-scientist-hawking](https://github.com/uckkk/dsh-scientist-hawking) — 霍金
+- [uckkk/dsh-reptile-iguana](https://github.com/uckkk/dsh-reptile-iguana) — 鬣蜥
+- [uckkk/dsh-figure-napoleon](https://github.com/uckkk/dsh-figure-napoleon) — 拿破仑
+- [uckkk/dsh-animal-dolphin](https://github.com/uckkk/dsh-animal-dolphin) — 海豚
+- [uckkk/dsh-star-rigel](https://github.com/uckkk/dsh-star-rigel) — 参宿七
+- [uckkk/dsh-timor-leste](https://github.com/uckkk/dsh-timor-leste) — 东帝汶国
+- [uckkk/dsh-city-lisbon-city](https://github.com/uckkk/dsh-city-lisbon-city) — 里斯本市
+- [uckkk/dsh-club-bayern](https://github.com/uckkk/dsh-club-bayern) — 拜仁慕尼黑
+- [uckkk/dsh-dog-poodle](https://github.com/uckkk/dsh-dog-poodle) — 贵宾犬
+- [uckkk/dsh-scientist-tesla](https://github.com/uckkk/dsh-scientist-tesla) — 特斯拉
+- [uckkk/dsh-bahrain](https://github.com/uckkk/dsh-bahrain) — 巴林国
+- [uckkk/dsh-city-athens-city](https://github.com/uckkk/dsh-city-athens-city) — 雅典市
+- [uckkk/dsh-club-arsenal](https://github.com/uckkk/dsh-club-arsenal) — 阿森纳
+- [uckkk/dsh-dog-bulldog](https://github.com/uckkk/dsh-dog-bulldog) — 斗牛犬
+- [uckkk/dsh-scientist-curie](https://github.com/uckkk/dsh-scientist-curie) — 居里夫人
+- [uckkk/dsh-bird-swallow](https://github.com/uckkk/dsh-bird-swallow) — 燕子
+- [uckkk/dsh-star-capella](https://github.com/uckkk/dsh-star-capella) — 五车二
+- [uckkk/dsh-figure-alexander](https://github.com/uckkk/dsh-figure-alexander) — 亚历山大大帝
+- [uckkk/dsh-animal-giraffe](https://github.com/uckkk/dsh-animal-giraffe) — 长颈鹿
+- [uckkk/dsh-vatican](https://github.com/uckkk/dsh-vatican) — 梵蒂冈国
+- [uckkk/dsh-city-prague-city](https://github.com/uckkk/dsh-city-prague-city) — 布拉格市
+- [uckkk/dsh-club-liverpool](https://github.com/uckkk/dsh-club-liverpool) — 利物浦
+- [uckkk/dsh-dog-french-bulldog](https://github.com/uckkk/dsh-dog-french-bulldog) — 法斗
+- [uckkk/dsh-scientist-galileo](https://github.com/uckkk/dsh-scientist-galileo) — 伽利略
+- [uckkk/dsh-bird-sparrow](https://github.com/uckkk/dsh-bird-sparrow) — 麻雀
+- [uckkk/dsh-star-vega](https://github.com/uckkk/dsh-star-vega) — 织女星
+- [uckkk/dsh-figure-qinshihuang](https://github.com/uckkk/dsh-figure-qinshihuang) — 秦始皇
+- [uckkk/dsh-animal-panda](https://github.com/uckkk/dsh-animal-panda) — 大熊猫
+- [uckkk/dsh-san-marino](https://github.com/uckkk/dsh-san-marino) — 圣马力诺国
+- [uckkk/dsh-scientist-darwin](https://github.com/uckkk/dsh-scientist-darwin) — 达尔文
+- [uckkk/dsh-club-man-city](https://github.com/uckkk/dsh-club-man-city) — 曼城
+- [uckkk/dsh-figure-caesar](https://github.com/uckkk/dsh-figure-caesar) — 凯撒
+- [uckkk/dsh-dog-golden](https://github.com/uckkk/dsh-dog-golden) — 金毛
+- [uckkk/dsh-animal-elephant](https://github.com/uckkk/dsh-animal-elephant) — 大象
+- [uckkk/dsh-liechtenstein](https://github.com/uckkk/dsh-liechtenstein) — 列支敦士登国
+- [uckkk/dsh-scientist-einstein](https://github.com/uckkk/dsh-scientist-einstein) — 爱因斯坦
+- [uckkk/dsh-star-arcturus](https://github.com/uckkk/dsh-star-arcturus) — 大角星
+- [uckkk/dsh-club-man-united](https://github.com/uckkk/dsh-club-man-united) — 曼联
+- [uckkk/dsh-city-vienna-city](https://github.com/uckkk/dsh-city-vienna-city) — 维也纳市
+- [uckkk/dsh-dog-german-shepherd](https://github.com/uckkk/dsh-dog-german-shepherd) — 德国牧羊犬
+- [uckkk/dsh-club-barcelona](https://github.com/uckkk/dsh-club-barcelona) — 巴塞罗那
+- [uckkk/dsh-city-amsterdam-city](https://github.com/uckkk/dsh-city-amsterdam-city) — 阿姆斯特丹市
+- [uckkk/dsh-star-rigil-centaurus](https://github.com/uckkk/dsh-star-rigil-centaurus) — 南门二
+- [uckkk/dsh-scientist-newton](https://github.com/uckkk/dsh-scientist-newton) — 牛顿
+- [uckkk/dsh-monaco](https://github.com/uckkk/dsh-monaco) — 摩纳哥国
+- [uckkk/dsh-dog-labrador](https://github.com/uckkk/dsh-dog-labrador) — 拉布拉多
+- [uckkk/dsh-star-canopus](https://github.com/uckkk/dsh-star-canopus) — 老人星
+- [uckkk/dsh-andorra](https://github.com/uckkk/dsh-andorra) — 安道尔国
+- [uckkk/dsh-animal-tiger](https://github.com/uckkk/dsh-animal-tiger) — 老虎
+- [uckkk/dsh-club-real-madrid](https://github.com/uckkk/dsh-club-real-madrid) — 皇家马德里
+- [uckkk/dsh-star-sirius](https://github.com/uckkk/dsh-star-sirius) — 天狼星
+- [uckkk/dsh-animal-lion](https://github.com/uckkk/dsh-animal-lion) — 狮子
+- [WODE25500/dsh-kubectl](https://github.com/WODE25500/dsh-kubectl) — Kubernetes (kubectl) 的 DeepSeek Harness 插件 — 查资源/日志/describe/端口转发/执行，JSON 结构化输出
+- [WODE25500/dsh-terraform](https://github.com/WODE25500/dsh-terraform) — HashiCorp Terraform 的 DeepSeek Harness 插件 — plan/apply 门控、state/output 查询、配置校验
+- [WODE25500/dsh-az](https://github.com/WODE25500/dsh-az) — Azure CLI 的 DeepSeek Harness 插件 — 查询/展示/部署/诊断 Azure 资源，JSON 输出
+- [WODE25500/dsh-k6](https://github.com/WODE25500/dsh-k6) — Grafana k6 的 DeepSeek Harness 插件 — 编写/运行/分析负载测试，冒烟测试优先
+- [sagetta1/dsh-verdict-guard](https://github.com/sagetta1/dsh-verdict-guard) — Native DeepSeek Harness plugin: a turn that states a verdict without evidence is held back and steered for proof.
+- [iia-arg/dsh-plugins](https://github.com/iia-arg/dsh-plugins) — Community plugins for DeepSeek Harness — starting with a Telegram channel the harness does not ship
+- [WODE25500/dsh-wsl](https://github.com/WODE25500/dsh-wsl) — WSL (Windows Subsystem for Linux) 的 DeepSeek Harness 桥接插件 — 跑 Linux 命令、管理发行版、路径转换与跨系统复制
+- [uckkk/dsh-bbl2l](https://github.com/uckkk/dsh-bbl2l) — 桶转升
+- [uckkk/dsh-bar2psi](https://github.com/uckkk/dsh-bar2psi) — 巴转 PSI
+- [uckkk/dsh-acre2ha](https://github.com/uckkk/dsh-acre2ha) — 英亩转公顷
+- [AGSQ11/dsh-ai-council](https://github.com/AGSQ11/dsh-ai-council) — A role-driven enterprise AI deliberation plugin for DeepSeek Harness (DSH).
 
 ---
 
 
-*Generated on 2026-08-20 · 981 plugins in this category*
+*Generated on 2026-08-20 · 1249 plugins in this category*

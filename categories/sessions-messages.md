@@ -4,7 +4,7 @@
 > Session management, message editing, sharing, and conversation tools.
 
 
-**814 plugins**
+**815 plugins**
 
 
 ---
@@ -45,6 +45,7 @@
 - [akqwpeter-prog/dsh-media-skills](https://github.com/MJorgin/dsh-media-skills) ⭐14 — Free vision & image generation for DeepSeek Harness — paste an image into any chat, even text-only sessions. GLM-4V-Flash / Qwen3-VL / Gemini failover chain, ModLens-style structured evidence, Kolors generation. 免费读图·生图 · 三引擎容错 · 无 Key 入库
 - [flizzywine/dsh-tavern](https://github.com/flizzywine/dsh-tavern) ⭐14 — 基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。
 - [limuyang2/agent-team](https://github.com/limuyang2/agent-team) ⭐14 — Multi-agent team collaboration for DeepSeek Harness, with independent models, skills, MCP tools, contexts, and a shared workspace.
+- [Renzic-Stone/DSH-EasyRewrite](https://github.com/Renzic-Stone/DSH-EasyRewrite) ⭐14 — DSH Web 用户消息气泡内联编辑与撤回插件：惰性提交、无痕替换、版本翻页器、草稿自动备份、三语 i18n ｜ Inline edit & recall for user message bubbles in DSH Web: lazy commit, seamless replacement, version pager, auto draft backup, tri-lingual i18n.
 - [omdsh-dev/dsh-advisor](https://github.com/omdsh-dev/dsh-advisor) ⭐13 — Advisor - Pair a second model that passively reviews each turn and injects notes.  搭配一个会在每轮对话被动注入见解和审查的副模型。
 - [ZK-Andy/dsh-continual-evolve](https://github.com/ZK-Andy/dsh-continual-evolve) ⭐12 — Continual self-evolution plugin for DeepSeek Harness: versioned, auditable, rollback-safe harness state refined from session trajectories, with a benchmark-driven validation loop.
 - [isomoes/ikanban](https://github.com/isomoes/ikanban) ⭐12 — iKanban 是一个面向键盘操作、基于 DeepSeek Harness 的多智能体编码工作空间。它专为跨项目地驱动、审查和协调并行智能体工作而构建，将会话管理、差异审查和项目感知导航集于一处。
@@ -827,4 +828,4 @@
 ---
 
 
-*Generated on 2026-08-21 · 814 plugins in this category*
+*Generated on 2026-08-21 · 815 plugins in this category*

@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**23 plugins**
+**25 plugins**
 
 
 ---
@@ -18,6 +18,7 @@
 - [xiaozhiaixue/dsh-model-routing](https://github.com/xiaozhiaixue/dsh-model-routing) ⭐1 — dsh-model-routing
 - [realpkuasule/dsh-model-routing](https://github.com/realpkuasule/dsh-model-routing) ⭐1 — dsh-model-routing
 - [fonlan/dsh-model-router](https://github.com/fonlan/dsh-model-router) ⭐1
+- [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐1 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -32,8 +33,9 @@
 - [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model)
 - [lilei0311/dsh-plugin-modality-fallback](https://github.com/lilei0311/dsh-plugin-modality-fallback)
 - [Xpectuer/dsh-llm-approver](https://github.com/Xpectuer/dsh-llm-approver)
+- [MoRanYue/dsh-openrouter-providers](https://github.com/MoRanYue/dsh-openrouter-providers) — DSH 插件：设置页配置 OpenRouter 提供商列表，注入 provider.only / provider.order 路由参数；状态持久化
 
 ---
 
 
-*Generated on 2026-08-20 · 23 plugins in this category*
+*Generated on 2026-08-20 · 25 plugins in this category*

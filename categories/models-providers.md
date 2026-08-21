@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**35 plugins**
+**36 plugins**
 
 
 ---
@@ -44,8 +44,9 @@
 - [sd1g1/dsh-opencode-go-models](https://github.com/sd1g1/dsh-opencode-go-models) — DSH plugin: supplement the OpenCode Go model catalog
 - [lakabuji-arch/dsh-model-accordion](https://github.com/lakabuji-arch/dsh-model-accordion)
 - [seriousz158/dsh-codex-use](https://github.com/seriousz158/dsh-codex-use)
+- [ARCJ137442/dsh-plugin-custom-provider-raw-key](https://github.com/ARCJ137442/dsh-plugin-custom-provider-raw-key) — 自定义设置，提供商token，不限制sk-前缀
 
 ---
 
 
-*Generated on 2026-08-21 · 35 plugins in this category*
+*Generated on 2026-08-22 · 36 plugins in this category*

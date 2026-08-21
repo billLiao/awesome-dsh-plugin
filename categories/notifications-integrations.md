@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**9 plugins**
+**10 plugins**
 
 
 ---
@@ -18,8 +18,9 @@
 - [jeffcwj/dsh-sounds](https://github.com/jeffcwj/dsh-sounds) — 给dsh添加opencode同款提示音和通知
 - [wumu-366/dsh-notify](https://github.com/wumu-366/dsh-notify)
 - [Swd146296/dsh-memos-bridge](https://github.com/Swd146296/dsh-memos-bridge)
+- [linz919/dsh-web-pass](https://github.com/linz919/dsh-web-pass) — DSH Web 密码门禁 – Cookie 认证 + 首次强制设密 + 登录失败锁定60s + 内置访问日志查看器。零依赖，原生集成设置页。
 
 ---
 
 
-*Generated on 2026-08-21 · 9 plugins in this category*
+*Generated on 2026-08-22 · 10 plugins in this category*

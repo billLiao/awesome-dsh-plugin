@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**36 plugins**
+**35 plugins**
 
 
 ---
@@ -29,7 +29,6 @@
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
 - [QiE2035/dsh-llm-headers](https://github.com/QiE2035/dsh-llm-headers)
 - [OpenTritium/dsh-codex-shim](https://github.com/OpenTritium/dsh-codex-shim) — 让 GPT 在 DSH 中宾至如归    Make GPT feel at home in DSH.
-- [yujianjian1013/dsh-codex-media](https://github.com/yujianjian1013/dsh-codex-media)
 - [R-LEI2536/dsh-more-agent-presets](https://github.com/R-LEI2536/dsh-more-agent-presets) — More Agent Presets for DSH derived from other coding agents (e.g. qwen code, iflow)
 - [shuxu-zhao/dsh-image-dscriber](https://github.com/shuxu-zhao/dsh-image-dscriber) — Giving text models eyes.
 - [fonlan/dsh-model-parameters](https://github.com/fonlan/dsh-model-parameters)
@@ -49,4 +48,4 @@
 ---
 
 
-*Generated on 2026-08-22 · 36 plugins in this category*
+*Generated on 2026-08-22 · 35 plugins in this category*

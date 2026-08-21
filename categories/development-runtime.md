@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**27 plugins**
+**26 plugins**
 
 
 ---
@@ -23,7 +23,6 @@
 - [q2316367743/dsh-plugin-manager](https://github.com/q2316367743/dsh-plugin-manager) ⭐1 — dsh 插件管理器
 - [openrect/dsh-community-installer](https://github.com/openrect/dsh-community-installer) ⭐1 — Unofficial community installer for @deepseek-ai/dsh on Windows.
 - [SH-9999/what-was-that](https://github.com/SH-9999/what-was-that) ⭐1 — 小白+AI开发，for小白的dsh小插件，解释AI吐出的“黑话”
-- [openrect/dsh-community-installer](https://github.com/openrect/dsh-community-installer) ⭐1 — Unofficial community installer for @deepseek-ai/dsh on Windows.
 - [codingayice/dsh-interview](https://github.com/codingayice/dsh-interview) ⭐1 — 针对开发岗的面试复习dsh插件
 - [zdjmrq/dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) — DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins
 - [GoGoGoDoge/dsh-plugin-installer](https://github.com/GoGoGoDoge/dsh-plugin-installer)
@@ -40,4 +39,4 @@
 ---
 
 
-*Generated on 2026-08-21 · 27 plugins in this category*
+*Generated on 2026-08-21 · 26 plugins in this category*

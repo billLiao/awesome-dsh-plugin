@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**6 plugins**
+**7 plugins**
 
 
 ---
@@ -15,8 +15,9 @@
 - [sorry123maker/dsh-salary-cat](https://github.com/sorry123maker/dsh-salary-cat) ⭐1 — dsh的月薪猫宠物
 - [gameswu/dsh-cross-collaboration](https://github.com/gameswu/dsh-cross-collaboration) ⭐1 — dsh跨设备agent协作插件
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
+- [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
 
 ---
 
 
-*Generated on 2026-08-21 · 6 plugins in this category*
+*Generated on 2026-08-21 · 7 plugins in this category*

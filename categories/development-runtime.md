@@ -9,7 +9,7 @@
 
 ---
 
-- [omdsh-dev/fabric](https://github.com/omdsh-dev/fabric) ⭐15 — 一种类似MC Fabric的dsh hook处理器
+- [omdsh-dev/fabric](https://github.com/omdsh-dev/stent) ⭐15 — 灵感来源于MC Fabric的Cordis/DSH hook处理器
 - [omdsh-dev/dsh-mygo](https://github.com/omdsh-dev/dsh-mygo) ⭐11
 - [omdsh-dev/dsh-fun-ticker](https://github.com/omdsh-dev/dsh-fun-ticker) ⭐5 — DSH 行情跑马灯插件：可自选标的的加密/汇率/A股/指数/港美股跑马灯，免 key 数据源，宿主代理+缓存
 - [omdsh-dev/dsh-daily-fortune](https://github.com/omdsh-dev/dsh-daily-fortune) ⭐3 — DSH daily fortune plugin with Guan Yin lots, Tarot spreads, and daily quotes
@@ -40,4 +40,4 @@
 ---
 
 
-*Generated on 2026-08-21 · 27 plugins in this category*
+*Generated on 2026-08-22 · 27 plugins in this category*

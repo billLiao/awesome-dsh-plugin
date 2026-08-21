@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**29 plugins**
+**32 plugins**
 
 
 ---
@@ -20,6 +20,8 @@
 - [fonlan/dsh-model-router](https://github.com/fonlan/dsh-model-router) ⭐1
 - [Yiklek/dsh-llm-retry-settings](https://github.com/Yiklek/dsh-llm-retry-settings) ⭐1 — DSH plugin: a settings page that views and edits each LLM provider's request retry policy
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐1 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
+- [jonah791/dsh-compact-provider](https://github.com/jonah791/dsh-compact-provider) ⭐1
+- [jonah791/dsh-agent-llm-retry](https://github.com/jonah791/dsh-agent-llm-retry) ⭐1
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -38,8 +40,9 @@
 - [taot/dsh-openai-codex-auth](https://github.com/taot/dsh-openai-codex-auth)
 - [Canson666/dsh-finish-reason-patch](https://github.com/Canson666/dsh-finish-reason-patch) — 将gpt之类的项目在dsh中出现without finish reason的情况解决，可以正常使用gpt模型
 - [sd1g1/dsh-opencode-go-models](https://github.com/sd1g1/dsh-opencode-go-models) — DSH plugin: supplement the OpenCode Go model catalog
+- [lakabuji-arch/dsh-model-accordion](https://github.com/lakabuji-arch/dsh-model-accordion)
 
 ---
 
 
-*Generated on 2026-08-21 · 29 plugins in this category*
+*Generated on 2026-08-21 · 32 plugins in this category*

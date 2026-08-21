@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**28 plugins**
+**29 plugins**
 
 
 ---
@@ -37,8 +37,9 @@
 - [morlay/dsh-llm-openai-compatible](https://github.com/morlay/dsh-llm-openai-compatible)
 - [taot/dsh-openai-codex-auth](https://github.com/taot/dsh-openai-codex-auth)
 - [Canson666/dsh-finish-reason-patch](https://github.com/Canson666/dsh-finish-reason-patch) — 将gpt之类的项目在dsh中出现without finish reason的情况解决，可以正常使用gpt模型
+- [sd1g1/dsh-opencode-go-models](https://github.com/sd1g1/dsh-opencode-go-models) — DSH plugin: supplement the OpenCode Go model catalog
 
 ---
 
 
-*Generated on 2026-08-21 · 28 plugins in this category*
+*Generated on 2026-08-21 · 29 plugins in this category*

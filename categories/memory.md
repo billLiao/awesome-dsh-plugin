@@ -21,8 +21,8 @@
 - [zhujunpeng12/dsh-memory-system](https://github.com/zhujunpeng12/dsh-memory-system) ⭐8 — Local-first persistent memory infrastructure for DeepSeek Harness: hot bootstrap, Chinese-BM25 cold recall, lease-lock transactional writes, read-only governance
 - [Soren-ABT/dsh-knowledge](https://github.com/Soren-ABT/dsh-knowledge) ⭐7 — Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel
 - [ccch713/deepddw](https://github.com/ccch713/deepddw) ⭐6 — Memory & Knowledge Base for DeepSeek Harness — reachable from any device on your LAN
+- [Scorp1o117/dsh-tdai-memory](https://github.com/Scorp1o117/dsh-tdai-memory) ⭐6 — Agent memory for DeepSeek Harness | DeepSeek Harness 记忆插件
 - [nowledge-co/nowledge-mem-deepseek-harness](https://github.com/nowledge-co/nowledge-mem-deepseek-harness) ⭐5 — One memory layer for every AI tool and agent, packaged for DeepSeek Harness
-- [Scorp1o117/dsh-tdai-memory](https://github.com/Scorp1o117/dsh-tdai-memory) ⭐5 — Agent memory for DeepSeek Harness | DeepSeek Harness 记忆插件
 - [wangyihao0001-oss/dsh-task-memory](https://github.com/wangyihao0001-oss/dsh-task-memory) ⭐5 — Task-isolated long-term memory for DeepSeek Harness — remember / recall / search stay inside one task boundary.
 - [KLRSL/dsh-biomemory](https://github.com/KLRSL/dsh-biomemory) ⭐4 — 生物仿生记忆系统插件：Biomimetic memory for DeepSeek Harness — transparent Markdown memory, approval-gated writes, frozen snapshot injection
 - [Quophic/dsh-persona-memory](https://github.com/Quophic/dsh-persona-memory) ⭐4
@@ -46,6 +46,7 @@
 - [GIT121995/dsh-memory-gate](https://github.com/GIT121995/dsh-memory-gate) ⭐2 — Retrieved ≠ injected: CBDC-gated memory for DeepSeek Harness — decides how memory is USED (use/verify/ignore + feedback learning + audit), not just stored
 - [RealAlexandreAI/dsh-nocturne-memory](https://github.com/RealAlexandreAI/dsh-noc-memory) ⭐2 — dsh memory: Nocturne Memory client for DeepSeek Harness
 - [jonah791/dsh-agent-memory](https://github.com/jonah791/dsh-agent-memory) ⭐2 — Agent-driven long-term memory for DeepSeek Harness (DSH)
+- [DDDFXYqiming/dsh-ocr1-memory](https://github.com/DDDFXYqiming/dsh-ocr1-memory) ⭐2 — Optical compression memory using DeepSeek-OCR (OCR1)
 - [yoza10635/dsh-argp](https://github.com/yoza10635/dsh-argp) ⭐2 — 0-LLM compaction for DeepSeek Harness (dsh): deterministic atomic reference-graph pruning of agent history — exact compression ratio, selective forgetting, recall instead of rewrite. 压缩阶段零 LLM 调用的确定性上下文压缩插件：原子引用图剪枝、选择性遗忘、压缩率精确兑现，即插即用 CompactionEngine。
 - [memorylake-ai/memorylake-harness](https://github.com/memorylake-ai/memorylake-harness) ⭐2 — MemoryLake Harness
 - [creativedswork/dsh-expmem](https://github.com/creativedswork/dsh-expmem) ⭐2 — Experience Memory for DeepSeek Harness
@@ -69,7 +70,6 @@
 - [Ayou-Claw/flowctx-dsh](https://github.com/Ayou-Claw/flowctx-dsh) ⭐1 — A context engine for DeepSeek Harness — reversible, token-budgeted compression of the live context window.
 - [kanchengw/dsh-mindseye](https://github.com/kanchengw/dsh-mindseye) ⭐1 — Plug-in vision for text-only models on DSH, with native interaction for image understanding and generation, layered evidence memory and cache, and intent-driven VLM router.
 - [memorax-ai/dsh-patchouli](https://github.com/memorax-ai/dsh-patchouli) ⭐1 — Agent knowledge hub and deepseek-harness plugin
-- [DDDFXYqiming/dsh-ocr1-memory](https://github.com/DDDFXYqiming/dsh-ocr1-memory) ⭐1 — Optical compression memory using DeepSeek-OCR (OCR1)
 - [songoao25/dsh-song-memory](https://github.com/songoao25/dsh-song-memory) ⭐1 — A native-feeling, cross-tool memory plugin for DeepSeek Harness.
 - [JD962/dsh-subagent-pro](https://github.com/JD962/dsh-subagent-pro) ⭐1 — This plugin was developed using DeepSeek Harness and the DeepSeek V4 Flash 0731 / Pro 0813 models, with multiple rounds of refinement. It enhances the existing sub‑agent functionality and adds several other features.
 - [Cocowwy/dsh-plugin-agents-memory](https://github.com/Cocowwy/dsh-plugin-agents-memory) ⭐1 — Edit global AGENTS.md memory directly in DeepSeek Harness Web settings
@@ -167,7 +167,7 @@
 - [welay21312312321/dsh-write-feishu-docs](https://github.com/welay21312312321/dsh-write-feishu-docs) — Evidence-driven Feishu/Lark document writing skill for DeepSeek Harness (dsh) — turn business material into verified, structured docs with conclusions, evidence & actions. 飞书文档证据化编写技能（DeepSeek Harness 技能插件）：从业务资料到可验证飞书成稿。
 - [34262315716/dsh-memory](https://github.com/34262315716/dsh-memory)
 - [zxck5xz/dsh-memory-vi](https://github.com/zxck5xz/dsh-memory-vi) — Per-project long-term memory for DeepSeek Harness (DSH), backed by SQLite.
-- [daoing/daoing-dsh-memory](https://github.com/daoing/daoing-dsh-memory) — deepseek harness  memory plugin
+- [daoing/daoing-dsh-memory](https://github.com/daoing/dsh-daoing-memory) — deepseek harness  memory plugin
 - [baaai123/dsh-memory-protocol](https://github.com/baaai123/dsh-memory-protocol) — Memory enforcement plugin for DeepSeek Harness — bridges opencode-memory MCP server with a hard protocol gate
 
 ---

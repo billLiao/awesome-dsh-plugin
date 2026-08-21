@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**32 plugins**
+**35 plugins**
 
 
 ---
@@ -13,6 +13,7 @@
 - [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) ⭐2 — DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）
 - [NLeRWantFly/dsh-HoldThatBigBlueFatFish](https://github.com/NLeRWantFly/dsh-HoldThatBigBlueFatFish) ⭐2 — 约束蓝色大肥鱼过度思考暂时的方案~模型测试opencode go实现
 - [wtiaw/dsh-ccswitch-importer](https://github.com/wtiaw/dsh-ccswitch-importer) ⭐2 — Import CCSwitch Codex profiles and configure per-model reasoning in DSH.
+- [iceprosurface/dsh-gateway-config](https://github.com/iceprosurface/dsh-gateway-config) ⭐2 — DSH web profile and TapSVC model configuration plugin
 - [clarkzhao/dsh-llm-grok](https://github.com/clarkzhao/dsh-llm-grok) ⭐1 — dsh plugin for grok
 - [xiagaogaozi/dsh-subagent-pool](https://github.com/xiagaogaozi/dsh-subagent-pool) ⭐1 — DSH named-subagent pool: configure reusable subagents (model/reasoning preset) in settings and call them by name
 - [xiaozhiaixue/dsh-model-routing](https://github.com/xiaozhiaixue/dsh-model-routing) ⭐1 — dsh-model-routing
@@ -22,6 +23,7 @@
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐1 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
 - [jonah791/dsh-compact-provider](https://github.com/jonah791/dsh-compact-provider) ⭐1
 - [jonah791/dsh-agent-llm-retry](https://github.com/jonah791/dsh-agent-llm-retry) ⭐1
+- [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐1 — DSH Web 模型余量与用量监控插件
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -41,8 +43,9 @@
 - [Canson666/dsh-finish-reason-patch](https://github.com/Canson666/dsh-finish-reason-patch) — 将gpt之类的项目在dsh中出现without finish reason的情况解决，可以正常使用gpt模型
 - [sd1g1/dsh-opencode-go-models](https://github.com/sd1g1/dsh-opencode-go-models) — DSH plugin: supplement the OpenCode Go model catalog
 - [lakabuji-arch/dsh-model-accordion](https://github.com/lakabuji-arch/dsh-model-accordion)
+- [seriousz158/dsh-codex-use](https://github.com/seriousz158/dsh-codex-use)
 
 ---
 
 
-*Generated on 2026-08-21 · 32 plugins in this category*
+*Generated on 2026-08-21 · 35 plugins in this category*

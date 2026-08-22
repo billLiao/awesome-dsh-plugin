@@ -4,7 +4,7 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**168 plugins**
+**169 plugins**
 
 
 ---
@@ -177,8 +177,9 @@
 - [li3-feng2-jie2/dsh-motion-memory](https://github.com/li3-feng2-jie2/dsh-motion-memory) — 适配 DeepSeek Harness（DSH）高自定义能力的一个记忆管理插件
 - [hanhan1137/feedback-loop-dsh](https://github.com/hanhan1137/feedback-loop-dsh) — Feedback learning loop skill for DSH: log feedback, keep consistent stances, full persistence chain (DSH-adapted from feedback-loop)
 - [therain2020/dsh-obsidian-sync](https://github.com/therain2020/dsh-obsidian-sync) — Obsidian vault tools for DeepSeek Harness: write/read markdown notes with path-traversal protection
+- [xuanyuanluoxue/computer-use-vision](https://github.com/xuanyuanluoxue/computer-use-vision) — Windows computer-use capability for DSH: screenshot, vision, simulated input, self-evolving knowledge base. Plugin + skill dual-mode.
 
 ---
 
 
-*Generated on 2026-08-22 · 168 plugins in this category*
+*Generated on 2026-08-22 · 169 plugins in this category*

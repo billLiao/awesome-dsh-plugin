@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**35 plugins**
+**36 plugins**
 
 
 ---
@@ -44,8 +44,9 @@
 - [seriousz158/dsh-codex-use](https://github.com/seriousz158/dsh-codex-use)
 - [ARCJ137442/dsh-plugin-custom-provider-raw-key](https://github.com/ARCJ137442/dsh-plugin-custom-provider-raw-key) — 自定义设置，提供商token，不限制sk-前缀
 - [shangjian2023/dsh-rss-daily](https://github.com/shangjian2023/dsh-rss-daily) — dsh plugin: 46-source daily RSS digest, LLM-edited, delivered via webhook (ServerChan/PushDeer/WxWork/TG/Bark/gotify)
+- [Wuxie233/dsh-plugin-model-capabilities](https://github.com/Wuxie233/dsh-plugin-model-capabilities)
 
 ---
 
 
-*Generated on 2026-08-22 · 35 plugins in this category*
+*Generated on 2026-08-23 · 36 plugins in this category*

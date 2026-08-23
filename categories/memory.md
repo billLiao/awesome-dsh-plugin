@@ -4,7 +4,7 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**175 plugins**
+**176 plugins**
 
 
 ---
@@ -184,8 +184,9 @@
 - [andyfan1094/dsh-codebase-memory](https://github.com/andyfan1094/dsh-codebase-memory) — DSH bundle that bridges the Codebase Memory MCP code knowledge graph into DSH via the official @deepseek-ai/dsh-mcp-client.
 - [Frog755/dsh-prompt-vault](https://github.com/Frog755/dsh-prompt-vault) — Prompt Vault: 输入框上方的提示词库（DSH 插件）— 📚 按钮展开面板，点条目一键填入 prompt。DeepSeek Harness prompt library plugin.
 - [Zn-Dk/dsh-mnemon-gc](https://github.com/Zn-Dk/dsh-mnemon-gc) — 接入 dsh-mnemon GC 治理插件：冲突驱动的正确性纠错，自动巡检报告。
+- [MoonlitDropOfBlood/dsh-memory-manager](https://github.com/MoonlitDropOfBlood/dsh-memory-manager) — DSH基本的记忆功能
 
 ---
 
 
-*Generated on 2026-08-23 · 175 plugins in this category*
+*Generated on 2026-08-23 · 176 plugins in this category*

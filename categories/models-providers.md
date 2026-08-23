@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**42 plugins**
+**44 plugins**
 
 
 ---
@@ -26,6 +26,8 @@
 - [jonah791/dsh-agent-llm-retry](https://github.com/jonah791/dsh-agent-llm-retry) ⭐1
 - [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐1 — DSH Web 模型余量与用量监控插件
 - [ZhenXifu/dsh-collapsible-models](https://github.com/ZhenXifu/dsh-collapsible-models) ⭐1
+- [edge-sky/dsh-auth-adapter](https://github.com/edge-sky/dsh-auth-adapter) ⭐1 — A OAuth adapter for DSH
+- [Vesna-Strivozha/DSH-LLM-wiki-plugin](https://github.com/Vesna-Strivozha/DSH-LLM-wiki-plugin) ⭐1 — 基于Karpathy的wiki方法论搭建的插件，让你的DSH直接变身成LLM wiki，不需要Obsidian+Claudian插件，国内网络友好
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -55,4 +57,4 @@
 ---
 
 
-*Generated on 2026-08-23 · 42 plugins in this category*
+*Generated on 2026-08-24 · 44 plugins in this category*

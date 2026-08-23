@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**44 plugins**
+**45 plugins**
 
 
 ---
@@ -53,8 +53,9 @@
 - [jyao-SUSE-power-group/dsh-provider-rate-limit](https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit) — dsh-provider-rate-limit
 - [iguowz/dsh-cortex](https://github.com/iguowz/dsh-cortex) — 低成本多模型编排插件（Cortex）：大模型规划验收，子agent小模型执行，降本保质
 - [alexpadholol/dsh-plugin-fusion](https://github.com/alexpadholol/dsh-plugin-fusion) — llm自采样插件
+- [OPaimon/dsh-model-gate](https://github.com/OPaimon/dsh-model-gate)
 
 ---
 
 
-*Generated on 2026-08-24 · 44 plugins in this category*
+*Generated on 2026-08-24 · 45 plugins in this category*

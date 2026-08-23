@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**26 plugins**
+**27 plugins**
 
 
 ---
@@ -35,8 +35,9 @@
 - [sorry123maker/dsh-plugin-manager](https://github.com/sorry123maker/dsh-plugin-manager) — dsh三方插件管理，支持安装启用停用，支持热重载
 - [Yolotd/dsh-plugin-manager](https://github.com/Yolotd/dsh-plugin-manager)
 - [Harzva/dsh-cli-store](https://github.com/Harzva/dsh-cli-store)
+- [helibeiqi/dsh-csp-runtime](https://github.com/helibeiqi/dsh-csp-runtime) — Cognitive State Protocol (CSP) v0.1 — the cross-framework interop layer that makes AI thinking state serializable, persistable, and transferable. Host-side Cordis plugin for the DSH ecosystem.
 
 ---
 
 
-*Generated on 2026-08-23 · 26 plugins in this category*
+*Generated on 2026-08-24 · 27 plugins in this category*

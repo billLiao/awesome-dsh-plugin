@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**12 plugins**
+**13 plugins**
 
 
 ---
@@ -21,8 +21,9 @@
 - [Swd146296/dsh-memos-bridge](https://github.com/Swd146296/dsh-memos-bridge)
 - [linz919/dsh-web-pass](https://github.com/linz919/dsh-web-pass) — DSH Web 密码门禁 – Cookie 认证 + 首次强制设密 + 登录失败锁定60s + 内置访问日志查看器。零依赖，原生集成设置页。
 - [1210316560/dsh-lark-bridge](https://github.com/1210316560/dsh-lark-bridge)
+- [0QwQ0/dsh-discord-richpresence](https://github.com/0QwQ0/dsh-discord-richpresence) — dsh-plugin: push vague, user-configurable DSH interaction states to local Discord as Rich Presence
 
 ---
 
 
-*Generated on 2026-08-24 · 12 plugins in this category*
+*Generated on 2026-08-25 · 13 plugins in this category*

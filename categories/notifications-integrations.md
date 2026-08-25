@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**14 plugins**
+**15 plugins**
 
 
 ---
@@ -23,8 +23,9 @@
 - [linz919/dsh-web-pass](https://github.com/linz919/dsh-web-pass) — DSH Web 密码门禁 – Cookie 认证 + 首次强制设密 + 登录失败锁定60s + 内置访问日志查看器。零依赖，原生集成设置页。
 - [1210316560/dsh-lark-bridge](https://github.com/1210316560/dsh-lark-bridge)
 - [dubeno/dsh-agent-plugin-bridge](https://github.com/dubeno/dsh-agent-plugin-bridge) — 将符合Agent Plugin规范的插件适配到DSH生态
+- [GuoFengyu110429/dsh-high-fee-alert](https://github.com/GuoFengyu110429/dsh-high-fee-alert) — 一个由DSH制作的插件，用于在峰谷中的峰时段进行提醒以节省费用。
 
 ---
 
 
-*Generated on 2026-08-25 · 14 plugins in this category*
+*Generated on 2026-08-25 · 15 plugins in this category*

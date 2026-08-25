@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**48 plugins**
+**49 plugins**
 
 
 ---
@@ -13,13 +13,13 @@
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
 - [detpecca/dsh-llm-wiki](https://github.com/detpecca/dsh-llm-wiki) ⭐4
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐4 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
+- [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐3 — DSH Web 模型余量与用量监控插件
 - [edge-sky/dsh-auth-adapter](https://github.com/edge-sky/dsh-oauth-adapter) ⭐3 — A OAuth adapter for DSH
 - [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) ⭐2 — DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）
 - [NLeRWantFly/dsh-HoldThatBigBlueFatFish](https://github.com/NLeRWantFly/dsh-HoldThatBigBlueFatFish) ⭐2 — 约束蓝色大肥鱼过度思考暂时的方案~模型测试opencode go实现
 - [clarkzhao/dsh-llm-grok](https://github.com/clarkzhao/dsh-llm-grok) ⭐2 — dsh plugin for grok
 - [wtiaw/dsh-ccswitch-importer](https://github.com/wtiaw/dsh-ccswitch-importer) ⭐2 — Import CCSwitch Codex profiles and configure per-model reasoning in DSH.
 - [iceprosurface/dsh-gateway-config](https://github.com/iceprosurface/dsh-gateway-config) ⭐2 — DSH web profile and TapSVC model configuration plugin
-- [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐2 — DSH Web 模型余量与用量监控插件
 - [Shizuku-keop/dsh-micro-inversion-standard](https://github.com/Shizuku-keop/dsh-micro-inversion-standard) ⭐2 — 一个可复用的 DSH Agent Preset：双阶段、Token 精益的编码智能体模式。  核心目标：把模型思维链的起手习惯从 "let me" 翻转为 "we need"，同时把上下文占用与 Token 消耗压到最低，并保持供应商 KV Cache 对未变前缀持续命中。
 - [xiagaogaozi/dsh-subagent-pool](https://github.com/xiagaogaozi/dsh-subagent-pool) ⭐1 — DSH named-subagent pool: configure reusable subagents (model/reasoning preset) in settings and call them by name
 - [realpkuasule/dsh-model-routing](https://github.com/realpkuasule/dsh-model-routing) ⭐1 — dsh-model-routing
@@ -29,8 +29,10 @@
 - [jonah791/dsh-agent-llm-retry](https://github.com/jonah791/dsh-agent-llm-retry) ⭐1
 - [seriousz158/dsh-codex-use](https://github.com/seriousz158/dsh-codex-use) ⭐1
 - [shangjian2023/dsh-rss-daily](https://github.com/shangjian2023/dsh-rss-daily) ⭐1 — dsh plugin: 46-source daily RSS digest, LLM-edited, delivered via webhook (ServerChan/PushDeer/WxWork/TG/Bark/gotify)
+- [iguowz/dsh-cortex](https://github.com/iguowz/dsh-cortex) ⭐1 — 低成本多模型编排插件（Cortex）：大模型规划验收，子agent小模型执行，降本保质
 - [ZhenXifu/dsh-collapsible-models](https://github.com/ZhenXifu/dsh-collapsible-models) ⭐1
 - [Vesna-Strivozha/DSH-LLM-wiki-plugin](https://github.com/Vesna-Strivozha/DSH-LLM-wiki-plugin) ⭐1 — 基于Karpathy的wiki方法论搭建的插件，让你的DSH直接变身成LLM wiki，不需要Obsidian+Claudian插件，国内网络友好
+- [zhubaohi/dsh-qwen38-compaction-fix](https://github.com/zhubaohi/dsh-qwen38-compaction-fix) ⭐1 — DSH plugin: stop qwen3.8-27b from burning its output budget on thinking during context compaction
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -52,7 +54,6 @@
 - [ARCJ137442/dsh-plugin-custom-provider-raw-key](https://github.com/ARCJ137442/dsh-plugin-custom-provider-raw-key) — 自定义设置，提供商token，不限制sk-前缀
 - [Wuxie233/dsh-plugin-model-capabilities](https://github.com/Wuxie233/dsh-plugin-model-capabilities)
 - [jyao-SUSE-power-group/dsh-provider-rate-limit](https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit) — dsh-provider-rate-limit
-- [iguowz/dsh-cortex](https://github.com/iguowz/dsh-cortex) — 低成本多模型编排插件（Cortex）：大模型规划验收，子agent小模型执行，降本保质
 - [alexpadholol/dsh-plugin-fusion](https://github.com/alexpadholol/dsh-plugin-fusion) — llm自采样插件
 - [OPaimon/dsh-model-gate](https://github.com/OPaimon/dsh-model-gate)
 - [Henta111/dsh-more-models-thinking-level](https://github.com/Henta111/dsh-more-models-thinking-level)
@@ -61,4 +62,4 @@
 ---
 
 
-*Generated on 2026-08-25 · 48 plugins in this category*
+*Generated on 2026-08-25 · 49 plugins in this category*

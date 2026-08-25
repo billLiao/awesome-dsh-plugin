@@ -11,7 +11,7 @@
 
 - [text2future/flowix](https://github.com/text2future/flowix) ⭐371 — Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding
 - [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) ⭐121 — Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
-- [seriousz158/dsh-memory](https://github.com/seriousz158/dsh-memory) ⭐88
+- [seriousz158/dsh-memory](https://github.com/seriousz158/dsh-memory) ⭐91
 - [btspoony/mstar-harness](https://github.com/btspoony/mstar-harness) ⭐55 — An omni-plugin for harness engineering workflows with multi-agents, programmatic gates and skills.
 - [xiehuan123/dsh-deepread](https://github.com/xiehuan123/dsh-deepread) ⭐37 — Evidence-first deep reading for AI agents — trace claims, evidence, confidence and knowledge maps across articles, books and PDFs.
 - [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) ⭐25 — A caring memory companion for DSH — three-layer auto memory, proactive calendar reminders, warm AI greetings, per-turn auto-consolidation, and inheritance of memories from other AI tools.

@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**49 plugins**
+**50 plugins**
 
 
 ---
@@ -25,6 +25,7 @@
 - [realpkuasule/dsh-model-routing](https://github.com/realpkuasule/dsh-model-routing) ⭐1 — dsh-model-routing
 - [fonlan/dsh-model-router](https://github.com/fonlan/dsh-model-router) ⭐1
 - [Yiklek/dsh-llm-retry-settings](https://github.com/Yiklek/dsh-llm-retry-settings) ⭐1 — DSH plugin: a settings page that views and edits each LLM provider's request retry policy
+- [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model) ⭐1 — Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.
 - [jonah791/dsh-compact-provider](https://github.com/jonah791/dsh-compact-provider) ⭐1
 - [jonah791/dsh-agent-llm-retry](https://github.com/jonah791/dsh-agent-llm-retry) ⭐1
 - [seriousz158/dsh-codex-use](https://github.com/seriousz158/dsh-codex-use) ⭐1
@@ -42,7 +43,6 @@
 - [shuxu-zhao/dsh-image-dscriber](https://github.com/shuxu-zhao/dsh-image-dscriber) — Giving text models eyes.
 - [fonlan/dsh-model-parameters](https://github.com/fonlan/dsh-model-parameters)
 - [shenzhantu/dsh-subagent-model](https://github.com/shenzhantu/dsh-subagent-model) — 通过模型插件用来修改subagent所使用的模型和Agent预设/Use model plugins to modify the model used by the subagent and the agent presets.
-- [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model)
 - [lilei0311/dsh-plugin-modality-fallback](https://github.com/lilei0311/dsh-plugin-modality-fallback)
 - [Xpectuer/dsh-llm-approver](https://github.com/Xpectuer/dsh-llm-approver)
 - [MoRanYue/dsh-openrouter-providers](https://github.com/MoRanYue/dsh-openrouter-providers) — DSH 插件：设置页配置 OpenRouter 提供商列表，注入 provider.only / provider.order 路由参数；状态持久化
@@ -58,8 +58,9 @@
 - [OPaimon/dsh-model-gate](https://github.com/OPaimon/dsh-model-gate)
 - [Henta111/dsh-more-models-thinking-level](https://github.com/Henta111/dsh-more-models-thinking-level)
 - [ZI-LV68/dsh-deepseek-model-router](https://github.com/ZI-LV68/dsh-deepseek-model-router)
+- [masknull/dsh-llm-resilience](https://github.com/masknull/dsh-llm-resilience) — DSH plugin: LLM retry & timeout configuration card. 在 DSH 设置->插件->插件配置 中自定义 LLM 请求重试策略与流空闲超时。
 
 ---
 
 
-*Generated on 2026-08-25 · 49 plugins in this category*
+*Generated on 2026-08-25 · 50 plugins in this category*

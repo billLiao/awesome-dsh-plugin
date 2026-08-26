@@ -11,25 +11,24 @@
 
 - [HuanLinOTO/dsh-plugin-auto-blame](https://github.com/HuanLinOTO/dsh-plugin-auto-blame) ⭐10 — 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 | After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
+- [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) ⭐5 — DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）
 - [detpecca/dsh-llm-wiki](https://github.com/detpecca/dsh-llm-wiki) ⭐4
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐4 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
 - [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐3 — DSH Web 模型余量与用量监控插件
 - [edge-sky/dsh-auth-adapter](https://github.com/edge-sky/dsh-oauth-adapter) ⭐3 — A OAuth adapter for DSH
-- [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) ⭐2 — DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）
 - [NLeRWantFly/dsh-HoldThatBigBlueFatFish](https://github.com/NLeRWantFly/dsh-HoldThatBigBlueFatFish) ⭐2 — 约束蓝色大肥鱼过度思考暂时的方案~模型测试opencode go实现
 - [clarkzhao/dsh-llm-grok](https://github.com/clarkzhao/dsh-llm-grok) ⭐2 — dsh plugin for grok
 - [R-LEI2536/dsh-more-agent-presets](https://github.com/R-LEI2536/dsh-more-agent-presets) ⭐2 — More Agent Presets for DSH derived from other coding agents (e.g. qwen code, iflow)
 - [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model) ⭐2 — Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.
 - [wtiaw/dsh-ccswitch-importer](https://github.com/wtiaw/dsh-ccswitch-importer) ⭐2 — Import CCSwitch Codex profiles and configure per-model reasoning in DSH.
 - [iceprosurface/dsh-gateway-config](https://github.com/iceprosurface/dsh-gateway-config) ⭐2 — DSH web profile and TapSVC model configuration plugin
+- [seriousz158/dsh-codex-use](https://github.com/seriousz158/dsh-codex-use) ⭐2
 - [Shizuku-keop/dsh-micro-inversion-standard](https://github.com/Shizuku-keop/dsh-micro-inversion-standard) ⭐2 — 一个可复用的 DSH Agent Preset：双阶段、Token 精益的编码智能体模式。  核心目标：把模型思维链的起手习惯从 "let me" 翻转为 "we need"，同时把上下文占用与 Token 消耗压到最低，并保持供应商 KV Cache 对未变前缀持续命中。
 - [xiagaogaozi/dsh-subagent-pool](https://github.com/xiagaogaozi/dsh-subagent-pool) ⭐1 — DSH named-subagent pool: configure reusable subagents (model/reasoning preset) in settings and call them by name
-- [realpkuasule/dsh-model-routing](https://github.com/realpkuasule/dsh-model-routing) ⭐1 — dsh-model-routing
 - [Yiklek/dsh-llm-retry-settings](https://github.com/Yiklek/dsh-llm-retry-settings) ⭐1 — DSH plugin: a settings page that views and edits each LLM provider's request retry policy
 - [jonah791/dsh-compact-provider](https://github.com/jonah791/dsh-compact-provider) ⭐1
 - [jonah791/dsh-agent-llm-retry](https://github.com/jonah791/dsh-agent-llm-retry) ⭐1
 - [lakabuji-arch/dsh-model-accordion](https://github.com/lakabuji-arch/dsh-model-accordion) ⭐1
-- [seriousz158/dsh-codex-use](https://github.com/seriousz158/dsh-codex-use) ⭐1
 - [shangjian2023/dsh-rss-daily](https://github.com/shangjian2023/dsh-rss-daily) ⭐1 — dsh plugin: 46-source daily RSS digest, LLM-edited, delivered via webhook (ServerChan/PushDeer/WxWork/TG/Bark/gotify)
 - [iguowz/dsh-cortex](https://github.com/iguowz/dsh-cortex) ⭐1 — 低成本多模型编排插件（Cortex）：大模型规划验收，子agent小模型执行，降本保质
 - [ZhenXifu/dsh-collapsible-models](https://github.com/ZhenXifu/dsh-collapsible-models) ⭐1
@@ -40,6 +39,7 @@
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
 - [QiE2035/dsh-llm-headers](https://github.com/QiE2035/dsh-llm-headers)
 - [OpenTritium/dsh-codex-shim](https://github.com/OpenTritium/dsh-codex-shim) — 让 GPT 在 DSH 中宾至如归    Make GPT feel at home in DSH.
+- [realpkuasule/dsh-model-routing](https://github.com/realpkuasule/dsh-model-routing) — dsh-model-routing
 - [fonlan/dsh-model-router](https://github.com/fonlan/dsh-model-router)
 - [shuxu-zhao/dsh-image-dscriber](https://github.com/shuxu-zhao/dsh-image-dscriber) — Giving text models eyes.
 - [fonlan/dsh-model-parameters](https://github.com/fonlan/dsh-model-parameters)

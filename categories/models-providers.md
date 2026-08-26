@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**50 plugins**
+**52 plugins**
 
 
 ---
@@ -28,6 +28,7 @@
 - [Yiklek/dsh-llm-retry-settings](https://github.com/Yiklek/dsh-llm-retry-settings) ⭐1 — DSH plugin: a settings page that views and edits each LLM provider's request retry policy
 - [jonah791/dsh-compact-provider](https://github.com/jonah791/dsh-compact-provider) ⭐1
 - [jonah791/dsh-agent-llm-retry](https://github.com/jonah791/dsh-agent-llm-retry) ⭐1
+- [lakabuji-arch/dsh-model-accordion](https://github.com/lakabuji-arch/dsh-model-accordion) ⭐1
 - [seriousz158/dsh-codex-use](https://github.com/seriousz158/dsh-codex-use) ⭐1
 - [shangjian2023/dsh-rss-daily](https://github.com/shangjian2023/dsh-rss-daily) ⭐1 — dsh plugin: 46-source daily RSS digest, LLM-edited, delivered via webhook (ServerChan/PushDeer/WxWork/TG/Bark/gotify)
 - [iguowz/dsh-cortex](https://github.com/iguowz/dsh-cortex) ⭐1 — 低成本多模型编排插件（Cortex）：大模型规划验收，子agent小模型执行，降本保质
@@ -50,7 +51,6 @@
 - [taot/dsh-openai-codex-auth](https://github.com/taot/dsh-openai-codex-auth)
 - [Canson666/dsh-finish-reason-patch](https://github.com/Canson666/dsh-finish-reason-patch) — 将gpt之类的项目在dsh中出现without finish reason的情况解决，可以正常使用gpt模型
 - [sd1g1/dsh-opencode-go-models](https://github.com/sd1g1/dsh-opencode-go-models) — DSH plugin: supplement the OpenCode Go model catalog
-- [lakabuji-arch/dsh-model-accordion](https://github.com/lakabuji-arch/dsh-model-accordion)
 - [ARCJ137442/dsh-plugin-custom-provider-raw-key](https://github.com/ARCJ137442/dsh-plugin-custom-provider-raw-key) — 自定义设置，提供商token，不限制sk-前缀
 - [Wuxie233/dsh-plugin-model-capabilities](https://github.com/Wuxie233/dsh-plugin-model-capabilities)
 - [jyao-SUSE-power-group/dsh-provider-rate-limit](https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit) — dsh-provider-rate-limit
@@ -59,8 +59,10 @@
 - [Henta111/dsh-more-models-thinking-level](https://github.com/Henta111/dsh-more-models-thinking-level)
 - [ZI-LV68/dsh-deepseek-model-router](https://github.com/ZI-LV68/dsh-deepseek-model-router)
 - [masknull/dsh-llm-resilience](https://github.com/masknull/dsh-llm-resilience) — DSH plugin: LLM retry & timeout configuration card. 在 DSH 设置->插件->插件配置 中自定义 LLM 请求重试策略与流空闲超时。
+- [kikomaotu/ccs-balance](https://github.com/kikomaotu/ccs-balance) — DSH 插件：同步 cc-switch 各 provider 余额，按日/月/总量统计 token 用量与花费（支持中转站币种与汇率设置）
+- [secyborg/dsh-glm-web-search](https://github.com/secyborg/dsh-glm-web-search) — DSH host plugin: GLM (Zhipu) web-search provider for the ctx.web seam — structured results, no model turn, reuses your ZAI coding key
 
 ---
 
 
-*Generated on 2026-08-26 · 50 plugins in this category*
+*Generated on 2026-08-26 · 52 plugins in this category*

@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**28 plugins**
+**30 plugins**
 
 
 ---
@@ -37,8 +37,10 @@
 - [Yolotd/dsh-plugin-manager](https://github.com/Yolotd/dsh-plugin-manager)
 - [helibeiqi/dsh-csp-runtime](https://github.com/helibeiqi/dsh-csp-runtime) — Cognitive State Protocol (CSP) v0.1 — the cross-framework interop layer that makes AI thinking state serializable, persistable, and transferable. Host-side Cordis plugin for the DSH ecosystem.
 - [chaoliu615/dsh-agnes](https://github.com/chaoliu615/dsh-agnes) — 为在dsh中使用Agnes AI的免费图片、视频生成功能而开发，欢迎使用！欢迎提issues。
+- [YINGCHAO-98/dsh-private-plugins](https://github.com/YINGCHAO-98/dsh-private-plugins) — dsh-plugin-manager
+- [shaomingbo/dsh-open-in-editor](https://github.com/shaomingbo/dsh-open-in-editor) — Open DSH Web produced files in a configurable local macOS IDE
 
 ---
 
 
-*Generated on 2026-08-26 · 28 plugins in this category*
+*Generated on 2026-08-26 · 30 plugins in this category*

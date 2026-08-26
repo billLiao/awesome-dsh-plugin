@@ -16,33 +16,19 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 ## 分类
 
 | 分类 | 数量 | 说明 |
-
 |------|------|------|
-
 | 🎨 [UI 增强](categories/ui-enhancements.md) | 2388 | 增强 DSH Web/终端用户界面的插件。 |
-
 | 🎭 [主题与外观](categories/themes-appearance.md) | 185 | DSH 皮肤、主题与外观定制。 |
-
 | 💬 [会话与消息](categories/sessions-messages.md) | 1103 | 会话管理、消息编辑、分享与对话工具。 |
-
 | 🧠 [记忆](categories/memory.md) | 204 | 持久记忆、知识库与上下文保留插件。 |
-
 | 🛠️ [工具与能力](categories/tools-capabilities.md) | 2271 | 视觉、浏览器、终端、SSH、Docker 等能力扩展。 |
-
 | 🔁 [工作流与自动化](categories/workflow-automation.md) | 2446 | 自动化循环、定时任务、多智能体团队与工作流引擎。 |
-
 | 🔔 [通知与集成](categories/notifications-integrations.md) | 17 | 微信、Telegram、IM 桥接、桌面通知与外部集成。 |
-
 | 🔌 [模型与账号接入](categories/models-providers.md) | 50 | 多模型支持、OAuth 登录、LLM 回退策略与提供商桥接。 |
-
 | 🧑‍💻 [开发与运行时](categories/development-runtime.md) | 28 | 插件管理器、SDK、CLI、桌面壳与开发者工具。 |
-
 | 🔒 [安全与隐私](categories/security-privacy.md) | 4 | 凭证管理、加密、审计与安全工具。 |
-
 | 🎮 [娱乐](categories/fun.md) | 9 | 游戏、桌宠、娱乐与趣味插件。 |
-
 | 📋 [精选列表与合集](categories/awesome-lists.md) | 198 | DSH 插件精选列表与合集。 |
-
 | ⚠️ [弱相关](categories/weakly-related.md) | 513 | 标记了 dsh-plugin 但关联性较弱的仓库——可能只是使用了 DeepSeek API 或关联松散。 |
 
 

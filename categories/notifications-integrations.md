@@ -4,12 +4,13 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**17 plugins**
+**18 plugins**
 
 
 ---
 
 - [gameswu/dsh-notifacation-frame](https://github.com/gameswu/dsh-notifacation-frame) ⭐4 — dsh通知消息统一管理框架
+- [bill9109/dsh-webbridge](https://github.com/bill9109/dsh-webbridge) ⭐4 — DSH 结合 Kimi WebBridge
 - [asakumizy/dsh-trae-bridge](https://github.com/asakumizy/dsh-trae-bridge) ⭐2 — DSH和trae连接
 - [lsq-dsh-plugins/dsh-windows-notifications](https://github.com/lsq-dsh-plugins/dsh-windows-notifications) ⭐2
 - [thuang3316/dsh-live-notify](https://github.com/thuang3316/dsh-live-notify) ⭐1 — DSH plugin for live notification
@@ -30,4 +31,4 @@
 ---
 
 
-*Generated on 2026-08-26 · 17 plugins in this category*
+*Generated on 2026-08-26 · 18 plugins in this category*

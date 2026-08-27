@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**52 plugins**
+**53 plugins**
 
 
 ---
@@ -51,7 +51,6 @@
 - [morlay/dsh-llm-openai-compatible](https://github.com/morlay/dsh-llm-openai-compatible)
 - [taot/dsh-openai-codex-auth](https://github.com/taot/dsh-openai-codex-auth)
 - [Canson666/dsh-finish-reason-patch](https://github.com/Canson666/dsh-finish-reason-patch) — 将gpt之类的项目在dsh中出现without finish reason的情况解决，可以正常使用gpt模型
-- [sd1g1/dsh-opencode-go-models](https://github.com/sd1g1/dsh-opencode-go-models) — DSH plugin: supplement the OpenCode Go model catalog
 - [ARCJ137442/dsh-plugin-custom-provider-raw-key](https://github.com/ARCJ137442/dsh-plugin-custom-provider-raw-key) — 自定义设置，提供商token，不限制sk-前缀
 - [Wuxie233/dsh-plugin-model-capabilities](https://github.com/Wuxie233/dsh-plugin-model-capabilities)
 - [jyao-SUSE-power-group/dsh-provider-rate-limit](https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit) — dsh-provider-rate-limit
@@ -61,8 +60,10 @@
 - [ZI-LV68/dsh-deepseek-model-router](https://github.com/ZI-LV68/dsh-deepseek-model-router)
 - [masknull/dsh-llm-resilience](https://github.com/masknull/dsh-llm-resilience) — DSH plugin: LLM retry & timeout configuration card. 在 DSH 设置->插件->插件配置 中自定义 LLM 请求重试策略与流空闲超时。
 - [secyborg/dsh-glm-web-search](https://github.com/secyborg/dsh-glm-web-search) — DSH host plugin: GLM (Zhipu) web-search provider for the ctx.web seam — structured results, no model turn, reuses your ZAI coding key
+- [alaxrpg/dsh-llm-approve-for-me](https://github.com/alaxrpg/dsh-llm-approve-for-me)
+- [myk5010/dsh-llm-concurrency](https://github.com/myk5010/dsh-llm-concurrency)
 
 ---
 
 
-*Generated on 2026-08-27 · 52 plugins in this category*
+*Generated on 2026-08-27 · 53 plugins in this category*

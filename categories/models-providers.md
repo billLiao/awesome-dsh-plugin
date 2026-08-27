@@ -34,6 +34,7 @@
 - [ZhenXifu/dsh-collapsible-models](https://github.com/ZhenXifu/dsh-collapsible-models) ⭐1
 - [Vesna-Strivozha/DSH-LLM-wiki-plugin](https://github.com/Vesna-Strivozha/DSH-LLM-wiki-plugin) ⭐1 — 基于Karpathy的wiki方法论搭建的插件，让你的DSH直接变身成LLM wiki，不需要Obsidian+Claudian插件，国内网络友好
 - [zhubaohi/dsh-qwen38-compaction-fix](https://github.com/zhubaohi/dsh-qwen38-compaction-fix) ⭐1 — DSH plugin: stop qwen3.8-27b from burning its output budget on thinking during context compaction
+- [kikomaotu/ccs-balance](https://github.com/kikomaotu/ccs-balance) ⭐1 — DSH 插件：同步 cc-switch 各 provider 余额，按日/月/总量统计 token 用量与花费（支持中转站币种与汇率设置）
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -59,7 +60,6 @@
 - [Henta111/dsh-more-models-thinking-level](https://github.com/Henta111/dsh-more-models-thinking-level)
 - [ZI-LV68/dsh-deepseek-model-router](https://github.com/ZI-LV68/dsh-deepseek-model-router)
 - [masknull/dsh-llm-resilience](https://github.com/masknull/dsh-llm-resilience) — DSH plugin: LLM retry & timeout configuration card. 在 DSH 设置->插件->插件配置 中自定义 LLM 请求重试策略与流空闲超时。
-- [kikomaotu/ccs-balance](https://github.com/kikomaotu/ccs-balance) — DSH 插件：同步 cc-switch 各 provider 余额，按日/月/总量统计 token 用量与花费（支持中转站币种与汇率设置）
 - [secyborg/dsh-glm-web-search](https://github.com/secyborg/dsh-glm-web-search) — DSH host plugin: GLM (Zhipu) web-search provider for the ctx.web seam — structured results, no model turn, reuses your ZAI coding key
 
 ---

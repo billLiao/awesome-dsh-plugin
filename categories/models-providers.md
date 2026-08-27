@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**53 plugins**
+**54 plugins**
 
 
 ---
@@ -62,8 +62,9 @@
 - [secyborg/dsh-glm-web-search](https://github.com/secyborg/dsh-glm-web-search) — DSH host plugin: GLM (Zhipu) web-search provider for the ctx.web seam — structured results, no model turn, reuses your ZAI coding key
 - [alaxrpg/dsh-llm-approve-for-me](https://github.com/alaxrpg/dsh-llm-approve-for-me)
 - [myk5010/dsh-llm-concurrency](https://github.com/myk5010/dsh-llm-concurrency)
+- [qgx1992/dsh-model-select-style](https://github.com/qgx1992/dsh-model-select-style) — DSH web 插件：把输入框模型选择控件替换为两个独立按钮（供应商 + 模型两级联动，支持推理等级调节）
 
 ---
 
 
-*Generated on 2026-08-27 · 53 plugins in this category*
+*Generated on 2026-08-28 · 54 plugins in this category*

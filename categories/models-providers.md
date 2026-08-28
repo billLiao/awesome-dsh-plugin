@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**54 plugins**
+**55 plugins**
 
 
 ---
@@ -63,8 +63,9 @@
 - [alaxrpg/dsh-llm-approve-for-me](https://github.com/alaxrpg/dsh-llm-approve-for-me)
 - [myk5010/dsh-llm-concurrency](https://github.com/myk5010/dsh-llm-concurrency)
 - [qgx1992/dsh-model-select-style](https://github.com/qgx1992/dsh-model-select-style) — DSH web 插件：把输入框模型选择控件替换为两个独立按钮（供应商 + 模型两级联动，支持推理等级调节）
+- [johndfowler/dsh-model-search](https://github.com/johndfowler/dsh-model-search)
 
 ---
 
 
-*Generated on 2026-08-28 · 54 plugins in this category*
+*Generated on 2026-08-28 · 55 plugins in this category*

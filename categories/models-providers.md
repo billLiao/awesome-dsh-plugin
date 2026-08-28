@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**55 plugins**
+**56 plugins**
 
 
 ---
@@ -12,9 +12,9 @@
 - [HuanLinOTO/dsh-plugin-auto-blame](https://github.com/HuanLinOTO/dsh-plugin-auto-blame) ⭐10 — 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 | After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
 - [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) ⭐5 — DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）
+- [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐5 — DSH Web 模型余量与用量监控插件
 - [detpecca/dsh-llm-wiki](https://github.com/detpecca/dsh-llm-wiki) ⭐4
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐4 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
-- [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐4 — DSH Web 模型余量与用量监控插件
 - [edge-sky/dsh-auth-adapter](https://github.com/edge-sky/dsh-oauth-adapter) ⭐3 — A OAuth adapter for DSH
 - [NLeRWantFly/dsh-HoldThatBigBlueFatFish](https://github.com/NLeRWantFly/dsh-HoldThatBigBlueFatFish) ⭐2 — 约束蓝色大肥鱼过度思考暂时的方案~模型测试opencode go实现
 - [clarkzhao/dsh-llm-grok](https://github.com/clarkzhao/dsh-llm-grok) ⭐2 — dsh plugin for grok
@@ -30,6 +30,7 @@
 - [jonah791/dsh-compact-provider](https://github.com/jonah791/dsh-compact-provider) ⭐1
 - [jonah791/dsh-agent-llm-retry](https://github.com/jonah791/dsh-agent-llm-retry) ⭐1
 - [lakabuji-arch/dsh-model-accordion](https://github.com/lakabuji-arch/dsh-model-accordion) ⭐1
+- [jyao-SUSE-power-group/dsh-provider-rate-limit](https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit) ⭐1 — dsh-provider-rate-limit
 - [iguowz/dsh-cortex](https://github.com/iguowz/dsh-cortex) ⭐1 — 低成本多模型编排插件（Cortex）：大模型规划验收，子agent小模型执行，降本保质
 - [ZhenXifu/dsh-collapsible-models](https://github.com/ZhenXifu/dsh-collapsible-models) ⭐1
 - [Vesna-Strivozha/DSH-LLM-wiki-plugin](https://github.com/Vesna-Strivozha/DSH-LLM-wiki-plugin) ⭐1 — 基于Karpathy的wiki方法论搭建的插件，让你的DSH直接变身成LLM wiki，不需要Obsidian+Claudian插件，国内网络友好
@@ -53,7 +54,6 @@
 - [Canson666/dsh-finish-reason-patch](https://github.com/Canson666/dsh-finish-reason-patch) — 将gpt之类的项目在dsh中出现without finish reason的情况解决，可以正常使用gpt模型
 - [ARCJ137442/dsh-plugin-custom-provider-raw-key](https://github.com/ARCJ137442/dsh-plugin-custom-provider-raw-key) — 自定义设置，提供商token，不限制sk-前缀
 - [Wuxie233/dsh-plugin-model-capabilities](https://github.com/Wuxie233/dsh-plugin-model-capabilities)
-- [jyao-SUSE-power-group/dsh-provider-rate-limit](https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit) — dsh-provider-rate-limit
 - [alexpadholol/dsh-plugin-fusion](https://github.com/alexpadholol/dsh-plugin-fusion) — llm自采样插件
 - [OPaimon/dsh-model-gate](https://github.com/OPaimon/dsh-model-gate)
 - [Henta111/dsh-more-models-thinking-level](https://github.com/Henta111/dsh-more-models-thinking-level)
@@ -64,8 +64,9 @@
 - [myk5010/dsh-llm-concurrency](https://github.com/myk5010/dsh-llm-concurrency)
 - [qgx1992/dsh-model-select-style](https://github.com/qgx1992/dsh-model-select-style) — DSH web 插件：把输入框模型选择控件替换为两个独立按钮（供应商 + 模型两级联动，支持推理等级调节）
 - [johndfowler/dsh-model-search](https://github.com/johndfowler/dsh-model-search)
+- [publieople/dsh-omniroute-models](https://github.com/publieople/dsh-omniroute-models) — DSH plugin: searchable/filterable model manager for OmniRoute (or any OpenAI-compatible gateway) — provider directory, modality discovery, multi-select enable.
 
 ---
 
 
-*Generated on 2026-08-28 · 55 plugins in this category*
+*Generated on 2026-08-28 · 56 plugins in this category*

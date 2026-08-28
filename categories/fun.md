@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**9 plugins**
+**10 plugins**
 
 
 ---
@@ -18,8 +18,9 @@
 - [pg527322814/dsh-bayes-predict](https://github.com/pg527322814/dsh-bayes-predict) ⭐1 — dsh-贝叶斯个股预测插件：多指标信号融合的上涨概率估计、趋势状态识别与持仓风险度量（A 股 + 美股）
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
+- [xuexiaolei1997/dsh-plugin-stock-x](https://github.com/xuexiaolei1997/dsh-plugin-stock-x)
 
 ---
 
 
-*Generated on 2026-08-29 · 9 plugins in this category*
+*Generated on 2026-08-29 · 10 plugins in this category*

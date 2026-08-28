@@ -4,7 +4,7 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**200 plugins**
+**201 plugins**
 
 
 ---
@@ -209,8 +209,9 @@
 - [henrychenhao/dsh-skin-argentina](https://github.com/henrychenhao/dsh-skin-argentina) — 梅西 阿根廷皮肤
 - [a1303845406/dsh-sakura-theme](https://github.com/a1303845406/dsh-sakura-theme) — DeepSeek Harness 的晴樱与夜樱主题插件
 - [aze0695/dsh-crimson-theme](https://github.com/aze0695/dsh-crimson-theme)
+- [nickkkkkk123123/dsh-whale-girl](https://github.com/nickkkkkk123123/dsh-whale-girl) — 鲸鱼娘·灵动挂件 — 会卖萌、会记账、会弹跳的 DSH 桌面挂件插件（余额/用量/上下文/峰谷/右键菜单/拖动甩抛）
 
 ---
 
 
-*Generated on 2026-08-28 · 200 plugins in this category*
+*Generated on 2026-08-28 · 201 plugins in this category*

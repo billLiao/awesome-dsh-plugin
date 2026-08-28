@@ -101,7 +101,7 @@
 - [Vocllum/DSH-TDAI-Memory-Adapter](https://github.com/Vocllum/DSH-TDAI-Memory-Adapter) ⭐1 — DeepSeek Harness 的 TencentDB Agent Memory Adapter：自动 recall、turn 捕获与只读搜索工具。
 - [xiayuhkust/dsh-pace-popups](https://github.com/xiayuhkust/knowledge-territory) ⭐1 — User-facing pace-control popups for the DeepSeek Harness (dsh): install once, get the set (grasp-probe, crosslens, 记一笔, and a floating hub); switch any off in the bar.
 - [LittleBlackTong/dsh-plugin-memory](https://github.com/LittleBlackTong/dsh-plugin-memory) ⭐1
-- [Chillizu/MiopIIk](https://github.com/Chillizu/mop-plugins) ⭐1 — MiOpIIk：DeepSeek Harness 单职责插件集 + 四层 agent 工作流 preset（npm: dsh-miopiik）
+- [Chillizu/mop-plugins](https://github.com/Chillizu/mop-plugins) ⭐1 — MiOpIIk：DeepSeek Harness 单职责插件集 + 四层 agent 工作流 preset（npm: dsh-miopiik）
 - [xujiping/dsh-plugins](https://github.com/xujiping/dsh-plugins) ⭐1 — DeepSeek Harness 自研插件全家桶（monorepo）：dsh-memory 全局记忆等
 - [soyoungzsy/soya](https://github.com/soyoungzsy/soya) ⭐1 — 🐳 SOYA Personal Board — your private board of directors: 12 great minds from history for decisions, morning meetings & card vault. DeepSeek Harness preset + portable skills. 个人董事会：让古今智者组成你的私人智慧大脑。
 - [forgeturl/dsh-douyin-creator](https://github.com/forgeturl/dsh-douyin-creator) ⭐1 — 基于抖音官方资料的 DeepSeek Harness 自媒体插件：帮你做选题、审脚本、诊断流量、制定周计划，已用于《商道人物志》近 6 万粉丝实战。

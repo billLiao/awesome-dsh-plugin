@@ -17,6 +17,7 @@
 - [ljnljn2005/dsh-clawbot-notify](https://github.com/ljnljn2005/dsh-clawbot-notify) ⭐1
 - [0QwQ0/dsh-discord-richpresence](https://github.com/0QwQ0/dsh-discord-richpresence) ⭐1 — dsh-plugin: push vague, user-configurable DSH interaction states to local Discord as Rich Presence
 - [sryimnoob123/dsh-global-prompt](https://github.com/sryimnoob123/dsh-global-prompt) ⭐1 — DSH settings plugin for global and project AGENTS.md, identity/persona injection, and result notifications.
+- [aa2246740/dsh-gateway](https://github.com/aa2246740/dsh-gateway) ⭐1 — One DSH Host, one messaging Gateway. Bring your own Slack and Feishu apps.
 - [67-68/dsh-music-alert](https://github.com/67-68/dsh-music-alert)
 - [zbxzbx98/dsh-peak-alert](https://github.com/zbxzbx98/dsh-peak-alert) — DeepSeek 峰谷定价提示插件（DSH Web 客户端插件，纯前端，无后端依赖）
 - [jeffcwj/dsh-sounds](https://github.com/jeffcwj/dsh-sounds) — 给dsh添加opencode同款提示音和通知
@@ -26,7 +27,6 @@
 - [1210316560/dsh-lark-bridge](https://github.com/1210316560/dsh-lark-bridge)
 - [dubeno/dsh-agent-plugin-bridge](https://github.com/dubeno/dsh-agent-plugin-bridge) — 将符合Agent Plugin规范的插件适配到DSH生态
 - [GuoFengyu110429/dsh-high-fee-alert](https://github.com/GuoFengyu110429/dsh-high-fee-alert) — 一个由DSH制作的插件，用于在峰谷中的峰时段进行提醒以节省费用。
-- [aa2246740/dsh-gateway](https://github.com/aa2246740/dsh-gateway) — One DSH Host, one messaging Gateway. Bring your own Slack and Feishu apps.
 
 ---
 

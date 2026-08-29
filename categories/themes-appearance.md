@@ -4,7 +4,7 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**211 plugins**
+**214 plugins**
 
 
 ---
@@ -220,8 +220,11 @@
 - [dleaf6211-hash/dsh-whale-pet](https://github.com/dleaf6211-hash/dsh-whale-pet)
 - [lyaoliu/dsh-reasoning-effort-slider](https://github.com/lyaoliu/dsh-reasoning-effort-slider) — DSH Desktop reasoning effort slider plugin - 7-level effort control with whale-mom skin
 - [geeklei/dsh-plugins](https://github.com/geeklei/dsh-plugins) — 一个面向 DeepSeek Harness (dsh)的插件库
+- [luckzhangfengbo/dsh-web-theme](https://github.com/luckzhangfengbo/dsh-web-theme) — deepseek harness 背景主题插件
+- [2DogsLee/dsh_whalebuddy](https://github.com/2DogsLee/dsh_whalebuddy) — whalebuddy - DeepSeek Harness desktop pet (Windows): a DSH bundle plugin + Tauri shell. A porthole whale reflects your agent live state, with autostart & skin settings.
+- [qipenglin/dsh-theme-spectrum](https://github.com/qipenglin/dsh-theme-spectrum) — Light and dark theme presets for DeepSeek Harness Web
 
 ---
 
 
-*Generated on 2026-08-29 · 211 plugins in this category*
+*Generated on 2026-08-30 · 214 plugins in this category*

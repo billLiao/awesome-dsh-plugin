@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**18 plugins**
+**19 plugins**
 
 
 ---
@@ -27,8 +27,9 @@
 - [1210316560/dsh-lark-bridge](https://github.com/1210316560/dsh-lark-bridge)
 - [dubeno/dsh-agent-plugin-bridge](https://github.com/dubeno/dsh-agent-plugin-bridge) — 将符合Agent Plugin规范的插件适配到DSH生态
 - [GuoFengyu110429/dsh-high-fee-alert](https://github.com/GuoFengyu110429/dsh-high-fee-alert) — 一个由DSH制作的插件，用于在峰谷中的峰时段进行提醒以节省费用。
+- [Anna-la/dsh-turn-notify](https://github.com/Anna-la/dsh-submodel-change) — 可以选择子 agent 调用的模型。
 
 ---
 
 
-*Generated on 2026-08-29 · 18 plugins in this category*
+*Generated on 2026-08-29 · 19 plugins in this category*

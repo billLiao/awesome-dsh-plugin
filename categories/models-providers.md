@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**56 plugins**
+**57 plugins**
 
 
 ---
@@ -65,8 +65,9 @@
 - [qgx1992/dsh-model-select-style](https://github.com/qgx1992/dsh-model-select-style) — DSH web 插件：把输入框模型选择控件替换为两个独立按钮（供应商 + 模型两级联动，支持推理等级调节）
 - [johndfowler/dsh-model-search](https://github.com/johndfowler/dsh-model-search)
 - [publieople/dsh-omniroute-models](https://github.com/publieople/dsh-omniroute-models) — DSH plugin: searchable/filterable model manager for OmniRoute (or any OpenAI-compatible gateway) — provider directory, modality discovery, multi-select enable.
+- [randomix777/dsh-plugin-subscriptions](https://github.com/randomix777/dsh-plugin-subscriptions) — DSH plugin with 18 OAuth AI providers
 
 ---
 
 
-*Generated on 2026-08-29 · 56 plugins in this category*
+*Generated on 2026-08-29 · 57 plugins in this category*

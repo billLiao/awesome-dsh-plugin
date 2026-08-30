@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**32 plugins**
+**31 plugins**
 
 
 ---
@@ -26,7 +26,6 @@
 - [openrect/dsh-community-installer](https://github.com/openrect/dsh-community-installer) ⭐1 — Unofficial community installer for @deepseek-ai/dsh on Windows.
 - [Harzva/dsh-cli-store](https://github.com/Harzva/dsh-cli-store) ⭐1
 - [helibeiqi/dsh-csp-runtime](https://github.com/helibeiqi/dsh-csp-runtime) ⭐1 — Cognitive State Protocol (CSP) v0.1 — the cross-framework interop layer that makes AI thinking state serializable, persistable, and transferable. Host-side Cordis plugin for the DSH ecosystem.
-- [bruc3van/dsh-doctor](https://github.com/bruc3van/dsh-doctor) ⭐1 — DSH Doctor 面向 DSH 与插件使用者，帮助快速找出导致 DSH 启动异常或升级后不可用的插件，集中说明每个插件的问题、影响与处理方式，并检查常见的 profile 配置和版本漂移。诊断默认完全只读；只有显式使用 --fix、核对并确认精确的修复计划后才会执行，文件修改会先创建备份。
 - [zdjmrq/dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) — DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins
 - [GoGoGoDoge/dsh-plugin-installer](https://github.com/GoGoGoDoge/dsh-plugin-installer)
 - [jiay98528-dev/dsh-plugin-weaknet-adaptor](https://github.com/jiay98528-dev/dsh-plugin-weaknet-adaptor)
@@ -45,4 +44,4 @@
 ---
 
 
-*Generated on 2026-08-31 · 32 plugins in this category*
+*Generated on 2026-08-31 · 31 plugins in this category*

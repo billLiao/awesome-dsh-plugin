@@ -4,7 +4,7 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**214 plugins**
+**215 plugins**
 
 
 ---
@@ -223,8 +223,9 @@
 - [luckzhangfengbo/dsh-web-theme](https://github.com/luckzhangfengbo/dsh-web-theme) — deepseek harness 背景主题插件
 - [2DogsLee/dsh_whalebuddy](https://github.com/2DogsLee/dsh_whalebuddy) — whalebuddy - DeepSeek Harness desktop pet (Windows): a DSH bundle plugin + Tauri shell. A porthole whale reflects your agent live state, with autostart & skin settings.
 - [qipenglin/dsh-theme-spectrum](https://github.com/qipenglin/dsh-theme-spectrum) — Light and dark theme presets for DeepSeek Harness Web
+- [dingyi580/dsh-plugin-gemini-theme](https://github.com/dingyi580/dsh-plugin-gemini-theme) — A Gemini-styled skin for the DeepSeek Harness web client
 
 ---
 
 
-*Generated on 2026-08-30 · 214 plugins in this category*
+*Generated on 2026-08-30 · 215 plugins in this category*

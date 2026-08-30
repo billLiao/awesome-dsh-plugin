@@ -4,17 +4,17 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**226 plugins**
+**227 plugins**
 
 
 ---
 
-- [text2future/flowix](https://github.com/text2future/flowix) ⭐380 — Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding
+- [text2future/flowix](https://github.com/text2future/flowix) ⭐381 — Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding
 - [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) ⭐121 — Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
 - [seriousz158/dsh-memory](https://github.com/seriousz158/dsh-memory) ⭐102
 - [btspoony/mstar-harness](https://github.com/btspoony/mstar-harness) ⭐57 — An omni-plugin for harness engineering workflows with multi-agents, programmatic gates and skills.
+- [xiehuan123/dsh-deepread](https://github.com/xiehuan123/dsh-deepread) ⭐41 — Evidence-first reading for AI agents — turn articles, books and PDFs into traceable claims, evidence, source locations and knowledge maps.
 - [xuedai-mayi/dsh-wenshan](https://github.com/xuedai-mayi/dsh-wenshan) ⭐41 — 问山：DeepSeek Harness 地理野外实习知识图谱插件与非官方二次开发项目
-- [xiehuan123/dsh-deepread](https://github.com/xiehuan123/dsh-deepread) ⭐37 — Evidence-first deep reading for AI agents — trace claims, evidence, confidence and knowledge maps across articles, books and PDFs.
 - [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) ⭐25 — A caring memory companion for DSH — three-layer auto memory, proactive calendar reminders, warm AI greetings, per-turn auto-consolidation, and inheritance of memories from other AI tools.
 - [Soren-ABT/dsh-knowledge](https://github.com/Soren-ABT/dsh-knowledge) ⭐19 — Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel
 - [LaplaceYoung/dsh-directorx](https://github.com/LaplaceYoung/dsh-directorx) ⭐16 — DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
@@ -235,8 +235,9 @@
 - [hmlyx/dsh-memory](https://github.com/hmlyx/dsh-memory) — ?????? for DeepSeek Harness:??????AI ?????? AI ??????? AI ????????(?? profile ??,??????)
 - [chocobo77/dsh-infinite-context](https://github.com/chocobo77/dsh-infinite-context) — DeepSeek Harness plugin: multi-tier memory management, semantic retrieval, structured memory, and model-context awareness for infinite context.
 - [ljc6413/pkg-dev](https://github.com/ljc6413/pkg-dev) — YiHe 编程认知内核 for DeepSeek Harness：27 领域包 + 55 RFB 经验库 + 工程工具链 + 商业/安全/进化体系（会进化的编程助手）
+- [AlgoVaultLabs/dsh-algovault](https://github.com/AlgoVaultLabs/dsh-algovault) — Preconfigured DeepSeek Harness bundle for the AlgoVault MCP server — composite trade calls, market regime and cross-venue funding arbitrage as mcp__algovault__* tools.
 
 ---
 
 
-*Generated on 2026-08-30 · 226 plugins in this category*
+*Generated on 2026-08-30 · 227 plugins in this category*

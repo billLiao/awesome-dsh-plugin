@@ -71,4 +71,4 @@
 ---
 
 
-*Generated on 2026-08-30 · 58 plugins in this category*
+*Generated on 2026-08-31 · 58 plugins in this category*

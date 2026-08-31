@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**31 plugins**
+**30 plugins**
 
 
 ---
@@ -16,7 +16,6 @@
 - [omdsh-dev/dsh-ernie-image](https://github.com/omdsh-dev/dsh-ernie-image) ⭐3
 - [omdsh-dev/dsh-daily-progress](https://github.com/omdsh-dev/dsh-daily-progress) ⭐3
 - [codingayice/dsh-interview](https://github.com/codingayice/dsh-interview) ⭐3 — 面向开发岗位的 DSH AI面试助手，支持八股复习、模拟面试、场景题、力扣 Hot 100 和可视化练习管理。
-- [omdsh-dev/dsh-input-history](https://github.com/omdsh-dev/dsh-input-history) ⭐3 — DSH Web 输入历史插件：Ctrl+Up / Ctrl+Down 像终端一样召回与切换已发送消息，零核心改动
 - [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐2 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
 - [omdsh-dev/dsh-sandbox-micro](https://github.com/omdsh-dev/dsh-sandbox-micro) ⭐2
 - [LA7-F/dsh-MyCordis](https://github.com/LA7-F/dsh-MyCordis) ⭐2 — 可以让你的dsh中的“Cordis插件”变得可管理，可一键生成安装包|Make the "Cordis plugins" in your dsh manageable and generate installation packages with one click.
@@ -44,4 +43,4 @@
 ---
 
 
-*Generated on 2026-08-31 · 31 plugins in this category*
+*Generated on 2026-09-01 · 30 plugins in this category*

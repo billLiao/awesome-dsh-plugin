@@ -11,8 +11,8 @@
 
 - [HuanLinOTO/dsh-plugin-auto-blame](https://github.com/HuanLinOTO/dsh-plugin-auto-blame) ⭐10 — 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 | After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
+- [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐7 — DSH Web 模型余量与用量监控插件
 - [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) ⭐5 — DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）
-- [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐5 — DSH Web 模型余量与用量监控插件
 - [detpecca/dsh-llm-wiki](https://github.com/detpecca/dsh-llm-wiki) ⭐4
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐4 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
 - [edge-sky/dsh-auth-adapter](https://github.com/edge-sky/dsh-oauth-adapter) ⭐4 — A OAuth adapter for DSH
@@ -36,6 +36,7 @@
 - [ZhenXifu/dsh-collapsible-models](https://github.com/ZhenXifu/dsh-collapsible-models) ⭐1
 - [zhubaohi/dsh-qwen38-compaction-fix](https://github.com/zhubaohi/dsh-qwen38-compaction-fix) ⭐1 — DSH plugin: stop qwen3.8-27b from burning its output budget on thinking during context compaction
 - [kikomaotu/ccs-balance](https://github.com/kikomaotu/ccs-balance) ⭐1 — DSH 插件：同步 cc-switch 各 provider 余额，按日/月/总量统计 token 用量与花费（支持中转站币种与汇率设置）
+- [alaxrpg/dsh-llm-approve-for-me](https://github.com/alaxrpg/dsh-llm-approve-for-me) ⭐1
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -60,7 +61,6 @@
 - [ZI-LV68/dsh-deepseek-model-router](https://github.com/ZI-LV68/dsh-deepseek-model-router)
 - [masknull/dsh-llm-resilience](https://github.com/masknull/dsh-llm-resilience) — DSH plugin: LLM retry & timeout configuration card. 在 DSH 设置->插件->插件配置 中自定义 LLM 请求重试策略与流空闲超时。
 - [secyborg/dsh-glm-web-search](https://github.com/secyborg/dsh-glm-web-search) — DSH host plugin: GLM (Zhipu) web-search provider for the ctx.web seam — structured results, no model turn, reuses your ZAI coding key
-- [alaxrpg/dsh-llm-approve-for-me](https://github.com/alaxrpg/dsh-llm-approve-for-me)
 - [myk5010/dsh-llm-concurrency](https://github.com/myk5010/dsh-llm-concurrency)
 - [qgx1992/dsh-model-select-style](https://github.com/qgx1992/dsh-model-select-style) — DSH web 插件：把输入框模型选择控件替换为两个独立按钮（供应商 + 模型两级联动，支持推理等级调节）
 - [johndfowler/dsh-model-search](https://github.com/johndfowler/dsh-model-search)

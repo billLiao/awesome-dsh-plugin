@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**21 plugins**
+**22 plugins**
 
 
 ---
@@ -30,8 +30,9 @@
 - [Anna-la/dsh-turn-notify](https://github.com/Anna-la/dsh-submodel-change) — 可以选择子 agent 调用的模型。
 - [hmlyx/dsh-notify](https://github.com/hmlyx/dsh-notify) — 在输入框右边加了一个泡泡窗口，你可以接入插件或者告诉 AI 什么时候使用它。
 - [cainiao1992/dsh-gsd-bridge](https://github.com/cainiao1992/dsh-gsd-bridge)
+- [lw-storm/dsh-plugin-noticeme](https://github.com/lw-storm/dsh-plugin-noticeme)
 
 ---
 
 
-*Generated on 2026-09-01 · 21 plugins in this category*
+*Generated on 2026-09-02 · 22 plugins in this category*

@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**58 plugins**
+**59 plugins**
 
 
 ---
@@ -67,8 +67,9 @@
 - [publieople/dsh-omniroute-models](https://github.com/publieople/dsh-omniroute-models) — DSH plugin: searchable/filterable model manager for OmniRoute (or any OpenAI-compatible gateway) — provider directory, modality discovery, multi-select enable.
 - [zhuzichen362/dsh-call-shrink](https://github.com/zhuzichen362/dsh-call-shrink) — dsh
 - [LamplitIsles/kepos-tts](https://github.com/LamplitIsles/kepos-tts) — Qwen/Volcengine TTS for dsh
+- [WuJiaoJue/dsh-suggest-ghost](https://github.com/WuJiaoJue/dsh-suggest-ghost) — DSH Web 输入预测插件：回合结束后 LLM 生成下一条建议，输入框空草稿时渲染幽灵文本，Tab 采纳。
 
 ---
 
 
-*Generated on 2026-09-01 · 58 plugins in this category*
+*Generated on 2026-09-01 · 59 plugins in this category*

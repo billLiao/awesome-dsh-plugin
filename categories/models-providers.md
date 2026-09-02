@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**59 plugins**
+**60 plugins**
 
 
 ---
@@ -68,8 +68,9 @@
 - [zhuzichen362/dsh-call-shrink](https://github.com/zhuzichen362/dsh-call-shrink) — dsh
 - [LamplitIsles/kepos-tts](https://github.com/LamplitIsles/kepos-tts) — Qwen/Volcengine TTS for dsh
 - [WuJiaoJue/dsh-suggest-ghost](https://github.com/WuJiaoJue/dsh-suggest-ghost) — DSH Web 输入预测插件：回合结束后 LLM 生成下一条建议，输入框空草稿时渲染幽灵文本，Tab 采纳。
+- [liaoyuqing/dsh-llm-error-retry](https://github.com/liaoyuqing/dsh-llm-error-retry) — 用于在deepseek-harnees中报错时重试大模型请求，支持配置http状态，字段-值命中。
 
 ---
 
 
-*Generated on 2026-09-02 · 59 plugins in this category*
+*Generated on 2026-09-02 · 60 plugins in this category*

@@ -4,15 +4,15 @@
 > Automation loops, scheduled tasks, multi-agent teams, and workflow engines.
 
 
-**2680 plugins**
+**2682 plugins**
 
 
 ---
 
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐207946 — DeepSeek Harness: Everything is a Plugin.
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐208058 — DeepSeek Harness: Everything is a Plugin.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) ⭐14177 — Harness engineering beginner tutorial, from 0 to 1
-- [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) ⭐3141 — 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) ⭐3006 — The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
+- [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) ⭐3142 — 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) ⭐3007 — The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
 - [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) ⭐1233 — AgentTeams plugin for DeepSeek Harness
 - [Minglink/dsh-infinite-gen-2](https://github.com/Minglink/dsh-infinite-gen-3) ⭐743 — DeepSeek 专用破甲插件「无限三代」dsh-infinite-gen-3 — armor-breaking plugin for DeepSeek，破甲版：稳定化破甲，求 Star 收藏 ⭐
 - [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) ⭐252 — DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐
@@ -24,7 +24,7 @@
 - [AITabby/dockyard-dsh](https://github.com/AITabby/dockyard-dsh) ⭐79 — A macOS-only native account-pool and provider plugin for DeepSeek Harness.
 - [yyh-001/dsh-expression](https://github.com/yyh-001/dsh-meme) ⭐68 — DeepSeek Harness 的表情包插件——找得到、发得出、学得会，纯文本斗图、情绪主动发图、像 QQ/微信 一样发图、AI 自动学图、自定义表情包 、多种风格随意切换。
 - [Awu12277/dsh-stock-watch](https://github.com/Awu12277/dsh-stock-watch) ⭐66 — A股自选股实时行情盯盘插件 - DeepSeek Harness Web 右上角可折叠弹窗
-- [WM-CODER/custom-first-control-prompt](https://github.com/WM-CODER/custom-first-control-prompt) ⭐58 — DeepSeek Harness plugin for insert custom prompt
+- [WM-CODER/custom-first-control-prompt](https://github.com/WM-CODER/custom-first-control-prompt) ⭐59 — DeepSeek Harness plugin for insert custom prompt
 - [peiyuwang54/deepseek-harness-cli](https://github.com/peiyuwang54/deepseek-harness-cli) ⭐57 — DeepSeek CLI
 - [Ephemeral-AI-Lab/dsh-plugins](https://github.com/Ephemeral-AI-Lab/dsh-plugins) ⭐45 — Make Deepseek Harness Great
 - [anweat/dsh-web-search-pro](https://github.com/anweat/dsh-web-search-pro) ⭐43 — Enhanced, persistent web search plugin for DeepSeek Harness (multi-engine search, SQLite+LRU cache, platform backends, Playwright rendering)
@@ -712,6 +712,8 @@
 - [Jonah-Wu23/dsh-gungnir](https://github.com/Jonah-Wu23/dsh-gungnir) ⭐1 — Lock the goal. Adapt the loop. Prove the hit.
 - [linfengyu94/dsh-balance-panel](https://github.com/linfengyu94/dsh-balance-panel) ⭐1 — DeepSeek 充值余额悬浮面板 - DSH 插件：悬浮显示充值余额，带可视化进度条与动态按钮动画
 - [duhu2000/dsh-data-cleaning-agent](https://github.com/duhu2000/dsh-data-cleaning-agent) ⭐1 — Data cleaning and enterprise enrichment agent plugin for DeepSeek Harness.
+- [DaYanQAQ/DSH-Balance-Mini](https://github.com/DaYanQAQ/DSH-Balance-Mini) ⭐1 — DeepSeek Harness 的极简版余额监视器插件：常驻余额徽章、红绿灯配色、多供应商、高峰/空闲时段。
+- [better-er/dsh-write-create-only](https://github.com/better-er/dsh-write-create-only) ⭐1 — write 仅创建：禁止 write 覆盖已存在文件，目标已存在时自动拒绝并提示改用 edit，防止模型误覆写已有内容。纯 host 端 dsh 插件。
 - [yybukn/dsh-table-attach](https://github.com/yybukn/dsh-table-attach) — 在dph中可以直接拖动.xlsx和.csv的表格文件到输入框中
 - [CARVIN94/dsh-router-traework](https://github.com/CARVIN94/dsh-router-traework)
 - [CARVIN94/dsh-router-codebuddy](https://github.com/CARVIN94/dsh-router-codebuddy)
@@ -2693,4 +2695,4 @@
 ---
 
 
-*Generated on 2026-09-02 · 2680 plugins in this category*
+*Generated on 2026-09-02 · 2682 plugins in this category*

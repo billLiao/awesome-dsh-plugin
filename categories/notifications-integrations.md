@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**22 plugins**
+**24 plugins**
 
 
 ---
@@ -31,8 +31,10 @@
 - [hmlyx/dsh-notify](https://github.com/hmlyx/dsh-notify) — 在输入框右边加了一个泡泡窗口，你可以接入插件或者告诉 AI 什么时候使用它。
 - [cainiao1992/dsh-gsd-bridge](https://github.com/cainiao1992/dsh-gsd-bridge)
 - [lw-storm/dsh-plugin-noticeme](https://github.com/lw-storm/dsh-plugin-noticeme)
+- [alchemistwu/dsh-telegram](https://github.com/alchemistwu/dsh-telegram)
+- [hotpot-labs/dsh-notifier-plugin](https://github.com/hotpot-labs/dsh-notifier-plugin) — dsh 干完活之后通知你，【轻量级】通知插件，只通知，不交互，mac/windows/linux 操作系统支持，dsh 在干活时你可以摸鱼
 
 ---
 
 
-*Generated on 2026-09-02 · 22 plugins in this category*
+*Generated on 2026-09-02 · 24 plugins in this category*

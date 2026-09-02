@@ -9,7 +9,7 @@
 
 ---
 
-- [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) ⭐14057 — A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
+- [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) ⭐14069 — A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 - [AdamPlatin123/awesome-dsh-plugins](https://github.com/AdamPlatin123/dsh-plugin-radar) ⭐1440 — DSH Plugin Radar — 开源 DSH 插件生态雷达：自动发现 15900+ 候选、k8s 运行级实测 10000+、15 分钟快照管线；插件目录是其自动生成的 artifact
 - [Anil-matcha/awesome-deepseek-harness](https://github.com/Anil-matcha/awesome-dsh-plugin) ⭐987 — A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem
 - [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) ⭐963 — DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.

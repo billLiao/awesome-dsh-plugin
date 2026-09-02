@@ -28,7 +28,6 @@
 - [seriousz158/dsh-codex-use](https://github.com/seriousz158/dsh-codex-use) ⭐2
 - [jyao-SUSE-power-group/dsh-provider-rate-limit](https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit) ⭐2 — dsh-provider-rate-limit
 - [Shizuku-keop/dsh-micro-inversion-standard](https://github.com/Shizuku-keop/dsh-micro-inversion-standard) ⭐2 — 一个可复用的 DSH Agent Preset：双阶段、Token 精益的编码智能体模式。  核心目标：把模型思维链的起手习惯从 "let me" 翻转为 "we need"，同时把上下文占用与 Token 消耗压到最低，并保持供应商 KV Cache 对未变前缀持续命中。
-- [xiagaogaozi/dsh-subagent-pool](https://github.com/xiagaogaozi/dsh-subagent-pool) ⭐1 — DSH named-subagent pool: configure reusable subagents (model/reasoning preset) in settings and call them by name
 - [jonah791/dsh-compact-provider](https://github.com/jonah791/dsh-compact-provider) ⭐1
 - [jonah791/dsh-agent-llm-retry](https://github.com/jonah791/dsh-agent-llm-retry) ⭐1
 - [lakabuji-arch/dsh-model-accordion](https://github.com/lakabuji-arch/dsh-model-accordion) ⭐1
@@ -42,6 +41,7 @@
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
 - [QiE2035/dsh-llm-headers](https://github.com/QiE2035/dsh-llm-headers)
 - [OpenTritium/dsh-codex-shim](https://github.com/OpenTritium/dsh-codex-shim) — 让 GPT 在 DSH 中宾至如归    Make GPT feel at home in DSH.
+- [xiagaogaozi/dsh-subagent-pool](https://github.com/xiagaogaozi/dsh-subagent-pool) — DSH命名子代理池：在设置中配置可重用的子代理（模型/推理/预设），并按名称调用它们
 - [realpkuasule/dsh-model-routing](https://github.com/realpkuasule/dsh-model-routing) — dsh-model-routing
 - [fonlan/dsh-model-router](https://github.com/fonlan/dsh-model-router)
 - [Yiklek/dsh-llm-retry-settings](https://github.com/Yiklek/dsh-llm-retry-settings) — DSH plugin: a settings page that views and edits each LLM provider's request retry policy

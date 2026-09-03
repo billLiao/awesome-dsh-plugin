@@ -4,12 +4,12 @@
 > Automation loops, scheduled tasks, multi-agent teams, and workflow engines.
 
 
-**2702 plugins**
+**2703 plugins**
 
 
 ---
 
-- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐209495 — DeepSeek Harness: Everything is a Plugin.
+- [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐209574 — DeepSeek Harness: Everything is a Plugin.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) ⭐14177 — Harness engineering beginner tutorial, from 0 to 1
 - [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) ⭐3172 — 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
 - [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) ⭐3055 — The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
@@ -206,6 +206,7 @@
 - [cnctem/dsh-acp](https://github.com/cnctem/dsh-acp) ⭐3 — ACP server for DeepSeek Harness — bridges Zed and other IDEs to dsh agents
 - [Dis2017/dsh-run-guard](https://github.com/Dis2017/dsh-run-guard) ⭐3
 - [FxRayHughes/dsh-coding-companion](https://github.com/FxRayHughes/dsh-coding-companion) ⭐3 — 编程陪伴 · deepseek-harness Node-host 插件：AI 工作时弹独立窗口播放，等待时挂起进程冻结播放，多站点持久化，仅 Windows
+- [beijingwahw/dsh-companion-enterprise](https://github.com/beijingwahw/dsh-companion-enterprise) ⭐3 — DeepSeek Companion Enterprise — DeepSeek Harness 企业级伴侣插件：安全审计与 DLP、团队协作与知识管理、任务编排与断点续跑、多模型竞技场、执行轨迹分析、Prompt 工程工作台。
 - [bernardleex526/oh_my_deepseek_harness](https://github.com/bernardleex526/oh_my_deepseek_harness) ⭐3 — DeepSeek Harness 多智能体编排模式 — 灵感来自 oh-my-opencode-slim
 - [LeemanCheung/dsh-image-gen](https://github.com/LeemanCheung/dsh-image-gen) ⭐3 — GPT Image 2 generation with progressive Codex-style previews for DeepSeek Harness
 - [royenheart/dsh-plugin-opencode-omo](https://github.com/royenheart/dsh-plugin-opencode-omo) ⭐3 — deepseek harness opencode + omo (oh-my-openagent) preset
@@ -793,7 +794,6 @@
 - [mitian233/dsh-plugin-commandcode-provider](https://github.com/mitian233/dsh-plugin-commandcode-provider)
 - [Paloma966/dsh-paper](https://github.com/Paloma966/dsh-paper) — 计算机类本科毕业设计全流程 DSH 插件项目。
 - [DeLightor/dsh-depguard](https://github.com/DeLightor/dsh-depguard)
-- [beijingwahw/dsh-companion-enterprise](https://github.com/beijingwahw/dsh-companion-enterprise) — DeepSeek Companion Enterprise — DeepSeek Harness 企业级伴侣插件：安全审计与 DLP、团队协作与知识管理、任务编排与断点续跑、多模型竞技场、执行轨迹分析、Prompt 工程工作台。
 - [XuezuoYS/dsh-IamDeepSeekV4ga](https://github.com/XuezuoYS/dsh-IamDeepSeekV4ga) — 一个基于玄学的让 deepseek 思维链模仿灰测神必模型的 deepseek harness 娱乐插件
 - [FolioTemp/dsh-claude-antidote](https://github.com/FolioTemp/dsh-claude-antidote) — DSH compatibility antidote: keep dsh-claude-ux visibly enabled while neutralizing its actual debuffs.
 - [lussey820/aitoearn-dsh-plugin](https://github.com/lussey820/aitoearn-dsh-plugin) — AiToEarn 内容创作套件 —— DeepSeek Harness 插件（创意指导/脚本/图文/视频生成 + 抖音发布）
@@ -2711,8 +2711,9 @@
 - [Exaggarate/dshpkg](https://github.com/Exaggarate/dshpkg) — Security & health audit CLI for DeepSeek Harness (DSH) plugins — npm audit for the everything-is-a-plugin era. Search, info, security-scan, doctor. stdlib-only.
 - [plastic-labs/dsh-honcho](https://github.com/plastic-labs/dsh-honcho) — Honcho integration for the DeepSeek Harness
 - [MarchLiu/dsh-uno-office](https://github.com/MarchLiu/dsh-uno-office) — LibreOffice (UNO) powered high-fidelity office engine for DSH — create & edit docx/xlsx/pptx via prompts, with human-in-the-loop review
+- [yangbobo2021/relay-dsh-plugin-monitor-time](https://github.com/yangbobo2021/relay-dsh-plugin-monitor-time) — Time deadline Monitor Bundle extension for Relay on DeepSeek Harness.
 
 ---
 
 
-*Generated on 2026-09-03 · 2702 plugins in this category*
+*Generated on 2026-09-03 · 2703 plugins in this category*

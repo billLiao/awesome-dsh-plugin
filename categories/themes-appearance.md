@@ -4,7 +4,7 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**222 plugins**
+**223 plugins**
 
 
 ---
@@ -231,8 +231,9 @@
 - [makajo/dsh-gemini-m3e-theme](https://github.com/makajo/dsh-gemini-m3e-theme) — Gemini-style Material 3 Expressive theme for DeepSeek Harness Web (persistent client bundle)
 - [Azonda/dsh-whale-writing](https://github.com/Azonda/dsh-whale-writing) — 老人与大肥鱼：Deepseek Harness超级写作增强插件，具备四种风格和五种写作严谨度的自动切换功能，并且具备任务级本地记忆和去ai味后处理、。
 - [Waldsatte/dsh-theme-taojian](https://github.com/Waldsatte/dsh-theme-taojian) — Taojian (陶笺) — Claude-inspired DSH theme
+- [FourTow/dsh-theme-win98](https://github.com/FourTow/dsh-theme-win98) — Windows 98 theme plugin for DeepSeek Harness web
 
 ---
 
 
-*Generated on 2026-09-03 · 222 plugins in this category*
+*Generated on 2026-09-03 · 223 plugins in this category*

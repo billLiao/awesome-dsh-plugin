@@ -1,0 +1,37 @@
+name: 插件收录建议
+description: 建议收录一个 DeepSeek Harness (DSH) 插件
+labels: ["plugin-submission"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: 插件仓库地址
+      placeholder: https://github.com/owner/dsh-plugin-xxx
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 建议分类
+      options:
+        - tools-capabilities
+        - models-providers
+        - sessions-messages
+        - memory
+        - workflow-automation
+        - ui-enhancements
+        - themes-appearance
+        - security-privacy
+        - notifications-integrations
+        - development-runtime
+        - awesome-lists
+        - fun
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 收录理由
+      description: 插件功能、与 DeepSeek Harness 的关系、维护活跃度
+    validations:
+      required: true

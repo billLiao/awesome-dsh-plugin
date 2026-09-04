@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://billliao.github.io/awesome-dsh-plugin/sitemap.xml

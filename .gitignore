@@ -1,2 +1,6 @@
 __pycache__/
 *.pyc
+
+# 中间产物：体积大且可由 fetch_plugins.py 重新生成，不进 git
+data/raw_plugins.json
+data/raw/

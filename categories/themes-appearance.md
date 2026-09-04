@@ -4,12 +4,12 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**226 plugins**
+**230 plugins**
 
 
 ---
 
-- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐1913 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
+- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐1922 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
 - [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) ⭐925 — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
 - [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) ⭐195 — WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.
 - [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) ⭐123 — DeepSeek Harness 滑动变阻器皮肤
@@ -35,6 +35,7 @@
 - [maple110011/dsh-obsidian-math](https://github.com/maple110011/dsh-obsidian-math) ⭐6 — 面向数学笔记的 DeepSeek Harness 助手，驻留在 Obsidian 右侧栏。可直接读写数学笔记，维护分层长期记忆（画像、主题、类型化记录、原始证据），按 Rethlas 风格证明工作流工作，内置个人定理索引与问题模板库，并能把关键想法捕捉到备忘录、主动提醒打磨。
 - [Lhy723/dsh-neu-theme](https://github.com/Lhy723/dsh-neu-theme) ⭐6 — DeepSeek Harness Web 的轻拟物与磨砂玻璃主题插件，提供浅色/深色主题、环境光、材质纹理和细腻微交互。Neumorphism + glassmorphism theme plugin for DeepSeek Harness Web with warm light/dark palettes, ambient lighting, grain texture, and subtle micro-interactions.
 - [starslittle/dsh-blue-whale](https://github.com/starslittle/dsh-blue-whale) ⭐6 — 复刻 DeepSeek Chat 蓝鲸配色的皮肤，亮色/深色跟随系统外观。
+- [JohnnyTing/dsh-official-homepage-theme](https://github.com/JohnnyTing/dsh-official-homepage-theme) ⭐6 — 复刻 DeepSeek Harness 官方首页主题插件
 - [988hj7tczd-oss/harness-desktop](https://github.com/988hj7tczd-oss/harness-desktop) ⭐5 — 彩色可定制外观的 DeepSeek Harness 桌面客户端 · Colorful, customizable desktop client for DeepSeek Harness
 - [Misaki14987/dsh-theme-taffy](https://github.com/Misaki14987/dsh-theme-taffy) ⭐5 — 我不是雏草姬（自用
 - [PerryLink/dsh-mask](https://github.com/PerryLink/dsh-mask) ⭐5 — PII masking middleware for DeepSeek Harness: anonymize names, phones, emails, ID cards, bank cards, keys, and addresses to placeholders before they reach the model, restore them at the display layer, keep the restore table only in memory and a controlled storage domain, never log plaintext, and expose /mask and the mask_test tool
@@ -76,13 +77,11 @@
 - [lxxz1918/dsh-theme-customizer](https://github.com/lxxz1918/dsh-theme-customizer) ⭐2 — DeepSeek Harness（DSH）Web 界面自定义主题插件：背景/文字/框线/细节全可视化调整，可导入导出预设，持久化保存。
 - [qinyuehuan/dsh-whale-status](https://github.com/qinyuehuan/dsh-whale-status) ⭐2 — 把鲸鱼娘思考时的 deep diving 状态文案换成任意多句随机播放，蓝青水流动画，颜色/流速可自定义（DeepSeek Harness plugin）
 - [Simon-yyy/dsh-theme-escook](https://github.com/Simon-yyy/dsh-theme-escook) ⭐2 — 为DeepSeek Harness桌面端打造的一款主题
-- [JohnnyTing/dsh-official-homepage-theme](https://github.com/JohnnyTing/dsh-official-homepage-theme) ⭐2 — 复刻 DeepSeek Harness 官方首页主题插件
 - [shawnlone/dsh-theme-tuner](https://github.com/shawnlone/dsh-theme-tuner) ⭐2
 - [mtaech/dsh-material-you](https://github.com/mtaech/dsh-material-you) ⭐2 — Material You (M3) skin for DeepSeek Harness: HCT tonal palette + Maple Mono NF CN, clean blue & white
 - [wishesl/dsh-launcher](https://github.com/wishesl/dsh-launcher) ⭐2 — Manage DSH plugins & runtime without launching it: plugin market, per-instance masking, version install. Wails v2 (Go + React).  DeepSeek Harness 桌面启动器：不启动 DSH 即可安全管理插件与本体——多实例/多版本一键启动、实时日志、npm 版本查询、插件市场（安装/卸载/开关/收藏/分享码）、实例级插件临时屏蔽。基于 Wails v2 (Go + React)。
 - [swordordead/dsh-Veneer](https://github.com/swordordead/dsh-Veneer) ⭐2 — DIY你的小蓝鲸吧
 - [Witherwithwinter/DeepSeek-Balance-Whale-Widget-Bowl](https://github.com/Witherwithwinter/DeepSeek-Balance-Whale-Widget-Bowl) ⭐2 — DeepSeek Harness（DSH）Web 界面右下角的常驻余额挂件。基于 MeteorNOX/DeepSeek-Balance-Whale-Widget 修改的铁盆鲸鱼娘版。
-- [mrbbbaixue/dsh-desktop](https://github.com/mrbbbaixue/dsh-desktop) ⭐2 — .NET 10 WPF + WebView2 desktop launcher for DeepSeek Harness (dsh): managed child process, tray controls, HiDPI, native title bar theme following
 - [yu-wenchao/dsh-opencode-free-models](https://github.com/yu-wenchao/dsh-opencode-free-models) ⭐2 — 无限免费额度的deepseek harnes 免费模型插件-免费api-DeepSeek Harness (DSH) 插件 — 在聊天界面里实时展示 OpenCode Zen 的最新免费模型，无需登录、无需密钥，直接在模型选择器选用即可对话。切换网络实现无限额度，无限量token自由！
 - [kinmat-A/dsh-theme-switch](https://github.com/kinmat-A/dsh-theme-switch) ⭐1 — 一款轻量级的 DSH 主题外观切换插件：自动检测已装皮肤，一键互斥切换，全部停用时回退官方外观，即时生效、重启保留。
 - [LvsH13/dsh-desktop](https://github.com/LvsH13/dsh-desktop) ⭐1 — DeepSeek Harness 的 Windows 桌面端插件：托盘鲸鱼图标、桌面快捷方式、开机自启直达桌面窗口，一键切换桌面/网页端。 A Windows desktop companion for DeepSeek Harness: system tray (whale) icon, desktop shortcut, login auto-start straight into the desktop window, and one-click desktop/web switching.
@@ -235,8 +234,13 @@
 - [Waldsatte/dsh-theme-taojian](https://github.com/Waldsatte/dsh-theme-taojian) — Taojian (陶笺) — Claude-inspired DSH theme
 - [FourTow/dsh-theme-win98](https://github.com/FourTow/dsh-theme-win98) — Windows 98 theme plugin for DeepSeek Harness web
 - [marcemira/dsh-theme-nier-automata](https://github.com/marcemira/dsh-theme-nier-automata) — NieR:Automata-inspired YoRHa theme for DeepSeek Harness web
+- [fengb3/dsh-theme-macintosh](https://github.com/fengb3/dsh-theme-macintosh) — DSH 主题 · 经典麦金塔 Classic Macintosh(System 7 像素复古)
+- [zgxaxdd/dsh-html-render](https://github.com/zgxaxdd/dsh-html-render) — Inline HTML + KaTeX renderer for DeepSeek Harness (DSH) chats - sandboxed iframes, theme-adaptive, height-accurate, zero network
+- [YrracOwl/dsh-theme-cutout-clash](https://github.com/YrracOwl/dsh-theme-cutout-clash) — EN: Neo-brutalist and pop-art themes with calm reading surfaces for DSH Web. 中文：面向 DSH Web、兼顾安静阅读表面的新粗野主义与波普艺术主题。
+- [YrracOwl/dsh-theme-acid-noir](https://github.com/YrracOwl/dsh-theme-acid-noir) — EN: Usability-first cyber-editorial themes for DSH Web. 中文：面向 DSH Web、重视可用性的赛博编辑主题。
+- [wxj783428795/dsh-plugins](https://github.com/wxj783428795/dsh-plugins) — DeepSeek Harness 多插件开发仓库
 
 ---
 
 
-*Generated on 2026-09-04 · 226 plugins in this category*
+*Generated on 2026-09-05 · 230 plugins in this category*

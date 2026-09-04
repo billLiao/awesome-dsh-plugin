@@ -117,13 +117,14 @@ def generate_readme():
     lines.append("# Awesome DeepSeek Harness (DSH) Plugin\n")
     lines.append("\n[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\n")
     lines.append("\n> A categorized curated list of plugins for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`).\n")
+    lines.append("\n🌐 **Browse online**: [https://billliao.github.io/awesome-dsh-plugin/](https://billliao.github.io/awesome-dsh-plugin/) — search & filter all plugins\n")
     lines.append("\nDeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding agent (Web and headless), built on a framework where everything is a plugin: models, tools, sandboxes, session storage, UI, even the agent loop itself.\n")
     lines.append(f"\n**{data['meta']['total_plugins']} plugins** collected from GitHub topic [`dsh-plugin`](https://github.com/topics/dsh-plugin) · [PRs welcome](#contributing)\n")
     lines.append("\n## Categories\n")
 
     # Category overview table
-    lines.append("| Category | Count | Description |\n")
-    lines.append("|----------|-------|-------------|\n")
+    lines.append("| Category | Count | Description |")
+    lines.append("|----------|-------|-------------|")
     all_cats = cat_order + ([weakly_related_cat] if weakly_related_cat in data['categories'] else [])
     for cat in all_cats:
         if cat in data['categories']:
@@ -131,7 +132,7 @@ def generate_readme():
             info = cat_info[cat]
             count = len(plugins)
             filename = f"categories/{cat}.md"
-            lines.append(f"| {info['icon']} [{info['name']}]({filename}) | {count} | {info['desc']} |\n")
+            lines.append(f"| {info['icon']} [{info['name']}]({filename}) | {count} | {info['desc']} |")
 
     lines.append("\n## Featured Plugins\n")
     lines.append("\nA selection of notable plugins by category:\n")
@@ -186,12 +187,13 @@ def generate_readme_zh():
     lines.append("# Awesome DeepSeek Harness (DSH) Plugin\n")
     lines.append("\n[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\n")
     lines.append("\n> [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)（`dsh`）插件分类精选列表。\n")
+    lines.append("\n🌐 **在线浏览**：[https://billliao.github.io/awesome-dsh-plugin/](https://billliao.github.io/awesome-dsh-plugin/) — 支持搜索与分类筛选\n")
     lines.append("\nDeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行的 Coding Agent，底层又是一套「一切皆插件」的框架。\n")
     lines.append(f"\n**{data['meta']['total_plugins']} 个插件**，来自 GitHub 话题 [`dsh-plugin`](https://github.com/topics/dsh-plugin) · 欢迎 [PR](#贡献)\n")
     lines.append("\n## 分类\n")
 
-    lines.append("| 分类 | 数量 | 说明 |\n")
-    lines.append("|------|------|------|\n")
+    lines.append("| 分类 | 数量 | 说明 |")
+    lines.append("|------|------|------|")
     all_cats = cat_order + ([weakly_related_cat] if weakly_related_cat in data['categories'] else [])
     for cat in all_cats:
         if cat in data['categories']:
@@ -199,7 +201,7 @@ def generate_readme_zh():
             info = cat_info[cat]
             count = len(plugins)
             filename = f"categories/{cat}.md"
-            lines.append(f"| {info['icon']} [{info['name_zh']}]({filename}) | {count} | {info['desc_zh']} |\n")
+            lines.append(f"| {info['icon']} [{info['name_zh']}]({filename}) | {count} | {info['desc_zh']} |")
 
     lines.append("\n## 精选插件\n")
 
@@ -341,6 +343,7 @@ python3 scripts/fetch_plugins.py
 echo "=== Categorizing and generating files ==="
 python3 scripts/categorize_and_generate.py
 python3 scripts/generate_project.py
+python3 scripts/generate_site.py
 
 echo "=== Done ==="
 echo "Review changes with: git diff"

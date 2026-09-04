@@ -6,6 +6,7 @@
 
 > A categorized curated list of plugins for [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`).
 
+
 🌐 **Browse online**: [https://billliao.github.io/awesome-dsh-plugin/](https://billliao.github.io/awesome-dsh-plugin/) — search & filter all plugins
 
 
@@ -18,35 +19,20 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 ## Categories
 
 | Category | Count | Description |
-
 |----------|-------|-------------|
-
 | 🎨 [UI Enhancements](categories/ui-enhancements.md) | 2938 | Plugins that enhance the DSH web/terminal user interface. |
-
 | 🎭 [Themes & Appearance](categories/themes-appearance.md) | 226 | Skins, themes, and appearance customization for DSH. |
-
 | 💬 [Sessions & Messages](categories/sessions-messages.md) | 1353 | Session management, message editing, sharing, and conversation tools. |
-
 | 🧠 [Memory](categories/memory.md) | 253 | Persistent memory, knowledge bases, and context retention plugins. |
-
 | 🛠️ [Tools & Capabilities](categories/tools-capabilities.md) | 2754 | Vision, browser, terminal, SSH, Docker, and other capability extensions. |
-
 | 🔁 [Workflow & Automation](categories/workflow-automation.md) | 2730 | Automation loops, scheduled tasks, multi-agent teams, and workflow engines. |
-
 | 🔔 [Notifications & Integrations](categories/notifications-integrations.md) | 24 | WeChat, Telegram, IM bridges, desktop notifications, and external integrations. |
-
 | 🔌 [Models & Providers](categories/models-providers.md) | 62 | Multi-model support, OAuth login, LLM fallback strategies, and provider bridges. |
-
 | 🧑‍💻 [Development & Runtime](categories/development-runtime.md) | 30 | Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling. |
-
 | 🔒 [Security & Privacy](categories/security-privacy.md) | 5 | Credential management, encryption, audit, and security tooling. |
-
 | 🎮 [Just for Fun](categories/fun.md) | 10 | Games, pets, entertainment, and playful plugins. |
-
 | 📋 [Awesome Lists & Collections](categories/awesome-lists.md) | 234 | Curated collections and awesome lists of DSH plugins. |
-
 | ⚠️ [Weakly Related](categories/weakly-related.md) | 824 | Repositories tagged dsh-plugin but with weak relevance signals — may use DeepSeek API or have loose association. |
-
 
 ## Featured Plugins
 

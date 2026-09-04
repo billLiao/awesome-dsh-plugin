@@ -20,6 +20,7 @@ python3 scripts/fetch_plugins.py
 echo "=== Categorizing and generating files ==="
 python3 scripts/categorize_and_generate.py
 python3 scripts/generate_project.py
+python3 scripts/generate_site.py
 
 echo "=== Done ==="
 echo "Review changes with: git diff"

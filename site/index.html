@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark light">
+<title>Awesome DSH Plugins — DeepSeek Harness 插件精选</title>
+<meta name="description" content="发现并搜索 DeepSeek Harness (DSH) 生态中的社区插件。收录自 GitHub topic dsh-plugin，支持分类浏览与全文搜索，每 8 小时自动同步。">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%236799fe' d='M20.5 11H19V7a2 2 0 0 0-2-2h-4V3.5a2.5 2.5 0 0 0-5 0V5H4a2 2 0 0 0-2 2v3.8h1.5a2.7 2.7 0 0 1 0 5.4H2V20a2 2 0 0 0 2 2h3.8v-1.5a2.7 2.7 0 0 1 5.4 0V22H17a2 2 0 0 0 2-2v-4h1.5a2.5 2.5 0 0 0 0-5z'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Host+Grotesk:wght@300..800&family=Fragment+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="./">
+      <svg class="brand-mark" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M20.5 11H19V7a2 2 0 0 0-2-2h-4V3.5a2.5 2.5 0 0 0-5 0V5H4a2 2 0 0 0-2 2v3.8h1.5a2.7 2.7 0 0 1 0 5.4H2V20a2 2 0 0 0 2 2h3.8v-1.5a2.7 2.7 0 0 1 5.4 0V22H17a2 2 0 0 0 2-2v-4h1.5a2.5 2.5 0 0 0 0-5z"/></svg>
+      <span class="brand-name">DSH&nbsp;<b>Plugins</b></span>
+    </a>
+    <nav class="header-actions">
+      <a class="icon-btn" id="ghLink" href="https://github.com/billLiao/awesome-dsh-plugin" target="_blank" rel="noopener" aria-label="GitHub">
+        <svg viewBox="0 0 16 16" aria-hidden="true"><path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+      </a>
+      <button class="icon-btn lang-btn" id="langToggle" type="button" aria-label="Switch language">EN</button>
+      <button class="icon-btn" id="themeToggle" type="button" aria-label="Toggle theme">
+        <svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 17a5 5 0 1 0 0-10 5 5 0 0 0 0 10zm0-15a1 1 0 0 1 1 1v2a1 1 0 1 1-2 0V3a1 1 0 0 1 1-1zm0 18a1 1 0 0 1 1 1v2a1 1 0 1 1-2 0v-2a1 1 0 0 1 1-1zM4.2 4.2a1 1 0 0 1 1.4 0l1.4 1.4A1 1 0 1 1 5.6 7L4.2 5.6a1 1 0 0 1 0-1.4zm12.8 12.8a1 1 0 0 1 1.4 0l1.4 1.4a1 1 0 1 1-1.4 1.4l-1.4-1.4a1 1 0 0 1 0-1.4zM1 12a1 1 0 0 1 1-1h2a1 1 0 1 1 0 2H2a1 1 0 0 1-1-1zm18 0a1 1 0 0 1 1-1h2a1 1 0 1 1 0 2h-2a1 1 0 0 1-1-1zM4.2 19.8a1 1 0 0 1 0-1.4l1.4-1.4a1 1 0 1 1 1.4 1.4l-1.4 1.4a1 1 0 0 1-1.4 0zM17 7a1 1 0 0 1 0-1.4l1.4-1.4a1 1 0 1 1 1.4 1.4L18.4 7A1 1 0 0 1 17 7z"/></svg>
+        <svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      </button>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="hero-glow" aria-hidden="true"></div>
+    <div class="hero-inner">
+      <div class="hero-badge"><span class="pulse-dot" aria-hidden="true"></span><span id="heroBadge">社区目录 · 每 8 小时自动同步</span></div>
+      <h1 class="hero-title" id="heroTitle">一切皆<span class="grad">插件</span></h1>
+      <p class="hero-sub" id="heroSub">发现并搜索 DeepSeek Harness 生态中的社区插件，全部收录自 GitHub topic <code>dsh-plugin</code>。</p>
+      <div class="search-wrap">
+        <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="m21 21-4.35-4.35M17 10.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"/></svg>
+        <input id="searchInput" type="search" autocomplete="off" spellcheck="false"
+               placeholder="搜索插件、功能、话题…" aria-label="搜索插件">
+        <kbd id="searchKbd">/</kbd>
+      </div>
+      <div class="hero-stats">
+        <div class="stat"><span class="stat-num" id="statTotal">—</span><span class="stat-label" id="statTotalLabel">插件</span></div>
+        <div class="stat-div" aria-hidden="true"></div>
+        <div class="stat"><span class="stat-num" id="statCats">—</span><span class="stat-label" id="statCatsLabel">分类</span></div>
+        <div class="stat-div" aria-hidden="true"></div>
+        <div class="stat"><span class="stat-num" id="statUpdated">—</span><span class="stat-label" id="statUpdatedLabel">最近同步</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="browse">
+    <div class="chips" id="chips" role="tablist" aria-label="分类"></div>
+    <div class="toolbar">
+      <div class="result-info" id="resultInfo"></div>
+      <div class="sort-wrap">
+        <label for="sortSelect" id="sortLabel">排序</label>
+        <select id="sortSelect">
+          <option value="stars" id="optStars">最多 Star</option>
+          <option value="updated" id="optUpdated">最近更新</option>
+          <option value="name" id="optName">名称</option>
+        </select>
+      </div>
+    </div>
+    <div class="grid" id="grid" aria-live="polite"></div>
+    <div class="empty" id="empty" hidden>
+      <div class="empty-icon" aria-hidden="true">🔍</div>
+      <p class="empty-title" id="emptyTitle">没有找到匹配的插件</p>
+      <p class="empty-sub" id="emptySub">换个关键词试试，或清除筛选条件</p>
+      <button class="btn-pill" id="clearBtn" type="button">清除筛选</button>
+    </div>
+    <div class="sentinel" id="sentinel" aria-hidden="true"></div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <svg class="brand-mark" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M20.5 11H19V7a2 2 0 0 0-2-2h-4V3.5a2.5 2.5 0 0 0-5 0V5H4a2 2 0 0 0-2 2v3.8h1.5a2.7 2.7 0 0 1 0 5.4H2V20a2 2 0 0 0 2 2h3.8v-1.5a2.7 2.7 0 0 1 5.4 0V22H17a2 2 0 0 0 2-2v-4h1.5a2.5 2.5 0 0 0 0-5z"/></svg>
+      <span>DSH <b>Plugins</b></span>
+    </div>
+    <p class="footer-desc" id="footerDesc">DeepSeek Harness 社区插件精选，由 GitHub topic dsh-plugin 自动收录与分类。</p>
+    <div class="footer-links">
+      <a href="https://github.com/billLiao/awesome-dsh-plugin" target="_blank" rel="noopener" id="footerRepo">GitHub 仓库</a>
+      <a href="https://www.deepseek.com/harness" target="_blank" rel="noopener" id="footerHarness">DeepSeek Harness</a>
+      <a href="https://github.com/billLiao/awesome-dsh-plugin/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener" id="footerContrib">参与收录</a>
+    </div>
+    <p class="footer-meta"><span id="footerMeta">数据每 8 小时自动同步 · CC0 1.0</span> · <span id="footerAffil">与 DeepSeek 官方无关的社区项目</span></p>
+  </div>
+</footer>
+
+<script src="assets/js/app.js"></script>
+</body>
+</html>

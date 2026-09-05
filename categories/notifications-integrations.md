@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**24 plugins**
+**25 plugins**
 
 
 ---
@@ -33,8 +33,9 @@
 - [lw-storm/dsh-plugin-noticeme](https://github.com/lw-storm/dsh-plugin-noticeme)
 - [alchemistwu/dsh-telegram](https://github.com/alchemistwu/dsh-telegram)
 - [hotpot-labs/dsh-notifier-plugin](https://github.com/hotpot-labs/dsh-notifier-plugin) — dsh 干完活之后通知你，【轻量级】通知插件，只通知，不交互，mac/windows/linux 操作系统支持，dsh 在干活时你可以摸鱼
+- [dangpangch/dsh-acp](https://github.com/dangpangch/dsh-acp)
 
 ---
 
 
-*Generated on 2026-09-05 · 24 plugins in this category*
+*Generated on 2026-09-05 · 25 plugins in this category*

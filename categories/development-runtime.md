@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**30 plugins**
+**31 plugins**
 
 
 ---
@@ -39,8 +39,9 @@
 - [shaomingbo/dsh-open-in-editor](https://github.com/shaomingbo/dsh-open-in-editor) — Open DSH Web produced files in a configurable local macOS IDE
 - [Army1900/dsh-e2e-dev-sdd](https://github.com/Army1900/dsh-e2e-dev-sdd) — dsh插件，用于驱动定制的e2e开发
 - [baiyang123/dsh-audit-missing](https://github.com/baiyang123/dsh-audit-missing) — 对照开发计划等文档，当AI开发完一个迭代之后扫描是否有漏开发的功能（真的好用）
+- [fu827707013/dsh-codebuddy-cli](https://github.com/fu827707013/dsh-codebuddy-cli) — dsh-codebuddy-cli
 
 ---
 
 
-*Generated on 2026-09-05 · 30 plugins in this category*
+*Generated on 2026-09-06 · 31 plugins in this category*

@@ -4,11 +4,12 @@
 > Credential management, encryption, audit, and security tooling.
 
 
-**5 plugins**
+**6 plugins**
 
 
 ---
 
+- [simon300000/dsh-auto](https://github.com/simon300000/dsh-auto) ⭐5 — Auto Approve with Audit Agent
 - [ravenli059/dsh-login](https://github.com/ravenli059/dsh-login) ⭐1 — 用于dsh-web加强安全性的插件，可设置用户名密码进行登录
 - [tmpdot/dsh-audit-foundation](https://github.com/tmpdot/dsh-audit-foundation) ⭐1
 - [CMSKL/dsh-plugin-observatory](https://github.com/CMSKL/dsh-plugin-observatory) ⭐1 — DSH plugin compatibility audit and bounded Loader lifecycle observation
@@ -18,4 +19,4 @@
 ---
 
 
-*Generated on 2026-09-05 · 5 plugins in this category*
+*Generated on 2026-09-06 · 6 plugins in this category*

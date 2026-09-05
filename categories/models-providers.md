@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**63 plugins**
+**64 plugins**
 
 
 ---
@@ -72,8 +72,9 @@
 - [liaoyuqing/dsh-llm-error-retry](https://github.com/liaoyuqing/dsh-llm-error-retry) — 用于在deepseek-harnees中报错时重试大模型请求，支持配置http状态，字段-值命中。
 - [alaxrpg/dsh-sensenova-provider](https://github.com/alaxrpg/dsh-sensenova-provider)
 - [wangser10032/dsh-model-autoconfig](https://github.com/wangser10032/dsh-model-autoconfig)
+- [ArcaneOrion/dsh-model-channel-manager](https://github.com/ArcaneOrion/dsh-model-channel-manager) — DSH model channel manager: roundrobin failover engine + model config panel
 
 ---
 
 
-*Generated on 2026-09-05 · 63 plugins in this category*
+*Generated on 2026-09-06 · 64 plugins in this category*

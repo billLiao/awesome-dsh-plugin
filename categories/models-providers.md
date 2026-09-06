@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**64 plugins**
+**65 plugins**
 
 
 ---
@@ -73,8 +73,9 @@
 - [alaxrpg/dsh-sensenova-provider](https://github.com/alaxrpg/dsh-sensenova-provider)
 - [wangser10032/dsh-model-autoconfig](https://github.com/wangser10032/dsh-model-autoconfig)
 - [ArcaneOrion/dsh-model-channel-manager](https://github.com/ArcaneOrion/dsh-model-channel-manager) — DSH model channel manager: roundrobin failover engine + model config panel
+- [xiyiyiru/dsh-mode](https://github.com/xiyiyiru/dsh-mode) — dsh plugin: switch_mode — five working modes, methodology injected at the moment of the switch (npm: @xiyiyiru/dsh-mode)
 
 ---
 
 
-*Generated on 2026-09-06 · 64 plugins in this category*
+*Generated on 2026-09-07 · 65 plugins in this category*

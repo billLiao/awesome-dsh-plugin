@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**31 plugins**
+**32 plugins**
 
 
 ---
@@ -40,8 +40,9 @@
 - [Army1900/dsh-e2e-dev-sdd](https://github.com/Army1900/dsh-e2e-dev-sdd) — dsh插件，用于驱动定制的e2e开发
 - [baiyang123/dsh-audit-missing](https://github.com/baiyang123/dsh-audit-missing) — 对照开发计划等文档，当AI开发完一个迭代之后扫描是否有漏开发的功能（真的好用）
 - [fu827707013/dsh-codebuddy-cli](https://github.com/fu827707013/dsh-codebuddy-cli) — dsh-codebuddy-cli
+- [andyfan1094/dsh-devforge](https://github.com/andyfan1094/dsh-devforge) — Spec-driven service forge and integrated operations plugin for DSH
 
 ---
 
 
-*Generated on 2026-09-06 · 31 plugins in this category*
+*Generated on 2026-09-07 · 32 plugins in this category*

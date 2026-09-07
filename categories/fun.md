@@ -9,7 +9,7 @@
 
 ---
 
-- [Gin-7/dsh-pet-remielle](https://github.com/Gin-7/dsh-pet-remielle) ⭐34
+- [Gin-7/dsh-pet-remielle](https://github.com/Gin-7/dsh-pet-remielle) ⭐38
 - [HuanLinOTO/dsh-plugin-anti-ads](https://github.com/HuanLinOTO/dsh-plugin-anti-ads) ⭐11 — DSH Web 广告拦截器，四层独立防御拦截 dsh-ads 插件的所有广告位 | DSH Web ad blocker with four independent defense layers targeting the dsh-ads plugin
 - [gameswu/dsh-pref-kit](https://github.com/gameswu/dsh-pref-kit) ⭐5 — 缓解部分dsh性能问题的插件
 - [gameswu/dsh-cross-collaboration](https://github.com/gameswu/dsh-cross-collaboration) ⭐2 — dsh跨设备agent协作插件

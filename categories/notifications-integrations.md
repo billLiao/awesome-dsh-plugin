@@ -11,9 +11,9 @@
 
 - [gameswu/dsh-notifacation-frame](https://github.com/gameswu/dsh-notifacation-frame) ⭐6 — dsh通知消息统一管理框架
 - [bill9109/dsh-webbridge](https://github.com/bill9109/dsh-webbridge) ⭐4 — DSH 结合 Kimi WebBridge
+- [lsq-dsh-plugins/dsh-windows-notifications](https://github.com/lsq-dsh-plugins/dsh-windows-notifications) ⭐3
 - [asakumizy/dsh-trae-bridge](https://github.com/asakumizy/dsh-trae-bridge) ⭐2 — DSH和trae连接
 - [Swd146296/dsh-memos-bridge](https://github.com/Swd146296/dsh-memos-bridge) ⭐2
-- [lsq-dsh-plugins/dsh-windows-notifications](https://github.com/lsq-dsh-plugins/dsh-windows-notifications) ⭐2
 - [thuang3316/dsh-live-notify](https://github.com/thuang3316/dsh-live-notify) ⭐1 — DSH plugin for live notification
 - [ljnljn2005/dsh-clawbot-notify](https://github.com/ljnljn2005/dsh-clawbot-notify) ⭐1
 - [0QwQ0/dsh-discord-richpresence](https://github.com/0QwQ0/dsh-discord-richpresence) ⭐1 — dsh-plugin: push vague, user-configurable DSH interaction states to local Discord as Rich Presence
@@ -38,4 +38,4 @@
 ---
 
 
-*Generated on 2026-09-07 · 25 plugins in this category*
+*Generated on 2026-09-08 · 25 plugins in this category*

@@ -541,6 +541,9 @@ html[data-theme="light"] .icon-moon { display: none; }
 /* skeleton */
 
 .skeleton {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
   border-radius: var(--radius-card);
   border: 1px solid var(--border-subtle);
   background: var(--bg-surface);
@@ -550,12 +553,37 @@ html[data-theme="light"] .icon-moon { display: none; }
   overflow: hidden;
 }
 
-.skeleton::after {
+.skeleton::after, .chip-sk::after {
   content: "";
   position: absolute;
   inset: 0;
   background: linear-gradient(90deg, transparent, var(--bg-hover), transparent);
   animation: shimmer 1.4s infinite;
+}
+
+.sk-bar { height: 12px; border-radius: 6px; background: var(--bg-hover); }
+.sk-bar.sk-title { height: 15px; width: 55%; }
+.sk-bar.sk-line { width: 92%; }
+.sk-bar.sk-line.short { width: 64%; }
+.sk-row { display: flex; gap: 6px; margin-top: auto; }
+.sk-pill { width: 64px; height: 20px; border-radius: var(--radius-pill); background: var(--bg-hover); }
+
+.chip-sk {
+  flex: 0 0 auto;
+  width: 128px;
+  height: 38px;
+  padding: 0;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-surface);
+  position: relative;
+  overflow: hidden;
+}
+
+.load-error {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 72px 0 40px;
 }
 
 @keyframes shimmer {

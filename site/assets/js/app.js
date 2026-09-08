@@ -21,6 +21,9 @@
       emptySub: "换个关键词试试，或清除筛选条件",
       clearBtn: "清除筛选",
       loadingMore: "加载中…",
+      loadError: "数据加载失败",
+      loadErrorSub: "网络异常或数据同步中，请稍后重试",
+      retry: "重新加载",
       footerDesc: "DeepSeek Harness 社区插件精选，由 GitHub topic dsh-plugin 自动收录与分类。",
       footerRepo: "GitHub 仓库", footerHarness: "DeepSeek Harness", footerContrib: "参与收录",
       footerMeta: "数据每 8 小时自动同步 · CC0 1.0",
@@ -41,6 +44,9 @@
       emptySub: "Try a different keyword or clear the filters",
       clearBtn: "Clear filters",
       loadingMore: "Loading…",
+      loadError: "Failed to load data",
+      loadErrorSub: "Network issue or data is syncing — please try again",
+      retry: "Retry",
       footerDesc: "A curated directory of DeepSeek Harness community plugins, auto-collected and categorized from the GitHub topic dsh-plugin.",
       footerRepo: "GitHub Repo", footerHarness: "DeepSeek Harness", footerContrib: "Contribute",
       footerMeta: "Auto-synced every 8 hours · CC0 1.0",
@@ -148,6 +154,35 @@
     els.statTotal.textContent = fmt(state.meta.total);
     els.statCats.textContent = String(state.meta.categories.length);
     els.statUpdated.textContent = state.meta.generated_at || "—";
+  }
+
+  /* ---------- loading / error states ---------- */
+
+  function renderSkeletons() {
+    var n = window.innerWidth <= 720 ? 6 : 12;
+    var card = '<div class="skeleton">'
+      + '<div class="sk-bar sk-title"></div>'
+      + '<div class="sk-bar sk-line"></div>'
+      + '<div class="sk-bar sk-line short"></div>'
+      + '<div class="sk-row"><span class="sk-pill"></span><span class="sk-pill"></span></div>'
+      + "</div>";
+    var html = "";
+    for (var i = 0; i < n; i++) html += card;
+    els.grid.innerHTML = html;
+    var chips = "";
+    for (var j = 0; j < 6; j++) chips += '<div class="chip-sk"></div>';
+    els.chips.innerHTML = chips;
+  }
+
+  function renderError() {
+    var L = t();
+    els.grid.innerHTML = '<div class="load-error">'
+      + '<div class="empty-icon" aria-hidden="true">⚠️</div>'
+      + '<p class="empty-title">' + esc(L.loadError) + "</p>"
+      + '<p class="empty-sub">' + esc(L.loadErrorSub) + "</p>"
+      + '<button class="btn-pill" id="retryBtn" type="button">' + esc(L.retry) + "</button></div>";
+    els.chips.innerHTML = "";
+    $("retryBtn").addEventListener("click", function () { location.reload(); });
   }
 
   /* ---------- chips ---------- */
@@ -376,8 +411,9 @@
   readUrl();
   applyI18n();
   els.searchInput.value = state.q;
+  renderSkeletons();
   loadData().catch(function (err) {
     console.error(err);
-    els.resultInfo.textContent = "Failed to load data — /data/meta.json missing?";
+    renderError();
   });
 })();

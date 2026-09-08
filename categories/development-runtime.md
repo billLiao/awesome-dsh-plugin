@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**32 plugins**
+**33 plugins**
 
 
 ---
@@ -41,8 +41,9 @@
 - [baiyang123/dsh-audit-missing](https://github.com/baiyang123/dsh-audit-missing) — 对照开发计划等文档，当AI开发完一个迭代之后扫描是否有漏开发的功能（真的好用）
 - [fu827707013/dsh-codebuddy-cli](https://github.com/fu827707013/dsh-codebuddy-cli) — dsh-codebuddy-cli
 - [andyfan1094/dsh-devforge](https://github.com/andyfan1094/dsh-devforge) — Spec-driven service forge and integrated operations plugin for DSH
+- [AtWhuhu/dsh-devin-cli](https://github.com/AtWhuhu/dsh-devin-cli) — dsh devin cli插件
 
 ---
 
 
-*Generated on 2026-09-08 · 32 plugins in this category*
+*Generated on 2026-09-08 · 33 plugins in this category*

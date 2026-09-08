@@ -4,7 +4,7 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**270 plugins**
+**271 plugins**
 
 
 ---
@@ -279,8 +279,9 @@
 - [jonah791/dsh-evolution-core](https://github.com/jonah791/dsh-evolution-core) — 进化核心插件（心脏）：聚合全量进化器官（self-test/emotion/reflection/life-core/evolve/memory/checkpoint/skill-forge）实时状态 → 五环完整性诊断（猜想→采证→fin
 - [jonah791/dsh-agent-reflection](https://github.com/jonah791/dsh-agent-reflection) — 每日反思插件：固定时间（默认凌晨 12 点）向爱丽丝发反思提醒，结合当天记忆按 6 维进化棱镜自审。信号送达，反思归爱丽丝。
 - [roojay/dsh-stream-upload](https://github.com/roojay/dsh-stream-upload) — DeepSeek Harness hybrid attachment plugin: native images plus bounded-memory workspace uploads
+- [IKEASven69/dsh-intelhub](https://github.com/IKEASven69/dsh-intelhub) — 个人情报站:刷到的信息自动沉淀为可检索知识库——语义+关键词混合检索带出处,Obsidian 反哺,零守护进程零 API key | IntelHub: the first zvec-native personal intel station for DeepSeek Harness
 
 ---
 
 
-*Generated on 2026-09-08 · 270 plugins in this category*
+*Generated on 2026-09-08 · 271 plugins in this category*

@@ -318,14 +318,12 @@ html[data-theme="light"] .icon-moon { display: none; }
 }
 
 .chips {
+  position: relative;
   display: flex;
+  flex-wrap: wrap;
   gap: 10px;
-  overflow-x: auto;
   padding: 8px 2px 14px;
-  scrollbar-width: none;
 }
-
-.chips::-webkit-scrollbar { display: none; }
 
 .chip {
   flex: 0 0 auto;
@@ -619,6 +617,29 @@ html[data-theme="light"] .icon-moon { display: none; }
   .brand-name { display: none; }
   .search-wrap kbd { display: none; }
   #searchInput { padding-right: 20px; }
+
+  /* single-row horizontal swipe with affordance fades */
+  .chips {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x proximity;
+    scrollbar-width: none;
+  }
+  .chips::-webkit-scrollbar { display: none; }
+  .chip { scroll-snap-align: start; }
+  .chips.fade-left {
+    -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 28px);
+    mask-image: linear-gradient(90deg, transparent 0, #000 28px);
+  }
+  .chips.fade-right {
+    -webkit-mask-image: linear-gradient(90deg, #000 calc(100% - 28px), transparent 100%);
+    mask-image: linear-gradient(90deg, #000 calc(100% - 28px), transparent 100%);
+  }
+  .chips.fade-left.fade-right {
+    -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 28px, #000 calc(100% - 28px), transparent 100%);
+    mask-image: linear-gradient(90deg, transparent 0, #000 28px, #000 calc(100% - 28px), transparent 100%);
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {

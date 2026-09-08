@@ -167,6 +167,30 @@
         apply();
       });
     });
+    var active = els.chips.querySelector(".chip.active");
+    if (active) centerChip(active);
+    updateChipsFade();
+  }
+
+  /* Keep the active chip visible when the chip row scrolls (mobile);
+     no-op on desktop where the row wraps and never overflows. */
+  function centerChip(el) {
+    var c = els.chips;
+    if (c.scrollWidth <= c.clientWidth + 1) return;
+    var rect = el.getBoundingClientRect();
+    var cRect = c.getBoundingClientRect();
+    var target = c.scrollLeft + rect.left - cRect.left - (c.clientWidth - rect.width) / 2;
+    var max = c.scrollWidth - c.clientWidth;
+    var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    c.scrollTo({ left: Math.max(0, Math.min(target, max)), behavior: reduceMotion ? "auto" : "smooth" });
+  }
+
+  /* Edge fades hint that more categories exist beyond the viewport. */
+  function updateChipsFade() {
+    var c = els.chips;
+    var max = c.scrollWidth - c.clientWidth;
+    c.classList.toggle("fade-left", c.scrollLeft > 4);
+    c.classList.toggle("fade-right", c.scrollLeft < max - 4);
   }
 
   function chipHtml(slug, icon, label, count, active) {
@@ -295,6 +319,8 @@
   /* ---------- events ---------- */
 
   var debounceTimer = null;
+  els.chips.addEventListener("scroll", updateChipsFade, { passive: true });
+  window.addEventListener("resize", updateChipsFade);
   els.searchInput.addEventListener("input", function () {
     clearTimeout(debounceTimer);
     debounceTimer = setTimeout(function () {

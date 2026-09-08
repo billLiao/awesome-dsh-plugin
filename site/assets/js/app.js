@@ -4,6 +4,8 @@
   "use strict";
 
   var PAGE_SIZE = 48;
+  /* Hidden from the "all" view (and its count) unless selected directly. */
+  var EXCLUDE_FROM_ALL = "weakly-related";
 
   /* ---------- i18n ---------- */
 
@@ -189,7 +191,11 @@
 
   function renderChips() {
     var L = t();
-    var html = chipHtml("all", "🧩", L.all, state.meta.total, state.cat === "all");
+    var hidden = 0;
+    state.meta.categories.forEach(function (c) {
+      if (c.slug === EXCLUDE_FROM_ALL) hidden = c.count;
+    });
+    var html = chipHtml("all", "🧩", L.all, state.meta.total - hidden, state.cat === "all");
     state.meta.categories.forEach(function (c) {
       html += chipHtml(c.slug, c.icon, state.lang === "zh" ? c.zh : c.en, c.count, state.cat === c.slug);
     });
@@ -253,7 +259,9 @@
 
   function currentList() {
     var list = state.plugins;
-    if (state.cat !== "all") {
+    if (state.cat === "all") {
+      list = list.filter(function (p) { return p._cat !== EXCLUDE_FROM_ALL; });
+    } else {
       list = list.filter(function (p) { return p._cat === state.cat; });
     }
     var tokens = state.q.trim().toLowerCase().split(/\s+/).filter(Boolean);

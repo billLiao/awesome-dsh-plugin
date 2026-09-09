@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**26 plugins**
+**25 plugins**
 
 
 ---
@@ -19,6 +19,7 @@
 - [0QwQ0/dsh-discord-richpresence](https://github.com/0QwQ0/dsh-discord-richpresence) ⭐1 — dsh-plugin: push vague, user-configurable DSH interaction states to local Discord as Rich Presence
 - [sryimnoob123/dsh-global-prompt](https://github.com/sryimnoob123/dsh-global-prompt) ⭐1 — DSH settings plugin for global and project AGENTS.md, identity/persona injection, and result notifications.
 - [aa2246740/dsh-gateway](https://github.com/aa2246740/dsh-gateway) ⭐1 — One DSH Host, one messaging Gateway. Bring your own Slack and Feishu apps.
+- [lw-storm/dsh-plugin-noticeme](https://github.com/lw-storm/dsh-plugin-noticeme) ⭐1
 - [67-68/dsh-music-alert](https://github.com/67-68/dsh-music-alert)
 - [zbxzbx98/dsh-peak-alert](https://github.com/zbxzbx98/dsh-peak-alert) — DeepSeek 峰谷定价提示插件（DSH Web 客户端插件，纯前端，无后端依赖）
 - [jeffcwj/dsh-sounds](https://github.com/jeffcwj/dsh-sounds) — 给dsh添加opencode同款提示音和通知
@@ -30,13 +31,11 @@
 - [Anna-la/dsh-turn-notify](https://github.com/Anna-la/dsh-submodel-change) — 可以选择子 agent 调用的模型。
 - [hmlyx/dsh-notify](https://github.com/hmlyx/dsh-notify) — 在输入框右边加了一个泡泡窗口，你可以接入插件或者告诉 AI 什么时候使用它。
 - [cainiao1992/dsh-gsd-bridge](https://github.com/cainiao1992/dsh-gsd-bridge)
-- [lw-storm/dsh-plugin-noticeme](https://github.com/lw-storm/dsh-plugin-noticeme)
 - [alchemistwu/dsh-telegram](https://github.com/alchemistwu/dsh-telegram)
 - [hotpot-labs/dsh-notifier-plugin](https://github.com/hotpot-labs/dsh-notifier-plugin) — dsh 干完活之后通知你，【轻量级】通知插件，只通知，不交互，mac/windows/linux 操作系统支持，dsh 在干活时你可以摸鱼
-- [dangpangch/dsh-acp](https://github.com/dangpangch/dsh-acp)
 - [zhengmz/dsh-wecom-plugin](https://github.com/zhengmz/dsh-wecom-plugin) — DSH 的企业微信插件
 
 ---
 
 
-*Generated on 2026-09-09 · 26 plugins in this category*
+*Generated on 2026-09-09 · 25 plugins in this category*

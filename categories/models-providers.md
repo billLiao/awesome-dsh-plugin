@@ -4,14 +4,14 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**66 plugins**
+**67 plugins**
 
 
 ---
 
 - [HuanLinOTO/dsh-plugin-auto-blame](https://github.com/HuanLinOTO/dsh-plugin-auto-blame) ⭐11 — 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 | After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
-- [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐8 — DSH Web 模型余量与用量监控插件
+- [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐7 — DSH Web 模型余量与用量监控插件
 - [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) ⭐5 — DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）
 - [detpecca/dsh-llm-wiki](https://github.com/detpecca/dsh-llm-wiki) ⭐4
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐4 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
@@ -75,8 +75,9 @@
 - [xiyiyiru/dsh-mode](https://github.com/xiyiyiru/dsh-mode) — dsh plugin: switch_mode — five working modes, methodology injected at the moment of the switch (npm: @xiyiyiru/dsh-mode)
 - [aa2246740/dsh-orca-agents](https://github.com/aa2246740/dsh-orca-agents) — DSH plugin: dispatch Grok/Codex/Claude/Cursor/Antigravity into local Orca.
 - [ct-jyjntc/dsh-model-modality](https://github.com/ct-jyjntc/dsh-model-modality) — DSH plugin: declare whether a configured third-party model accepts image (multimodal) input
+- [starstorm-ai/dsh-embedded-codex](https://github.com/starstorm-ai/dsh-embedded-codex)
 
 ---
 
 
-*Generated on 2026-09-09 · 66 plugins in this category*
+*Generated on 2026-09-10 · 67 plugins in this category*

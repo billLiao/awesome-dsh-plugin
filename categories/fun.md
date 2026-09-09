@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**11 plugins**
+**10 plugins**
 
 
 ---
@@ -19,9 +19,8 @@
 - [xuexiaolei1997/dsh-plugin-stock-x](https://github.com/xuexiaolei1997/dsh-plugin-stock-x) ⭐1
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
-- [MncStudio/dsh-prompt-star](https://github.com/MncStudio/dsh-prompt-star) — DSH plugin: ⭐ button beside the input reads your draft + project doc files and generates a fuller prompt
 
 ---
 
 
-*Generated on 2026-09-09 · 11 plugins in this category*
+*Generated on 2026-09-09 · 10 plugins in this category*

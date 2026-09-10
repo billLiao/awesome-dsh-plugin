@@ -25,6 +25,7 @@
 - [openrect/dsh-community-installer](https://github.com/openrect/dsh-community-installer) ⭐1 — Unofficial community installer for @deepseek-ai/dsh on Windows.
 - [Harzva/dsh-cli-store](https://github.com/Harzva/dsh-cli-store) ⭐1
 - [helibeiqi/dsh-csp-runtime](https://github.com/helibeiqi/dsh-csp-runtime) ⭐1 — Cognitive State Protocol (CSP) v0.1 — the cross-framework interop layer that makes AI thinking state serializable, persistable, and transferable. Host-side Cordis plugin for the DSH ecosystem.
+- [fu827707013/dsh-codebuddy-cli](https://github.com/fu827707013/dsh-codebuddy-cli) ⭐1 — dsh-codebuddy-cli
 - [zdjmrq/dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) — DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins
 - [GoGoGoDoge/dsh-plugin-installer](https://github.com/GoGoGoDoge/dsh-plugin-installer)
 - [jiay98528-dev/dsh-plugin-weaknet-adaptor](https://github.com/jiay98528-dev/dsh-plugin-weaknet-adaptor)
@@ -39,11 +40,10 @@
 - [shaomingbo/dsh-open-in-editor](https://github.com/shaomingbo/dsh-open-in-editor) — Open DSH Web produced files in a configurable local macOS IDE
 - [Army1900/dsh-e2e-dev-sdd](https://github.com/Army1900/dsh-e2e-dev-sdd) — dsh插件，用于驱动定制的e2e开发
 - [baiyang123/dsh-audit-missing](https://github.com/baiyang123/dsh-audit-missing) — 对照开发计划等文档，当AI开发完一个迭代之后扫描是否有漏开发的功能（真的好用）
-- [fu827707013/dsh-codebuddy-cli](https://github.com/fu827707013/dsh-codebuddy-cli) — dsh-codebuddy-cli
 - [andyfan1094/dsh-devforge](https://github.com/andyfan1094/dsh-devforge) — Spec-driven service forge and integrated operations plugin for DSH
 - [AtWhuhu/dsh-devin-cli](https://github.com/AtWhuhu/dsh-devin-cli) — dsh devin cli插件
 
 ---
 
 
-*Generated on 2026-09-10 · 33 plugins in this category*
+*Generated on 2026-09-11 · 33 plugins in this category*

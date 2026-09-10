@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**67 plugins**
+**68 plugins**
 
 
 ---
@@ -76,8 +76,9 @@
 - [aa2246740/dsh-orca-agents](https://github.com/aa2246740/dsh-orca-agents) — DSH plugin: dispatch Grok/Codex/Claude/Cursor/Antigravity into local Orca.
 - [ct-jyjntc/dsh-model-modality](https://github.com/ct-jyjntc/dsh-model-modality) — DSH plugin: declare whether a configured third-party model accepts image (multimodal) input
 - [starstorm-ai/dsh-embedded-codex](https://github.com/starstorm-ai/dsh-embedded-codex)
+- [sojo-negai/dsh-prompt-refine](https://github.com/sojo-negai/dsh-prompt-refine) — DSH 提示词优化插件 —— 发送前点一下 ✨,模型结合上下文给出「补丁式」建议,勾选回填,不抢发送权。
 
 ---
 
 
-*Generated on 2026-09-10 · 67 plugins in this category*
+*Generated on 2026-09-11 · 68 plugins in this category*

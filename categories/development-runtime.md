@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**34 plugins**
+**33 plugins**
 
 
 ---
@@ -42,9 +42,8 @@
 - [baiyang123/dsh-audit-missing](https://github.com/baiyang123/dsh-audit-missing) — 对照开发计划等文档，当AI开发完一个迭代之后扫描是否有漏开发的功能（真的好用）
 - [andyfan1094/dsh-devforge](https://github.com/andyfan1094/dsh-devforge) — Spec-driven service forge and integrated operations plugin for DSH
 - [AtWhuhu/dsh-devin-cli](https://github.com/AtWhuhu/dsh-devin-cli) — dsh devin cli插件
-- [I-am-shy/dsh-my-plugins](https://github.com/I-am-shy/dsh-my-plugins) — "My Plugins" Management Panel: Only manages plugins you have installed yourself (view / enable / disable / uninstall) 「我的插件」管理面板：只管理你自己安装的插件（查看 / 启用 / 关闭 / 卸载）
 
 ---
 
 
-*Generated on 2026-09-11 · 34 plugins in this category*
+*Generated on 2026-09-12 · 33 plugins in this category*

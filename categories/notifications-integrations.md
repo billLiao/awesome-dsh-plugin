@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**26 plugins**
+**27 plugins**
 
 
 ---
@@ -14,6 +14,7 @@
 - [lsq-dsh-plugins/dsh-windows-notifications](https://github.com/lsq-dsh-plugins/dsh-windows-notifications) ⭐3
 - [asakumizy/dsh-trae-bridge](https://github.com/asakumizy/dsh-trae-bridge) ⭐2 — DSH和trae连接
 - [Swd146296/dsh-memos-bridge](https://github.com/Swd146296/dsh-memos-bridge) ⭐2
+- [minhdevtry/dsh-markdown-ide](https://github.com/minhdevtry/dsh-markdown-ide) ⭐2 — DSH Plugin for Markdown like Notion experience
 - [thuang3316/dsh-live-notify](https://github.com/thuang3316/dsh-live-notify) ⭐1 — DSH plugin for live notification
 - [ljnljn2005/dsh-clawbot-notify](https://github.com/ljnljn2005/dsh-clawbot-notify) ⭐1
 - [0QwQ0/dsh-discord-richpresence](https://github.com/0QwQ0/dsh-discord-richpresence) ⭐1 — dsh-plugin: push vague, user-configurable DSH interaction states to local Discord as Rich Presence
@@ -39,4 +40,4 @@
 ---
 
 
-*Generated on 2026-09-12 · 26 plugins in this category*
+*Generated on 2026-09-12 · 27 plugins in this category*

@@ -4,7 +4,7 @@
 > Credential management, encryption, audit, and security tooling.
 
 
-**8 plugins**
+**9 plugins**
 
 
 ---
@@ -17,8 +17,9 @@
 - [nmsl1234/dsh-privacy-gate](https://github.com/nmsl1234/dsh-privacy-gate) — dsh-plugin
 - [kiwings/dsh-security](https://github.com/kiwings/dsh-security) — Plugins for performing security audits using dsh
 - [dsh-so/dsh-code-security](https://github.com/dsh-so/dsh-code-security)
+- [qimen039-code/dsh-consumer-audit](https://github.com/qimen039-code/dsh-consumer-audit) — Audit a DSH profile for capabilities nothing consumes, and record completion claims with the evidence that supports them.
 
 ---
 
 
-*Generated on 2026-09-12 · 8 plugins in this category*
+*Generated on 2026-09-12 · 9 plugins in this category*

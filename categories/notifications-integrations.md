@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**27 plugins**
+**28 plugins**
 
 
 ---
@@ -36,8 +36,9 @@
 - [hotpot-labs/dsh-notifier-plugin](https://github.com/hotpot-labs/dsh-notifier-plugin) — dsh 干完活之后通知你，【轻量级】通知插件，只通知，不交互，mac/windows/linux 操作系统支持，dsh 在干活时你可以摸鱼
 - [zhengmz/dsh-wecom-plugin](https://github.com/zhengmz/dsh-wecom-plugin) — DSH 的企业微信插件
 - [WShihan/dsh-macos-notify](https://github.com/WShihan/dsh-macos-notify) — dsh notification plugin for macos
+- [qzy033/dsh-astrbot-gateway](https://github.com/qzy033/dsh-astrbot-gateway) — 大肥鱼桥：DSH 与 AstrBot 之间的桥接插件，指令下行、结果只走文件交付，不直发用户
 
 ---
 
 
-*Generated on 2026-09-12 · 27 plugins in this category*
+*Generated on 2026-09-13 · 28 plugins in this category*

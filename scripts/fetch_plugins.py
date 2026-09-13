@@ -71,14 +71,34 @@ while True:
 
 print(f"\nFetched: {len(all_items)} repos from API")
 
+# Explicit exclusion list — repos with the dsh-plugin topic that are not plugins.
+# NOTE: do NOT use an owner==name heuristic here; several orgs name their real
+# plugin repo after themselves (e.g. dsh-ssh/dsh-ssh, WhaleHarness/WhaleHarness).
+# PerryLink/perrylink is the org profile repo (README = ecosystem guide), reported
+# via issue #12.
+EXCLUDE_FULL_NAMES = {'PerryLink/perrylink'}
+
+
+def is_excluded(repo):
+    return (repo.get('full_name') or '').lower() in EXCLUDE_FULL_NAMES
+
+
 # Merge: add new repos, update metadata for existing ones
 new_count = 0
 updated_count = 0
+skipped_excluded = 0
 for repo in all_items:
+    if is_excluded(repo):
+        skipped_excluded += 1
+        continue
     repo_id = repo['id']
     if repo_id in existing_repos:
         # Update metadata for existing repo (stars, description, topics, etc.)
+        # full_name/url included so GitHub repo renames self-heal
         existing_repos[repo_id].update({
+            'full_name': repo['full_name'],
+            'name': repo['name'],
+            'url': repo['url'],
             'description': repo.get('description'),
             'stargazers_count': repo['stargazers_count'],
             'updated_at': repo.get('updated_at'),
@@ -91,8 +111,28 @@ for repo in all_items:
         existing_repos[repo_id] = repo
         new_count += 1
 
+# Drop excluded repos that slipped into the persistent store earlier
+for rid in [rid for rid, r in existing_repos.items() if is_excluded(r)]:
+    print(f"Dropped excluded repo from store: {existing_repos[rid].get('full_name')}")
+    del existing_repos[rid]
+
+# Reconcile stale names: GitHub search can lag behind repo renames — html_url is
+# authoritative, so re-derive full_name/name/url from it when they disagree.
+fixed_names = 0
+for r in existing_repos.values():
+    html = r.get('html_url') or ''
+    parts = html.rstrip('/').split('/')
+    if len(parts) >= 3:
+        owner, name = parts[-2], parts[-1]
+        if r.get('full_name') != f'{owner}/{name}':
+            print(f"Reconciled renamed repo: {r.get('full_name')} -> {owner}/{name}")
+            r['full_name'] = f'{owner}/{name}'
+            r['name'] = name
+            r['url'] = f'https://api.github.com/repos/{owner}/{name}'
+            fixed_names += 1
+
 merged_list = list(existing_repos.values())
-print(f"New: {new_count}, Updated: {updated_count}")
+print(f"New: {new_count}, Updated: {updated_count}, Skipped excluded: {skipped_excluded}, Renames fixed: {fixed_names}")
 print(f"Total in persistent store: {len(merged_list)}")
 
 # Save merged data to temp file for downstream scripts

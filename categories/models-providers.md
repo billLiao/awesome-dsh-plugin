@@ -15,7 +15,7 @@
 - [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) ⭐5 — DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）
 - [detpecca/dsh-llm-wiki](https://github.com/detpecca/dsh-llm-wiki) ⭐4
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐4 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
-- [edge-sky/dsh-auth-adapter](https://github.com/edge-sky/dsh-oauth-adapter) ⭐4 — An OAuth adapter for DSH
+- [edge-sky/dsh-oauth-adapter](https://github.com/edge-sky/dsh-oauth-adapter) ⭐4 — An OAuth adapter for DSH
 - [Vesna-Strivozha/DSH-LLM-wiki-plugin](https://github.com/Vesna-Strivozha/DSH-LLM-wiki-plugin) ⭐4 — 基于Karpathy的wiki方法论搭建的插件，让你的DSH直接变身成LLM wiki，不需要Obsidian+Claudian插件，国内网络友好
 - [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model) ⭐3 — Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.
 - [shangjian2023/dsh-rss-daily](https://github.com/shangjian2023/dsh-rss-daily) ⭐3 — dsh plugin: 46-source daily RSS digest, LLM-edited, delivered via webhook (ServerChan/PushDeer/WxWork/TG/Bark/gotify)
@@ -67,7 +67,6 @@
 - [johndfowler/dsh-model-search](https://github.com/johndfowler/dsh-model-search)
 - [publieople/dsh-omniroute-models](https://github.com/publieople/dsh-omniroute-models) — DSH plugin: searchable/filterable model manager for OmniRoute (or any OpenAI-compatible gateway) — provider directory, modality discovery, multi-select enable.
 - [zhuzichen362/dsh-call-shrink](https://github.com/zhuzichen362/dsh-call-shrink) — dsh
-- [LamplitIsles/kepos-tts](https://github.com/LamplitIsles/kepos-speech) — Qwen/Volcengine TTS/STT for dsh
 - [WuJiaoJue/dsh-suggest-ghost](https://github.com/WuJiaoJue/dsh-suggest-ghost) — DSH Web 输入预测插件：回合结束后 LLM 生成下一条建议，输入框空草稿时渲染幽灵文本，Tab 采纳。
 - [liaoyuqing/dsh-llm-error-retry](https://github.com/liaoyuqing/dsh-llm-error-retry) — 用于在deepseek-harnees中报错时重试大模型请求，支持配置http状态，字段-值命中。
 - [alaxrpg/dsh-sensenova-provider](https://github.com/alaxrpg/dsh-sensenova-provider)
@@ -79,6 +78,7 @@
 - [starstorm-ai/dsh-embedded-codex](https://github.com/starstorm-ai/dsh-embedded-codex)
 - [sojo-negai/dsh-prompt-refine](https://github.com/sojo-negai/dsh-prompt-refine) — DSH 提示词优化插件 —— 发送前点一下 ✨,模型结合上下文给出「补丁式」建议,勾选回填,不抢发送权。
 - [homily707/dsh-custom-provider](https://github.com/homily707/dsh-custom-provider)
+- [Anna-la/dsh-submodel-change](https://github.com/Anna-la/dsh-submodel-change) — 可以选择子 agent 调用的模型。
 
 ---
 

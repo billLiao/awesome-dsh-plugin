@@ -98,7 +98,7 @@
 - [MangMax/dsh-themes](https://github.com/MangMax/dsh-themes) ⭐1
 - [lengduan/dsh-815-skin](https://github.com/lengduan/dsh-815-skin) ⭐1 — 1945-08-15 世界名画 dsh皮肤
 - [lhjlol/dsh-whale-avatar](https://github.com/lhjlol/dsh-whale-avatar) ⭐1 — DSH 插件：给助手消息加头像与名字（App 图标 + 吃白饭的蓝色大肥鱼）| Adds app-icon avatar and name to assistant messages
-- [cdxDNRF/wishadel-theme](https://github.com/cdxDNRF/dsh-wishadel-theme) ⭐1 — dsh主题维什戴尔风格
+- [cdxDNRF/dsh-wishadel-theme](https://github.com/cdxDNRF/dsh-wishadel-theme) ⭐1 — dsh主题维什戴尔风格
 - [Jack-sun-learner/dsh-image-skin](https://github.com/Jack-sun-learner/dsh-image-skin) ⭐1 — DSH 图片皮肤插件：导入 PNG/JPG/WebP 自动生成主题配色，可选 Q 版宠物（程序化/AI 生图）
 - [Zdram/deepseek-harness-skin](https://github.com/Zdram/deepseek-harness-skin) ⭐1 — 给DeepSeek Harness的界面提供可更换的自定义背景和界面半透明效果
 - [stuarthu/dsh-update-notifier](https://github.com/stuarthu/dsh-update-notifier) ⭐1 — Hourly checks npm for newer versions of your installed dsh plugins and pops an approval bubble asking which to upgrade
@@ -160,7 +160,7 @@
 - [jokerwen666/dsh-bili-taskmaster](https://github.com/jokerwen666/dsh-bili-taskmaster) — 等你的小鲸鱼跑任务时随机播放b站视频，愉快做监工
 - [GptsApp/dsh-stylevault](https://github.com/GptsApp/dsh-stylevault) — StyleVault — classic themes + Style Settings for DeepSeek Harness (30 palettes, shareable configs)
 - [JFWaskin/dsh-git-nexus](https://github.com/JFWaskin/dsh-git-nexus) — Unified Git + GitHub + workflow + files panel for the DeepSeek Harness (DSH) web profile. Community plugin tagged dsh-plugin.
-- [Win-Hao/seekwhale-on-dsh](https://github.com/Win-Hao/seek-on-dsh) — 像素化的 DeepSeek 小鲸鱼，浮在 dsh web 右下角，跟着你的 Harness 会话状态做反应。A DSH plugin: the DeepSeek whale as a pixel-animated desktop pet.
+- [Win-Hao/seek-on-dsh](https://github.com/Win-Hao/seek-on-dsh) — 像素化的 DeepSeek 小鲸鱼，浮在 dsh web 右下角，跟着你的 Harness 会话状态做反应。A DSH plugin: the DeepSeek whale as a pixel-animated desktop pet.
 - [linzhuoliSOC/dsh-skin-study](https://github.com/linzhuoliSOC/dsh-skin-study) — deepseek harness 3D 书房皮肤
 - [shenmy-git/dsh-weather-plugin](https://github.com/shenmy-git/dsh-weather-plugin) — DSH plugin: weather tool + immersive weather theming + FishLogo whale pet (theme/ambient/sound/HUD)
 - [licheng-ma/dsh-wechat-skin](https://github.com/licheng-ma/dsh-wechat-skin) — 微信风格皮肤 for DeepSeek Harness — WeChat-style light theme for DeepSeek Harness

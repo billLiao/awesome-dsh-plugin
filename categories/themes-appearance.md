@@ -4,14 +4,14 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**252 plugins**
+**254 plugins**
 
 
 ---
 
-- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐2059 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
+- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐2068 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
 - [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) ⭐925 — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
-- [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐136 — DeepSeek Harness skin market 皮肤市场 已收录200+DSH 皮肤 完善评分系统加人工审核，有便捷的社区收录入口；有在线页面方便在线浏览，也有插件方便管理本地皮肤
+- [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐138 — DeepSeek Harness skin market 皮肤市场 已收录200+DSH 皮肤 完善评分系统加人工审核，有便捷的社区收录入口；有在线页面方便在线浏览，也有插件方便管理本地皮肤
 - [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) ⭐123 — DeepSeek Harness 滑动变阻器皮肤
 - [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) ⭐81 — 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风。
 - [SenmuuuuW/dsh-whale-report](https://github.com/SenmuuuuW/dsh-whale-report) ⭐31 — 深迹 DeepTrace — Your Agent, in numbers. DSH 插件：从会话事件日志生成日报/周报/月报/年报/自定义区间，确定性洞察与协作复盘，只读、不改写历史。
@@ -144,6 +144,7 @@
 - [iasiv5/skins](https://github.com/iasiv5/skins) ⭐1 — DeepSeek Harness Web 界面主题/皮肤管理插件，可切换多种视觉风格。
 - [mrSutivu/plugin-effort-slider](https://github.com/mrSutivu/plugin-effort-slider) ⭐1 — Notched reasoning-effort slider grouped with the model picker for DeepSeek Harness — native styling, themeable, i18n
 - [MoonlitDropOfBlood/DSH-Desktop](https://github.com/MoonlitDropOfBlood/DSH-Desktop) ⭐1 — 为DeepSeek Harness 打造的桌面端，没有打包DeepSeek Harness，核心可以独立更新
+- [cq-guojia/dsh-session-title-pattern](https://github.com/cq-guojia/dsh-session-title-pattern) ⭐1 — 自动管理 dsh 会话标题，统一成「日期｜类型｜主题」的格式：类型与主题由模型对整段对话总结。
 - [DKthreeFR/ATRI-Theme-DSH](https://github.com/DKthreeFR/ATRI-Theme-DSH) — ATRI 亚托莉主题的DeepSeepk Harnesss装饰
 - [xianshu-virtuous/dsh-whale-companion](https://github.com/xianshu-virtuous/dsh-whale-companion) — DeepSeek Harness whale-maid persona and automatic near-limit session continuation
 - [LimBoo233/dsh-web-extras](https://github.com/LimBoo233/dsh-web-extras) — DeepSeek Harness Web 界面增强插件：完成/审批/提问提醒（音效 + 立绘）、外观定制（背景图 / 透明度 / 输入区折叠）、按轮次聚合的文件变更视图（行级差异 + 修改前后代码高亮）。纯浏览器端实现，无 Host 代码，数据仅保存在本地浏览器。
@@ -257,12 +258,13 @@
 - [jonah791/dsh-video-studio](https://github.com/jonah791/dsh-video-studio) — DSH 视频工作台插件：把视频工厂（TTS/配乐/混音/Remotion 渲染/多级质检/主题脚手架）封装为工具面，支撑创作任意视频
 - [xerxescom/dsh-theme-inkstone](https://github.com/xerxescom/dsh-theme-inkstone)
 - [Nicholaskin/vision-exp-tile](https://github.com/Nicholaskin/vision-exp-tile) — DSH（DeepSeek Harness）插件：800×800 无损切块 + 坐标标注 + 直连 DeepSeek 视觉 API 识别聚合，专治大图看不清
-- [ankhishtar2-lang/dsh-whale-tools](https://github.com/ankhishtar2-lang/dsh-whale-tools) — dsh-whale-widget satellite: replace the whale mascot with any image (auto cutout) + restart button + heartbeat. Vibe-coded.
+- [ArimaKana-Akane/dsh-whale-tools](https://github.com/ArimaKana-Akane/dsh-whale-tools) — dsh-whale-widget satellite: replace the whale mascot with any image (auto cutout) + restart button + heartbeat. Vibe-coded.
 - [Lkrain821/dsh-pixelwhale](https://github.com/Lkrain821/dsh-pixelwhale)
 - [vclike/dsh-delivery-cards](https://github.com/vclike/dsh-delivery-cards) — DeepSeek Harness 插件的独立交付卡片行：绕开 conversation.chat.turnTail 链被抢占导致的交付卡片消失；11 类文件类型图标、亮暗双主题、零依赖零构建 — DSH plugin: standalone delivery-cards row that renders presented files as cards with file-type icons, dual themes, zero dependencies.
 - [MirrMeur/dsh-workspace-colors](https://github.com/MirrMeur/dsh-workspace-colors) — DSH Web 外观增强：侧边栏工作区专属颜色 + 页面背景 tint（含设置页与内存回收面板）
+- [wwwangzilin/dsh-role-cards](https://github.com/wwwangzilin/dsh-role-cards) — DSH Web 插件：新建会话界面上的角色卡 + 工作区卡选择器（毛玻璃卡片墙 / 横向滚动 / 角色主题色 / 入场动画）
 
 ---
 
 
-*Generated on 2026-09-13 · 252 plugins in this category*
+*Generated on 2026-09-14 · 254 plugins in this category*

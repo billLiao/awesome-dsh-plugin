@@ -3299,6 +3299,7 @@
 - [Volta-ln/dsh-quick-ask](https://github.com/Volta-ln/dsh-quick-ask) — A quick ask in the side windows
 - [chengyingshe/dsh-desktop-pet](https://github.com/chengyingshe/dsh-desktop-pet) — Interactive Shin-chan desktop pet plugin for the DeepSeek Harness Web GUI.
 - [luoshuai990529/dsh-context-snapshot-bar](https://github.com/luoshuai990529/dsh-context-snapshot-bar) — 一个用于观测 deepseek harness web 的运行时上下文快照和上下文轨迹的 dsh UI插件
+- [hmr-BH/dsh-round-rightclick](https://github.com/hmr-BH/dsh-round-rightclick) — DeepSeek Harness Web GUI plugin that adds a radial right-click menu on conversation turns: fork a new session from the chosen turn, interrupt the running generation, copy the working directory path, copy the session ID, open the working directory in the file manager, and export the session log as a ZIP.
 
 ---
 

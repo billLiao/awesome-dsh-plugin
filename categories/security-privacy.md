@@ -4,7 +4,7 @@
 > Credential management, encryption, audit, and security tooling.
 
 
-**9 plugins**
+**10 plugins**
 
 
 ---
@@ -18,8 +18,9 @@
 - [kiwings/dsh-security](https://github.com/kiwings/dsh-security) — Plugins for performing security audits using dsh
 - [dsh-so/dsh-code-security](https://github.com/dsh-so/dsh-code-security)
 - [qimen039-code/dsh-consumer-audit](https://github.com/qimen039-code/dsh-consumer-audit) — Audit a DSH profile for capabilities nothing consumes, and record completion claims with the evidence that supports them.
+- [jonah791/dsh-prompt-defense](https://github.com/jonah791/dsh-prompt-defense) — DSH 提示词注入防御：外部内容标记 + 注入特征检测 + 危险动作人审门控 + 审计侧车
 
 ---
 
 
-*Generated on 2026-09-15 · 9 plugins in this category*
+*Generated on 2026-09-16 · 10 plugins in this category*

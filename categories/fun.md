@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**10 plugins**
+**11 plugins**
 
 
 ---
@@ -19,8 +19,9 @@
 - [xuexiaolei1997/dsh-plugin-stock-x](https://github.com/xuexiaolei1997/dsh-plugin-stock-x) ⭐1
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
+- [Helly0000/dsh-life-game](https://github.com/Helly0000/dsh-life-game)
 
 ---
 
 
-*Generated on 2026-09-16 · 10 plugins in this category*
+*Generated on 2026-09-16 · 11 plugins in this category*

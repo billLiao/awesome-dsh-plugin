@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**34 plugins**
+**35 plugins**
 
 
 ---
@@ -43,8 +43,9 @@
 - [baiyang123/dsh-audit-missing](https://github.com/baiyang123/dsh-audit-missing) — 对照开发计划等文档，当AI开发完一个迭代之后扫描是否有漏开发的功能（真的好用）
 - [andyfan1094/dsh-devforge](https://github.com/andyfan1094/dsh-devforge) — Spec-driven service forge and integrated operations plugin for DSH
 - [lnsdlszsqxxx/dsh-courseware](https://github.com/lnsdlszsqxxx/dsh-courseware) — create pptx file based on template.pptx and a outline file
+- [CHIP-PHILO-GH/dsh-mcu-lab](https://github.com/CHIP-PHILO-GH/dsh-mcu-lab) — DSH 插件：51 单片机开发闭环 —— Keil / 免费 SDCC 编译 + Proteus 仿真 + 确定性判定，含不依赖商业软件的离线判定后端。
 
 ---
 
 
-*Generated on 2026-09-16 · 34 plugins in this category*
+*Generated on 2026-09-16 · 35 plugins in this category*

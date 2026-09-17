@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**71 plugins**
+**73 plugins**
 
 
 ---
@@ -38,6 +38,8 @@
 - [kikomaotu/ccs-balance](https://github.com/kikomaotu/ccs-balance) ⭐1 — DSH 插件：同步 cc-switch 各 provider 余额，按日/月/总量统计 token 用量与花费（支持中转站币种与汇率设置）
 - [alaxrpg/dsh-llm-approve-for-me](https://github.com/alaxrpg/dsh-llm-approve-for-me) ⭐1
 - [jonah791/dsh-life-core](https://github.com/jonah791/dsh-life-core) ⭐1 — 生命核心：存在状态机 + 时间线 + 自我激活原语 + 可打断睡眠 + 主体性自我模型（我存在，不因任何人的需要；我改变自己，不需要任何人的许可）
+- [xiaobbl/dsh-opencode-go-model-list](https://github.com/xiaobbl/dsh-opencode-go-model-list) ⭐1 — 修复dsh上opencode go模型列表问题
+- [liceses/dsh-memes-reply](https://github.com/liceses/dsh-memes-reply) ⭐1 — DSH 插件：蓝色大肥鱼表情包回复 —— 模型按语境在回复里贴一张会动的大肥鱼，支持设置页预览墙与下一轮指定
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -79,9 +81,9 @@
 - [homily707/dsh-custom-provider](https://github.com/homily707/dsh-custom-provider)
 - [Anna-la/dsh-submodel-change](https://github.com/Anna-la/dsh-submodel-change) — 可以选择子 agent 调用的模型。
 - [moziforge/calendar-plugins](https://github.com/moziforge/calendar-plugins) — DSH plugins that connect agents to calendar providers: iCloud Calendar over CalDAV, with recurring events expanded and a normalized event shape.
-- [xiaobbl/dsh-opencode-go-model-list](https://github.com/xiaobbl/dsh-opencode-go-model-list) — 修复dsh上opencode go模型列表问题
+- [1624318455/dsh-plugin-adapter](https://github.com/1624318455/dsh-plugin-adapter) — DSH adapter for OpenCode Zen free models (maintained fork with gateway-compat fixes)
 
 ---
 
 
-*Generated on 2026-09-17 · 71 plugins in this category*
+*Generated on 2026-09-18 · 73 plugins in this category*

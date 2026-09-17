@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**70 plugins**
+**71 plugins**
 
 
 ---
@@ -79,8 +79,9 @@
 - [homily707/dsh-custom-provider](https://github.com/homily707/dsh-custom-provider)
 - [Anna-la/dsh-submodel-change](https://github.com/Anna-la/dsh-submodel-change) — 可以选择子 agent 调用的模型。
 - [moziforge/calendar-plugins](https://github.com/moziforge/calendar-plugins) — DSH plugins that connect agents to calendar providers: iCloud Calendar over CalDAV, with recurring events expanded and a normalized event shape.
+- [xiaobbl/dsh-opencode-go-model-list](https://github.com/xiaobbl/dsh-opencode-go-model-list) — 修复dsh上opencode go模型列表问题
 
 ---
 
 
-*Generated on 2026-09-17 · 70 plugins in this category*
+*Generated on 2026-09-17 · 71 plugins in this category*

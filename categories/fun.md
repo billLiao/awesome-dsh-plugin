@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**11 plugins**
+**12 plugins**
 
 
 ---
@@ -20,8 +20,9 @@
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
 - [Helly0000/dsh-life-game](https://github.com/Helly0000/dsh-life-game)
+- [wlc114514/dsh-upload-origin](https://github.com/wlc114514/dsh-upload-origin) — DSH host plugin that resolves the original local path of files uploaded to .dsh-uploads by matching name, size, and sha256.
 
 ---
 
 
-*Generated on 2026-09-18 · 11 plugins in this category*
+*Generated on 2026-09-19 · 12 plugins in this category*

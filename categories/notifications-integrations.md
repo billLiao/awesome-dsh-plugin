@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**26 plugins**
+**27 plugins**
 
 
 ---
@@ -15,9 +15,9 @@
 - [lsq-dsh-plugins/dsh-windows-notifications](https://github.com/lsq-dsh-plugins/dsh-windows-notifications) ⭐3
 - [asakumizy/dsh-trae-bridge](https://github.com/asakumizy/dsh-trae-bridge) ⭐2 — DSH和trae连接
 - [Swd146296/dsh-memos-bridge](https://github.com/Swd146296/dsh-memos-bridge) ⭐2
+- [0QwQ0/dsh-discord-richpresence](https://github.com/0QwQ0/dsh-discord-richpresence) ⭐2 — dsh-plugin: push vague, user-configurable DSH interaction states to local Discord as Rich Presence
 - [thuang3316/dsh-live-notify](https://github.com/thuang3316/dsh-live-notify) ⭐1 — DSH plugin for live notification
 - [ljnljn2005/dsh-clawbot-notify](https://github.com/ljnljn2005/dsh-clawbot-notify) ⭐1
-- [0QwQ0/dsh-discord-richpresence](https://github.com/0QwQ0/dsh-discord-richpresence) ⭐1 — dsh-plugin: push vague, user-configurable DSH interaction states to local Discord as Rich Presence
 - [sryimnoob123/dsh-global-prompt](https://github.com/sryimnoob123/dsh-global-prompt) ⭐1 — DSH settings plugin for global and project AGENTS.md, identity/persona injection, and result notifications.
 - [aa2246740/dsh-gateway](https://github.com/aa2246740/dsh-gateway) ⭐1 — One DSH Host, one messaging Gateway. Bring your own Slack and Feishu apps.
 - [lw-storm/dsh-plugin-noticeme](https://github.com/lw-storm/dsh-plugin-noticeme) ⭐1
@@ -35,8 +35,9 @@
 - [hotpot-labs/dsh-notifier-plugin](https://github.com/hotpot-labs/dsh-notifier-plugin) — dsh 干完活之后通知你，【轻量级】通知插件，只通知，不交互，mac/windows/linux 操作系统支持，dsh 在干活时你可以摸鱼
 - [zhengmz/dsh-wecom-plugin](https://github.com/zhengmz/dsh-wecom-plugin) — DSH 的企业微信插件
 - [qzy033/dsh-astrbot-gateway](https://github.com/qzy033/dsh-astrbot-gateway) — 大肥鱼桥：DSH 与 AstrBot 之间的桥接插件，指令下行、结果只走文件交付，不直发用户
+- [YUsaltyfish/dsh-fish-sound-notify](https://github.com/YUsaltyfish/dsh-fish-sound-notify) — DSH bundle: a Windows system sound when the agent asks a question /a turn ends/a permission request
 
 ---
 
 
-*Generated on 2026-09-19 · 26 plugins in this category*
+*Generated on 2026-09-20 · 27 plugins in this category*

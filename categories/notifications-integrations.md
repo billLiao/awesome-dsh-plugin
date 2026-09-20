@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**27 plugins**
+**28 plugins**
 
 
 ---
@@ -36,8 +36,9 @@
 - [zhengmz/dsh-wecom-plugin](https://github.com/zhengmz/dsh-wecom-plugin) — DSH 的企业微信插件
 - [qzy033/dsh-astrbot-gateway](https://github.com/qzy033/dsh-astrbot-gateway) — 大肥鱼桥：DSH 与 AstrBot 之间的桥接插件，指令下行、结果只走文件交付，不直发用户
 - [YUsaltyfish/dsh-fish-sound-notify](https://github.com/YUsaltyfish/dsh-fish-sound-notify) — DSH bundle: a Windows system sound when the agent asks a question /a turn ends/a permission request
+- [elk-9527/dsh-vscode](https://github.com/elk-9527/dsh-vscode)
 
 ---
 
 
-*Generated on 2026-09-20 · 27 plugins in this category*
+*Generated on 2026-09-21 · 28 plugins in this category*

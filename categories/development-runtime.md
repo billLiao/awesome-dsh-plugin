@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**40 plugins**
+**39 plugins**
 
 
 ---
@@ -27,6 +27,7 @@
 - [openrect/dsh-community-installer](https://github.com/openrect/dsh-community-installer) ⭐1 — Unofficial community installer for @deepseek-ai/dsh on Windows.
 - [Harzva/dsh-cli-store](https://github.com/Harzva/dsh-cli-store) ⭐1
 - [helibeiqi/dsh-csp-runtime](https://github.com/helibeiqi/dsh-csp-runtime) ⭐1 — Cognitive State Protocol (CSP) v0.1 — the cross-framework interop layer that makes AI thinking state serializable, persistable, and transferable. Host-side Cordis plugin for the DSH ecosystem.
+- [dymzz/lgtm-dsh](https://github.com/dymzz/lgtm-dsh) ⭐1 — lgtm-dsh is a DSH plugin that automatically installs lgtm, reuses the Jev already configured in DSH, and lets the agent automatically call lgtm during the testing phase.
 - [zdjmrq/dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) — DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins
 - [GoGoGoDoge/dsh-plugin-installer](https://github.com/GoGoGoDoge/dsh-plugin-installer)
 - [jiay98528-dev/dsh-plugin-weaknet-adaptor](https://github.com/jiay98528-dev/dsh-plugin-weaknet-adaptor)
@@ -47,10 +48,8 @@
 - [liuhao11223/dsh-oneclick-restart](https://github.com/liuhao11223/dsh-oneclick-restart) — dsh重启按钮插件
 - [XiaoMao-yty/dsh-netease-music](https://github.com/XiaoMao-yty/dsh-netease-music) — 网易云音乐 DSH 插件：单曲/MV/歌词/笔记/歌手/图片抓取，歌单管理，以及 AI 私人电台策展。零 npm 依赖。
 - [alexzshl/dsh-settings-size](https://github.com/alexzshl/dsh-settings-size) — config dsh settings size
-- [btsd321/dsh-remote-explorer](https://github.com/btsd321/dsh-remote-explorer)
-- [dymzz/lgtm-dsh](https://github.com/dymzz/lgtm-dsh) — lgtm-dsh is a DSH plugin that automatically installs lgtm, reuses the Jev already configured in DSH, and lets the agent automatically call lgtm during the testing phase.
 
 ---
 
 
-*Generated on 2026-09-22 · 40 plugins in this category*
+*Generated on 2026-09-23 · 39 plugins in this category*

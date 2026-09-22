@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**38 plugins**
+**40 plugins**
 
 
 ---
@@ -47,8 +47,10 @@
 - [liuhao11223/dsh-oneclick-restart](https://github.com/liuhao11223/dsh-oneclick-restart) — dsh重启按钮插件
 - [XiaoMao-yty/dsh-netease-music](https://github.com/XiaoMao-yty/dsh-netease-music) — 网易云音乐 DSH 插件：单曲/MV/歌词/笔记/歌手/图片抓取，歌单管理，以及 AI 私人电台策展。零 npm 依赖。
 - [alexzshl/dsh-settings-size](https://github.com/alexzshl/dsh-settings-size) — config dsh settings size
+- [btsd321/dsh-remote-explorer](https://github.com/btsd321/dsh-remote-explorer)
+- [dymzz/lgtm-dsh](https://github.com/dymzz/lgtm-dsh) — lgtm-dsh is a DSH plugin that automatically installs lgtm, reuses the Jev already configured in DSH, and lets the agent automatically call lgtm during the testing phase.
 
 ---
 
 
-*Generated on 2026-09-22 · 38 plugins in this category*
+*Generated on 2026-09-22 · 40 plugins in this category*

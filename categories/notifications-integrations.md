@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**28 plugins**
+**29 plugins**
 
 
 ---
@@ -21,6 +21,7 @@
 - [sryimnoob123/dsh-global-prompt](https://github.com/sryimnoob123/dsh-global-prompt) ⭐1 — DSH settings plugin for global and project AGENTS.md, identity/persona injection, and result notifications.
 - [aa2246740/dsh-gateway](https://github.com/aa2246740/dsh-gateway) ⭐1 — One DSH Host, one messaging Gateway. Bring your own Slack and Feishu apps.
 - [lw-storm/dsh-plugin-noticeme](https://github.com/lw-storm/dsh-plugin-noticeme) ⭐1
+- [Fnckerpoi/dsh-plugin-sirchmunk](https://github.com/Fnckerpoi/dsh-plugin-sirchmunk) ⭐1 — DSH集成sirchmunk插件管理。
 - [67-68/dsh-music-alert](https://github.com/67-68/dsh-music-alert)
 - [zbxzbx98/dsh-peak-alert](https://github.com/zbxzbx98/dsh-peak-alert) — DeepSeek 峰谷定价提示插件（DSH Web 客户端插件，纯前端，无后端依赖）
 - [jeffcwj/dsh-sounds](https://github.com/jeffcwj/dsh-sounds) — 给dsh添加opencode同款提示音和通知
@@ -41,4 +42,4 @@
 ---
 
 
-*Generated on 2026-09-21 · 28 plugins in this category*
+*Generated on 2026-09-22 · 29 plugins in this category*

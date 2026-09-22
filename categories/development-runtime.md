@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**36 plugins**
+**38 plugins**
 
 
 ---
@@ -45,8 +45,10 @@
 - [lnsdlszsqxxx/dsh-courseware](https://github.com/lnsdlszsqxxx/dsh-courseware) — create pptx file based on template.pptx and a outline file
 - [CHIP-PHILO-GH/dsh-mcu-lab](https://github.com/CHIP-PHILO-GH/dsh-mcu-lab) — DSH 插件：51 单片机开发闭环 —— Keil / 免费 SDCC 编译 + Proteus 仿真 + 确定性判定，含不依赖商业软件的离线判定后端。
 - [liuhao11223/dsh-oneclick-restart](https://github.com/liuhao11223/dsh-oneclick-restart) — dsh重启按钮插件
+- [XiaoMao-yty/dsh-netease-music](https://github.com/XiaoMao-yty/dsh-netease-music) — 网易云音乐 DSH 插件：单曲/MV/歌词/笔记/歌手/图片抓取，歌单管理，以及 AI 私人电台策展。零 npm 依赖。
+- [alexzshl/dsh-settings-size](https://github.com/alexzshl/dsh-settings-size) — config dsh settings size
 
 ---
 
 
-*Generated on 2026-09-21 · 36 plugins in this category*
+*Generated on 2026-09-22 · 38 plugins in this category*

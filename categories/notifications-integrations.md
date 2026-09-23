@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**29 plugins**
+**31 plugins**
 
 
 ---
@@ -16,6 +16,7 @@
 - [asakumizy/dsh-trae-bridge](https://github.com/asakumizy/dsh-trae-bridge) ⭐2 — DSH和trae连接
 - [Swd146296/dsh-memos-bridge](https://github.com/Swd146296/dsh-memos-bridge) ⭐2
 - [0QwQ0/dsh-discord-richpresence](https://github.com/0QwQ0/dsh-discord-richpresence) ⭐2 — dsh-plugin: push vague, user-configurable DSH interaction states to local Discord as Rich Presence
+- [lovedheart/dsh-plugin-telegram](https://github.com/lovedheart/dsh-plugin-telegram) ⭐2 — DSH plugin for Telegram bot integration
 - [thuang3316/dsh-live-notify](https://github.com/thuang3316/dsh-live-notify) ⭐1 — DSH plugin for live notification
 - [ljnljn2005/dsh-clawbot-notify](https://github.com/ljnljn2005/dsh-clawbot-notify) ⭐1
 - [sryimnoob123/dsh-global-prompt](https://github.com/sryimnoob123/dsh-global-prompt) ⭐1 — DSH settings plugin for global and project AGENTS.md, identity/persona injection, and result notifications.
@@ -38,8 +39,9 @@
 - [qzy033/dsh-astrbot-gateway](https://github.com/qzy033/dsh-astrbot-gateway) — 大肥鱼桥：DSH 与 AstrBot 之间的桥接插件，指令下行、结果只走文件交付，不直发用户
 - [YUsaltyfish/dsh-fish-sound-notify](https://github.com/YUsaltyfish/dsh-fish-sound-notify) — DSH bundle: a Windows system sound when the agent asks a question /a turn ends/a permission request
 - [elk-9527/dsh-vscode](https://github.com/elk-9527/dsh-vscode)
+- [iruoy/dsh-notify](https://github.com/iruoy/dsh-notify)
 
 ---
 
 
-*Generated on 2026-09-23 · 29 plugins in this category*
+*Generated on 2026-09-24 · 31 plugins in this category*

@@ -4,12 +4,12 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**322 plugins**
+**324 plugins**
 
 
 ---
 
-- [text2future/flowix](https://github.com/text2future/flowix) ⭐430 — Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding
+- [text2future/flowix](https://github.com/text2future/flowix) ⭐431 — Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding
 - [seriousz158/dsh-memory](https://github.com/seriousz158/dsh-memory) ⭐180
 - [himovo/movo](https://github.com/himovo/movo) ⭐157 — Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.
 - [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) ⭐129 — Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
@@ -24,7 +24,7 @@
 - [LaplaceYoung/dsh-directorx](https://github.com/LaplaceYoung/dsh-directorx) ⭐16 — DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
 - [00080000/dsh-project-memory](https://github.com/00080000/dsh-project-memory) ⭐15 — Read-time project memory plugin for DeepSeek Harness (dsh)
 - [mingzeng21/dsh-obsidian](https://github.com/mingzeng21/dsh-obsidian) ⭐14 — Connect DeepSeek Harness (dsh) to a local Obsidian vault: search, read, write, move, and trash notes.
-- [PerryLink/dsh-library](https://github.com/PerryLink/dsh-library) ⭐12 — Local document knowledge base for DeepSeek Harness: library_add/remove/list, hybrid semantic+keyword library_search with diversity re-ranking, relevance filtering and lost-in-the-middle avoidance, citation-aware injection, library_cite_check and library_diagnose — SQLite-backed index via the storage domain, local embedding, zero model downloads.
+- [PerryLink/dsh-library](https://github.com/PerryLink/dsh-library) ⭐13 — Local document knowledge base for DeepSeek Harness: library_add/remove/list, hybrid semantic+keyword library_search with diversity re-ranking, relevance filtering and lost-in-the-middle avoidance, citation-aware injection, library_cite_check and library_diagnose — SQLite-backed index via the storage domain, local embedding, zero model downloads.
 - [juntaoding/Flowboard](https://github.com/juntaoding/Flowboard) ⭐12 — 运行在 DeepSeek Harness 中的开源办公协作与团队管理插件，让目标、会议、Agent 执行、进度和资料在同一套办公逻辑中持续流动。
 - [Roarpeng/GraphFlow](https://github.com/Roarpeng/GraphFlow) ⭐12 — Local-first code knowledge graph and context harness for coding agents. MCP + DeepSeek Harness (dsh) plugin.
 - [knqiufan/powercontext-dsh](https://github.com/knqiufan/powercontext-dsh) ⭐11 — DeepSeek Harness plugin that connects to a PowerContext Server over HTTP for recall, memory, handoff, experience, and skills.
@@ -331,8 +331,10 @@
 - [tr1v3r/dsh-ltm](https://github.com/tr1v3r/dsh-ltm) — Local-first long-term memory for DeepSeek Harness, with CJK-aware search and memory lifecycle management.
 - [jipika/dsh-memory](https://github.com/jipika/dsh-memory) — Two-layer long-term memory for DeepSeek Harness (DSH): global + per-project markdown, live re-read, zero extra LLM cost, with a Settings panel. 给 DSH 的两层长期记忆。
 - [zhang-guo-wen/dsh-memory](https://github.com/zhang-guo-wen/dsh-memory) — Claude-compatible memory for DeepSeek Harness: a user-chosen memory directory with MEMORY.md index and topic files, the memory tool, and a settings page
+- [wu81313-lab/dsh-company-kb](https://github.com/wu81313-lab/dsh-company-kb) — DSH local-folder knowledge base: manual-sync SQLite FTS5 index, Chinese hybrid retrieval (BM25 + CJK bigram + trigram, RRF), explicit-invocation gate, and a Web panel.
+- [bonerush/dsh-obsidian-mem](https://github.com/bonerush/dsh-obsidian-mem) — DeepSeek Harness host plugin that keeps project documents and long-term memory as plain Markdown in a dedicated Obsidian vault.
 
 ---
 
 
-*Generated on 2026-09-24 · 322 plugins in this category*
+*Generated on 2026-09-24 · 324 plugins in this category*

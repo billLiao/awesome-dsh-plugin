@@ -21,6 +21,7 @@
 - [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model) ⭐3 — Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.
 - [shangjian2023/dsh-rss-daily](https://github.com/shangjian2023/dsh-rss-daily) ⭐3 — dsh plugin: 46-source daily RSS digest, LLM-edited, delivered via webhook (ServerChan/PushDeer/WxWork/TG/Bark/gotify)
 - [xiaobbl/dsh-opencode-go-model-list](https://github.com/xiaobbl/dsh-opencode-go-model-list) ⭐3 — 修复dsh上opencode go模型列表问题
+- [liceses/dsh-memes-reply](https://github.com/liceses/dsh-memes-reply) ⭐3 — DSH 插件：蓝色大肥鱼表情包回复 —— 模型按语境在回复里贴一张会动的大肥鱼，支持设置页预览墙与下一轮指定
 - [NLeRWantFly/dsh-HoldThatBigBlueFatFish](https://github.com/NLeRWantFly/dsh-HoldThatBigBlueFatFish) ⭐2 — 约束蓝色大肥鱼过度思考暂时的方案~模型测试opencode go实现
 - [R-LEI2536/dsh-more-agent-presets](https://github.com/R-LEI2536/dsh-more-agent-presets) ⭐2 — More Agent Presets for DSH derived from other coding agents (e.g. qwen code, iflow)
 - [wtiaw/dsh-ccswitch-importer](https://github.com/wtiaw/dsh-ccswitch-importer) ⭐2 — Import CCSwitch Codex profiles and configure per-model reasoning in DSH.
@@ -30,7 +31,6 @@
 - [jyao-SUSE-power-group/dsh-provider-rate-limit](https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit) ⭐2 — dsh-provider-rate-limit
 - [Shizuku-keop/dsh-micro-inversion-standard](https://github.com/Shizuku-keop/dsh-micro-inversion-standard) ⭐2 — 一个可复用的 DSH Agent Preset：双阶段、Token 精益的编码智能体模式。  核心目标：把模型思维链的起手习惯从 "let me" 翻转为 "we need"，同时把上下文占用与 Token 消耗压到最低，并保持供应商 KV Cache 对未变前缀持续命中。
 - [eons2long/dsh-codex-oauth](https://github.com/eons2long/dsh-codex-oauth) ⭐2
-- [liceses/dsh-memes-reply](https://github.com/liceses/dsh-memes-reply) ⭐2 — DSH 插件：蓝色大肥鱼表情包回复 —— 模型按语境在回复里贴一张会动的大肥鱼，支持设置页预览墙与下一轮指定
 - [clarkzhao/dsh-llm-grok](https://github.com/clarkzhao/dsh-llm-grok) ⭐1 — dsh plugin for grok
 - [Xpectuer/dsh-llm-approver](https://github.com/Xpectuer/dsh-llm-approver) ⭐1
 - [MoRanYue/dsh-openrouter-providers](https://github.com/MoRanYue/dsh-openrouter-providers) ⭐1 — DSH 插件：设置页配置 OpenRouter 提供商列表，注入 provider.only / provider.order 路由参数；状态持久化
@@ -92,4 +92,4 @@
 ---
 
 
-*Generated on 2026-09-25 · 79 plugins in this category*
+*Generated on 2026-09-26 · 79 plugins in this category*

@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**31 plugins**
+**32 plugins**
 
 
 ---
@@ -40,8 +40,9 @@
 - [YUsaltyfish/dsh-fish-sound-notify](https://github.com/YUsaltyfish/dsh-fish-sound-notify) — DSH bundle: a Windows system sound when the agent asks a question /a turn ends/a permission request
 - [elk-9527/dsh-vscode](https://github.com/elk-9527/dsh-vscode)
 - [iruoy/dsh-notify](https://github.com/iruoy/dsh-notify)
+- [masknull/dsh-webhook-notifier](https://github.com/masknull/dsh-webhook-notifier) — DSH 插件：AI 回合完成、权限申请、提问、出错、开始运行等场景发生时，向 Webhook 发送自定义 HTTP 通知（GET/POST、预设字段或自定义文本、发送日志）。 | DSH plugin: send custom HTTP webhook notifications on DSH events (turn completed, permission request, question, error, run started) - GET/POST, preset fields or custom text, send log.
 
 ---
 
 
-*Generated on 2026-09-25 · 31 plugins in this category*
+*Generated on 2026-09-25 · 32 plugins in this category*

@@ -3171,7 +3171,6 @@
 - [SanYe-SanJiu/dsh-power-switch](https://github.com/SanYe-SanJiu/dsh-power-switch) — 一个Deepseek Harness 的进程结束插件，在左下角会有关闭按钮，本插件还同时有页面切换，在应用模式时关闭进程会自动关闭当前页面，标签页模式则不行
 - [blueberrymaid/dsh-midtalk](https://github.com/blueberrymaid/dsh-midtalk) — 给正在跑的回合插话：/say 无损，/cut 中止当前步并留下恢复卡。Interject into a running DSH turn without losing work: /say queues losslessly at the next step boundary, /cut aborts the step and leaves a structured recovery card.
 - [CSlawyer1985/dsh-jev-router](https://github.com/CSlawyer1985/dsh-jev-router) — DSH 插件 · 用 Jev（TypeSafe System One）判定推理强度：默认只切思考强度（零缓存代价），自动模型路由出厂关闭 + 硬门禁 + 成本闸。作者 chenshi.ai
-- [qikairo7/dsh-gemini-pool](https://github.com/qikairo7/dsh-gemini-pool) — DSH 用上 Gemini 的方式 —— 让你的 Google AI Pro 订阅成为编程模型池：多模态 / 前端生成 / 生图 / 多账号调度
 - [zchuxi/dsh-restart-task](https://github.com/zchuxi/dsh-restart-task) — DSH Web 插件：三段式回合恢复（同轮静默重试 / 输出超限同轮续写 / 可选新一轮继续），输入框为空时发送键变成「继续」。A three-tier recovery policy for broken turns for DSH.
 - [chenpengfei/dsh-daily-brief](https://github.com/chenpengfei/dsh-daily-brief) — 每日简报的 DeepSeek Harness 插件
 - [H-xie/zotero4DSH](https://github.com/H-xie/zotero4DSH) — Zotero 文献全文检索插件（DeepSeek Harness plugin）

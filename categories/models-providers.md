@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**80 plugins**
+**81 plugins**
 
 
 ---
@@ -89,8 +89,9 @@
 - [Mushroomcowisheggs/dsh-hardlink-publish-fallback](https://github.com/Mushroomcowisheggs/dsh-hardlink-publish-fallback)
 - [masknull/dsh-model-tester](https://github.com/masknull/dsh-model-tester) — DSH 插件：在「模型」设置页一键测试模型可用性（可用性 / TPS / 首 token / 耗时）。 | DSH plugin: one-click model availability testing (available / TPS / first token / elapsed) in the Models settings page.
 - [pgnqukezrdxmhjso/dsh-llm-codebuddy-power](https://github.com/pgnqukezrdxmhjso/dsh-llm-codebuddy-power) — 功能齐全的 CodeBuddy（WorkBuddy）提供者插件。 A full-featured CodeBuddy (WorkBuddy) provider plugin.
+- [qikairo7/dsh-gemini-pool](https://github.com/qikairo7/dsh-gemini-pool) — 多账号 Google Gemini 提供商（DSH 插件）：按剩余额度挑选账号，遇 429 指数退避切换，后台探活已禁用账号，附中英双语设置页
 
 ---
 
 
-*Generated on 2026-09-27 · 80 plugins in this category*
+*Generated on 2026-09-27 · 81 plugins in this category*

@@ -102,6 +102,11 @@ def categorize(repo):
         if any(kw in text for kw in ['plugin', 'dsh']):
             return 'awesome-lists'
 
+    # Multi-account model provider pools (e.g. Gemini quota pools) → Models & Providers
+    # (must run before the generic workflow-automation keywords like '后台' catch them)
+    if 'gemini' in name and 'pool' in text:
+        return 'models-providers'
+
     # UI Enhancements
     if any(kw in text for kw in [
         'ui', 'tui', 'web ui', 'sidebar', 'navbar', 'navbar', 'composer',

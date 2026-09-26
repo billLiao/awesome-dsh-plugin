@@ -25,9 +25,9 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 | 💬 [会话与消息](categories/sessions-messages.md) | 1834 | 会话管理、消息编辑、分享与对话工具。 |
 | 🧠 [记忆](categories/memory.md) | 329 | 持久记忆、知识库与上下文保留插件。 |
 | 🛠️ [工具与能力](categories/tools-capabilities.md) | 3506 | 视觉、浏览器、终端、SSH、Docker 等能力扩展。 |
-| 🔁 [工作流与自动化](categories/workflow-automation.md) | 3177 | 自动化循环、定时任务、多智能体团队与工作流引擎。 |
+| 🔁 [工作流与自动化](categories/workflow-automation.md) | 3176 | 自动化循环、定时任务、多智能体团队与工作流引擎。 |
 | 🔔 [通知与集成](categories/notifications-integrations.md) | 33 | 微信、Telegram、IM 桥接、桌面通知与外部集成。 |
-| 🔌 [模型与账号接入](categories/models-providers.md) | 80 | 多模型支持、OAuth 登录、LLM 回退策略与提供商桥接。 |
+| 🔌 [模型与账号接入](categories/models-providers.md) | 81 | 多模型支持、OAuth 登录、LLM 回退策略与提供商桥接。 |
 | 🧑‍💻 [开发与运行时](categories/development-runtime.md) | 40 | 插件管理器、SDK、CLI、桌面壳与开发者工具。 |
 | 🔒 [安全与隐私](categories/security-privacy.md) | 11 | 凭证管理、加密、审计与安全工具。 |
 | 🎮 [娱乐](categories/fun.md) | 14 | 游戏、桌宠、娱乐与趣味插件。 |
@@ -88,7 +88,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) ⭐14177 — Harness engineering beginner tutorial, from 0 to 1
 - [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) ⭐4634 — The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
 
-▶️ [查看全部 3177 个插件 →](categories/workflow-automation.md)
+▶️ [查看全部 3176 个插件 →](categories/workflow-automation.md)
 
 
 ### 🔔 通知与集成
@@ -106,7 +106,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
 - [MichaelShii/dsh-plugin-teamflow](https://github.com/MichaelShii/dsh-plugin-teamflow) ⭐9 — dsh plugin teamflow
 
-▶️ [查看全部 80 个插件 →](categories/models-providers.md)
+▶️ [查看全部 81 个插件 →](categories/models-providers.md)
 
 
 ### 🧑‍💻 开发与运行时

@@ -179256,25 +179256,6 @@
         "updated_at": "2026-09-25T14:19:57Z"
       },
       {
-        "full_name": "qikairo7/dsh-gemini-pool",
-        "url": "https://github.com/qikairo7/dsh-gemini-pool",
-        "description": "多账号 Google Gemini 提供商（DSH 插件）：按剩余额度挑选账号，遇 429 指数退避切换，后台探活已禁用账号，附中英双语设置页",
-        "stars": 0,
-        "topics": [
-          "antigravity",
-          "claude",
-          "deepseek-harness",
-          "dsh",
-          "dsh-plugin",
-          "gemini",
-          "google-ai-pro",
-          "image-generation",
-          "llm",
-          "model-pool"
-        ],
-        "updated_at": "2026-09-26T15:03:50Z"
-      },
-      {
         "full_name": "zchuxi/dsh-restart-task",
         "url": "https://github.com/zchuxi/dsh-restart-task",
         "description": "DSH Web 插件：三段式回合恢复（同轮静默重试 / 输出超限同轮续写 / 可选新一轮继续），输入框为空时发送键变成「继续」。A three-tier recovery policy for broken turns for DSH.",
@@ -180693,6 +180674,25 @@
           "dsh-plugin"
         ],
         "updated_at": "2026-09-26T10:46:59Z"
+      },
+      {
+        "full_name": "qikairo7/dsh-gemini-pool",
+        "url": "https://github.com/qikairo7/dsh-gemini-pool",
+        "description": "多账号 Google Gemini 提供商（DSH 插件）：按剩余额度挑选账号，遇 429 指数退避切换，后台探活已禁用账号，附中英双语设置页",
+        "stars": 0,
+        "topics": [
+          "antigravity",
+          "claude",
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin",
+          "gemini",
+          "google-ai-pro",
+          "image-generation",
+          "llm",
+          "model-pool"
+        ],
+        "updated_at": "2026-09-26T15:03:50Z"
       }
     ],
     "development-runtime": [

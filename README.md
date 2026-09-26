@@ -25,9 +25,9 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 | 💬 [Sessions & Messages](categories/sessions-messages.md) | 1834 | Session management, message editing, sharing, and conversation tools. |
 | 🧠 [Memory](categories/memory.md) | 329 | Persistent memory, knowledge bases, and context retention plugins. |
 | 🛠️ [Tools & Capabilities](categories/tools-capabilities.md) | 3506 | Vision, browser, terminal, SSH, Docker, and other capability extensions. |
-| 🔁 [Workflow & Automation](categories/workflow-automation.md) | 3177 | Automation loops, scheduled tasks, multi-agent teams, and workflow engines. |
+| 🔁 [Workflow & Automation](categories/workflow-automation.md) | 3176 | Automation loops, scheduled tasks, multi-agent teams, and workflow engines. |
 | 🔔 [Notifications & Integrations](categories/notifications-integrations.md) | 33 | WeChat, Telegram, IM bridges, desktop notifications, and external integrations. |
-| 🔌 [Models & Providers](categories/models-providers.md) | 80 | Multi-model support, OAuth login, LLM fallback strategies, and provider bridges. |
+| 🔌 [Models & Providers](categories/models-providers.md) | 81 | Multi-model support, OAuth login, LLM fallback strategies, and provider bridges. |
 | 🧑‍💻 [Development & Runtime](categories/development-runtime.md) | 40 | Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling. |
 | 🔒 [Security & Privacy](categories/security-privacy.md) | 11 | Credential management, encryption, audit, and security tooling. |
 | 🎮 [Just for Fun](categories/fun.md) | 14 | Games, pets, entertainment, and playful plugins. |
@@ -91,7 +91,7 @@ A selection of notable plugins by category:
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) ⭐14177 — Harness engineering beginner tutorial, from 0 to 1
 - [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) ⭐4634 — The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
 
-▶️ [View all 3177 plugins →](categories/workflow-automation.md)
+▶️ [View all 3176 plugins →](categories/workflow-automation.md)
 
 
 ### 🔔 Notifications & Integrations
@@ -109,7 +109,7 @@ A selection of notable plugins by category:
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
 - [MichaelShii/dsh-plugin-teamflow](https://github.com/MichaelShii/dsh-plugin-teamflow) ⭐9 — dsh plugin teamflow
 
-▶️ [View all 80 plugins →](categories/models-providers.md)
+▶️ [View all 81 plugins →](categories/models-providers.md)
 
 
 ### 🧑‍💻 Development & Runtime

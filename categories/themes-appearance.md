@@ -4,14 +4,14 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**290 plugins**
+**292 plugins**
 
 
 ---
 
-- [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) ⭐3260 — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
-- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐2222 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
-- [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐163 — DeepSeek Harness skin market 皮肤市场 已收录200+DSH 皮肤 完善评分系统加人工审核，有便捷的社区收录入口；有在线页面方便在线浏览，也有插件方便管理本地皮肤
+- [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) ⭐3347 — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
+- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐2249 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
+- [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐165 — DeepSeek Harness skin market 皮肤市场 已收录200+DSH 皮肤 完善评分系统加人工审核，有便捷的社区收录入口；有在线页面方便在线浏览，也有插件方便管理本地皮肤
 - [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) ⭐123 — DeepSeek Harness 滑动变阻器皮肤
 - [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) ⭐102 — 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风。
 - [SenmuuuuW/dsh-whale-report](https://github.com/SenmuuuuW/dsh-whale-report) ⭐31 — 深迹 DeepTrace — Your Agent, in numbers. DSH 插件：从会话事件日志生成日报/周报/月报/年报/自定义区间，确定性洞察与协作复盘，只读、不改写历史。
@@ -164,6 +164,7 @@
 - [zanechen6/dsh-assistant-skin](https://github.com/zanechen6/dsh-assistant-skin) ⭐1 — DSH 助理/秘书/女友皮肤：黑蓝暗调主题 + 会话区助理形象（静图 / 无缝循环片段）+ 形象切换与动作调度。常驻占 98% 时间，动作偶尔触发。不改 DSH 源码，卸载即还原。
 - [zdz6215591/dsh-theme-doubao](https://github.com/zdz6215591/dsh-theme-doubao) ⭐1 — 豆包主题 — DeepSeek Harness Web 客户端主题插件。
 - [davidtan2008/deepseek-harness-desktop](https://github.com/davidtan2008/deepseek-harness-desktop) ⭐1 — deepseek-harness-desktop
+- [cyh3436332528/dsh-float-chat](https://github.com/cyh3436332528/dsh-float-chat) ⭐1 — 把 DSH 的侧边对话弹出来，变成一个能压在所有应用之上的独立置顶浮窗：自带四态外观（浅色/深色/跟随 DSH/跟随 Windows）、不透明度、窗口几何记忆、即用即焚与缓存清理。Windows 专属（WinForms + WebView2）。
 - [DKthreeFR/ATRI-Theme-DSH](https://github.com/DKthreeFR/ATRI-Theme-DSH) — ATRI 亚托莉主题的DeepSeepk Harnesss装饰
 - [xianshu-virtuous/dsh-whale-companion](https://github.com/xianshu-virtuous/dsh-whale-companion) — DeepSeek Harness whale-maid persona and automatic near-limit session continuation
 - [LimBoo233/dsh-web-extras](https://github.com/LimBoo233/dsh-web-extras) — DeepSeek Harness Web 界面增强插件：完成/审批/提问提醒（音效 + 立绘）、外观定制（背景图 / 透明度 / 输入区折叠）、按轮次聚合的文件变更视图（行级差异 + 修改前后代码高亮）。纯浏览器端实现，无 Host 代码，数据仅保存在本地浏览器。
@@ -299,8 +300,9 @@
 - [renjie2026/dsh-theme-gallery](https://github.com/renjie2026/dsh-theme-gallery) — DeepSeek Harness 桌面版主题皮肤画廊插件 —— 一个插件管全部皮肤（JSON 数据驱动，内置 山青婷彩 / 梦海游鱼），npm/tarball 安装零构建授权 | A community theme gallery plugin for DeepSeek Harness: JSON-defined skins with full-screen coverage
 - [renjie2026/dsh-skills](https://github.com/renjie2026/dsh-skills) — 给 AI 助手的 DeepSeek Harness 插件与皮肤开发技能：dsh-plugin-author（插件全流程 + 8 类真实故障模式）+ dsh-theme-skin-author（皮肤 JSON/token 契约与配色规范） | Agent skills for authoring DeepSeek Harness plugins and theme skins
 - [Age10-Moyu/dsh-adiv-theme](https://github.com/Age10-Moyu/dsh-adiv-theme)
+- [Menghuan1918/dsh-deep-diving-skin](https://github.com/Menghuan1918/dsh-deep-diving-skin) — 替换“深度求索中”为任意你想要的文本，比如：少女祈祷中......
 
 ---
 
 
-*Generated on 2026-09-28 · 290 plugins in this category*
+*Generated on 2026-09-29 · 292 plugins in this category*

@@ -96,4 +96,4 @@
 ---
 
 
-*Generated on 2026-09-28 · 83 plugins in this category*
+*Generated on 2026-09-29 · 83 plugins in this category*

@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**83 plugins**
+**84 plugins**
 
 
 ---
@@ -41,6 +41,7 @@
 - [alaxrpg/dsh-llm-approve-for-me](https://github.com/alaxrpg/dsh-llm-approve-for-me) ⭐1
 - [jonah791/dsh-life-core](https://github.com/jonah791/dsh-life-core) ⭐1 — 生命核心：存在状态机 + 时间线 + 自我激活原语 + 可打断睡眠 + 主体性自我模型（我存在，不因任何人的需要；我改变自己，不需要任何人的许可）
 - [lakeofsky347/dsh-oauth](https://github.com/lakeofsky347/dsh-oauth) ⭐1 — 一个适用于dsh的通过oauth认证实现模型注入的插件
+- [leaves615/dsh-llm-ctl](https://github.com/leaves615/dsh-llm-ctl) ⭐1
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -96,4 +97,4 @@
 ---
 
 
-*Generated on 2026-09-29 · 83 plugins in this category*
+*Generated on 2026-09-29 · 84 plugins in this category*

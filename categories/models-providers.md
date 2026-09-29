@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**84 plugins**
+**83 plugins**
 
 
 ---
@@ -30,7 +30,7 @@
 - [seriousz158/dsh-codex-use](https://github.com/seriousz158/dsh-codex-use) ⭐2
 - [jyao-SUSE-power-group/dsh-provider-rate-limit](https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit) ⭐2 — dsh-provider-rate-limit
 - [Shizuku-keop/dsh-micro-inversion-standard](https://github.com/Shizuku-keop/dsh-micro-inversion-standard) ⭐2 — 一个可复用的 DSH Agent Preset：双阶段、Token 精益的编码智能体模式。  核心目标：把模型思维链的起手习惯从 "let me" 翻转为 "we need"，同时把上下文占用与 Token 消耗压到最低，并保持供应商 KV Cache 对未变前缀持续命中。
-- [eons2long/dsh-codex-oauth](https://github.com/eons2long/dsh-codex-oauth) ⭐2
+- [qikairo7/dsh-gemini-pool](https://github.com/qikairo7/dsh-gemini-pool) ⭐2 — 多账号 Google Gemini 提供商（DSH 插件）：按剩余额度挑选账号，遇 429 指数退避切换，后台探活已禁用账号，附中英双语设置页
 - [clarkzhao/dsh-llm-grok](https://github.com/clarkzhao/dsh-llm-grok) ⭐1 — dsh plugin for grok
 - [Xpectuer/dsh-llm-approver](https://github.com/Xpectuer/dsh-llm-approver) ⭐1
 - [MoRanYue/dsh-openrouter-providers](https://github.com/MoRanYue/dsh-openrouter-providers) ⭐1 — DSH 插件：设置页配置 OpenRouter 提供商列表，注入 provider.only / provider.order 路由参数；状态持久化
@@ -90,11 +90,10 @@
 - [Mushroomcowisheggs/dsh-hardlink-publish-fallback](https://github.com/Mushroomcowisheggs/dsh-hardlink-publish-fallback)
 - [masknull/dsh-model-tester](https://github.com/masknull/dsh-model-tester) — DSH 插件：在「模型」设置页一键测试模型可用性（可用性 / TPS / 首 token / 耗时）。 | DSH plugin: one-click model availability testing (available / TPS / first token / elapsed) in the Models settings page.
 - [pgnqukezrdxmhjso/dsh-llm-codebuddy-power](https://github.com/pgnqukezrdxmhjso/dsh-llm-codebuddy-power) — 功能齐全的 CodeBuddy（WorkBuddy）提供者插件。 A full-featured CodeBuddy (WorkBuddy) provider plugin.
-- [qikairo7/dsh-gemini-pool](https://github.com/qikairo7/dsh-gemini-pool) — 多账号 Google Gemini 提供商（DSH 插件）：按剩余额度挑选账号，遇 429 指数退避切换，后台探活已禁用账号，附中英双语设置页
 - [jcjyids/dsh-web-advanced-settings](https://github.com/jcjyids/dsh-web-advanced-settings) — 完全由DeepSeek大模型生成
 - [MCXCC303/dsh-hdsl-3dmodel](https://github.com/MCXCC303/dsh-hdsl-3dmodel)
 
 ---
 
 
-*Generated on 2026-09-29 · 84 plugins in this category*
+*Generated on 2026-09-30 · 83 plugins in this category*

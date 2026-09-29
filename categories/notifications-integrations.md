@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**33 plugins**
+**34 plugins**
 
 
 ---
@@ -42,8 +42,9 @@
 - [iruoy/dsh-notify](https://github.com/iruoy/dsh-notify)
 - [masknull/dsh-webhook-notifier](https://github.com/masknull/dsh-webhook-notifier) — DSH 插件：AI 回合完成、权限申请、提问、出错、开始运行等场景发生时，向 Webhook 发送自定义 HTTP 通知（GET/POST、预设字段或自定义文本、发送日志）。 | DSH plugin: send custom HTTP webhook notifications on DSH events (turn completed, permission request, question, error, run started) - GET/POST, preset fields or custom text, send log.
 - [Camusugar/dsh-notify](https://github.com/Camusugar/dsh-notify)
+- [WalcimarZD/dsh-notify-pt](https://github.com/WalcimarZD/dsh-notify-pt)
 
 ---
 
 
-*Generated on 2026-09-29 · 33 plugins in this category*
+*Generated on 2026-09-29 · 34 plugins in this category*

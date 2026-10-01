@@ -4,13 +4,13 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**309 plugins**
+**312 plugins**
 
 
 ---
 
 - [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) ⭐3561 — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
-- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐2330 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
+- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐2333 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
 - [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐174 — DeepSeek Harness skin market 皮肤市场 已收录200+DSH 皮肤 完善评分系统加人工审核，有便捷的社区收录入口；有在线页面方便在线浏览，也有插件方便管理本地皮肤
 - [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) ⭐123 — DeepSeek Harness 滑动变阻器皮肤
 - [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) ⭐109 — 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风。
@@ -18,7 +18,7 @@
 - [chen731215-dev/dsh-tavern-v2](https://github.com/chen731215-dev/dsh-tavern-v2) ⭐30 — DeepSeek Harness Tavern Plugin - character card roleplay, worldbook management, preset switching, dark theme, memory summary, relationship graph, PolyForm-Noncommercial-Copyleft-1.0.0
 - [HiWhaleW/dsh-toolbox](https://github.com/HiWhaleW/dsh-toolbox) ⭐29 — Local-first DeepSeek Harness plugins for product research, context routing, plugin preflight, and compatibility monitoring.
 - [JAdpp/dsh-whale-galgame](https://github.com/JAdpp/dsh-whale-galgame) ⭐27 — 工作推gal两不误~面向DeepSeek Harness的跨会话事件感知Galgame引擎与界面插件，支持鲸鱼娘/GPT/Claude/Grok/Gemini/Kimi多位模型娘角色
-- [gulagala001/oh-my-dsh](https://github.com/gulagala001/oh-my-dsh) ⭐26 — 让你的 DSH，火力全开。长上下文、任务验证、提示词优化、代码理解、电脑操作与四套完整主题。
+- [gulagala001/oh-my-dsh](https://github.com/gulagala001/oh-my-dsh) ⭐27 — 让你的 DSH，火力全开。长上下文、任务验证、提示词优化、代码理解、电脑操作与四套完整主题。
 - [nevertoday/dsh-theme-plugin](https://github.com/nevertoday/dsh-theme-plugin) ⭐25 — Chinese traditional colors as a DeepSeek Harness theme pack.
 - [10086ggqq/dsh_theme_terraria](https://github.com/10086ggqq/dsh_theme_terraria) ⭐24 — 把 DeepSeek Harness 的 AI 编码控制台变成泰拉瑞亚像素世界——向导陪你写代码，真实对话、工具审批、难度切换，单文件零依赖。
 - [LaplaceYoung/dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006) ⭐24 — DSH (DeepSeek Harness) 的 QQ2006 皮肤插件：注册 qq2006 主题、镜像 body[data-ds-skin]、全局皮肤表与完整素材
@@ -101,8 +101,10 @@
 - [cq-guojia/dsh-session-title-pattern](https://github.com/cq-guojia/dsh-session-title-pattern) ⭐2 — 自动管理 dsh 会话标题，统一成「日期｜类型｜主题」的格式：类型与主题由模型对整段对话总结。
 - [CoolTea001/dsh-cool-theme](https://github.com/CoolTea001/dsh-cool-theme) ⭐2 — DeepSeek Harness theme plugin — supports Dark / Light / System appearance switching, ships 34 preset themes, and supports creating, sharing, and importing custom themes.
 - [133563825as-ai/oha-whale-compress](https://github.com/133563825as-ai/oha-whale-compress) ⭐2 — DeepSeek Harness「压缩会话」插件：自定义 token 阈值自动压缩、一键压缩当前会话、输入框常驻按钮可开关。哦鲸鲸出品。
-- [WTStarMark/dsh-myskin](https://github.com/WTStarMark/dsh-myskin) ⭐2 — DSH 皮肤插件：可视化自定义 + 实时预览 + 「皮肤管理」设置页。 非侵入式：不改 DSH 源码 / 配置、不改 DSH 进程；皮肤是完全可逆的覆盖层。  适配：DSH 0.1.7-rc.2 与 0.2.0-rc.1
+- [askdkc/dsh-cli](https://github.com/askdkc/dsh-cli) ⭐2 — DSH向けCLI Plugin / DSH CLIplugin — whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS
+- [WTStarMark/dsh-myskin](https://github.com/WTStarMark/dsh-myskin) ⭐2 — DSH 通用皮肤框架：可视化自定义 + 实时预览 + 「皮肤管理」，可以随心设计你的专属皮肤，并通过分发皮肤包和你的小伙伴们分享
 - [Anionex/dsh-eye-care](https://github.com/Anionex/dsh-eye-care) ⭐2 — Warm light, warm dark, and system-aware eye-care themes for DSH Web
+- [liuhange789/data-asset-inspector](https://github.com/liuhange789/data-asset-inspector) ⭐2 — 30 DSH plugins | data asset registration | gov data inspection | AML compliance | research provenance | BIM inventory | pipeline inspection | geo quality | GB/T 24356-2023 | zero hardcode | policyBasis | 538 tests
 - [Yuuyuko-uu/dsh-fish-memory](https://github.com/Yuuyuko-uu/dsh-fish-memory) ⭐1 — 🐋 DSH 鱼的记忆：给会话一份会淡忘的长期记忆，每条都带时间。名字里的「鱼」来自 DeepSeek 的鲸鱼。
 - [kinmat-A/dsh-theme-switch](https://github.com/kinmat-A/dsh-theme-switch) ⭐1 — 一款轻量级的 DSH 主题外观切换插件：自动检测已装皮肤，一键互斥切换，全部停用时回退官方外观，即时生效、重启保留。
 - [LvsH13/dsh-desktop](https://github.com/LvsH13/dsh-desktop) ⭐1 — DeepSeek Harness 的 Windows 桌面端插件：托盘鲸鱼图标、桌面快捷方式、开机自启直达桌面窗口，一键切换桌面/网页端。 A Windows desktop companion for DeepSeek Harness: system tray (whale) icon, desktop shortcut, login auto-start straight into the desktop window, and one-click desktop/web switching.
@@ -156,6 +158,7 @@
 - [MoonlitDropOfBlood/dsh-whale-pet](https://github.com/MoonlitDropOfBlood/dsh-whale-pet) ⭐1 — dsh的桌面宠物，挂载在WhaleHarbor中
 - [iasiv5/skins](https://github.com/iasiv5/skins) ⭐1 — DeepSeek Harness Web 界面主题/皮肤管理插件，可切换多种视觉风格。
 - [mrSutivu/plugin-effort-slider](https://github.com/mrSutivu/plugin-effort-slider) ⭐1 — Notched reasoning-effort slider grouped with the model picker for DeepSeek Harness — native styling, themeable, i18n
+- [Nicholaskin/vision-exp-tile](https://github.com/Nicholaskin/vision-exp-tile) ⭐1 — DSH（DeepSeek Harness）插件：800×800 无损切块 + 坐标标注 + 直连 DeepSeek 视觉 API 识别聚合，专治大图看不清
 - [lzhhhhc/Arknights-flavor-theme](https://github.com/lzhhhhc/Arknights-flavor-theme) ⭐1 — Arknights theme skin for DeepSeek Harness. 适用于 DeepSeek Harness 的明日方舟主题皮肤。
 - [elong16/dsh-skin-xuyuanwu](https://github.com/elong16/dsh-skin-xuyuanwu) ⭐1
 - [2754LM/dsh-theme-newsprint](https://github.com/2754LM/dsh-theme-newsprint) ⭐1 — 报纸衬线 · Newsprint Serif — DSH 主题插件：暖白报纸 + 纯黑中性灰 + 衬线正文 + 报纸排版笔画
@@ -168,7 +171,6 @@
 - [zdz6215591/dsh-theme-doubao](https://github.com/zdz6215591/dsh-theme-doubao) ⭐1 — 豆包主题 — DeepSeek Harness Web 客户端主题插件。
 - [davidtan2008/deepseek-harness-desktop](https://github.com/davidtan2008/deepseek-harness-desktop) ⭐1 — deepseek-harness-desktop
 - [cyh3436332528/dsh-float-chat](https://github.com/cyh3436332528/dsh-float-chat) ⭐1 — 把 DSH 的侧边对话弹出来，变成一个能压在所有应用之上的独立置顶浮窗：自带四态外观（浅色/深色/跟随 DSH/跟随 Windows）、不透明度、窗口几何记忆、即用即焚与缓存清理。Windows 专属（WinForms + WebView2）。
-- [askdkc/dsh-cli](https://github.com/askdkc/dsh-cli) ⭐1 — DSH向けCLI Plugin / DSH CLIplugin — whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS
 - [Sovero/dsh_plugins](https://github.com/Sovero/dsh_plugins) ⭐1 — dsh desktop plugins theme
 - [Lmf-ynu/dsh-aurora-glass](https://github.com/Lmf-ynu/dsh-aurora-glass) ⭐1
 - [joeseesun/qiaomu-radio-dsh](https://github.com/joeseesun/qiaomu-radio-dsh) ⭐1 — 乔木电台 DeepSeek Harness 插件 | Live radio with themed players, mood channels and local listening history
@@ -283,7 +285,6 @@
 - [StevenZha0/dsh-vae-theme](https://github.com/StevenZha0/dsh-vae-theme) — 《庐州月 · 许嵩》— DeepSeek Harness 国风水墨主题插件 | 夜色水墨长卷 · 金丝九宫格边框 · VAE 书法标志 · 全屏雨幕 · 国风歌词竖排轮播
 - [jonah791/dsh-video-studio](https://github.com/jonah791/dsh-video-studio) — DSH 视频工作台插件：把视频工厂（TTS/配乐/混音/Remotion 渲染/多级质检/主题脚手架）封装为工具面，支撑创作任意视频
 - [xerxescom/dsh-theme-inkstone](https://github.com/xerxescom/dsh-theme-inkstone)
-- [Nicholaskin/vision-exp-tile](https://github.com/Nicholaskin/vision-exp-tile) — DSH（DeepSeek Harness）插件：800×800 无损切块 + 坐标标注 + 直连 DeepSeek 视觉 API 识别聚合，专治大图看不清
 - [ArimaKana-Akane/dsh-whale-tools](https://github.com/ArimaKana-Akane/dsh-whale-tools) — dsh-whale-widget satellite: replace the whale mascot with any image (auto cutout) + restart button + heartbeat. Vibe-coded.
 - [Lkrain821/dsh-pixelwhale](https://github.com/Lkrain821/dsh-pixelwhale)
 - [vclike/dsh-delivery-cards](https://github.com/vclike/dsh-delivery-cards) — DeepSeek Harness 插件的独立交付卡片行：绕开 conversation.chat.turnTail 链被抢占导致的交付卡片消失；11 类文件类型图标、亮暗双主题、零依赖零构建 — DSH plugin: standalone delivery-cards row that renders presented files as cards with file-type icons, dual themes, zero dependencies.
@@ -318,8 +319,10 @@
 - [Canye-zdm/dsh-skin-aurora](https://github.com/Canye-zdm/dsh-skin-aurora) — Deepseek Harness aurora theme skin
 - [LX-HMKK/DSH-appearance](https://github.com/LX-HMKK/DSH-appearance) — 轻量的 DeepSeek Harness 字体与主题插件：中英文字体分开选，含 One Dark Pro / Dracula / Nord / GitHub / Catppuccin 五套官方色板预设
 - [aigisx/dsh-plugin-whale-girl](https://github.com/aigisx/dsh-plugin-whale-girl) — 修改应用内的图标，并调整尺寸大小。
+- [qiaoshi-dot/dsh-wechat-classic-theme](https://github.com/qiaoshi-dot/dsh-wechat-classic-theme) — WeChat-style light theme for DeepSeek Harness Desktop.
+- [Lenandy/dsh-glass-skin](https://github.com/Lenandy/dsh-glass-skin) — DSH（DeepSeek Harness）桌面端的亚克力玻璃皮肤：半透明画布与侧栏 + 重模糊背景，右下角圆钮即控制台，明暗独立调节和上传网络图片或本地图片
 
 ---
 
 
-*Generated on 2026-10-01 · 309 plugins in this category*
+*Generated on 2026-10-02 · 312 plugins in this category*

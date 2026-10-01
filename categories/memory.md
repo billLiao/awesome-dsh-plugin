@@ -9,7 +9,7 @@
 
 ---
 
-- [text2future/flowix](https://github.com/text2future/flowix) ⭐443 — Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding
+- [text2future/flowix](https://github.com/text2future/flowix) ⭐444 — Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding
 - [himovo/movo](https://github.com/himovo/movo) ⭐208 — Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.
 - [seriousz158/dsh-memory](https://github.com/seriousz158/dsh-memory) ⭐180
 - [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) ⭐128 — Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
@@ -362,10 +362,10 @@
 - [libolunm/dsh-worldbook](https://github.com/libolunm/dsh-worldbook) — DeepSeek Harness (dsh) 的酒馆式世界书：蓝灯常驻条目 + 绿灯关键词注入，Agent 可自读写的 worldbook 工具，外加网页设置面板里的可视化编辑器。
 - [FeC3-pearlite/bearing-notes](https://github.com/FeC3-pearlite/bearing-notes) — DeepSeek Harness 文献笔记插件：笔记汇总到一个 Word，右侧栏调用模型审阅并提示相关知识（轴承钢滚动接触疲劳）
 - [win10ogod/dsh-knowledge-work](https://github.com/win10ogod/dsh-knowledge-work) — Persistent knowledge-work Agent workflows, evidence capture, review and reports for DSH
-- [ShukebtAb/Dsh-Cross-Memory](https://github.com/ShukebtAb/Dsh-Cross-Memory) — @a9i5k4/dsh-auto-memory 的增量插件：①跨实例硬约束注入（一份 cross/RULES.md，全部实例共用，全文注入不截断）；②结构化写入工具 cross_memory_write_entry（自动锚点行 / ≤200 索引行校验 / 正文外移 / 写前基线）。
+- [ShukebtAb/Dsh-Cross-Memory](https://github.com/ShukebtAb/Dsh-Cross-Memory) — @a9i5k4/dsh-auto-memory 的增量插件（只做本体没有的两件事）：①跨实例硬约束注入（一份 cross/RULES.md，全部实例共用，全文注入不截断）；②锚点结构修复 cross_memory_fix_bare_entries（无锚点裸条 / 空锚点 orphan / 重复锚点三分类，只插入新行、绝不改动既有行）。
 - [ShikangPang/jizuo-creator-memory](https://github.com/ShikangPang/jizuo-creator-memory) — DeepSeek Harness 创作记忆插件：小说记忆与知识图谱
 
 ---
 
 
-*Generated on 2026-10-01 · 355 plugins in this category*
+*Generated on 2026-10-02 · 355 plugins in this category*

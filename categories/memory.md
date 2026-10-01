@@ -4,7 +4,7 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**354 plugins**
+**355 plugins**
 
 
 ---
@@ -13,7 +13,7 @@
 - [himovo/movo](https://github.com/himovo/movo) ⭐208 — Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.
 - [seriousz158/dsh-memory](https://github.com/seriousz158/dsh-memory) ⭐180
 - [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) ⭐128 — Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
-- [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) ⭐90 — Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
+- [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) ⭐91 — Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
 - [btspoony/mstar-harness](https://github.com/btspoony/mstar-harness) ⭐62 — An omni-plugin for harness engineering workflows with multi-agents, programmatic gates and skills.
 - [Soren-ABT/dsh-knowledge](https://github.com/Soren-ABT/dsh-knowledge) ⭐58 — Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel
 - [lna-lab/distill-kura](https://github.com/lna-lab/distill-kura) ⭐53 — 蒸留蔵 — distilled long-term memory for agents: recall by meaning, writing gated by evidence, one kura per agent mode. Ships as a DeepSeek Harness plugin and an MCP server.
@@ -363,8 +363,9 @@
 - [FeC3-pearlite/bearing-notes](https://github.com/FeC3-pearlite/bearing-notes) — DeepSeek Harness 文献笔记插件：笔记汇总到一个 Word，右侧栏调用模型审阅并提示相关知识（轴承钢滚动接触疲劳）
 - [win10ogod/dsh-knowledge-work](https://github.com/win10ogod/dsh-knowledge-work) — Persistent knowledge-work Agent workflows, evidence capture, review and reports for DSH
 - [ShukebtAb/Dsh-Cross-Memory](https://github.com/ShukebtAb/Dsh-Cross-Memory) — @a9i5k4/dsh-auto-memory 的增量插件：①跨实例硬约束注入（一份 cross/RULES.md，全部实例共用，全文注入不截断）；②结构化写入工具 cross_memory_write_entry（自动锚点行 / ≤200 索引行校验 / 正文外移 / 写前基线）。
+- [ShikangPang/jizuo-creator-memory](https://github.com/ShikangPang/jizuo-creator-memory) — DeepSeek Harness 创作记忆插件：小说记忆与知识图谱
 
 ---
 
 
-*Generated on 2026-10-01 · 354 plugins in this category*
+*Generated on 2026-10-01 · 355 plugins in this category*

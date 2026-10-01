@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**35 plugins**
+**34 plugins**
 
 
 ---
@@ -37,7 +37,6 @@
 - [hotpot-labs/dsh-notifier-plugin](https://github.com/hotpot-labs/dsh-notifier-plugin) — dsh 干完活之后通知你，【轻量级】通知插件，只通知，不交互，mac/windows/linux 操作系统支持，dsh 在干活时你可以摸鱼
 - [zhengmz/dsh-wecom-plugin](https://github.com/zhengmz/dsh-wecom-plugin) — DSH 的企业微信插件
 - [qzy033/dsh-astrbot-gateway](https://github.com/qzy033/dsh-astrbot-gateway) — 大肥鱼桥：DSH 与 AstrBot 之间的桥接插件，指令下行、结果只走文件交付，不直发用户
-- [YUsaltyfish/dsh-fish-sound-notify](https://github.com/YUsaltyfish/dsh-fish-sound-notify) — DSH bundle: a Windows system sound when the agent asks a question /a turn ends/a permission request
 - [elk-9527/dsh-vscode](https://github.com/elk-9527/dsh-vscode)
 - [iruoy/dsh-notify](https://github.com/iruoy/dsh-notify)
 - [masknull/dsh-webhook-notifier](https://github.com/masknull/dsh-webhook-notifier) — DSH 插件：AI 回合完成、权限申请、提问、出错、开始运行等场景发生时，向 Webhook 发送自定义 HTTP 通知（GET/POST、预设字段或自定义文本、发送日志）。 | DSH plugin: send custom HTTP webhook notifications on DSH events (turn completed, permission request, question, error, run started) - GET/POST, preset fields or custom text, send log.
@@ -48,4 +47,4 @@
 ---
 
 
-*Generated on 2026-10-01 · 35 plugins in this category*
+*Generated on 2026-10-01 · 34 plugins in this category*

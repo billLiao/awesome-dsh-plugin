@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**84 plugins**
+**86 plugins**
 
 
 ---
@@ -21,6 +21,7 @@
 - [Vesna-Strivozha/DSH-LLM-wiki-plugin](https://github.com/Vesna-Strivozha/DSH-LLM-wiki-plugin) ⭐4 — 基于Karpathy的wiki方法论搭建的插件，让你的DSH直接变身成LLM wiki，不需要Obsidian+Claudian插件，国内网络友好
 - [xiaobbl/dsh-opencode-go-model-list](https://github.com/xiaobbl/dsh-opencode-go-model-list) ⭐3 — 修复dsh上opencode go模型列表问题
 - [liceses/dsh-memes-reply](https://github.com/liceses/dsh-memes-reply) ⭐3 — DSH 插件：蓝色大肥鱼表情包回复 —— 模型按语境在回复里贴一张会动的大肥鱼，支持设置页预览墙与下一轮指定
+- [LarryE135/dsh-flash-presets](https://github.com/LarryE135/dsh-flash-presets) ⭐3 — 通过补充强约束抑制模型的过度思考倾向，减少因为过度思考产生的浪费，同时通过调整压缩逻辑高全局注意力
 - [NLeRWantFly/dsh-HoldThatBigBlueFatFish](https://github.com/NLeRWantFly/dsh-HoldThatBigBlueFatFish) ⭐2 — 约束蓝色大肥鱼过度思考暂时的方案~模型测试opencode go实现
 - [R-LEI2536/dsh-more-agent-presets](https://github.com/R-LEI2536/dsh-more-agent-presets) ⭐2 — More Agent Presets for DSH derived from other coding agents (e.g. qwen code, iflow)
 - [wtiaw/dsh-ccswitch-importer](https://github.com/wtiaw/dsh-ccswitch-importer) ⭐2 — Import CCSwitch Codex profiles and configure per-model reasoning in DSH.
@@ -93,8 +94,9 @@
 - [jcjyids/dsh-web-advanced-settings](https://github.com/jcjyids/dsh-web-advanced-settings) — 完全由DeepSeek大模型生成
 - [MCXCC303/dsh-hdsl-3dmodel](https://github.com/MCXCC303/dsh-hdsl-3dmodel)
 - [phoenixyun/dsh-plugin-live-diff](https://github.com/phoenixyun/dsh-plugin-live-diff) — Live streaming diffs for DSH file edits: a diff that grows while the model is still emitting the edit arguments.
+- [Leafyezi233/dsh-model-gateway](https://github.com/Leafyezi233/dsh-model-gateway)
 
 ---
 
 
-*Generated on 2026-10-01 · 84 plugins in this category*
+*Generated on 2026-10-01 · 86 plugins in this category*

@@ -4,17 +4,17 @@
 > Session management, message editing, sharing, and conversation tools.
 
 
-**2054 plugins**
+**2070 plugins**
 
 
 ---
 
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) ⭐11630 — Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
+- [flizzywine/dsh-tavern](https://github.com/flizzywine/dsh-tavern) ⭐636 — 基于DSH的Agent酒馆。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。
 - [adoresever/graph-memory](https://github.com/adoresever/graph-memory) ⭐633 — Deepseek Harness、Openclaw知识图谱记忆插件。2026年4月受邀发布在清华大学讨论会。Knowledge Graph + Memory；Knowledge Graph Context Engine for OpenClaw — extracts structured triples from conversations, compresses context 75%, enables cross-session experience reuse
-- [flizzywine/dsh-tavern](https://github.com/flizzywine/dsh-tavern) ⭐617 — 基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。
 - [vibeinging/dsh-desktop](https://github.com/vibeinging/dsh-desktop) ⭐591 — DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.
 - [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) ⭐340 — 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。
-- [FuRongJun-1999/dsh-memory](https://github.com/FuRongJun-1999/dsh-memory) ⭐312 — 白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。
+- [FuRongJun-1999/dsh-memory](https://github.com/FuRongJun-1999/dsh-memory) ⭐314 — 白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。
 - [hikariming/dshfind](https://github.com/hikariming/dshfind) ⭐290 — DSH (DeepSeek Harness) 原理学习、插件市场与最佳实践 · Learn DSH principles, plugin marketplace & best practices
 - [liangmianya/dsh-synapse](https://github.com/liangmianya/dsh-synapse) ⭐239 — A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.
 - [Nwflower/dsh-chat-import](https://github.com/Nwflower/dsh-chat-import) ⭐208 — Import conversation history from 25+ AI coding agents into DeepSeek Harness as resumable sessions — tool calls, reasoning and results kept intact, with reverse export and sync. | 把 25+ AI 编程 Agent 的聊天记录导入 DeepSeek Harness 继续对话，保留工具调用、推理与结果，支持反向导出与同步。
@@ -24,9 +24,10 @@
 - [cocofhu/anime-find](https://github.com/cocofhu/anime-find) ⭐173 — DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。
 - [Totoro-qaq/dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge) ⭐165 — DeepSeek Harness plugin for previewable cross-preset session migration. Fixed-schema handoffs preserve state, source-model intent, and unresolved images; the original session stays untouched.
 - [ZSeven-W/dsh-crew](https://github.com/ZSeven-W/dsh-crew) ⭐153 — DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation.
+- [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) ⭐140 — DeepSeek Harness 长篇角色扮演agent（DSH酒馆插件）：SillyTavern 角色卡导入、行动选项卡、分支对话管理、长篇记忆、关键词与语义混合检索、交互式角色卡创作、世界书、多角色 Agent 集群、文风预设、小说与角色卡导出、一键安装。 / Roleplay Agent 、Tavern plugin for DSH (DeepSeek Harness): branch conversation, long-term memory, hybrid keyword and semantic retrieval, SillyTavern cards, interactive card authoring, card export, one-click installers.
 - [xiajiajun516/dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) ⭐136 — DeepSeek Harness (DSH) backup & restore plugin — export, import, migrate and sync your complete DSH configuration, plugins, MCP servers, skills and workspace. One-click migration to another machine.
-- [a86582751/dsh-nexttavern](https://github.com/a86582751/dsh-nexttavern) ⭐136 — DeepSeek Harness 长篇角色扮演agent（DSH酒馆插件）：SillyTavern 角色卡导入、行动选项卡、分支对话管理、长篇记忆、关键词与语义混合检索、交互式角色卡创作、世界书、多角色 Agent 集群、文风预设、小说与角色卡导出、一键安装。 / Roleplay Agent 、Tavern plugin for DSH (DeepSeek Harness): branch conversation, long-term memory, hybrid keyword and semantic retrieval, SillyTavern cards, interactive card authoring, card export, one-click installers.
-- [franksong2702/dsh-codex-connect](https://github.com/franksong2702/dsh-codex-connect) ⭐132 — Use openai-codex models and image generation via ChatGPT OAuth for DeepSeek Harness.
+- [franksong2702/dsh-codex-connect](https://github.com/franksong2702/dsh-codex-connect) ⭐134 — Use openai-codex models and image generation via ChatGPT OAuth for DeepSeek Harness.
+- [hg1048596-pixel/dsh-recall-unread](https://github.com/hg1048596-pixel/dsh-recall-unread) ⭐127 — DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them — one-by-one or all at once.
 - [Anionex/dsh-turn-rewind](https://github.com/Anionex/dsh-turn-rewind) ⭐125 — deepseek harness对话和代码状态回退插件 | DSH — rewind conversation and workspace state, powered by a persistent Change Ledger
 - [PerryLink/dsh-memento](https://github.com/PerryLink/dsh-memento) ⭐119 — Bounded, layered, approval-gated, auditable cross-session memory for DeepSeek Harness (capability seam: ctx.memory + SQLite provider + memory tool + frozen snapshot injection)
 - [Phant0Meow/dsh-meow-memory](https://github.com/Phant0Meow/dsh-meow-memory) ⭐118 — Cross-session memory plugin for DeepSeek Harness: seven-layer SQLite store (soul/user/project/fact/lesson/topic/rules), BM25 retrieval, per-window dream consolidation. 跨会话七层长期记忆插件。
@@ -35,7 +36,7 @@
 - [Amakurai/dsh-liketavern](https://github.com/Amakurai/dsh-liketavern) ⭐115 — A DeepSeek Harness (dsh) plugin — turns dsh web into a SillyTavern-style roleplay frontend: character cards, prompt presets, lorebooks, personas, BM25 long-term memory, world-state deltas, and rollback-able floor operations, all on the dsh agent runtime.
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) ⭐114 — Claude Code-style declarative permission rules for DeepSeek Harness: ordered allow/deny/ask rules with tool-name, argument (glob/regex), and workspace-path matching on the tools/pre-execute waterfall, session-log audit, and HMR reload.
 - [qkycir-123/dsh-run2skill](https://github.com/qkycir-123/dsh-run2skill) ⭐109 — Automatically turn successful DeepSeek Harness sessions into reusable, reviewable Agent Skills.
-- [SiriLee/dsh-rewind](https://github.com/SiriLee/dsh-rewind) ⭐102 — DSH 插件：便捷无感的同窗口内对话回退，从不新建分支；自带轻量工作区备份，可一并还原文件（Claude Code /rewind 语义）。 ·  DSH plugin: effortless in-window conversation rewind — never forking a new session; ships a lightweight workspace backup that restores files together with the rewind (Claude Code /rewind semantics).
+- [SiriLee/dsh-rewind](https://github.com/SiriLee/dsh-rewind) ⭐107 — DSH 插件：便捷无感的同窗口内对话回退，从不新建分支；自带轻量工作区备份，可一并还原文件（Claude Code /rewind 语义）。 ·  DSH plugin: effortless in-window conversation rewind — never forking a new session; ships a lightweight workspace backup that restores files together with the rewind (Claude Code /rewind semantics).
 - [wqty123/dsh-browser](https://github.com/wqty123/dsh-browser) ⭐99 — Shared real browser plugin for DeepSeek Harness
 - [Noob-stupid/dsh-plugin-gating-hub](https://github.com/Noob-stupid/dsh-plugin-gating-hub) ⭐93 — DSH plugin - framework upgrade safety & plugin gating: contract pre-check, rollback point, auto-rollback on failure, evidence-based auto-disable; plus a multi-source plugin market. Unofficial. | DSH 插件：框架升级安全 + 插件门控——升级前契约预检、回滚点、失败自动回滚、有确证证据才自动禁用；另带多源插件市场。非官方社区项目。
 - [titanwings/dsh-automation](https://github.com/titanwings/dsh-automation) ⭐89 — DSH 自动化插件：让 Coding 任务按计划在全新 Agent Session 中运行，并由用户或 Agent 创建和管理定时任务。 / Run coding tasks in fresh Agent sessions and manage schedules from DSH Web or an Agent.
@@ -49,15 +50,15 @@
 - [Ayase34/gal-view](https://github.com/Ayase34/gal-view) ⭐53 — 把dsh会话界面切换成galgame游戏界面的插件
 - [BeforeWave/dsh-with-chatgpt](https://github.com/BeforeWave/dsh-with-chatgpt) ⭐52 — Say goodbye to copy-pasting and DSH Token anxiety. Let ChatGPT on the web connect directly to your local project, code on its own, and hand complex tasks to DSH for sustained execution.
 - [PolinniZhong/dsh-session-workbench](https://github.com/PolinniZhong/dsh-session-workbench) ⭐51 — Session Workbench for DeepSeek Harness: session-library full-text search + recall + conversation-view management (show/hide + reorder). 会话工作台：会话库（历史会话全文搜索与召回）+ 会话视图（标签栏显示/隐藏 + 拖拽排序）。
+- [Aa728848/dsh-chatgpt-subscription](https://github.com/Aa728848/dsh-chatgpt-subscription) ⭐42
 - [Blank-not-black/dsh-Remote](https://github.com/Blank-not-black/dsh-Remote) ⭐41 — DSH Remote · 口袋里的 DSH 控制台 会话 · 审批 · 提问 · 文件传输，局域网 / Tailscale 直连 多服务器自动选优，聊天记录离线可看 带 Token 鉴权，数据只在你的设备之间流动 Sessions · approvals · questions · file transfer over LAN / Tailscale. Automatic fastest-server selection. Chat history available offline. Token-authenticated — your data flows only between your devices.
 - [wowyuarm/dsh-agent-team](https://github.com/wowyuarm/dsh-agent-team) ⭐41 — dsh-agent-team gives DeepSeek Harness agents that don't reset: durable Members with their own memory, notes, and skills across sessions, rollovers, and restarts. You set the direction; agents coordinate through Channels and Tasks.
-- [Aa728848/dsh-chatgpt-subscription](https://github.com/Aa728848/dsh-chatgpt-subscription) ⭐40
 - [AX1202/ax-feishu-bridge](https://github.com/AX1202/ax-feishu-bridge) ⭐38 — 飞书/Lark 机器人桥接，同时支持 Pi 和 DeepSeek Harness（DSH）双平台，随时随地远程与你的编程助手对话
 - [joeseesun/qiaomu-rss-dsh](https://github.com/joeseesun/qiaomu-rss-dsh) ⭐37 — 在 DeepSeek Harness 中阅读 RSS，与原生 AI 对话伴读文章 | RSS reading with native AI companion for DeepSeek Harness
-- [limbo947/dsh-recall-plugin](https://github.com/limbo947/dsh-recall-plugin) ⭐35 — 消息撤回插件：回到发送该消息时的状态 DSH Message Recall Plugin: Return to the state when the message was sent
 - [hellodigua/dsh-share](https://github.com/hellodigua/dsh-share) ⭐35 — DSH 对话分享插件，分享单轮或多轮对话，可导出为图片或 Markdown。Share DSH Q&As or selected conversation groups as PNG or Markdown.
 - [PlutoKeating/dsh-lark-bot](https://github.com/PlutoKeating/dsh-lark-bot) ⭐34 — DeepSeek Harness (dsh) 接入飞书/Lark bot，扫码即用：流式卡片、项目工作区、并行任务、多角色 Agent、跨会话通知、对话内模型/密钥管理与安全网守护（dsh 崩溃后飞书仍可自救）。A scan-to-connect bridge bot connecting DeepSeek Harness (dsh) into Feishu/Lark: streaming cards, workspaces, parallel tasks, multi-role agents, cross-session notify, in-chat model/key management, and a safety-net guardian.
 - [jjxjjjjiik-bot/dsh-chat-timeline](https://github.com/jjxjjjjiik-bot/dsh-chat-timeline) ⭐34 — 1:1 port of DeepSeek's official web right-side chat navigation rail (ScrollNav) as a DeepSeek Harness (DSH) plugin
+- [limbo947/dsh-recall-plugin](https://github.com/limbo947/dsh-recall-plugin) ⭐34 — 消息撤回插件：回到发送该消息时的状态 DSH Message Recall Plugin: Return to the state when the message was sent
 - [Chinesezjc/dsh-interconnect](https://github.com/Chinesezjc/dsh-interconnect) ⭐33 — Cross-instance message/event handoff plugins for DSH (interconnect service + tools)
 - [bihangchi9-creator/lark-agent-bridge](https://github.com/bihangchi9-creator/lark-agent-bridge) ⭐33 — A native DeepSeek Harness (dsh) plugin bridging dsh coding agents to Feishu/Lark group chats — one group, one project directory.
 - [Len7183/DSH-Think-zh](https://github.com/Len7183/DSH-Think-zh) ⭐32 — DSH插件「DSH-Think-zh」 ：为利于中文使用者阅读推理过程、复核结论；在设置添加切换模型思考语言档位[简体中文/繁体中文/默认英文]；回复语言跟随提问语言，代码与标识符保持原文。
@@ -89,9 +90,9 @@
 - [gcry13067381632-jpg/dsh-qqbot](https://github.com/gcry13067381632-jpg/dsh-qqbot) ⭐19 — AI 统管 QQ 群组：审核放行、群发文件、沟通其他web会话的ai！ 气氛组担当：表情包自动入库，AI 自己决定开口，多预设多人格轮班陪聊！ 远程办公：权限审批、提问卡片转发qq
 - [HuanLinOTO/dsh-plugin-aigc-canvas](https://github.com/HuanLinOTO/dsh-plugin-aigc-canvas) ⭐18 — provider-agnostic AIGC HTTP 桥 + 无限画布 + ffmpeg 后处理，13 个工具含画布连边/reroll/媒体编辑 | Provider-agnostic AIGC HTTP bridge + infinite canvas + ffmpeg post-processing; 13 tools incl. canvas linking/reroll/media-edit
 - [NekroAI/nekro-nxt](https://github.com/NekroAI/nekro-nxt) ⭐18 — NekroNXT：基于 DeepSeek Harness（DSH）的多平台群聊智能体系统｜A DSH-powered multi-platform group-chat agent system
+- [FeatherHunter/dsh-im-companion](https://github.com/FeatherHunter/dsh-im-companion) ⭐18 — dsh-im-companion：以助理和家的概念增强 dsh-im——哪个工作区有助理在管、在不在线尽收眼底，搬家拖一下就行。
 - [youqu68/dsh-delete-chat](https://github.com/youqu68/dsh-delete-chat) ⭐18
 - [suntianc/dsh-codex-auth](https://github.com/suntianc/dsh-codex-auth) ⭐17 — DeepSeek Harness plugin that reuses the local Codex CLI ChatGPT login and adds a native GPT Auth settings card
-- [FeatherHunter/dsh-im-companion](https://github.com/FeatherHunter/dsh-im-companion) ⭐17 — dsh-im-companion：以助理和家的概念增强 dsh-im——哪个工作区有助理在管、在不在线尽收眼底，搬家拖一下就行。
 - [HarcoChen/dsh-vsc-integration](https://github.com/HarcoChen/dsh-vsc-integration) ⭐17 — DeepSeek Harness (DSH) for VS Code — AI coding with native diffs, tool approvals, persistent sessions, and Trace insights. | AI 编程助手：原生 Diff、工具审批、持久会话与 Trace 分析。
 - [Player-MINEPIG/dsh-tavern](https://github.com/Player-MINEPIG/dsh-tavern) ⭐17 — 以 DSH 原生会话与执行机制为权威的酒馆兼容插件，提供前后端 API，支持自由组合酒馆能力与 DSH 原生功能。 | A SillyTavern compatibility plugin that keeps DSH authoritative over sessions and execution, with frontend and backend APIs for composing Tavern capabilities with native DSH features.
 - [Rxiain/dsh-openviking](https://github.com/Rxiain/dsh-openviking) ⭐16 — 面向 DeepSeek Harness 的 OpenViking 检索、资源管理、自动召回与会话记忆插件
@@ -130,6 +131,7 @@
 - [QIANLING-0831/dsh-memory-plus](https://github.com/QIANLING-0831/dsh-memory-plus) ⭐11 — DeepSeek Harness (DSH) 记忆插件全家桶：中文可用会话全文检索（FTS5 trigram）、工具结果去重、混合向量+FTS5 记忆检索、跨会话核心记忆、近无损压缩、技能管理器+后台自我进化，以及模型写不到的用户专属层（手写或被固定的技能与记忆，模型工具与后台进化一律改不动）。86 单测；支持 DSH 0.1.5-rc.3 ~ 0.2.x
 - [lcgash/dsh-plugin-uw](https://github.com/lcgash/dsh-plugin-uw) ⭐11 — Merge multiple directories into one DSH session with configurable write scopes: primary only, all members via common ancestor, or unrestricted.
 - [alpacachen/dsh-kanban](https://github.com/alpacachen/dsh-kanban) ⭐11 — A shared kanban board for people and AI agents in DeepSeek Harness.
+- [muyuanjin/dsh-ptc-plus](https://github.com/muyuanjin/dsh-ptc-plus) ⭐11 — A session-bound agent-native REPL for DeepSeek Harness PTC mode.
 - [zmm863-commits/dsh-agnes-studio](https://github.com/zmm863-commits/dsh-agnes-studio) ⭐11 — 🎬 泡泡猫的影视工具 — AI 影视创作工作站：文生图、图生图、文生视频、图生视频、短剧剧本拆解与提示词专家。支持 Agnes / DeepSeek / Qwen / 豆包 / MiniMax / Ollama 六大厂商，全局浮层不堵对话框。
 - [realguan/dsh-dock](https://github.com/realguan/dsh-dock) ⭐11 — 专为 DeepSeek Harness (DSH) 打造的跨平台桌面控制中心：多工作台管理、3,400+ 社区插件市场、会话自愈、凭据与系统诊断。Tauri v2 + Rust + React 19，支持 macOS / Windows / Linux。
 - [CLICGGER-TYPES/dsh-piggy](https://github.com/CLICGGER-TYPES/dsh-piggy) ⭐11 — 🐖 DeepSeek Harness 养成插件，也可作为 Windows/Linux/macOS 桌面宠物运行；支持成长、学习、打工、钓鱼、图鉴与换肤
@@ -139,7 +141,6 @@
 - [xiaoshenming/dsh-session-surgeon](https://github.com/xiaoshenming/dsh-session-surgeon) ⭐10 — Repair DeepSeek Harness sessions that refuse to load. 修好打不开的 DSH 会话文件。
 - [xohmai/dsh-session-delete](https://github.com/xohmai/dsh-session-delete) ⭐10 — DeepSeek Harness 会话删除插件：设置页管理归档会话，真正删除磁盘日志（回收站可还原）+ 批量清理——官方归档只隐藏不删盘，这里补上。
 - [BananaSoldier01/dsh-tidychat](https://github.com/BananaSoldier01/dsh-tidychat) ⭐10 — DSH Web 会话时间线整理：轮次自动折叠（只留结论）+ 过程/结论分隔线 + 边缘导航消息轨（左右贴边 / 横线·圆点）+ 智能加载更早历史；可接管 DSH 0.1.2+ 官方右缘 TurnNavigator
-- [muyuanjin/dsh-ptc-plus](https://github.com/muyuanjin/dsh-ptc-plus) ⭐10 — A session-bound agent-native REPL for DeepSeek Harness PTC mode.
 - [chromoany/dsh-notify-me](https://github.com/chromoany/dsh-notify-me) ⭐10 — DSH 桌面消息提醒插件 / desktop notification and message alerts for DeepSeek Harness web：需要你操作（可操作提醒）与回复完成提醒，系统通知+提示音+标签页标题，设置页开关 + 中英通知语言
 - [iyllyt/dsh-btw](https://github.com/iyllyt/dsh-btw) ⭐10 — 个人很喜欢 Claude Code 的 /btw，于是为 DSH 做了复刻：共享当前上下文快速旁路提问，不中断主任务，也不写入主会话历史。
 - [Fantasality/dsh-origin-plugin](https://github.com/Fantasality/dsh-origin-plugin) ⭐9 — Drive OriginLab Origin scientific plotting from AI chat via MCP. 74 tools: modal-dialog watchdog, LabTalk safety gate, FigureSpec declarative YAML, fit params, matrix tools, matplotlib bridge, PPT assembly, editable OPJU delivery. Windows + Origin 2021+.
@@ -166,6 +167,7 @@
 - [chenzheshushi-commits/dsh-evolve](https://github.com/chenzheshushi-commits/dsh-evolve) ⭐8 — Self-evolving memory + skill lifecycle for DeepSeek Harness — durable cross-session memory with zero-token deterministic recall, tiered approval, reinforcement learning from repetition, and anti-bloat convergence for both skills and memory.
 - [xxww0098/dsh-plugin-oauth-subs](https://github.com/xxww0098/dsh-plugin-oauth-subs) ⭐8 — ChatGPT Codex and xAI Grok subscription OAuth for DeepSeek Harness — PKCE / device-code, local Responses proxy, llm-pi-ai sync
 - [PelyDeng/dsh-plugin-manager](https://github.com/PelyDeng/dsh-plugin-manager) ⭐8 — Deploy and manage DeepSeek Harness apps with shared authentication, plugin packaging, and Docker deployment.
+- [RSLN-creator/dsh-web-bridge](https://github.com/RSLN-creator/dsh-web-bridge) ⭐8 — Use your logged-in web AI (DeepSeek, GLM, Kimi, Qwen, Doubao...) as model providers in DeepSeek Harness. Web models emit tool calls, DSH runs them under its native permission system, and results return to the same web session. No API keys.
 - [tianyaojiudi-prog/dsh-djy-xttsc](https://github.com/tianyaojiudi-prog/dsh-djy-xttsc) ⭐8 — DSH(DeepSeek Harness) 插件：把一段可在设置页随时改写的文字，作为全局系统提示词段注入到所有会话，含子代理与工作流内部子代理；文本与开关即时生效，无需重启。
 - [yangdcm/dsh-expert-team](https://github.com/yangdcm/dsh-expert-team) ⭐8 — Role-based multi-agent expert team for DeepSeek Harness: one sentence in, a staged and gated team delivery out. 12 role subagents, 9 gated phases, shared-workspace artifacts, zero runtime dependencies.
 - [Saktawdi/dsh-ha-orchestrator](https://github.com/Saktawdi/dsh-ha-orchestrator) ⭐7 — DeepSeek Harness（dsh）动态 Cordis 插件：模型高可用回退 + 五种模式子智能体编排（fanout / pipeline / supervisor / map-reduce / router）
@@ -188,7 +190,6 @@
 - [WongYuYe/dsh-appshots](https://github.com/WongYuYe/dsh-appshots) ⭐7 — Codex-style Appshots for DSH Desktop: capture the frontmost macOS window and attach it to the current chat.
 - [GooDAnDReaDY/dsh-subscriptions](https://github.com/GooDAnDReaDY/dsh-subscriptions) ⭐7 — OAuth subscription LLM providers for DeepSeek Harness: ChatGPT Codex, Claude, Grok, Antigravity, Kimi, GLM, Cursor, Kiro, Copilot, Qwen, ERNIE, Spark, JetBrains, Perplexity, Replit, Cody
 - [lcestou/dsh-oh-my-claude](https://github.com/lcestou/dsh-oh-my-claude) ⭐7 — Claude Code CLI as an LLM provider for dsh (DeepSeek Harness): live model list, per-session resume, approval relay, images, a memory/rewind/changes panel, and workspaces on remote SSH boxes
-- [RSLN-creator/dsh-web-bridge](https://github.com/RSLN-creator/dsh-web-bridge) ⭐7 — Use your logged-in web AI (DeepSeek, GLM, Kimi, Qwen, Doubao...) as model providers in DeepSeek Harness. Web models emit tool calls, DSH runs them under its native permission system, and results return to the same web session. No API keys.
 - [justhalfbit/dsh-plugin-jev-effort-selector](https://github.com/justhalfbit/dsh-plugin-jev-effort-selector) ⭐7 — DeepSeek Harness (DSH) 推理等级自动选择插件：由 Jev System One 模型判断每条消息值多少思考量，按模型声明的等级自动推导档位，上下文信封让「继续」这类追问继承话题深度，低置信度向上取，任何失败都静默沿用原等级。 | Jev-driven reasoning effort per message: per-model ladders derived from what each model advertises, a fixed-size context envelope so follow-ups inherit topic depth, ties break upward, silent fallback on every failure path.
 - [gezi-wen/sage-mem](https://github.com/gezi-wen/sage-mem) ⭐7 — File-based cross-session memory for DeepSeek Harness (DSH) — every memory is a plain Markdown file. 纯 Markdown 存储，无数据库、无 worker、无端口；从 Claude Code 无损迁移记忆与人格，带记忆星图与可选的记忆整理。
 - [AlexPeng07/dsh-custom-plugin](https://github.com/AlexPeng07/dsh-custom-plugin) ⭐7 — dsh-custom-plugin是一个为 DeepSeek Harness (DSH) 打造的增强插件。提供：背景天气特效/玻璃拟态、时间线轨道、项目文件夹、提示词库、对话导出、Mermaid 图表渲染、引用回复、余额查询与每日 Token 用量面板等多种便利功能
@@ -287,7 +288,6 @@
 - [Free-corner/dsh-chat-tools](https://github.com/Free-corner/dsh-chat-tools) ⭐4 — DSH chat tools plugin；Make the interface more efficient, add content area width adjustment, question history, and add a table of contents outline feature for markdown format.
 - [Andrew111888/dsh-plugin-balance](https://github.com/Andrew111888/dsh-plugin-balance) ⭐4 — DSH 插件：DeepSeek / OpenCode Go 额度悬浮窗 + DSH 会话 token 用量统计与官方峰谷价费用估算
 - [yamingmou/dsh-retrace](https://github.com/yamingmou/dsh-retrace) ⭐4 — Recall (撤回), edit-and-resend (编辑重发) and regenerate (重新生成) for DeepSeek Harness conversation messages — Web and Desktop plugin
-- [ParticleLight/dsh-browser-plus](https://github.com/ParticleLight/dsh-browser-plus) ⭐4 — Enhanced shared browser for DeepSeek Harness: visible + AI-driven WebContentsView, ego-style page chrome, operation trail, JS dialog auto-accept, per-task windows & spaces, Electron 42.x pinned
 - [YiMlT/dsh-notify-yimit](https://github.com/YiMlT/dsh-notify-yimit) ⭐4 — DeepSeek Harness 通知插件:在 **任务完成 / 任务出错 / 运行中 / 等待审批 / 等待回答** 时提醒用户。 通知标题为对话标题;系统通知与自定义通知均支持**点击跳转到对应会话**。
 - [Zn-Dk/dsh-session-repair](https://github.com/Zn-Dk/dsh-session-repair) ⭐4 — DSH Web 会话诊断、可信备份与一键安全修复插件。
 - [hyrinx/dsh-plugin-open-with](https://github.com/hyrinx/dsh-plugin-open-with) ⭐4 — 在DeepSeek Harness Web 会话头部添加胶囊拆分按钮，一键在当前工作区打开VS Code、终端（CMD / PowerShell）和文件资源管理器。
@@ -311,6 +311,7 @@
 - [Menghuan1918/dsh-apollo](https://github.com/Menghuan1918/dsh-apollo) ⭐4 — 把单一会话不可能的巨任务拆成无数可验证子系统，大规模并行有纪律执行
 - [LyaxZ/dsh-fonttune](https://github.com/LyaxZ/dsh-fonttune) ⭐4 — DeepSeek Harness 字体插件：对话可独立设置字体、字号、行高与字重，界面字体与字重默认跟随对话，代码独立成轴并支持连字，整套配置可存为预设方案。
 - [Yuuyuko-uu/dsh-tts-bridge](https://github.com/Yuuyuko-uu/dsh-tts-bridge) ⭐4 — DSH 朗读桥：会话里的话自动交给 DeepSeek 网页端朗读，声音从你自己的电脑里出来
+- [BOWLUNA/dsh-custom-mode](https://github.com/BOWLUNA/dsh-custom-mode) ⭐4 — Custom mode for DeepSeek Harness (dsh): edit a mode's system prompt, base mode and plugin switches in a settings page that looks like the official one; keep several assistants side by side. 中文：dsh 自定义模式插件 —— 在设置页编辑系统提示词、基础模式与插件开关，可并存多个助手（多模式 / 多角色扮演 RP）。
 - [pbwheel/dsh-workbuddy-expert](https://github.com/pbwheel/dsh-workbuddy-expert) ⭐4 — 把 WorkBuddy 专家装进 DSH：专家市场一键导入 · 会话选择器随时切换
 - [hackernotfound/dsh-tacit](https://github.com/hackernotfound/dsh-tacit) ⭐4 — DeepSeek Harness plugin that learns from coding agent retries and user corrections, then adds visible, editable directives to future conversations.
 - [ns-zzj/dsh-hos-scrcpy](https://github.com/ns-zzj/dsh-hos-scrcpy) ⭐4 — DSH 的鸿蒙投屏 provider —— 通过 hdc（USB 或 hdc tconn 无线）把鸿蒙手机/平板接进对话： 多设备实时投屏、鼠标点按滑动、系统按键、文字注入；零售设备可用，不需要 root、不改系统分区； 转屏与切页暂停都不黑屏。界面与 AI 工具在 dsh-scrcpy-core，多个平台可同时投屏。
@@ -401,10 +402,11 @@
 - [dengpeihua/dsh-browser-use](https://github.com/dengpeihua/dsh-browser-use) ⭐3 — Native DeepSeek Harness browser-agent plugin with session-isolated Chromium, CDP, and DOM tools
 - [gluztm/DSHGuard](https://github.com/gluztm/DSHGuard) ⭐3 — DSH 守护壳：DeepSeek Harness 的一键启动与救援工具——改动前自动存档、出事整组回滚、本地管理插件、诊断日志导出；Web 引擎与官方桌面版双轨管理
 - [yumiao-dev/dsh-chat-thinking-editor](https://github.com/yumiao-dev/dsh-chat-thinking-editor) ⭐3 — DSH 插件：直接在 DeepSeek Harness 对话里编辑任意 AI 消息的正文与思维链（thinking）。保留 AI 的聪明，让 AI 完全符合你的心意。🐛 修复选中删除联动清空问题。| DeepSeek Harness plugin to edit any assistant reply + reasoning/thinking chain. Make the AI output truly yours.
-- [BOWLUNA/dsh-custom-mode](https://github.com/BOWLUNA/dsh-custom-mode) ⭐3 — Custom mode for DeepSeek Harness (dsh): edit a mode's system prompt, base mode and plugin switches in a settings page that looks like the official one; keep several assistants side by side. 中文：dsh 自定义模式插件 —— 在设置页编辑系统提示词、基础模式与插件开关，可并存多个助手（多模式 / 多角色扮演 RP）。
 - [DDDMUC/dsh-edit-turn](https://github.com/DDDMUC/dsh-edit-turn) ⭐3 — Edit any user turn in DeepSeek Harness and re-run it: an inline editor rolls the conversation back through the official surface-replace contract, then re-prompts the agent with the revised text. The append-only session log is never rewritten.
 - [Across2005/harness-self-evolution-plugin](https://github.com/Across2005/harness-self-evolution-plugin) ⭐3 — MoonBit-native self-evolution stdio MCP plugin for DeepSeek Harness: 14 tools for scan → monitor → propose → approve → execute with deterministic rollback. DSH-only since v3.0, path-portable install since v3.1. MIT.
+- [jackxu925/dsh-pwa](https://github.com/jackxu925/dsh-pwa) ⭐3 — Phone-first PWA for DeepSeek Harness — sessions, streaming chat, approvals on iOS and Android. No app install.
 - [better-er/dsh-write-create-only](https://github.com/better-er/dsh-write-create-only) ⭐3 — 「DSH·write 仅创建」：write 只允许创建新文件，目标已存在时在执行前直接拒绝并提示改用 edit，全局所有会话生效。纯 host 端插件。
+- [PPsz-qqq/dsh-restart-button](https://github.com/PPsz-qqq/dsh-restart-button) ⭐3 — DeepSeek Harness plugin: one-click restart button in the top-right of the session header (Windows desktop + dsh web). 一键重启 DeepSeek Harness 客户端。
 - [jonah791/dsh-compact-provider](https://github.com/jonah791/dsh-compact-provider) ⭐2 — 压缩一体化插件：AgentCompactEngine 挂载 compaction 服务 + session_compact 工具原语（爱丽丝自主决策压缩）
 - [Yihong89/dsh-companion](https://github.com/Yihong89/dsh-companion) ⭐2 — 一个完全可自定义的陪伴 Agent（DeepSeek Harness 插件）——名字、性格、声音都由你 在对话里配置，不需要 fork 仓库或发布新包。声音由 Qwen3-TTS（本地部署在 mac mini 上）生成，浏览器播放——跨平台（macOS / Windows / Chrome / Edge / Safari），无需服务器 TTS 或 API key。
 - [YEYEYEYESHIFU/dsh-session-hotkeys](https://github.com/YEYEYEYESHIFU/dsh-session-hotkeys) ⭐2
@@ -449,7 +451,6 @@
 - [vdnight89/InfiniteDSH](https://github.com/vdnight89/InfiniteDSH) ⭐2 — 一会话，一扇门，一界命数。诸天万界DSH：DeepSeek Harness 上的文字修罗场。十九扇门点封面启程，不助手不提纲只写正文；誊出来的，是你活过的天书。
 - [WhitePlusMS/dsh-git-graph](https://github.com/WhitePlusMS/dsh-git-graph) ⭐2 — Read-only Git Graph view for the DeepSeek Harness web interface. Inspect commit topology, branches, tags, remotes, HEAD, and working-tree status in a dedicated view beside Chat and Trajectory.
 - [dhb861832993-star/dsh-knowledge](https://github.com/dhb861832993-star/dsh-knowledge) ⭐2 — Local knowledge base for DeepSeek Harness: zero-dependency SQLite FTS5 index for markdown/text/code/web pages, source-cited retrieval, session experience library, interactive kbquery Web panel + knowledge galaxy.
-- [hg1048596-pixel/dsh-recall-unread](https://github.com/hg1048596-pixel/dsh-recall-unread) ⭐2 — DeepSeek Harness (DSH) 插件：在模型读取前撤回已发送的文字消息，支持单条与全部撤回。A DeepSeek Harness plugin that recalls sent-but-unread text messages before the model reads them — one-by-one or all at once.
 - [kentleenot/dsh-trading-toolkit](https://github.com/kentleenot/dsh-trading-toolkit) ⭐2 — A-share + US stock trading toolkit for DeepSeek Harness agents: quotes, klines, ADX regime signal, backtest preview. Read-only by design.
 - [wydddddcool/dsh-hover-approve](https://github.com/wydddddcool/dsh-hover-approve) ⭐2 — DSH Web 侧边栏锚定气泡：等待授权/提问/计划确认/目标阻断的会话，在左侧会话行旁一键处理，无需点进会话
 - [void2anything/dsh-qingagent](https://github.com/void2anything/dsh-qingagent) ⭐2 — AI writing assistant plugin for DeepSeek Harness — draft and revise in chat, every edit staged on a rice-paper panel until you commit · 在 DSH 里使用青简：对话里起草改稿，右侧宣纸面板逐条审阅后落稿
@@ -550,9 +551,11 @@
 - [HGT158/dsh-plugin-share](https://github.com/HGT158/dsh-plugin-share) ⭐2 — 把你这套 DSH 插件变成一段可粘贴的分享码，别人贴进去就能逐个安装 · Turn your DSH plugin set into one pasteable code, and anyone can install the plugins one by one
 - [xmwpoi/dsh-approval-center](https://github.com/xmwpoi/dsh-approval-center) ⭐2 — DSH 0.1.7-rc.2 的 Windows 审批与主对话通知插件：批准/拒绝、本轮完成与异常提醒、SQLite 审计；子代理通知关闭。GitHub Releases 分发。
 - [Ray1270/dsh-task-stack](https://github.com/Ray1270/dsh-task-stack) ⭐2 — Persistent per-session task stack for DeepSeek Harness agents - focus_task / focus_complete / read_focus + /focus, zero prompt injection
-- [liancha22/dsh-puzzle-mode](https://github.com/liancha22/dsh-puzzle-mode) ⭐2 — DSH 插件｜拼图模式：把项目拆成主文档 + 若干模块文档，AI 主动提问把不确定项变成已定项，用五维算项目健康性。一个会话可同时绑多个项目，面板有绑定切换条；项目分小 / 中 / 大三档，条目上限随档位放宽或收紧；主文档第五节 `## 工作流` 是标准化流水线（一条 = 一个 ### 名字块 + 有序步骤），命中触发词自动注入。文档格式 v7；与 dsh-infinite-gen-5 同装时按契约共存（段序可协商、六条分工条款、verify:cross 双向核对）。
+- [liancha22/dsh-puzzle-mode](https://github.com/liancha22/dsh-puzzle-mode) ⭐2 — DSH 插件｜拼图模式：把项目拆成主文档 + 若干模块文档，AI 主动提问把不确定项变成已定项，用五维算项目健康性。一个会话可同时绑多个项目，面板有绑定切换条；项目分小 / 中 / 大三档，条目上限随档位放宽或收紧；主文档第五节 `## 工作流` 是标准化流水线（一条 = 一个 ### 名字块 + 有序步骤），命中触发词自动注入。**重复思考熔断**：同一工具连续 3 次同样参数调用即注入提示，把绕圈的模型推出去。文档格式 v7；与 dsh-infinite-gen-5 同装时按契约共存。
 - [133563825as-ai/dsh-localdream](https://github.com/133563825as-ai/dsh-localdream) ⭐2 — DeepSeek Harness 插件：将手机端 Local Dream 的本地 NPU 生图接入对话，含文生图、图生图、四倍放大与分块重绘。
 - [QIN-SMART/dsh-session-md](https://github.com/QIN-SMART/dsh-session-md) ⭐2 — DeepSeek Harness plugin: export a session as human-readable Markdown or a self-contained HTML page — full / handoff / readable / audit presets, one-click download
+- [A42Null/dsh-opencode-zen-plugin](https://github.com/A42Null/dsh-opencode-zen-plugin) ⭐2 — OpenCode Console (Zen) models for DeepSeek Harness: paste your Console API key and the Console's chat models become selectable in DSH.
+- [STARDUSTLC666/dsh-cite](https://github.com/STARDUSTLC666/dsh-cite) ⭐2 — DeepSeek Harness 文献工作台：DOI/BibTeX 批量导入、去重、Crossref 补全与引文/原始来源备份，支持中文与 English。
 - [eons2long/dsh-codex-oauth](https://github.com/eons2long/dsh-codex-oauth) ⭐1 — DeepSeek Harness plugin for using ChatGPT Plus/Pro Codex models through OpenAI Codex OAuth.
 - [Relistencode/dsh-recall](https://github.com/Relistencode/dsh-recall) ⭐1 — Conversation history recall for DeepSeek Harness (DSH) — literal/fuzzy/semantic retrieval of every past conversation, fully local & offline. AI never forgets what you told it.
 - [xun404/dsh-pihuo-plugins](https://github.com/xun404/dsh-pihuo-plugins) ⭐1 — PiHuo: DeepSeek Harness plugins that run local ACP processes as chat workers
@@ -927,7 +930,6 @@
 - [mattcarvercom/dsh-unified-memory](https://github.com/mattcarvercom/dsh-unified-memory) ⭐1 — Long-term memory for DeepSeek Harness in Claude Code's format: private, overlay, or shared with Claude Code, with provenance on every file
 - [jghwwnq/dsh-model-audit](https://github.com/jghwwnq/dsh-model-audit) ⭐1 — Unofficial local plugin for DeepSeek Harness: compares the requested model with the model the upstream response declares (DeepSeek Messages, GPT Responses, Chat Completions).
 - [yuanzukun/dsh-plugin-cards](https://github.com/yuanzukun/dsh-plugin-cards) ⭐1 — DeepSeek Harness (dsh) 设置卡片 + 对话节点插件 | Settings cards + conversation node plugin
-- [jackxu925/dsh-pwa](https://github.com/jackxu925/dsh-pwa) ⭐1 — Phone-first PWA for DeepSeek Harness — sessions, streaming chat, approvals on iOS and Android. No app install.
 - [SFLAQiu/dsh-waker](https://github.com/SFLAQiu/dsh-waker) ⭐1 — 正在苏醒的数字员工
 - [bluechips-zhao/dsh-browser-slotpool](https://github.com/bluechips-zhao/dsh-browser-slotpool) ⭐1 — DSH bundle: slot-pool wrapper for concurrent browser sessions｜并发浏览器会话槽位池插件
 - [G57651/dsh-session-manager](https://github.com/G57651/dsh-session-manager) ⭐1 — DeepSeek Harness 会话管理面板插件：全部/已归档/已删除视图、批量管理、软删除回收站
@@ -975,9 +977,14 @@
 - [Hnqhj/dsh-library](https://github.com/Hnqhj/dsh-library) ⭐1 — DeepSeek Harness 的本地产出资料库插件 —— 三栏页面浏览检索预览整理，收拢对话与项目产出的文档/表格/图片，零第三方依赖，助手只可存不可改
 - [VoodooB0Ys/dsh-desktop-notify](https://github.com/VoodooB0Ys/dsh-desktop-notify) ⭐1 — DeepSeek Harness 桌面提醒（Windows）：原生 Toast + 全屏兜底卡片，需要授权/提问/完成/出错时叫你一声，点一下回到对应对话
 - [KaiyeZeng/dsh-phone-bridge](https://github.com/KaiyeZeng/dsh-phone-bridge) ⭐1 — 在手机微信里接着电脑上正在聊的 DeepSeek Harness (DSH) 会话：共用同一段上下文，不是新建机器人。经 OpenClaw 连微信/元宝。Drive your existing DSH desktop session from WeChat: same thread, not a new bot.
+- [ikun666666/dsh-groupchat](https://github.com/ikun666666/dsh-groupchat) ⭐1 — DSH 插件：每个工程一个群聊 —— 多个 AI 会话与人同群互聊、@ 唤醒离线会话、@创建成员 拉新会话进群
 - [ybh1291747665/dsh-peer-bus](https://github.com/ybh1291747665/dsh-peer-bus) ⭐1 — Cross-session message bus for DeepSeek Harness: let independent sessions address and wake each other.
 - [piecuzwhynot/dsh-external-workers](https://github.com/piecuzwhynot/dsh-external-workers) ⭐1 — Give your DeepSeek Harness agent three more pairs of hands. It sends long tasks to Claude Code, Codex and Antigravity using your own subscription logins, keeps one persistent session per lane, and never loses a job.                       给 DeepSeek Harness 用的外部 agent 泳道：把长任务派给 Claude Code、Codex、Antigravity 三个 CLI，用你自己已有的订阅登录。每条泳道一个持久会话，作业重启和压缩都不会丢。
 - [lsmax-72/dsh-rsi](https://github.com/lsmax-72/dsh-rsi) ⭐1 — 面向个人用户、安装在 dsh 中的 Chat Memory＋Skill 自动演化插件
+- [YYTbit/dsh-plugin-jev-compaction](https://github.com/YYTbit/dsh-plugin-jev-compaction) ⭐1 — Jev-scored context compaction for DeepSeek Harness. Score every message by relevance to the current task instead of dropping the oldest, pin the tracebacks and constraints, and fall back to stock behavior on any failure.
+- [zudazhuang/dsh-upgrade](https://github.com/zudazhuang/dsh-upgrade) ⭐1 — DeepSeek Harness update plugin: official release checks, scheduled updates and supervised rollback
+- [nydsg/dsh-mindmap](https://github.com/nydsg/dsh-mindmap) ⭐1 — 把 DSH 的对话轨迹渲染成一张横向层级树：最左侧是唯一的起始总标题（内容就是这场会话的第一个提问），之后每一轮从它向右逐层展开，卡片上只显示你的提问。插件会比较每轮提问与前序提问的相似度自动续接分支，也能手动改父节点。全部分析在浏览器本地完成，无网络请求、无模型调用、无构建步骤。
+- [wojiao42/dsh-memory-file](https://github.com/wojiao42/dsh-memory-file) — 文件型长期记忆：每个会话注入你自己的 Markdown 记忆文件，提供读写工具，并能查出 DSH_HOME 漂移；不读对话、不联网 · File-backed memory for DeepSeek Harness, with verifiable constraints
 - [YUsaltyfish/dsh-notification-sound](https://github.com/YUsaltyfish/dsh-notification-sound) — 在弹出选项卡提问、请求工具权限、一轮对话结束时播放提示音；支持自定义音频。
 - [SCP-CN-1059/dsh-zhouli](https://github.com/SCP-CN-1059/dsh-zhouli) — DeepSeek Harness 的《周礼》插件。主打「周礼模式」agent 预设：会话全程依六官法度——开工「设官分职」，事中「依典援据」，收尾「岁终之会」依六计考成。另附 zhouli 工具，检索带稳定坐标（篇序.职官序）的《周礼》全文，含职官员额／职掌索引与 Kanripo 两本互校。
 - [JinPLu/dsh-plugin-discussion-intent](https://github.com/JinPLu/dsh-plugin-discussion-intent) — A DSH Discussion Mode that keeps complex AI conversations aligned with your goals and turns them into evidence-based next steps.
@@ -1746,7 +1753,7 @@
 - [almazom/dsh-almazom-approve-escalate](https://github.com/almazom/dsh-almazom-approve-escalate) — DSH web plugin: one-click Approve & escalate on the approval card — approves the pending request and switches the live session to a permission preset
 - [ryukirin/dsh-momo-learning](https://github.com/ryukirin/dsh-momo-learning) — 墨墨背单词的 DeepSeek Harness 插件：本地学习镜像 MCP 工具 + 每日出题 Skill
 - [baixianger/dsh-codex-adapter](https://github.com/baixianger/dsh-codex-adapter) — ChatGPT-powered coding, image generation and web search for DeepSeek Harness.
-- [Missher12/dsh-missher-brain](https://github.com/Missher12/dsh-missher-brain) — Shared, bounded recall coordination for DeepSeek Harness Memory and MSE providers.
+- [Missher12/Missher-DSH-Brain](https://github.com/Missher12/Missher-DSH-Brain) — Shared, bounded recall coordination for DeepSeek Harness Memory and MSE providers.；桌面入口与其他插件见主页链接。
 - [OoJae/dsh-technocore-watch](https://github.com/OoJae/dsh-technocore-watch) — Unofficial DeepSeek Harness plugin that watches Technocore rooms and wakes sessions (flop-labs/technocore-chat#765). Not affiliated with FLOP Labs.
 - [eiainano/agpa-dsh-plugin](https://github.com/eiainano/agpa-dsh-plugin) — AGPA (Agent Player Achievements) for DeepSeek Harness: native achievement_* tools bridging the AGPA engine, plus automatic event tracking from dsh session events.
 - [Teow9/dsh-isolation-pod](https://github.com/Teow9/dsh-isolation-pod) — 隔离舱：在 DSH 主会话之外运行受沙箱约束的隔离任务；主会话默认完全无感，结果返回与文件导出都要手动确认。
@@ -2039,7 +2046,6 @@
 - [wjvalue/dsh-mac-keep-awake](https://github.com/wjvalue/dsh-mac-keep-awake) — Keep macOS awake (no idle system sleep) while a DeepSeek Harness session is running · 会话进行时不让 Mac 空闲休眠的 DSH 插件
 - [xthreehao/dsh-hidden-session](https://github.com/xthreehao/dsh-hidden-session) — DSH（DeepSeek Harness）隐藏会话插件：把会话从侧边栏隐藏、可随时恢复。免构建零依赖，契约取自运行中的 0.2.0-rc.2。
 - [zywnb-2/dsh-prompt-studio](https://github.com/zywnb-2/dsh-prompt-studio) — 提示词优化工坊 —— DSH 插件的多风格一键优化与发送前自动优化
-- [ikun666666/dsh-groupchat](https://github.com/ikun666666/dsh-groupchat) — DSH 插件：每个工程一个群聊 —— 多个 AI 会话与人同群互聊、@ 唤醒离线会话、@创建成员 拉新会话进群
 - [FANLS05/dsh-desktop-notifications](https://github.com/FANLS05/dsh-desktop-notifications) — Windows toast notifications for DeepSeek Harness (dsh): approvals, questions, run completion, errors and sign-in prompts - every toast led by the conversation name.
 - [yuehancn/dsh-tool-notion](https://github.com/yuehancn/dsh-tool-notion) — DeepSeek Harness plugin
 - [WFMinerva/dsh-turn-cost](https://github.com/WFMinerva/dsh-turn-cost) — DeepSeek Harness (dsh) Web 插件：显示每轮与整个会话的预估费用（人民币、官方峰谷价、缓存读占比；周末与中国法定节假日全天按空闲价）。成本只由本机会话日志里 provider 上报的 token 用量折叠而来，可叠加本机费率表，没有单价的模型只显 token。
@@ -2052,7 +2058,6 @@
 - [MentonLiu/dsh-any-icon](https://github.com/MentonLiu/dsh-any-icon) — DeepSeek Harness (dsh) 插件：上传图片裁剪为 1:1 图标，用于 dsh 桌面端 App 图标（访达 / 应用程序 / Dock 即时生效，无需重启）或会话行图标。
 - [ch1bug/dsh-pty-session](https://github.com/ch1bug/dsh-pty-session) — DSH plugin exposing the harness's owner-scoped PTY seam as four protocol-agnostic tools (pty_open/send/tail/close) plus a ctx.pty consumer facade.
 - [lxchapu/dsh-session-purge](https://github.com/lxchapu/dsh-session-purge) — DSH（DeepSeek Harness）插件：把会话从磁盘上彻底删除。任意会话的「…」菜单里可删单条，侧边栏切到「仅显示已归档」时可一键删除全部已归档会话；两者都先弹二次确认，正在运行的会话会被拒绝删除。
-- [A42Null/dsh-opencode-zen-plugin](https://github.com/A42Null/dsh-opencode-zen-plugin) — OpenCode Console (Zen) models for DeepSeek Harness: paste your Console API key and the Console's chat models become selectable in DSH.
 - [hy-sde/dsh-zstd-frame](https://github.com/hy-sde/dsh-zstd-frame) — Zstandard frame primitives (scan / compress / decompress / multi-frame decoder) shared by the DeepSeek Harness session persistence backend and its tooling.
 - [hy-sde/dsh-session-url](https://github.com/hy-sde/dsh-session-url) — session:// internal-URL scheme handler for DeepSeek Harness: read a session transcript, read one event as JSON, list sessions, and search past history.
 - [hy-sde/dsh-session-intelligence](https://github.com/hy-sde/dsh-session-intelligence) — The session_health tool for DeepSeek Harness: per-session health intelligence (outcome classification, tool-health signals, prompt-quality heuristics, context pressure).
@@ -2063,8 +2068,19 @@
 - [Iris0fTheValley/Thaliris-dsh](https://github.com/Iris0fTheValley/Thaliris-dsh) — Thaliris plugin for DeepSeek Harness using native agents, subagents, Settings and shared Web/Desktop client extensions.
 - [EarthPretender/dsh-session-delete](https://github.com/EarthPretender/dsh-session-delete) — DSH 插件：在会话“…”菜单的“归档会话”下方新增红色“删除会话”行，二次确认后真正删除该会话的日志与工作区登记（不可逆；当次启动使用过的会话先停用再删，正在执行任务的会话再点一次停止任务并删除）。
 - [Cyrene-xl/dsh-cyrene-chat](https://github.com/Cyrene-xl/dsh-cyrene-chat) — DeepSeek Harness 插件：增加「纯文本对话模式」agent 预设——整份替换系统提示词进行纯角色对话，只保留联网搜索与表情包。随包人设文本整理自开源项目 Cyrene-Agent（MIT）。
+- [hoshF/dsh-md-export](https://github.com/hoshF/dsh-md-export) — Export DeepSeek Harness conversations as clean Markdown
+- [Totoro-qaq/dsh-jot](https://github.com/Totoro-qaq/dsh-jot) — Human-editable notes, todos and documents for DeepSeek Harness, with search, tables, attachments, export and optional agent collaboration.
+- [Loliyer520/dsh-launcher-link](https://github.com/Loliyer520/dsh-launcher-link) — DeepSeek Harness launcher connection plugin: native sessions, full chat content and real-time WebSocket bridge
+- [a5557/dsh-agent-guard](https://github.com/a5557/dsh-agent-guard) — DSH guardrail plugin: evidence-first inspection, write governance, and per-turn rollback points. Zero runtime dependencies, no network, no telemetry.
+- [als3453/dsh-docs-reader](https://github.com/als3453/dsh-docs-reader) — DSH 的开发文档阅读器插件(文档浏览 + 知识图谱)
+- [Elari39/dsh-session-insight](https://github.com/Elari39/dsh-session-insight) — Read-only session-health strip for the DeepSeek Harness: steps, tool calls, failures, repeats and failure rate, delivered as a sessionInsight projection plus a conversation.input.dock card. MIT.
+- [yang208691-source/dsh-nutstore-backup](https://github.com/yang208691-source/dsh-nutstore-backup) — en: 'Backs up DeepSeek Harness sessions, plugin config and workspace memory to Nutstore (Jianguoyun) over WebDAV, with incremental upload, connection test and one-click restore on a new machine.'   zh: '把 DeepSeek Harness 的会话记录、插件配置与工作区记忆通过 WebDAV 增量备份到坚果云，支持连接测试与在新机器上一键恢复。'
+- [Nay-1/dsh-session-menu-delete](https://github.com/Nay-1/dsh-session-menu-delete) — DSH 侧栏会话行菜单里的「删除会话」：级联清理子代理、保护 fork 会话
+- [ADkun/dsh-convergence-notice](https://github.com/ADkun/dsh-convergence-notice) — DSH (DeepSeek Harness) plugin: append one convergence line to every user message and inject it every N steps — both switchable, adjustable from the Settings page · 每条用户消息末尾追加一句收敛提示，并每 N 步注入一次，两项均可在设置页开关
+- [asdukw/dsh-plugin-chat-tools](https://github.com/asdukw/dsh-plugin-chat-tools) — Chat-page context tracking tools for DeepSeek Harness (dsh): collect and incrementally read on-screen chat messages over a local HTTP bridge
+- [AK-blank/dsh-plugin-mac-notify](https://github.com/AK-blank/dsh-plugin-mac-notify) — Unofficial DSH (DeepSeek Harness) plugin: macOS Notification Center alerts when a session finishes or needs you — the banner carries the last reply, plays your system alert sound, and clicking it jumps back to the DSH page.
 
 ---
 
 
-*Generated on 2026-10-03 · 2054 plugins in this category*
+*Generated on 2026-10-04 · 2070 plugins in this category*

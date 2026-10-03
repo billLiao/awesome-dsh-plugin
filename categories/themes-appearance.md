@@ -4,17 +4,17 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**317 plugins**
+**319 plugins**
 
 
 ---
 
-- [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) ⭐3904 — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
+- [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) ⭐3929 — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
 - [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐2344 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
-- [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐182 — DeepSeek Harness skin market 皮肤市场 已收录200+DSH 皮肤 完善评分系统加人工审核，有便捷的社区收录入口；有在线页面方便在线浏览，也有插件方便管理本地皮肤
-- [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) ⭐123 — DeepSeek Harness 滑动变阻器皮肤
-- [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) ⭐114 — 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风。
-- [chen731215-dev/dsh-tavern-v2](https://github.com/chen731215-dev/dsh-tavern-v2) ⭐35 — DeepSeek Harness Tavern Plugin - character card roleplay, worldbook management, preset switching, dark theme, memory summary, relationship graph, PolyForm-Noncommercial-Copyleft-1.0.0
+- [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) ⭐233 — DeepSeek Harness 滑动变阻器皮肤
+- [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐181 — DeepSeek Harness skin market 皮肤市场 已收录200+DSH 皮肤 完善评分系统加人工审核，有便捷的社区收录入口；有在线页面方便在线浏览，也有插件方便管理本地皮肤
+- [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) ⭐118 — 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风。
+- [chen731215-dev/dsh-tavern-v2](https://github.com/chen731215-dev/dsh-tavern-v2) ⭐36 — DeepSeek Harness Tavern Plugin - character card roleplay, worldbook management, preset switching, dark theme, memory summary, relationship graph, PolyForm-Noncommercial-Copyleft-1.0.0
 - [SenmuuuuW/dsh-whale-report](https://github.com/SenmuuuuW/dsh-whale-report) ⭐31 — 深迹 DeepTrace — Your Agent, in numbers. DSH 插件：从会话事件日志生成日报/周报/月报/年报/自定义区间，确定性洞察与协作复盘，只读、不改写历史。
 - [HiWhaleW/dsh-toolbox](https://github.com/HiWhaleW/dsh-toolbox) ⭐29 — Local-first DeepSeek Harness plugins for product research, context routing, plugin preflight, and compatibility monitoring.
 - [JAdpp/dsh-whale-galgame](https://github.com/JAdpp/dsh-whale-galgame) ⭐27 — 工作推gal两不误~面向DeepSeek Harness的跨会话事件感知Galgame引擎与界面插件，支持鲸鱼娘/GPT/Claude/Grok/Gemini/Kimi多位模型娘角色
@@ -103,6 +103,7 @@
 - [WTStarMark/dsh-myskin](https://github.com/WTStarMark/dsh-myskin) ⭐2 — DSH 通用皮肤框架：可视化自定义 + 实时预览 + 「皮肤管理」，可以随心设计你的专属皮肤，并通过分发皮肤包和你的小伙伴们分享
 - [Anionex/dsh-eye-care](https://github.com/Anionex/dsh-eye-care) ⭐2 — Warm light, warm dark, and system-aware eye-care themes for DSH Web
 - [liuhange789/data-asset-inspector](https://github.com/liuhange789/data-asset-inspector) ⭐2 — 30 DSH plugins | data asset registration | gov data inspection | AML compliance | research provenance | BIM inventory | pipeline inspection | geo quality | GB/T 24356-2023 | zero hardcode | policyBasis | 538 tests
+- [Kr-ATG/dsh-chat-plus](https://github.com/Kr-ATG/dsh-chat-plus) ⭐1 — DSH 对话体验增强套件（零 DSH 源码改动，纯插件注入）。回合呈现：思考/工具调用聚合 chip · 步骤卡/总结卡 · 共享活动抽屉。正文增强：proto-tabs 卡片 · diagram 流程图 · 生图画廊。界面与工具：会话头部标签上移 · 桌面壳窗口控制留位与主题同步 · 对话截图（无头浏览器渲染 markdown/shiki/mermaid）· download 下载工具（实时进度/速度/ETA）。另有可选的 KR 对话双栏执行大盘。
 - [Yuuyuko-uu/dsh-fish-memory](https://github.com/Yuuyuko-uu/dsh-fish-memory) ⭐1 — 🐋 DSH 鱼的记忆：给会话一份会淡忘的长期记忆，每条都带时间。名字里的「鱼」来自 DeepSeek 的鲸鱼。
 - [kinmat-A/dsh-theme-switch](https://github.com/kinmat-A/dsh-theme-switch) ⭐1 — 一款轻量级的 DSH 主题外观切换插件：自动检测已装皮肤，一键互斥切换，全部停用时回退官方外观，即时生效、重启保留。
 - [LvsH13/dsh-desktop](https://github.com/LvsH13/dsh-desktop) ⭐1 — DeepSeek Harness 的 Windows 桌面端插件：托盘鲸鱼图标、桌面快捷方式、开机自启直达桌面窗口，一键切换桌面/网页端。 A Windows desktop companion for DeepSeek Harness: system tray (whale) icon, desktop shortcut, login auto-start straight into the desktop window, and one-click desktop/web switching.
@@ -175,7 +176,7 @@
 - [joeseesun/qiaomu-radio-dsh](https://github.com/joeseesun/qiaomu-radio-dsh) ⭐1 — 乔木电台 DeepSeek Harness 插件 | Live radio with themed players, mood channels and local listening history
 - [Something11235/dsh-video-skin](https://github.com/Something11235/dsh-video-skin) ⭐1 — DSH 视频皮肤：聊天背景 + 有声开机动画 + 界面内透明度调节
 - [zkforge/dsh-ccd-style](https://github.com/zkforge/dsh-ccd-style) ⭐1 — Claude Code Desktop 风格的 DeepSeek Harness 桌面版界面插件
-- [Kr-ATG/dsh-chat-plus](https://github.com/Kr-ATG/dsh-chat-plus) — DSH 对话体验增强套件（零 DSH 源码改动，纯插件注入）。回合呈现：思考/工具调用聚合 chip · 步骤卡/总结卡 · 共享活动抽屉。正文增强：proto-tabs 卡片 · diagram 流程图 · 生图画廊。界面与工具：会话头部标签上移 · 桌面壳窗口控制留位与主题同步 · 对话截图（无头浏览器渲染 markdown/shiki/mermaid）· download 下载工具（实时进度/速度/ETA）。另有可选的 KR 对话双栏执行大盘。
+- [gollasmari87-commits/dsh-whale-voice](https://github.com/gollasmari87-commits/dsh-whale-voice) ⭐1 — 鲸声 · DSH 非官方语音交互修复与海洋动态皮肤
 - [DKthreeFR/ATRI-Theme-DSH](https://github.com/DKthreeFR/ATRI-Theme-DSH) — ATRI 亚托莉主题的DeepSeepk Harnesss装饰
 - [xianshu-virtuous/dsh-whale-companion](https://github.com/xianshu-virtuous/dsh-whale-companion) — DeepSeek Harness whale-maid persona and automatic near-limit session continuation
 - [LimBoo233/dsh-web-extras](https://github.com/LimBoo233/dsh-web-extras) — DeepSeek Harness Web 界面增强插件：完成/审批/提问提醒（音效 + 立绘）、外观定制（背景图 / 透明度 / 输入区折叠）、按轮次聚合的文件变更视图（行级差异 + 修改前后代码高亮）。纯浏览器端实现，无 Host 代码，数据仅保存在本地浏览器。
@@ -326,8 +327,9 @@
 - [Xian-JL/dsh-Xiao-theme](https://github.com/Xian-JL/dsh-Xiao-theme) — Xiao theme for DeepSeek Harness Web and Desktop with selectable artwork, a draggable companion, and optional official DeepSeek balance display.
 - [XIMOYA/dsh-danger-reflection](https://github.com/XIMOYA/dsh-danger-reflection) — Danger Reflection (危险反思) — a DeepSeek Harness permission preset where the conversation's own model reviews each sandbox-escalation request instead of asking you.
 - [COH2357/dsh-whale-bridge](https://github.com/COH2357/dsh-whale-bridge) — 一个可以在DSH上关联多个鲸鱼以及拟人形象的桥接插件。目前只支持MeteorNOX/DeepSeek-Balance-Whale-Widget和nzl153/dsh-pet-whale。
+- [N3kOk0/dsh-acrylic](https://github.com/N3kOk0/dsh-acrylic) — Deepseek Harness Windows 10 Theme
 
 ---
 
 
-*Generated on 2026-10-03 · 317 plugins in this category*
+*Generated on 2026-10-04 · 319 plugins in this category*

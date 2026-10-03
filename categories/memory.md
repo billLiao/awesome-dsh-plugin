@@ -4,7 +4,7 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**359 plugins**
+**364 plugins**
 
 
 ---
@@ -15,7 +15,7 @@
 - [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) ⭐128 — Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
 - [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) ⭐92 — Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
 - [btspoony/mstar-harness](https://github.com/btspoony/mstar-harness) ⭐62 — An omni-plugin for harness engineering workflows with multi-agents, programmatic gates and skills.
-- [Soren-ABT/dsh-knowledge](https://github.com/Soren-ABT/dsh-knowledge) ⭐59 — Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel
+- [Soren-ABT/dsh-knowledge](https://github.com/Soren-ABT/dsh-knowledge) ⭐61 — Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel
 - [lna-lab/distill-kura](https://github.com/lna-lab/distill-kura) ⭐53 — 蒸留蔵 — distilled long-term memory for agents: recall by meaning, writing gated by evidence, one kura per agent mode. Ships as a DeepSeek Harness plugin and an MCP server.
 - [xiehuan123/dsh-deepread](https://github.com/xiehuan123/dsh-deepread) ⭐50 — Evidence-first reading for AI agents — turn articles, books and PDFs into traceable claims, evidence, source locations and knowledge maps.
 - [xuedai-mayi/dsh-wenshan](https://github.com/xuedai-mayi/dsh-wenshan) ⭐41 — 问山：DeepSeek Harness 地理野外实习知识图谱插件与非官方二次开发项目
@@ -40,6 +40,7 @@
 - [mianyoubiaoqing/dsh-Mmem](https://github.com/mianyoubiaoqing/dsh-Mmem) ⭐7 — 这是一个支持同dsh进程多记忆空间的dsh记忆插件
 - [ZekaiShi/evo-subagent](https://github.com/ZekaiShi/evo-subagent) ⭐7 — Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/deny lists), so repeated tasks start from proven commands and save tokens. Unified subagent routing and evolution: prefercmd/memory serve as knowledge allow/deny lists, saving tokens.
 - [yindf/taskfold](https://github.com/yindf/taskfold) ⭐7 — Context folding for DeepSeek Harness (DSH): wrap work in named tasks, fold finished spans into short summaries, recall originals on demand.
+- [pk14742952-AD/dsh-host-rsi](https://github.com/pk14742952-AD/dsh-host-rsi) ⭐7 — DSH host RSI for local LLMs (currently Qwen3.8 27B): per-use continual self-improvement, counter-reason self-check, critic escalation, and memory retrieval.
 - [KLRSL/dsh-biomemory](https://github.com/KLRSL/dsh-biomemory) ⭐6 — 生物仿生记忆系统插件：Biomimetic memory for DeepSeek Harness — transparent Markdown memory, approval-gated writes, frozen snapshot injection
 - [nowledge-co/nowledge-mem-deepseek-harness](https://github.com/nowledge-co/nowledge-mem-deepseek-harness) ⭐6 — One memory layer for every AI tool and agent, packaged for DeepSeek Harness
 - [skepsun/dsh-engram](https://github.com/skepsun/dsh-engram) ⭐6 — 极简·省 token 的 DSH 长期记忆插件：零 LLM 自动捕获、符号索引渐进披露、ESR 证据闭环。Minimalist token-saving memory for DeepSeek Harness: zero-LLM auto-capture, symbolic index, ESR-lite evidence closure.
@@ -79,7 +80,6 @@
 - [fan56/dsh-topics-memory](https://github.com/fan56/dsh-topics-memory) ⭐3 — Topic memory for LLM agents — edited, not accumulated: a topic keeps the starting question, conclusion, impact and dependencies; process is not memory. OKF bundle for dsh, local-first, git-traceable, budgeted LLM-free injection.
 - [khiqwq/dsh-system-proxy](https://github.com/khiqwq/dsh-system-proxy) ⭐3 — DSH host plugin - smart outbound HTTP(S) routing: named proxies (http/https/socks4/4a/5/5h), per-host/provider/plugin rules, direct-first fallback with health memory (global fetch + node http/https)
 - [syyr1987/dsh-linghun](https://github.com/syyr1987/dsh-linghun) ⭐3 — 灵魂（Linghun）— 给 DeepSeek Harness 装一个会思考的自我：认知循环 + 海马体三层记忆（序时账/情景归档/低置信降权遗忘）+ A2A 记忆管理团队联动。收口者身份锚点 + 边界判断纪律。
-- [pk14742952-AD/dsh-host-rsi](https://github.com/pk14742952-AD/dsh-host-rsi) ⭐3 — DSH host RSI for local LLMs (currently Qwen3.8 27B): per-use continual self-improvement, counter-reason self-check, critic escalation, and memory retrieval.
 - [aiyacharley/dsh-pubmed](https://github.com/aiyacharley/dsh-pubmed) ⭐2 — DSH plugin for DeepSeek Harness: 25 model tools spanning PubMed, Europe PMC, PubTator3 & Semantic Scholar — entity-aware search, cross-source unified search, metadata, full text, citations, MeSH & ID tools, citation counts & recommendations — plus a personal literature knowledge graph with an AI-powered PubTator3 concept layer.
 - [yul761/dsh-statecore](https://github.com/yul761/dsh-statecore) ⭐2 — Native memory plugin for DeepSeek Harness — auditable facts with evidence chains, powered by StateCore
 - [yihefeikong-rgb/dsh-cc-haha-memory](https://github.com/yihefeikong-rgb/dsh-cc-haha-memory) ⭐2 — CC-HAHA-inspired persistent memory plugin for DeepSeek Harness (DSH)
@@ -190,6 +190,7 @@
 - [muqing-kg/dsh-window-state](https://github.com/muqing-kg/dsh-window-state) ⭐1 — DeepSeek Harness Desktop plugin: remembers the main window's size, position and maximized state · 记住 DSH 桌面版主窗口的尺寸、位置与最大化状态
 - [aujurd22/dsh-flymemory](https://github.com/aujurd22/dsh-flymemory) ⭐1 — Long-term memory for DeepSeek Harness: 15 FlyMemory MCP tools, automatic recall and capture hooks, and a supervised local engine.
 - [liuyuhao1122/dsh-hermes-memory](https://github.com/liuyuhao1122/dsh-hermes-memory) ⭐1 — Lightweight layered memory plugin for DeepSeek Harness with automatic distillation and compaction.
+- [omoinoki/dsh-sekaisync-connect](https://github.com/omoinoki/dsh-sekaisync-connect) ⭐1 — DeepSeek Harness direct-connect module for a local SekaiSync knowledge base — 10 compact tools, zero dependencies.
 - [moononnn/DeepSeek-Harness-Hanako-Memory](https://github.com/moononnn/DeepSeek-Harness-Hanako-Memory) — 把openhanako的记忆系统搬进DSH的插件！
 - [wang-jie-git/dsh-memory-ai](https://github.com/wang-jie-git/dsh-memory-ai) — AI-memory 深度集成 DSH 语义记忆插件
 - [YuMu247/dsh-kb-rag](https://github.com/YuMu247/dsh-kb-rag) — Local-first RAG knowledge tools for DSH: kb_query / kb_ingest / kb_crawl / kb_related, backed by the kb-rag Python pipeline (Ollama bge-m3 + ChromaDB). Zero API cost, on-premises.
@@ -368,8 +369,12 @@
 - [liuxinxing123/dph-emotion-arc](https://github.com/liuxinxing123/dph-emotion-arc) — Emotion Arc Director: text emotion detection -> explicit state file -> strategy mapping, plus memory ledger and SillyTavern card import. DSH/DPH plugin, MIT.
 - [kkwings/dsh-super-memory](https://github.com/kkwings/dsh-super-memory)
 - [wojiao42/dsh-memory-file](https://github.com/wojiao42/dsh-memory-file) — DSH ????????????????? Markdown ?????????????????????????????? ? File-backed memory for DeepSeek Harness with verifiable constraints
+- [hy-sde/dsh-tool-debug](https://github.com/hy-sde/dsh-tool-debug) — The debug tool for DeepSeek Harness: a model-facing Debug Adapter Protocol tool with 28 operations (launch/attach, breakpoints, continue/step, evaluate, memory, terminate) + the dsh-dap capability seam.
+- [hy-sde/dsh-tool-codebase-memory](https://github.com/hy-sde/dsh-tool-codebase-memory) — Model-facing codebase-memory CLI tools for DeepSeek Harness: index repositories and query definitions, callers, call chains, routes and architecture from a knowledge graph.
+- [hy-sde/dsh-memory-extraction](https://github.com/hy-sde/dsh-memory-extraction) — Automatic long-term-memory extraction at compaction checkpoints for DeepSeek Harness: evidence projection, proposal/canonicalization pipeline, gated ctx.memory writes.
+- [hy-sde/dsh-av](https://github.com/hy-sde/dsh-av) — Read-only Automic Vault plumbing for DeepSeek Harness: the host ctx.av service (av CLI probe, scan/doctor/detectors/hardeners) backing the read-only av tools — standalone plugin, no upstream changes.
 
 ---
 
 
-*Generated on 2026-10-03 · 359 plugins in this category*
+*Generated on 2026-10-03 · 364 plugins in this category*

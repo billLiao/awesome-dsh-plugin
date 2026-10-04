@@ -4,7 +4,7 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**367 plugins**
+**369 plugins**
 
 
 ---
@@ -152,6 +152,7 @@
 - [chemmy-11/dsh-nautilus](https://github.com/chemmy-11/dsh-nautilus) ⭐1 — Vault observation plugin for DeepSeek Harness: Obsidian vault metadata snapshot + edit stats + observation panel
 - [xiaoshi7915/dsh-memory-manager](https://github.com/xiaoshi7915/dsh-memory-manager) ⭐1 — A unified memory management layer
 - [cking000bigdemon/dsh-toolbelt](https://github.com/cking000bigdemon/dsh-toolbelt) ⭐1 — Eight DeepSeek Harness plugins: persona, language guard, per-request vision fallback, python/windows write guards, cross-agent memory, image generation, and skill shell injection.
+- [sskkde/dsh-oh-my-agent](https://github.com/sskkde/dsh-oh-my-agent) ⭐1 — oh-my-openagent (OmO) core capabilities ported as a DeepSeek Harness plugin: ultrawork, role delegation, rules engine, boulder memory, hooks, Sisyphus main-prompt discipline
 - [beartackler/dsh-bridge](https://github.com/beartackler/dsh-bridge) ⭐1 — Your harness muscle memory, verified and installed into DeepSeek Harness - familiar commands, connectors flow, and a trust-verified plugin catalog
 - [ssheleg/agent-sync](https://github.com/ssheleg/agent-sync) ⭐1 — Several coding agents, one repository, no collisions — leases with a TTL, race-free id reservation, a run journal and a generated board over a pluggable knowledge cloud. Ships in the sshlg-skills bundle. Loads in DeepSeek Harness (dsh).
 - [xiaoshi7915/dsh-kb-manager](https://github.com/xiaoshi7915/dsh-kb-manager) ⭐1 — DSH local knowledge base plugin: multi-format import, smart chunking, vector index, hybrid search (BM25 + sqlite-vec + RRF) for agent long-term memory
@@ -277,7 +278,6 @@
 - [woshishadowhunter/dsh-seed-society](https://github.com/woshishadowhunter/dsh-seed-society) — Yogacara eight-consciousness agent society plugin for DeepSeek Harness: mneme memory consolidation tuning, llm-deepseek reasoning fix, MCP society bridge, and six seed skills
 - [moreWax/dsh-prime-agent](https://github.com/moreWax/dsh-prime-agent) — Closed learning loop for DeepSeek Harness: Prime Agent memory/skills bridge + OKF/OpenWiki provenance-aware knowledge serving
 - [princeofdream/dsh-codebase-memory-mcp](https://github.com/princeofdream/dsh-codebase-memory-mcp) — dsh-codebase-memory-mcp
-- [sskkde/dsh-oh-my-agent](https://github.com/sskkde/dsh-oh-my-agent) — oh-my-openagent (OmO) core capabilities ported as a DeepSeek Harness plugin: ultrawork, role delegation, rules engine, boulder memory, hooks, Sisyphus main-prompt discipline
 - [a805026135/dsh-constellation](https://github.com/a805026135/dsh-constellation) — A live, self-organizing constellation map of your DeepSeek Harness plugin universe — AI-balanced taxonomy, bilingual labels, instant search, health diagnostics, and one-click plugin operations.
 - [xuviga/dsh-plugin-mnemosyne](https://github.com/xuviga/dsh-plugin-mnemosyne) — Mnemosyne - an error-memory plugin for DeepSeek Harness that learns from the agent's own mistakes and blocks recurring ones
 - [windrover/dsh-long-term-memory](https://github.com/windrover/dsh-long-term-memory) — Layered deterministic long-term memory for DeepSeek Harness: CJK-aware BM25 recall, JSONL storage, per-assembly context injection, write guards and threat scanning.
@@ -376,8 +376,10 @@
 - [xs1023/dsh-memory-vault](https://github.com/xs1023/dsh-memory-vault) — DSH 外置记忆库插件（修复分支）— SQLite 长期记忆、分层压缩、搜索与归档
 - [janpauldahlke/dsh-memento](https://github.com/janpauldahlke/dsh-memento) — DeepSeek Harness plugin: bounded-file memory for local agents. ME.md + project MEMORY.md vault, cache-stable inject, plain-line inbox, Memory rightbar. No embeddings, no LLM calls.
 - [STARDUSTLC666/dsh-dream](https://github.com/STARDUSTLC666/dsh-dream) — 自动整理任务经验，经审阅采纳后在相关任务中回用；也支持梦境日记与项目规则预览。
+- [SherinG-official/dsh-siyuan-api](https://github.com/SherinG-official/dsh-siyuan-api) — DeepSeek Harness plugin for SiYuan (思源笔记): search notes, create documents, read/append blocks, and run read-only SQL over the local kernel HTTP API.
+- [kmagwenzi/dsh-ai-suplex](https://github.com/kmagwenzi/dsh-ai-suplex) — The 7-7-7 execution loop for DeepSeek Harness — plan, run, capture, close, compound, with a human gate.
 
 ---
 
 
-*Generated on 2026-10-04 · 367 plugins in this category*
+*Generated on 2026-10-04 · 369 plugins in this category*

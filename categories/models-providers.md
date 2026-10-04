@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**87 plugins**
+**88 plugins**
 
 
 ---
@@ -96,8 +96,9 @@
 - [phoenixyun/dsh-plugin-live-diff](https://github.com/phoenixyun/dsh-plugin-live-diff) — Live streaming diffs for DSH file edits: a diff that grows while the model is still emitting the edit arguments.
 - [Leafyezi233/dsh-model-gateway](https://github.com/Leafyezi233/dsh-model-gateway)
 - [YuMo-233/dsh-subagent-model-switch](https://github.com/YuMo-233/dsh-subagent-model-switch) — DSH ??:???/?????????????--??????????,????? turn ?????
+- [49zr664rb8-hue/dsh-codex-effort](https://github.com/49zr664rb8-hue/dsh-codex-effort) — 把 DSH 输入框的「模型·推理等级」菜单换成 Codex 那样的横向滑动滑条
 
 ---
 
 
-*Generated on 2026-10-04 · 87 plugins in this category*
+*Generated on 2026-10-04 · 88 plugins in this category*

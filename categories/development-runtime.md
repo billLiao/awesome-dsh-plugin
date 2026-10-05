@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**42 plugins**
+**43 plugins**
 
 
 ---
@@ -51,8 +51,9 @@
 - [XiaoMao-yty/dsh-netease-music](https://github.com/XiaoMao-yty/dsh-netease-music) — 网易云音乐 DSH 插件：单曲/MV/歌词/笔记/歌手/图片抓取，歌单管理，以及 AI 私人电台策展。零 npm 依赖。
 - [alexzshl/dsh-settings-size](https://github.com/alexzshl/dsh-settings-size) — config dsh settings size
 - [ladyya0306/dsh-office-plugin](https://github.com/ladyya0306/dsh-office-plugin) — DSH办公程序复用与精确填报插件；当前rc7，提供Windows离线安装方式。
+- [VibeDev-Si/dsh-film](https://github.com/VibeDev-Si/dsh-film)
 
 ---
 
 
-*Generated on 2026-10-05 · 42 plugins in this category*
+*Generated on 2026-10-06 · 43 plugins in this category*

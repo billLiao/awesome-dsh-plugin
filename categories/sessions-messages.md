@@ -2141,4 +2141,6 @@
 ---
 
 
+- [Sev7eEn7/sieve](https://github.com/Sev7eEn7/sieve) — Filters tool outputs, prunes stale context and discloses skills on demand for DSH 0.2.1-alpha.1.
+
 *Generated on 2026-10-06 · 2128 plugins in this category*

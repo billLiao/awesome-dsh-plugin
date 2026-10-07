@@ -4449,6 +4449,8 @@
 - [ingeb0rga/dsh-sidebar-hover](https://github.com/ingeb0rga/dsh-sidebar-hover) — Claude Code-style hover sidebar and session history arrows for DeepSeek Harness (DSH plugin)
 - [adesbusy/dsh-peak-indicator](https://github.com/adesbusy/dsh-peak-indicator) — Peak / off-peak pricing badge for the DeepSeek Harness Web GUI: a dot beside the brand wordmark, with the next switch in local time, UTC and a countdown on hover.
 
+- [twenty-3rd/dsh-skill-switch](https://github.com/twenty-3rd/dsh-skill-switch) — Project-level skill switches for DeepSeek Harness: block/unblock per skill per project, delete every on-disk copy, and see which condition (in registry / model-invocable / user-invocable) makes a skill invalid, with a read-only detail view of every root location. / DeepSeek Harness 会话内的「Skill 开关」面板：项目级屏蔽与恢复、全局删除副本、有效/错误判定与每处根位置详情。
+
 ---
 
 

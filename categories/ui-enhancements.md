@@ -4,7 +4,7 @@
 > Plugins that enhance the DSH web/terminal user interface.
 
 
-**4518 plugins**
+**4519 plugins**
 
 
 ---
@@ -4527,8 +4527,9 @@
 - [Twofruitsgrape/dsh-comsol](https://github.com/Twofruitsgrape/dsh-comsol) — DSH plugin: drive COMSOL Multiphysics end to end (steady + transient workflows) with a bundled MCP engine
 - [Everglow28/dsh-glm-quota-dock](https://github.com/Everglow28/dsh-glm-quota-dock) — GLM Coding Plan quota pill for the DeepSeek Harness web GUI - real-time per-window usage in the composer stats row
 - [Songyanglin-curious/dsh-apb](https://github.com/Songyanglin-curious/dsh-apb) — 基于标准编码 Agent 的渐进式开发助手。ask/plan/build 三模式由宿主权限预设强制（ask/plan→只读、build→可写工作区），可 Alt+M 或 /apb 切换并随会话持久；遵循先讨论定方向、入口与文件规划、todo 占位、逐模块实现调试、走通后再分步重构的人类式小步开发纪律。
+- [huhu23333/dsh-plugin-subagent-model-route](https://github.com/huhu23333/dsh-plugin-subagent-model-route) — DSH client plugin that annotates every subagent with the model route it actually ran on (a badge line in parent-catalog rows and a readout in a child session's header).
 
 ---
 
 
-*Generated on 2026-10-09 · 4518 plugins in this category*
+*Generated on 2026-10-09 · 4519 plugins in this category*

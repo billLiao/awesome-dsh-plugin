@@ -4,18 +4,18 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**384 plugins**
+**386 plugins**
 
 
 ---
 
-- [text2future/flowix](https://github.com/text2future/flowix) ⭐450 — Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding
+- [text2future/flowix](https://github.com/text2future/flowix) ⭐451 — Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding
 - [himovo/movo](https://github.com/himovo/movo) ⭐230 — Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.
 - [seriousz158/dsh-memory](https://github.com/seriousz158/dsh-memory) ⭐180
 - [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) ⭐129 — Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
 - [AskTheWay/dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) ⭐104 — Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into the system prompt. File-only, no external services.
 - [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) ⭐101 — Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- [Soren-ABT/dsh-knowledge](https://github.com/Soren-ABT/dsh-knowledge) ⭐64 — Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel
+- [Soren-ABT/dsh-knowledge](https://github.com/Soren-ABT/dsh-knowledge) ⭐67 — Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel
 - [btspoony/mstar-harness](https://github.com/btspoony/mstar-harness) ⭐63 — An omni-plugin for harness engineering workflows with multi-agents, programmatic gates and skills.
 - [lna-lab/distill-kura](https://github.com/lna-lab/distill-kura) ⭐53 — 蒸留蔵 — distilled long-term memory for agents: recall by meaning, writing gated by evidence, one kura per agent mode. Ships as a DeepSeek Harness plugin and an MCP server.
 - [xiehuan123/dsh-deepread](https://github.com/xiehuan123/dsh-deepread) ⭐50 — Evidence-first reading for AI agents — turn articles, books and PDFs into traceable claims, evidence, source locations and knowledge maps.
@@ -393,8 +393,10 @@
 - [online111111/dsh-hindsight-bridge](https://github.com/online111111/dsh-hindsight-bridge) — Native Hindsight memory for DeepSeek Harness: automatic recall, per-turn retention, safe configuration.
 - [tkliuxing/dsh-hypatia](https://github.com/tkliuxing/dsh-hypatia) — [DEPRECATED] Long-term memory for DSH backed by Hypatia. No longer maintained - use dsh-hypatia-auto-memory instead.
 - [smter/dsh-codebase-memory](https://github.com/smter/dsh-codebase-memory) — DeepSeek Harness plugin: connects the codebase-memory-mcp code graph, nudges the model at the decision point, corrects failed MCP calls, and indexes repositories by itself.
+- [Babydunx1/dsh-knowledge-bridge](https://github.com/Babydunx1/dsh-knowledge-bridge) — Host-level knowledge vault access with zero-config discovery, 3 retrieval tools, and destructive command safety guard for DeepSeek Harness.
+- [OraSkyC/dsh-bundle-memory](https://github.com/OraSkyC/dsh-bundle-memory) — Workspace-local memory for DeepSeek Harness: an agent-managed ./memory/ store with an auto-generated MEMORY.md index, subdirectories created on demand, and four tools (save / recall / search / forget).
 
 ---
 
 
-*Generated on 2026-10-09 · 384 plugins in this category*
+*Generated on 2026-10-09 · 386 plugins in this category*

@@ -30,6 +30,7 @@
 - [dymzz/lgtm-dsh](https://github.com/dymzz/lgtm-dsh) ⭐1 — lgtm-dsh is a DSH plugin that automatically installs lgtm, reuses the Jev already configured in DSH, and lets the agent automatically call lgtm during the testing phase.
 - [ystyle/dsh-harmonyos](https://github.com/ystyle/dsh-harmonyos) ⭐1 — dsh-harmonyos | 鸿蒙PC版本dsh, 支持鸿蒙PC一键安装
 - [YuMo-233/dsh-kubejs](https://github.com/YuMo-233/dsh-kubejs) ⭐1 — DSH 插件修改者：以独立脚本包定制其他已安装插件，不改插件源码（KubeJS 模式）
+- [VibeDev-Si/dsh-film](https://github.com/VibeDev-Si/dsh-film) ⭐1
 - [zdjmrq/dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) — DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins
 - [GoGoGoDoge/dsh-plugin-installer](https://github.com/GoGoGoDoge/dsh-plugin-installer)
 - [jiay98528-dev/dsh-plugin-weaknet-adaptor](https://github.com/jiay98528-dev/dsh-plugin-weaknet-adaptor)
@@ -51,7 +52,6 @@
 - [XiaoMao-yty/dsh-netease-music](https://github.com/XiaoMao-yty/dsh-netease-music) — 网易云音乐 DSH 插件：单曲/MV/歌词/笔记/歌手/图片抓取，歌单管理，以及 AI 私人电台策展。零 npm 依赖。
 - [alexzshl/dsh-settings-size](https://github.com/alexzshl/dsh-settings-size) — config dsh settings size
 - [ladyya0306/dsh-office-plugin](https://github.com/ladyya0306/dsh-office-plugin) — DSH办公程序复用与精确填报插件；当前rc7，提供Windows离线安装方式。
-- [VibeDev-Si/dsh-film](https://github.com/VibeDev-Si/dsh-film)
 - [VibeDev-Si/dsh-vibedev](https://github.com/VibeDev-Si/dsh-vibedev)
 - [beicause/dsh-extra-sandbox-presets](https://github.com/beicause/dsh-extra-sandbox-presets) — Registers arbitrary configured DSH permission presets, each selecting a sandbox mode and approval policy plus the directories writable on top of it. Linux bwrap only.
 

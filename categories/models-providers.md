@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**90 plugins**
+**92 plugins**
 
 
 ---
@@ -99,8 +99,10 @@
 - [YuMo-233/dsh-subagent-model-switch](https://github.com/YuMo-233/dsh-subagent-model-switch) — DSH ??:???/?????????????--??????????,????? turn ?????
 - [SnowNight777/dsh-llm-gateway](https://github.com/SnowNight777/dsh-llm-gateway) — 把 DSH 已配置的模型共享给本机程序——无需重复配置，用 OpenAI 兼容接口直接调用
 - [Kiteluo/dsh-bgame](https://github.com/Kiteluo/dsh-bgame) — DSH Web 小游戏插件：德州扑克、21 点、五子棋、UNO，支持电脑和模型对手。
+- [LingYingNX/dsh-codex-parity](https://github.com/LingYingNX/dsh-codex-parity)
+- [miku05231/dsh-provider-quote](https://github.com/miku05231/dsh-provider-quote) — DSH 插件：对正在使用的模型提供商询价（余额 + 单价，参考 cc-switch 的「服务商询价」）
 
 ---
 
 
-*Generated on 2026-10-10 · 90 plugins in this category*
+*Generated on 2026-10-10 · 92 plugins in this category*

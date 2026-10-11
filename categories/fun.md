@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**14 plugins**
+**15 plugins**
 
 
 ---
@@ -23,8 +23,9 @@
 - [wlc114514/dsh-upload-origin](https://github.com/wlc114514/dsh-upload-origin) — DSH host plugin that resolves the original local path of files uploaded to .dsh-uploads by matching name, size, and sha256.
 - [mpetruc/dsh-vcc](https://github.com/mpetruc/dsh-vcc) — Deterministic VCC compaction for DSH
 - [yvhcel888/slide-gauge-pygame](https://github.com/yvhcel888/slide-gauge-pygame) — 滑动测量仪 pygame 原版：拖动角色显示状态，边界彩蛋 · DSH 插件的源游戏
+- [wonderjz99/dsh-stock-dividend](https://github.com/wonderjz99/dsh-stock-dividend) — A 股分红账本 DSH 插件：按持仓 × 公开分红方案算应有的分红
 
 ---
 
 
-*Generated on 2026-10-10 · 14 plugins in this category*
+*Generated on 2026-10-11 · 15 plugins in this category*

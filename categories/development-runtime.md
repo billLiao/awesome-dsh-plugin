@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**45 plugins**
+**46 plugins**
 
 
 ---
@@ -54,8 +54,9 @@
 - [ladyya0306/dsh-office-plugin](https://github.com/ladyya0306/dsh-office-plugin) — DSH办公程序复用与精确填报插件；当前rc7，提供Windows离线安装方式。
 - [VibeDev-Si/dsh-vibedev](https://github.com/VibeDev-Si/dsh-vibedev)
 - [beicause/dsh-extra-sandbox-presets](https://github.com/beicause/dsh-extra-sandbox-presets) — Registers arbitrary configured DSH permission presets, each selecting a sandbox mode and approval policy plus the directories writable on top of it. Linux bwrap only.
+- [BinXie-lixiangdehua/dsh-devflow](https://github.com/BinXie-lixiangdehua/dsh-devflow) — 开发工作流
 
 ---
 
 
-*Generated on 2026-10-10 · 45 plugins in this category*
+*Generated on 2026-10-11 · 46 plugins in this category*

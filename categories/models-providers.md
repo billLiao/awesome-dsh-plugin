@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**93 plugins**
+**94 plugins**
 
 
 ---
@@ -102,8 +102,9 @@
 - [LingYingNX/dsh-codex-parity](https://github.com/LingYingNX/dsh-codex-parity)
 - [miku05231/dsh-provider-quote](https://github.com/miku05231/dsh-provider-quote) — DSH 插件：对正在使用的模型提供商询价（余额 + 单价，参考 cc-switch 的「服务商询价」）
 - [ken95573/dsh-model-show](https://github.com/ken95573/dsh-model-show) — 同时显示AI模型和供应商
+- [Asaiuta/dsh-blackhole](https://github.com/Asaiuta/dsh-blackhole)
 
 ---
 
 
-*Generated on 2026-10-11 · 93 plugins in this category*
+*Generated on 2026-10-11 · 94 plugins in this category*

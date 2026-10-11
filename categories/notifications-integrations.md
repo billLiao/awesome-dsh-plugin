@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**36 plugins**
+**37 plugins**
 
 
 ---
@@ -45,8 +45,9 @@
 - [Cangjier/dsh-mail-notify](https://github.com/Cangjier/dsh-mail-notify)
 - [zhangDSK-Xu/dsh-sound-alert](https://github.com/zhangDSK-Xu/dsh-sound-alert) — DSH需要你授权或做出选择时播放提示音并弹出提醒卡片。Plays a sound and shows a reminder card when DSH needs your approval or a choice.
 - [AhYi8/dsh-gotify-notify](https://github.com/AhYi8/dsh-gotify-notify) — DSH 的 Gotify 通知插件
+- [wuuuuu123-32/dsh-mailbox-notify](https://github.com/wuuuuu123-32/dsh-mailbox-notify)
 
 ---
 
 
-*Generated on 2026-10-11 · 36 plugins in this category*
+*Generated on 2026-10-11 · 37 plugins in this category*

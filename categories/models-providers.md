@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**95 plugins**
+**98 plugins**
 
 
 ---
@@ -104,8 +104,11 @@
 - [miku05231/dsh-provider-quote](https://github.com/miku05231/dsh-provider-quote) — DSH 插件：对正在使用的模型提供商询价（余额 + 单价，参考 cc-switch 的「服务商询价」）
 - [ken95573/dsh-model-show](https://github.com/ken95573/dsh-model-show) — 同时显示AI模型和供应商
 - [Asaiuta/dsh-blackhole](https://github.com/Asaiuta/dsh-blackhole)
+- [Mhmd7-7/dsh-ai-model-hub](https://github.com/Mhmd7-7/dsh-ai-model-hub)
+- [vb2250158/dsh-provider-visibility](https://github.com/vb2250158/dsh-provider-visibility) — Provider visibility policy and Model list settings page
+- [lilinhua0413/dsh-undici-timeout-fix](https://github.com/lilinhua0413/dsh-undici-timeout-fix) — Removes undici's 300s body timeout that cuts off long local-model prefills.
 
 ---
 
 
-*Generated on 2026-10-12 · 95 plugins in this category*
+*Generated on 2026-10-13 · 98 plugins in this category*

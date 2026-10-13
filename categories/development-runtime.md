@@ -60,3 +60,4 @@
 
 
 *Generated on 2026-10-13 · 46 plugins in this category*
+- [skyjjgw/dsh-version-guard](https://github.com/skyjjgw/dsh-version-guard) — Snapshots plugin versions and profile configuration, with an independent recovery page to restore a known-good configuration when DSH cannot start.

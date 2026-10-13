@@ -4,15 +4,15 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**361 plugins**
+**363 plugins**
 
 
 ---
 
 - [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) ⭐4536 — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
-- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐2555 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
+- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐2568 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
 - [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) ⭐243 — DeepSeek Harness 滑动变阻器皮肤
-- [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐192 — DeepSeek Harness skin market 皮肤市场 已收录200+DSH 皮肤 完善评分系统加人工审核，有便捷的社区收录入口；有在线页面方便在线浏览，也有插件方便管理本地皮肤
+- [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐193 — DeepSeek Harness skin market 皮肤市场 已收录200+DSH 皮肤 完善评分系统加人工审核，有便捷的社区收录入口；有在线页面方便在线浏览，也有插件方便管理本地皮肤
 - [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) ⭐136 — 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风。
 - [chen731215-dev/dsh-tavern-v2](https://github.com/chen731215-dev/dsh-tavern-v2) ⭐43 — DeepSeek Harness Tavern Plugin - character card roleplay, worldbook management, preset switching, dark theme, memory summary, relationship graph, PolyForm-Noncommercial-Copyleft-1.0.0
 - [JAdpp/dsh-whale-galgame](https://github.com/JAdpp/dsh-whale-galgame) ⭐33 — 工作推gal两不误~面向DeepSeek Harness的跨会话事件感知Galgame引擎与界面插件，支持鲸鱼娘/GPT/Claude/Grok/Gemini/Kimi多位模型娘角色
@@ -24,6 +24,7 @@
 - [XCNXNXNX/dsh-portable-tavern](https://github.com/XCNXNXNX/dsh-portable-tavern) ⭐24 — DeepSeek Harness 的「便携酒馆」插件：RPG 式 SillyTavern V2/V3 角色卡生成器 + 酒馆角色扮演聊天。支持世界书、角色卡 JSON/PNG 导入导出、面板主题与本地音乐。独立插件，仅依赖官方 @deepseek-ai SDK。
 - [LaplaceYoung/dsh-qq2006](https://github.com/LaplaceYoung/dsh-qq2006) ⭐24 — DSH (DeepSeek Harness) 的 QQ2006 皮肤插件：注册 qq2006 主题、镜像 body[data-ds-skin]、全局皮肤表与完整素材
 - [Liu-ZA-81/dsh-theme-firefly](https://github.com/Liu-ZA-81/dsh-theme-firefly) ⭐23
+- [147228/dsh-xiaoyao-skins](https://github.com/147228/dsh-xiaoyao-skins) ⭐23 — 夕小瑶 × DeepSeek Harness Web 皮肤合集、安装器与社区创作工具链
 - [Witherwithwinter/DeepSeek-Balance-Whale-Widget-Bowl](https://github.com/Witherwithwinter/DeepSeek-Balance-Whale-Widget-Bowl) ⭐21 — DeepSeek Harness（DSH）Web 界面右下角的常驻余额挂件。基于 MeteorNOX/DeepSeek-Balance-Whale-Widget 修改的铁盆鲸鱼娘版。
 - [tpmoonchefryan/dsh-joi-channel-theme](https://github.com/tpmoonchefryan/dsh-joi-channel-theme) ⭐20 — 轴伊 Joi 双衣装主题 for DeepSeek Harness — unofficial, non-commercial fan theme plugin 🍊
 - [rongzi5/dsh-whale-pet](https://github.com/rongzi5/dsh-whale-pet) ⭐16
@@ -107,6 +108,7 @@
 - [Anionex/dsh-eye-care](https://github.com/Anionex/dsh-eye-care) ⭐2 — Warm light, warm dark, and system-aware eye-care themes for DSH Web
 - [liuhange789/data-asset-inspector](https://github.com/liuhange789/data-asset-inspector) ⭐2 — 30 DSH plugins | data asset registration | gov data inspection | AML compliance | research provenance | BIM inventory | pipeline inspection | geo quality | GB/T 24356-2023 | zero hardcode | policyBasis | 538 tests
 - [xikan0/dsh-outerwilds-theme](https://github.com/xikan0/dsh-outerwilds-theme) ⭐2 — 以《星际拓荒》为主题的 DSH Web 与 DSH Desktop 外观插件
+- [blueziii/dsh-mc-agent](https://github.com/blueziii/dsh-mc-agent) ⭐2 — 让 DeepSeek Harness 真的玩 Minecraft：AI 有自己的角色，能探索、挖矿、合成、熔炼、打怪、建造。基于 yzi1b/whale-craft 独立维护。
 - [deepsleepAquarium/dsh-whale-post](https://github.com/deepsleepAquarium/dsh-whale-post) ⭐2 — 给同一台机器上的多个 AI 会话（或多台引擎）的异步信箱 —— 默认离线、信不会丢、万物皆插件（DSH / Cordis 风格） · An asynchronous mailbox for several AI sessions on one machine (or several engines): offline by default, letters are not lost, everything is a plugin
 - [Ian-Yunqi/dsh-plugin-boot-whale-maid](https://github.com/Ian-Yunqi/dsh-plugin-boot-whale-maid) ⭐2 — dsh-boot · 深度求索开场 | DeepSeek Harness 鲸鱼女仆开机动画插件，深海宫殿、蓝白御姐与原 Q 版，点击/Esc 跳过。
 - [Yuuyuko-uu/dsh-fish-memory](https://github.com/Yuuyuko-uu/dsh-fish-memory) ⭐1 — 🐋 DSH 鱼的记忆：给会话一份会淡忘的长期记忆，每条都带时间。名字里的「鱼」来自 DeepSeek 的鲸鱼。
@@ -187,7 +189,6 @@
 - [hello-heyongping/dsh-helloai-theme](https://github.com/hello-heyongping/dsh-helloai-theme) ⭐1 — DeepSeek Harness 主题插件：十款内置配色 + 自建主题编辑器，可选玻璃质感与逐 token 覆盖
 - [Mynaniao/dsh-whale-food-expack](https://github.com/Mynaniao/dsh-whale-food-expack) ⭐1 — 给插件市场的「DSH 小鲸鱼记账挂件」加上吃白米饭和工作时反馈的功能，使鲸鱼娘成为真正吃白饭的大肥鱼和工作伙伴，打发你的等待时间
 - [4444Hao/dsh-codefall](https://github.com/4444Hao/dsh-codefall) ⭐1 — 适用于dsh的数字瀑布开机动画与绿色字样主题
-- [blueziii/dsh-mc-agent](https://github.com/blueziii/dsh-mc-agent) ⭐1 — 让 DeepSeek Harness 真的玩 Minecraft：AI 有自己的角色，能探索、挖矿、合成、熔炼、打怪、建造。基于 yzi1b/whale-craft 独立维护。
 - [berhbro/dsh-cyrene-theme](https://github.com/berhbro/dsh-cyrene-theme) ⭐1 — Cyrene theme dsh plugin
 - [ta-www/dsh-tripsy](https://github.com/ta-www/dsh-tripsy) ⭐1 — Browse your Tripsy trips inside a DeepSeek Harness panel: itinerary, activities, lodging, transport and expenses, with times in each item's own timezone. Read-only by design -- create and edit by asking the agent.
 - [Lutisure/cyrene-dsh-plugin](https://github.com/Lutisure/cyrene-dsh-plugin) ⭐1 — 昔涟角色 agent + 客户端主题 + 本地安全扫描，三个可独立安装的 DSH 插件。
@@ -370,8 +371,9 @@
 - [FABAGV/dsh-whale-inurqq](https://github.com/FABAGV/dsh-whale-inurqq) — 提升某些情况下的人机工效
 - [zmr234234-jpg/dsh-deepseek-splash](https://github.com/zmr234234-jpg/dsh-deepseek-splash) — DeepSeek opening animation for DeepSeek Harness: whale line-draw splash rendered as DSH Desktop launch screen, plus an opt-in full-screen client overlay.
 - [Sakayorilove/dsh-laurel](https://github.com/Sakayorilove/dsh-laurel) — Laurel 套件：给 DeepSeek Harness 的「功能管理」面板 + 四个可单独开关的插件（通知 / Claude 主题 / 记忆与上下文 / 可视化规划）
+- [AlyceStocking/dsh-yukimi-theme](https://github.com/AlyceStocking/dsh-yukimi-theme) — A Sajo Yukimi (Idolmaster Cinderella Girls) theme for DeepSeek Harness Web
 
 ---
 
 
-*Generated on 2026-10-13 · 361 plugins in this category*
+*Generated on 2026-10-14 · 363 plugins in this category*

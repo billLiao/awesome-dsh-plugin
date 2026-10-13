@@ -20,6 +20,7 @@
 - [codingayice/dsh-interview](https://github.com/codingayice/dsh-interview) ⭐3 — 面向开发岗位的 DSH AI面试助手，支持八股复习、模拟面试、场景题、力扣 Hot 100 和可视化练习管理。
 - [omdsh-dev/dsh-sandbox-micro](https://github.com/omdsh-dev/dsh-sandbox-micro) ⭐2
 - [AtWhuhu/dsh-devin-cli](https://github.com/AtWhuhu/dsh-devin-cli) ⭐2 — dsh devin cli插件
+- [VibeDev-Si/dsh-film](https://github.com/VibeDev-Si/dsh-film) ⭐2
 - [2128627267/dsh-qbetter-config](https://github.com/2128627267/dsh-qbetter-config) ⭐1
 - [showlibia/dsh-plugin-installer](https://github.com/showlibia/dsh-plugin-installer) ⭐1
 - [q2316367743/dsh-plugin-manager](https://github.com/q2316367743/dsh-plugin-manager) ⭐1 — dsh 插件管理器
@@ -30,7 +31,6 @@
 - [dymzz/lgtm-dsh](https://github.com/dymzz/lgtm-dsh) ⭐1 — lgtm-dsh is a DSH plugin that automatically installs lgtm, reuses the Jev already configured in DSH, and lets the agent automatically call lgtm during the testing phase.
 - [ystyle/dsh-harmonyos](https://github.com/ystyle/dsh-harmonyos) ⭐1 — dsh-harmonyos | 鸿蒙PC版本dsh, 支持鸿蒙PC一键安装
 - [YuMo-233/dsh-kubejs](https://github.com/YuMo-233/dsh-kubejs) ⭐1 — DSH 插件修改者：以独立脚本包定制其他已安装插件，不改插件源码（KubeJS 模式）
-- [VibeDev-Si/dsh-film](https://github.com/VibeDev-Si/dsh-film) ⭐1
 - [zdjmrq/dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) — DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins
 - [GoGoGoDoge/dsh-plugin-installer](https://github.com/GoGoGoDoge/dsh-plugin-installer)
 - [jiay98528-dev/dsh-plugin-weaknet-adaptor](https://github.com/jiay98528-dev/dsh-plugin-weaknet-adaptor)
@@ -59,4 +59,4 @@
 ---
 
 
-*Generated on 2026-10-13 · 46 plugins in this category*
+*Generated on 2026-10-14 · 46 plugins in this category*

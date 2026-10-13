@@ -11,7 +11,7 @@
 
 - [HuanLinOTO/dsh-plugin-auto-blame](https://github.com/HuanLinOTO/dsh-plugin-auto-blame) ⭐11 — 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 | After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips
 - [MichaelShii/dsh-plugin-teamflow](https://github.com/MichaelShii/dsh-plugin-teamflow) ⭐11 — dsh plugin teamflow
-- [TikaFlow/dsh-model-fix](https://github.com/TikaFlow/dsh-model-fix) ⭐10 — DSH 插件：提供更好的模型使用体验，包括但不限于：多种方式填充模型参数、提升模型兼容性、记住推理级别、子智能体实时跟随模型和推理级别、AI 自主调节档位等。
+- [TikaFlow/dsh-model-fix](https://github.com/TikaFlow/dsh-model-fix) ⭐11 — DSH 插件：提供更好的模型使用体验，包括但不限于：多种方式填充模型参数、提升模型兼容性、记住推理级别、子智能体实时跟随模型和推理级别、AI 自主调节档位等。
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
 - [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐8 — DSH Web 模型余量与用量监控插件
 - [LarryE135/dsh-flash-presets](https://github.com/LarryE135/dsh-flash-presets) ⭐7 — 通过补充强约束抑制模型的过度思考倾向，减少因为过度思考产生的浪费，同时通过调整压缩逻辑高全局注意力
@@ -112,4 +112,4 @@
 ---
 
 
-*Generated on 2026-10-13 · 99 plugins in this category*
+*Generated on 2026-10-14 · 99 plugins in this category*

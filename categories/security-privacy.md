@@ -4,7 +4,7 @@
 > Credential management, encryption, audit, and security tooling.
 
 
-**13 plugins**
+**14 plugins**
 
 
 ---
@@ -22,8 +22,9 @@
 - [qimen039-code/dsh-consumer-audit](https://github.com/qimen039-code/dsh-consumer-audit) — Audit a DSH profile for capabilities nothing consumes, and record completion claims with the evidence that supports them.
 - [t2094308-star/dsh-agent-contract](https://github.com/t2094308-star/dsh-agent-contract) — DSH 多智能体契约工作流引擎：契约注入 / 按角色委派 / 台账与审计 / 文档治理与索引 / 面板。
 - [ryukeilee/dsh-evolution](https://github.com/ryukeilee/dsh-evolution) — DeepSeek DSH 的独立 Evolution bundle 预发布；promotion 的 host 代码不是安全沙箱。
+- [moyuqing-man/dsh-plugin-community](https://github.com/moyuqing-man/dsh-plugin-community) — DSH 插件社区的讨论与反馈入口：插件展示 / 求助 / 想法与需求 / 已知问题。本仓库不含任何可执行代码（见 SECURITY.md）。 / Discussion and feedback hub for the DSH plugin community. Contains no executable code.
 
 ---
 
 
-*Generated on 2026-10-14 · 13 plugins in this category*
+*Generated on 2026-10-15 · 14 plugins in this category*

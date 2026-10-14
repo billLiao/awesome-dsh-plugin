@@ -14,7 +14,6 @@
 - [TikaFlow/dsh-model-fix](https://github.com/TikaFlow/dsh-model-fix) ⭐11 — DSH 插件：提供更好的模型使用体验，包括但不限于：多种方式填充模型参数、提升模型兼容性、记住推理级别、子智能体实时跟随模型和推理级别、AI 自主调节档位等。
 - [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐9 — DSH Web 模型余量与用量监控插件
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
-- [LarryE135/dsh-flash-presets](https://github.com/LarryE135/dsh-flash-presets) ⭐7 — 通过补充强约束抑制模型的过度思考倾向，减少因为过度思考产生的浪费，同时通过调整压缩逻辑高全局注意力
 - [edge-sky/dsh-oauth-adapter](https://github.com/edge-sky/dsh-oauth-adapter) ⭐6 — An OAuth adapter for DSH
 - [liceses/dsh-memes-reply](https://github.com/liceses/dsh-memes-reply) ⭐6 — DSH 插件：蓝色大肥鱼表情包回复 —— 模型按语境在回复里贴一张会动的大肥鱼，支持设置页预览墙与下一轮指定
 - [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) ⭐5 — DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）
@@ -108,8 +107,9 @@
 - [Mhmd7-7/dsh-ai-model-hub](https://github.com/Mhmd7-7/dsh-ai-model-hub)
 - [vb2250158/dsh-provider-visibility](https://github.com/vb2250158/dsh-provider-visibility) — Provider visibility policy and Model list settings page
 - [lilinhua0413/dsh-undici-timeout-fix](https://github.com/lilinhua0413/dsh-undici-timeout-fix) — Removes undici's 300s body timeout that cuts off long local-model prefills.
+- [Hielo19/dsh-think-chinese](https://github.com/Hielo19/dsh-think-chinese) — DSH plugin: force the model thinking chain (reasoning) to always be written in Chinese
 
 ---
 
 
-*Generated on 2026-10-14 · 99 plugins in this category*
+*Generated on 2026-10-15 · 99 plugins in this category*

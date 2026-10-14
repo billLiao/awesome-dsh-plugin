@@ -38,7 +38,7 @@
 - [zhengmz/dsh-wecom-plugin](https://github.com/zhengmz/dsh-wecom-plugin) — DSH 的企业微信插件
 - [qzy033/dsh-astrbot-gateway](https://github.com/qzy033/dsh-astrbot-gateway) — 大肥鱼桥：DSH 与 AstrBot 之间的桥接插件，指令下行、结果只走文件交付，不直发用户
 - [elk-9527/dsh-vscode](https://github.com/elk-9527/dsh-vscode)
-- [iruoy/dsh-notify](https://github.com/iruoy/dsh-notify)
+- [avontura/dsh-notify](https://github.com/avontura/dsh-notify)
 - [masknull/dsh-webhook-notifier](https://github.com/masknull/dsh-webhook-notifier) — DSH 插件：AI 回合完成、权限申请、提问、出错、开始运行等场景发生时，向 Webhook 发送自定义 HTTP 通知（GET/POST、预设字段或自定义文本、发送日志）。 | DSH plugin: send custom HTTP webhook notifications on DSH events (turn completed, permission request, question, error, run started) - GET/POST, preset fields or custom text, send log.
 - [Camusugar/dsh-notify](https://github.com/Camusugar/dsh-notify)
 - [WalcimarZD/dsh-notify-pt](https://github.com/WalcimarZD/dsh-notify-pt)

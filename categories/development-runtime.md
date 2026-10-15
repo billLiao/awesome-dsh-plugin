@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**48 plugins**
+**49 plugins**
 
 
 ---
@@ -57,8 +57,9 @@
 - [beicause/dsh-extra-sandbox-presets](https://github.com/beicause/dsh-extra-sandbox-presets) — Registers arbitrary configured DSH permission presets, each selecting a sandbox mode and approval policy plus the directories writable on top of it. Linux bwrap only.
 - [BinXie-lixiangdehua/dsh-devflow](https://github.com/BinXie-lixiangdehua/dsh-devflow) — 开发工作流
 - [EnhydraLutristus/dsh-math-tex](https://github.com/EnhydraLutristus/dsh-math-tex) — DSH plugin: keeps streamed answers free of red (broken) KaTeX regions — validates every maths region with the client's own renderer before it is written
+- [EnhydraLutristus/dsh-math-tex](https://github.com/EnhydraLutristus/dsh-math-tex) — DSH plugin: keeps streamed answers free of red (broken) KaTeX regions - validates every maths region with the client's own renderer before it is written
 
 ---
 
 
-*Generated on 2026-10-15 · 48 plugins in this category*
+*Generated on 2026-10-15 · 49 plugins in this category*

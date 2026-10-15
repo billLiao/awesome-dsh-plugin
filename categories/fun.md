@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**16 plugins**
+**17 plugins**
 
 
 ---
@@ -25,8 +25,9 @@
 - [yvhcel888/slide-gauge-pygame](https://github.com/yvhcel888/slide-gauge-pygame) — 滑动测量仪 pygame 原版：拖动角色显示状态，边界彩蛋 · DSH 插件的源游戏
 - [wonderjz99/dsh-stock-dividend](https://github.com/wonderjz99/dsh-stock-dividend) — A 股分红账本 DSH 插件：按持仓 × 公开分红方案算应有的分红
 - [x-cores/dsh-mine-game](https://github.com/x-cores/dsh-mine-game)
+- [funswe/dsh-resizable-settings](https://github.com/funswe/dsh-resizable-settings)
 
 ---
 
 
-*Generated on 2026-10-15 · 16 plugins in this category*
+*Generated on 2026-10-15 · 17 plugins in this category*

@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**99 plugins**
+**100 plugins**
 
 
 ---
@@ -108,8 +108,9 @@
 - [vb2250158/dsh-provider-visibility](https://github.com/vb2250158/dsh-provider-visibility) — Provider visibility policy and Model list settings page
 - [lilinhua0413/dsh-undici-timeout-fix](https://github.com/lilinhua0413/dsh-undici-timeout-fix) — Removes undici's 300s body timeout that cuts off long local-model prefills.
 - [Hielo19/dsh-think-chinese](https://github.com/Hielo19/dsh-think-chinese) — DSH plugin: force the model thinking chain (reasoning) to always be written in Chinese
+- [jonah791/dsh-llm-probe](https://github.com/jonah791/dsh-llm-probe)
 
 ---
 
 
-*Generated on 2026-10-15 · 99 plugins in this category*
+*Generated on 2026-10-16 · 100 plugins in this category*

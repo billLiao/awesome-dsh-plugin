@@ -19,6 +19,7 @@
 - [detpecca/dsh-llm-wiki](https://github.com/detpecca/dsh-llm-wiki) ⭐4
 - [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model) ⭐4 — Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐4 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
+- [jyao-SUSE-power-group/dsh-provider-rate-limit](https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit) ⭐4 — dsh-provider-rate-limit
 - [Vesna-Strivozha/DSH-LLM-wiki-plugin](https://github.com/Vesna-Strivozha/DSH-LLM-wiki-plugin) ⭐4 — 基于Karpathy的wiki方法论搭建的插件，让你的DSH直接变身成LLM wiki，不需要Obsidian+Claudian插件，国内网络友好
 - [MoRanYue/dsh-openrouter-providers](https://github.com/MoRanYue/dsh-openrouter-providers) ⭐3 — DSH 插件：设置页配置 OpenRouter 提供商列表，注入 provider.only / provider.order 路由参数；状态持久化
 - [xiaobbl/dsh-opencode-go-model-list](https://github.com/xiaobbl/dsh-opencode-go-model-list) ⭐3 — 修复dsh上opencode go模型列表问题
@@ -28,7 +29,6 @@
 - [lakabuji-arch/dsh-model-accordion](https://github.com/lakabuji-arch/dsh-model-accordion) ⭐2
 - [seriousz158/dsh-codex-use](https://github.com/seriousz158/dsh-codex-use) ⭐2
 - [shangjian2023/dsh-rss-daily](https://github.com/shangjian2023/dsh-rss-daily) ⭐2 — dsh plugin: 46-source daily RSS digest, LLM-edited, delivered via webhook (ServerChan/PushDeer/WxWork/TG/Bark/gotify)
-- [jyao-SUSE-power-group/dsh-provider-rate-limit](https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit) ⭐2 — dsh-provider-rate-limit
 - [Shizuku-keop/dsh-micro-inversion-standard](https://github.com/Shizuku-keop/dsh-micro-inversion-standard) ⭐2 — 一个可复用的 DSH Agent Preset：双阶段、Token 精益的编码智能体模式。  核心目标：把模型思维链的起手习惯从 "let me" 翻转为 "we need"，同时把上下文占用与 Token 消耗压到最低，并保持供应商 KV Cache 对未变前缀持续命中。
 - [qikairo7/dsh-gemini-pool](https://github.com/qikairo7/dsh-gemini-pool) ⭐2 — 多账号 Google Gemini 提供商（DSH 插件）：订阅额度即用即扣，账号池自动调度；主模型没有视觉也能贴图看图（池内 Gemini 自动转述），另有生图工具与中英双语设置页
 - [lakeofsky347/dsh-oauth](https://github.com/lakeofsky347/dsh-oauth) ⭐2 — 一个适用于dsh的通过oauth认证实现模型注入的插件
@@ -112,4 +112,4 @@
 ---
 
 
-*Generated on 2026-10-16 · 99 plugins in this category*
+*Generated on 2026-10-17 · 99 plugins in this category*

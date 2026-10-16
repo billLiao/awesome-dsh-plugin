@@ -4,7 +4,7 @@
 > Session management, message editing, sharing, and conversation tools.
 
 
-**2457 plugins**
+**2458 plugins**
 
 
 ---
@@ -2466,8 +2466,9 @@
 - [TindalosKorone/dsh-agent-memory](https://github.com/TindalosKorone/dsh-agent-memory) — DSH 跨会话长期记忆插件：零运行时依赖、输出可自算自证、请求级隔离（CC BY-NC-SA 4.0）
 - [DevourerM/tree-chat](https://github.com/DevourerM/tree-chat) — 基于deepseek harness构造的可视化树状上下文管理系统
 - [awol2005ex3/dsh-hosts](https://github.com/awol2005ex3/dsh-hosts) — DeepSeek Harness (dsh) 插件：连接装了 host_server_mcp 的服务器，在 Web 设置页配置（IP/主机名 + 端口 + token），之后 agent 对话里即可访问这些服务器排查问题——查看信息、执行脚本、读文件、一键诊断。
+- [huhu23333/dsh-reasoning-distill](https://github.com/huhu23333/dsh-reasoning-distill) — DSH plugin: distill over-long model reasoning into its useful core, replay the compressed version on every later request, and report per-session cost and savings.
 
 ---
 
 
-*Generated on 2026-10-16 · 2457 plugins in this category*
+*Generated on 2026-10-16 · 2458 plugins in this category*

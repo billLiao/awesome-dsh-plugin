@@ -60,6 +60,8 @@
 - [EnhydraLutristus/dsh-math-tex](https://github.com/EnhydraLutristus/dsh-math-tex) — DSH plugin: keeps streamed answers free of red (broken) KaTeX regions — validates every maths region with the client's own renderer before it is written
 - [EnhydraLutristus/dsh-math-tex](https://github.com/EnhydraLutristus/dsh-math-tex) — DSH plugin: keeps streamed answers free of red (broken) KaTeX regions - validates every maths region with the client's own renderer before it is written
 
+- [sakikoTGW/dsh-plugin-resolver](https://github.com/sakikoTGW/dsh-plugin-resolver) — Agent-facing DSH plugin installer: catalog search with same-name disambiguation, DSH-compatible version selection (dsh peers + engines.dsh), registry or GitHub-source install, and post-install verification.
+
 ---
 
 

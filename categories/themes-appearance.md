@@ -4,7 +4,7 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**377 plugins**
+**378 plugins**
 
 
 ---
@@ -386,8 +386,9 @@
 - [wxzjss/dsh-whale-loli](https://github.com/wxzjss/dsh-whale-loli) — DSH 插件：启用后自动在 Agent 预设界面添加「鲸鱼娘Agent预设」——极简模式工具面 + 鲸鱼娘·小鱼人设（傲娇甜心、黏人护主、颜文字）。
 - [nightosong/gord-dsh-saber-theme](https://github.com/nightosong/gord-dsh-saber-theme) — 这是一个 DeepSeek Harness（DSH）的 Saber（Fate）主题皮肤，支持 macOS 和 Windows。
 - [gosutry/dsh-persona-select](https://github.com/gosutry/dsh-persona-select) — DSH注入系统提示词和设置注入上下文插件。内置吃白饭的蓝色大肥鱼拟人鲸鱼娘女仆角色扮演设定！
+- [Sakayorilove/dsh-laurel](https://github.com/Sakayorilove/dsh-laurel) — Laurel 套件：给 DeepSeek Harness 的「功能管理」面板 + 四个可单独开关的插件（通知 / Claude 主题 / 记忆与上下文 / 可视化规划）
 
 ---
 
 
-*Generated on 2026-10-17 · 377 plugins in this category*
+*Generated on 2026-10-17 · 378 plugins in this category*

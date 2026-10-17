@@ -214,6 +214,7 @@
 - [jojoman2024/dsh-memj](https://github.com/jojoman2024/dsh-memj) ⭐1 — 基于项目逻辑的dsh记忆系统，项目基于交接文档，知识基于项目沉淀。以人实际工作的逻辑，做知识的聚合和交接。开放书写规范以及全插件提示词的前端编辑（热加载），用户可自行优化，或者让模型帮插件通过修改提示词自进化。
 - [yuchenlogin/noname-dsh-plugin](https://github.com/yuchenlogin/noname-dsh-plugin) ⭐1 — NoName Agent Harness as a DeepSeek Harness plugin: context as an asset — append-only evidence, versioned memory, taste as a first-class citizen, audited approvals.
 - [wt0812/dsh-vocab-study](https://github.com/wt0812/dsh-vocab-study) ⭐1 — DeepSeek Harness (DSH) 的离线背单词插件：输入框旁一颗胶囊 + 右侧栏一个标签页，按记忆半衰期排期，零依赖、零联网、数据只存本地。
+- [RestRegular/dsh-memory](https://github.com/RestRegular/dsh-memory) ⭐1 — DSH memory plugin: local JSONL memory + embeddings + agent tools + settings panel
 - [bloodarea/dsh-knowspace](https://github.com/bloodarea/dsh-knowspace) ⭐1 — Agent-native, local-first knowledge management plugin for DeepSeekHarness with Markdown, WebDAV sync, and extensible RAG.
 - [Noct2vis/dsh-mastery-loop](https://github.com/Noct2vis/dsh-mastery-loop) ⭐1 — An exam-revision loop for DeepSeek Harness: drill until every knowledge point reaches your target accuracy. / 通用应试复习闭环，每题必写思维链，蒙对不算对。
 - [weihaobin0818-lgtm/dsh-system-monitor](https://github.com/weihaobin0818-lgtm/dsh-system-monitor) ⭐1 — DSH 侧栏实时硬件监控：CPU / GPU / 内存 / 磁盘一页看完，每秒刷新，每个读数都能下钻到是哪个应用。支持容量与内存耗尽预测、阈值告警与 NDJSON 导出。纯 Node，零运行时依赖，完整功能仅 Windows。
@@ -410,7 +411,6 @@
 - [liu-zhengdong/dsh-recall](https://github.com/liu-zhengdong/dsh-recall) — DSH 插件：把每个 turn 归档为一条 Run，后台生成摘要，让 Agent 检索自己的执行历史
 - [megablue/dsh-feature-map](https://github.com/megablue/dsh-feature-map) — Docs before code: one page per feature so your agent stops grepping and starts knowing.
 - [dsh-remote/relay](https://github.com/dsh-remote/relay) — Zero-knowledge WebSocket relay for DSH Remote Control: routes sealed records between the host plugin and paired phones, never parses payloads. Single-file bundle, self-hostable, Docker image. 零知识 WebSocket 中继：只路由从不解析载荷，单文件产物可自托管。
-- [RestRegular/dsh-memory](https://github.com/RestRegular/dsh-memory) — DSH memory plugin: local JSONL memory + embeddings + agent tools + settings panel
 - [pokiimon/dsh-memory-eternal-fork](https://github.com/pokiimon/dsh-memory-eternal-fork) — Maintained fork of EternalNight996/dsh-memory-eternal: local Markdown memory vault for DeepSeek Harness, with DSH 0.2.0-rc.x compatibility fixes. MIT.
 - [maxeone/dsh-plugin-clm](https://github.com/maxeone/dsh-plugin-clm) — Context Language Models (CLM) for DeepSeek Harness: Active editable context window mirrored to disk for pruning and token optimization.
 - [MoYu-CN/dsh-knowledge](https://github.com/MoYu-CN/dsh-knowledge) — Project knowledge base for DSH agents: capture pitfalls and reusable methods into paged volumes and surface them while you work.

@@ -13,11 +13,11 @@
 - [MichaelShii/dsh-plugin-teamflow](https://github.com/MichaelShii/dsh-plugin-teamflow) ⭐11 — dsh plugin teamflow
 - [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐9 — DSH Web 模型余量与用量监控插件
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
+- [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model) ⭐8 — Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.
 - [edge-sky/dsh-oauth-adapter](https://github.com/edge-sky/dsh-oauth-adapter) ⭐6 — An OAuth adapter for DSH
 - [liceses/dsh-memes-reply](https://github.com/liceses/dsh-memes-reply) ⭐6 — DSH 插件：蓝色大肥鱼表情包回复 —— 模型按语境在回复里贴一张会动的大肥鱼，支持设置页预览墙与下一轮指定
 - [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) ⭐5 — DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）
 - [detpecca/dsh-llm-wiki](https://github.com/detpecca/dsh-llm-wiki) ⭐4
-- [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model) ⭐4 — Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐4 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
 - [jyao-SUSE-power-group/dsh-provider-rate-limit](https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit) ⭐4 — dsh-provider-rate-limit
 - [Vesna-Strivozha/DSH-LLM-wiki-plugin](https://github.com/Vesna-Strivozha/DSH-LLM-wiki-plugin) ⭐4 — 基于Karpathy的wiki方法论搭建的插件，让你的DSH直接变身成LLM wiki，不需要Obsidian+Claudian插件，国内网络友好
@@ -112,4 +112,4 @@
 ---
 
 
-*Generated on 2026-10-17 · 99 plugins in this category*
+*Generated on 2026-10-18 · 99 plugins in this category*

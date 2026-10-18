@@ -4,13 +4,12 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**101 plugins**
+**100 plugins**
 
 
 ---
 
 - [HuanLinOTO/dsh-plugin-auto-blame](https://github.com/HuanLinOTO/dsh-plugin-auto-blame) ⭐11 — 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 | After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips
-- [MichaelShii/dsh-plugin-teamflow](https://github.com/MichaelShii/dsh-plugin-teamflow) ⭐11 — dsh plugin teamflow
 - [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐9 — DSH Web 模型余量与用量监控插件
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
 - [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model) ⭐8 — Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.
@@ -114,4 +113,4 @@
 ---
 
 
-*Generated on 2026-10-18 · 101 plugins in this category*
+*Generated on 2026-10-19 · 100 plugins in this category*

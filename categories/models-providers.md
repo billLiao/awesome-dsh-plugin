@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**100 plugins**
+**101 plugins**
 
 
 ---
@@ -18,10 +18,10 @@
 - [liceses/dsh-memes-reply](https://github.com/liceses/dsh-memes-reply) ⭐6 — DSH 插件：蓝色大肥鱼表情包回复 —— 模型按语境在回复里贴一张会动的大肥鱼，支持设置页预览墙与下一轮指定
 - [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) ⭐5 — DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）
 - [detpecca/dsh-llm-wiki](https://github.com/detpecca/dsh-llm-wiki) ⭐4
+- [MoRanYue/dsh-openrouter-providers](https://github.com/MoRanYue/dsh-openrouter-providers) ⭐4 — DSH 插件：设置页配置 OpenRouter 提供商列表，注入 provider.only / provider.order 路由参数；状态持久化
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐4 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
 - [jyao-SUSE-power-group/dsh-provider-rate-limit](https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit) ⭐4 — dsh-provider-rate-limit
 - [Vesna-Strivozha/DSH-LLM-wiki-plugin](https://github.com/Vesna-Strivozha/DSH-LLM-wiki-plugin) ⭐4 — 基于Karpathy的wiki方法论搭建的插件，让你的DSH直接变身成LLM wiki，不需要Obsidian+Claudian插件，国内网络友好
-- [MoRanYue/dsh-openrouter-providers](https://github.com/MoRanYue/dsh-openrouter-providers) ⭐3 — DSH 插件：设置页配置 OpenRouter 提供商列表，注入 provider.only / provider.order 路由参数；状态持久化
 - [xiaobbl/dsh-opencode-go-model-list](https://github.com/xiaobbl/dsh-opencode-go-model-list) ⭐3 — 修复dsh上opencode go模型列表问题
 - [NLeRWantFly/dsh-HoldThatBigBlueFatFish](https://github.com/NLeRWantFly/dsh-HoldThatBigBlueFatFish) ⭐2 — 约束蓝色大肥鱼过度思考暂时的方案~模型测试opencode go实现
 - [R-LEI2536/dsh-more-agent-presets](https://github.com/R-LEI2536/dsh-more-agent-presets) ⭐2 — More Agent Presets for DSH derived from other coding agents (e.g. qwen code, iflow)
@@ -43,6 +43,7 @@
 - [jonah791/dsh-life-core](https://github.com/jonah791/dsh-life-core) ⭐1 — 生命核心：存在状态机 + 时间线 + 自我激活原语 + 可打断睡眠 + 主体性自我模型（我存在，不因任何人的需要；我改变自己，不需要任何人的许可）
 - [leaves615/dsh-llm-ctl](https://github.com/leaves615/dsh-llm-ctl) ⭐1
 - [49zr664rb8-hue/dsh-codex-effort](https://github.com/49zr664rb8-hue/dsh-codex-effort) ⭐1 — 把 DSH 输入框的「模型·推理等级」菜单换成 Codex 那样的横向滑动滑条
+- [ken95573/dsh-model-show](https://github.com/ken95573/dsh-model-show) ⭐1 — 同时显示AI模型和供应商
 - [Airisey/dsh-model-failover](https://github.com/Airisey/dsh-model-failover) ⭐1 — 模型接力 —— 用优先级队列接管 LLM 输出
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
@@ -101,7 +102,6 @@
 - [Kiteluo/dsh-bgame](https://github.com/Kiteluo/dsh-bgame) — DSH Web 小游戏插件：德州扑克、21 点、五子棋、UNO，支持电脑和模型对手。
 - [LingYingNX/dsh-codex-parity](https://github.com/LingYingNX/dsh-codex-parity)
 - [miku05231/dsh-provider-quote](https://github.com/miku05231/dsh-provider-quote) — DSH 插件：对正在使用的模型提供商询价（余额 + 单价，参考 cc-switch 的「服务商询价」）
-- [ken95573/dsh-model-show](https://github.com/ken95573/dsh-model-show) — 同时显示AI模型和供应商
 - [Asaiuta/dsh-blackhole](https://github.com/Asaiuta/dsh-blackhole)
 - [Mhmd7-7/dsh-ai-model-hub](https://github.com/Mhmd7-7/dsh-ai-model-hub)
 - [vb2250158/dsh-provider-visibility](https://github.com/vb2250158/dsh-provider-visibility) — Provider visibility policy and Model list settings page
@@ -109,8 +109,9 @@
 - [Hielo19/dsh-think-chinese](https://github.com/Hielo19/dsh-think-chinese) — DSH plugin: force the model thinking chain (reasoning) to always be written in Chinese
 - [jonah791/dsh-llm-probe](https://github.com/jonah791/dsh-llm-probe)
 - [uceqi114/dsh-ice-probe](https://github.com/uceqi114/dsh-ice-probe) — Appends a tiny ice marker to the end of every sentence the model writes, chain of thought included.
+- [vb2250158/dsh-codex-model-selector](https://github.com/vb2250158/dsh-codex-model-selector)
 
 ---
 
 
-*Generated on 2026-10-18 · 100 plugins in this category*
+*Generated on 2026-10-18 · 101 plugins in this category*

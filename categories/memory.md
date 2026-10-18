@@ -4,7 +4,7 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**438 plugins**
+**445 plugins**
 
 
 ---
@@ -12,8 +12,8 @@
 - [text2future/flowix](https://github.com/text2future/flowix) ⭐466 — Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding
 - [himovo/movo](https://github.com/himovo/movo) ⭐283 — Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.
 - [seriousz158/dsh-memory](https://github.com/seriousz158/dsh-memory) ⭐180
+- [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) ⭐135 — Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
 - [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema) ⭐129 — Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
-- [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) ⭐124 — Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
 - [AskTheWay/dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) ⭐106 — Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into the system prompt. File-only, no external services.
 - [Soren-ABT/dsh-knowledge](https://github.com/Soren-ABT/dsh-knowledge) ⭐77 — Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel
 - [btspoony/mstar-harness](https://github.com/btspoony/mstar-harness) ⭐63 — An omni-plugin for harness engineering workflows with multi-agents, programmatic gates and skills.
@@ -22,7 +22,7 @@
 - [xiehuan123/dsh-deepread](https://github.com/xiehuan123/dsh-deepread) ⭐50 — Evidence-first reading for AI agents — turn articles, books and PDFs into traceable claims, evidence, source locations and knowledge maps.
 - [xuedai-mayi/dsh-wenshan](https://github.com/xuedai-mayi/dsh-wenshan) ⭐41 — 问山：DeepSeek Harness 地理野外实习知识图谱插件与非官方二次开发项目
 - [LaplaceYoung/dsh-directorx](https://github.com/LaplaceYoung/dsh-directorx) ⭐35 — DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
-- [pk14742952-AD/dsh-host-rsi](https://github.com/pk14742952-AD/dsh-host-rsi) ⭐31 — DSH host RSI for local LLMs (currently Qwen3.8 27B): per-use continual self-improvement, counter-reason self-check, critic escalation, and memory retrieval.简单来说根据论文建立的长期反思教训机制，让大模型不再犯错，越用越强！重点是千问3.8 27B/FLASH这种本地LLM模型！当然在线大模型理论上也可以通用！
+- [pk14742952-AD/dsh-host-rsi](https://github.com/pk14742952-AD/dsh-host-rsi) ⭐33 — DSH host RSI for local LLMs (currently Qwen3.8 27B): per-use continual self-improvement, counter-reason self-check, critic escalation, and memory retrieval.简单来说根据论文建立的长期反思教训机制，让大模型不再犯错，越用越强！重点是千问3.8 27B/FLASH这种本地LLM模型！当然在线大模型理论上也可以通用！
 - [mingzeng21/dsh-obsidian](https://github.com/mingzeng21/dsh-obsidian) ⭐29 — Connect DeepSeek Harness (dsh) to a local Obsidian vault: search, read, write, move, and trash notes.
 - [Roarpeng/GraphFlow](https://github.com/Roarpeng/GraphFlow) ⭐22 — Local-first code knowledge graph and context harness for coding agents. MCP + DeepSeek Harness (dsh) plugin.
 - [00080000/dsh-project-memory](https://github.com/00080000/dsh-project-memory) ⭐21 — Read-time project memory plugin for DeepSeek Harness (dsh)
@@ -226,6 +226,7 @@
 - [quberi/dsh-quberi](https://github.com/quberi/dsh-quberi) ⭐1 — Search, browse, save notes to and upload files into your Quberi knowledge base from DeepSeek Harness (OAuth sign-in)
 - [LockyBee/dsh-douyin-agent](https://github.com/LockyBee/dsh-douyin-agent) ⭐1 — DSH 原生抖音助手：有限自主观看、共享人格与兴趣记忆、原生设置和观看日报。
 - [imaused/dsh-kb-lite](https://github.com/imaused/dsh-kb-lite) ⭐1 — dsh创建的记忆库插件
+- [CodfishYao/dsh-knowledge-base-local](https://github.com/CodfishYao/dsh-knowledge-base-local) ⭐1 — A local, model-readable knowledge-base plugin for DeepSeek Harness (DSH). Vector generation mode that supports local, LLM enhancement and external API integration. Support the import of text files, PDFs and Office files. Also support multi-user management, content encryption and access to MCP tools.
 - [wang-jie-git/dsh-memory-ai](https://github.com/wang-jie-git/dsh-memory-ai) — AI-memory 深度集成 DSH 语义记忆插件
 - [YuMu247/dsh-kb-rag](https://github.com/YuMu247/dsh-kb-rag) — Local-first RAG knowledge tools for DSH: kb_query / kb_ingest / kb_crawl / kb_related, backed by the kb-rag Python pipeline (Ollama bge-m3 + ChromaDB). Zero API cost, on-premises.
 - [Modole/dsh-plugin-knowledge-laoboshi](https://github.com/Modole/dsh-plugin-knowledge-laoboshi) — 面向 DSH Agent 的本地知识库、检索与资料管理插件。
@@ -379,7 +380,7 @@
 - [JackZo400/dsh-memory-search](https://github.com/JackZo400/dsh-memory-search) — Markdown 笔记变成 Agent 的长期记忆：本地 embedding + SQLite FTS5 混合召回，可选密级过滤（dsh 插件）· Long-term memory for dsh agents: hybrid search (local embeddings + SQLite FTS5) over your markdown notes.
 - [hu568/dsh-plugin-pack-memory-browser](https://github.com/hu568/dsh-plugin-pack-memory-browser) — DSH 插件包：记忆 + 浏览器（Schema v1 分发清单，spec 指向各插件仓库，随包附带离线 tarball 与自检脚本）。MIT。
 - [hu568/dsh-plugin-persona-memory](https://github.com/hu568/dsh-plugin-persona-memory) — DSH 插件：角色设定与长期记忆（角色库 persona.yml/SOUL.md/USER.md + FACT.md/MEMORY.md + JOURNAL.jsonl），注册在宿主组合层，对所有 agent 预设生效，附右侧栏管理面板。MIT。
-- [AieXile/dsh-memory-plugin](https://github.com/AieXile/dsh-memory-plugin) — DSH 记忆/规则插件（profile bundle）：每轮注入记忆与规则，提供 memory_* / rule_* 工具，标题栏图标浮层 + 设置页「记忆与规则」
+- [AieXile/dsh-memory-plugin](https://github.com/AieXile/dsh-memory-plugin) — DSH 记忆/规则插件：索引式注入 + 本地检索 + 轮末提炼草稿审批 + supersedes 版本链；零依赖、按工作区存储
 - [lrqiisrom/dsh-jev-memory](https://github.com/lrqiisrom/dsh-jev-memory)
 - [linner1224/dsh-video-coursemap](https://github.com/linner1224/dsh-video-coursemap) — 视频课程知识地图 Agent（DeepSeek Harness 插件）
 - [liuqingman/dsh-somni](https://github.com/liuqingman/dsh-somni) — Sleep-consolidated long-term memory for DeepSeek Harness (DSH) agents: episodic / semantic / prospective / procedural memory + identity, stdio JSON-RPC sidecar, idle-time dream consolidation, zero-config Cordis plugin. ｜ 给 DeepSeek Harness（DSH）agent 的睡眠整理式长期记忆：醒时回忆、睡时做梦整理，零配置 Cordis 插件。
@@ -447,8 +448,14 @@
 - [GretaTruong74/dsh-noema](https://github.com/GretaTruong74/dsh-noema) — Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
 - [MCJF28/mcjf-dsh-plugins](https://github.com/MCJF28/mcjf-dsh-plugins) — Plugins for DeepSeek Harness: memory and system prompt, search routing, interactive visual cards, prompt rewriting.
 - [mindie-agent/mindie-agent-dsh](https://github.com/mindie-agent/mindie-agent-dsh) — MindIE Agent for DeepSeek Harness: Ascend NPU knowledge and remote-dev tools composed from stable DSH plugins.
+- [xingzoudefengye/dsh-project-memory](https://github.com/xingzoudefengye/dsh-project-memory) — Bounded, git-committable project memory for DeepSeek Harness: five whitelisted .ai/ files with capacity budgets, structured entries, tiered retention, and a stable prompt section.
+- [Ryan-G-Rolling/dsh-memory-feeder](https://github.com/Ryan-G-Rolling/dsh-memory-feeder) — DSH plugin that extracts long-term facts from completed turns into an appendable Markdown memory inbox.
+- [3588834014-del/bilibili-note-plugin](https://github.com/3588834014-del/bilibili-note-plugin) — bilibili-note 的 DSH 插件封装版（衍生自 3588834014-del/bilibili-note）：把 B站视频链接变成 Obsidian 结构化笔记，只拉字幕不下载视频。
+- [Michel1130/dsh-noema](https://github.com/Michel1130/dsh-noema) — Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
+- [chinwe/dsh-compound-memory](https://github.com/chinwe/dsh-compound-memory)
+- [songjongdevsecops/dsh-secret-vault](https://github.com/songjongdevsecops/dsh-secret-vault) — KeePassXC-backed secret vault for DeepSeek Harness: store, rotate, list and use credentials without exposing them to the model context, with an optional interactive human confirmation before every credential use.
 
 ---
 
 
-*Generated on 2026-10-18 · 438 plugins in this category*
+*Generated on 2026-10-18 · 445 plugins in this category*

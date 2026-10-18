@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**50 plugins**
+**51 plugins**
 
 
 ---
@@ -59,8 +59,9 @@
 - [BinXie-lixiangdehua/dsh-devflow](https://github.com/BinXie-lixiangdehua/dsh-devflow) — 开发工作流
 - [EnhydraLutristus/dsh-math-tex](https://github.com/EnhydraLutristus/dsh-math-tex) — DSH plugin: keeps streamed answers free of red (broken) KaTeX regions — validates every maths region with the client's own renderer before it is written
 - [EnhydraLutristus/dsh-math-tex](https://github.com/EnhydraLutristus/dsh-math-tex) — DSH plugin: keeps streamed answers free of red (broken) KaTeX regions - validates every maths region with the client's own renderer before it is written
+- [Minksgo/dsh-for-agi-splash](https://github.com/Minksgo/dsh-for-agi-splash) — DSH-for-AGI 开屏动画：9.9 秒五幕启动链 + 中文旁白，可跳过、可配置
 
 ---
 
 
-*Generated on 2026-10-18 · 50 plugins in this category*
+*Generated on 2026-10-18 · 51 plugins in this category*

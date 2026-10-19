@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**40 plugins**
+**42 plugins**
 
 
 ---
@@ -49,8 +49,10 @@
 - [AhYi8/dsh-gotify-notify](https://github.com/AhYi8/dsh-gotify-notify) — DSH 的 Gotify 通知插件
 - [jonah791/dsh-agent-notify](https://github.com/jonah791/dsh-agent-notify)
 - [Dx3906-xn/dsh-qq-bridge](https://github.com/Dx3906-xn/dsh-qq-bridge)
+- [laobinghongcha/dsh-plugin-turn-notify](https://github.com/laobinghongcha/dsh-plugin-turn-notify) — DSH 回合结束通知插件 — 系统原生通知 + 提示音，成功/出错/受阻/截断文案各异
+- [fegnze/dsh-notification-bridge](https://github.com/fegnze/dsh-notification-bridge) — DSH macOS notification bridge
 
 ---
 
 
-*Generated on 2026-10-19 · 40 plugins in this category*
+*Generated on 2026-10-19 · 42 plugins in this category*

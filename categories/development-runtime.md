@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**53 plugins**
+**54 plugins**
 
 
 ---
@@ -62,8 +62,9 @@
 - [Minksgo/dsh-for-agi-splash](https://github.com/Minksgo/dsh-for-agi-splash) — DSH-for-AGI 开屏动画：9.9 秒五幕启动链 + 中文旁白，可跳过、可配置
 - [YiuTerran/dsh-wps365-plugin](https://github.com/YiuTerran/dsh-wps365-plugin) — 配合官方wps365-cli的dsh插件
 - [xmmtr/dsh-better-right-click](https://github.com/xmmtr/dsh-better-right-click)
+- [Sumcam-L/dsh-civhash](https://github.com/Sumcam-L/dsh-civhash) — CivNexus6 hash logic as a standalone CLI (civhash.exe) + DSH plugin: Civ-style CRC32, engine FNV-1a, bone hierarchy hash and suffix reverse search
 
 ---
 
 
-*Generated on 2026-10-19 · 53 plugins in this category*
+*Generated on 2026-10-20 · 54 plugins in this category*

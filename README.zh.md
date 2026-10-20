@@ -20,14 +20,14 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 
 | 分类 | 数量 | 说明 |
 |------|------|------|
-| 🎨 [UI 增强](categories/ui-enhancements.md) | 5359 | 增强 DSH Web/终端用户界面的插件。 |
+| 🎨 [UI 增强](categories/ui-enhancements.md) | 5358 | 增强 DSH Web/终端用户界面的插件。 |
 | 🎭 [主题与外观](categories/themes-appearance.md) | 410 | DSH 皮肤、主题与外观定制。 |
 | 💬 [会话与消息](categories/sessions-messages.md) | 2712 | 会话管理、消息编辑、分享与对话工具。 |
 | 🧠 [记忆](categories/memory.md) | 471 | 持久记忆、知识库与上下文保留插件。 |
 | 🛠️ [工具与能力](categories/tools-capabilities.md) | 4814 | 视觉、浏览器、终端、SSH、Docker 等能力扩展。 |
 | 🔁 [工作流与自动化](categories/workflow-automation.md) | 3860 | 自动化循环、定时任务、多智能体团队与工作流引擎。 |
 | 🔔 [通知与集成](categories/notifications-integrations.md) | 42 | 微信、Telegram、IM 桥接、桌面通知与外部集成。 |
-| 🔌 [模型与账号接入](categories/models-providers.md) | 102 | 多模型支持、OAuth 登录、LLM 回退策略与提供商桥接。 |
+| 🔌 [模型与账号接入](categories/models-providers.md) | 103 | 多模型支持、OAuth 登录、LLM 回退策略与提供商桥接。 |
 | 🧑‍💻 [开发与运行时](categories/development-runtime.md) | 55 | 插件管理器、SDK、CLI、桌面壳与开发者工具。 |
 | 🔒 [安全与隐私](categories/security-privacy.md) | 14 | 凭证管理、加密、审计与安全工具。 |
 | 🎮 [娱乐](categories/fun.md) | 17 | 游戏、桌宠、娱乐与趣味插件。 |
@@ -43,7 +43,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) ⭐9040 — DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 - [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) ⭐7200 — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-▶️ [查看全部 5359 个插件 →](categories/ui-enhancements.md)
+▶️ [查看全部 5358 个插件 →](categories/ui-enhancements.md)
 
 
 ### 🎭 主题与外观
@@ -106,7 +106,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐9 — DSH Web 模型余量与用量监控插件
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
 
-▶️ [查看全部 102 个插件 →](categories/models-providers.md)
+▶️ [查看全部 103 个插件 →](categories/models-providers.md)
 
 
 ### 🧑‍💻 开发与运行时

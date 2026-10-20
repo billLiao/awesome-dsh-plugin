@@ -107,6 +107,12 @@ def categorize(repo):
     if 'gemini' in name and 'pool' in text:
         return 'models-providers'
 
+    # MiniMax Code model providers → Models & Providers
+    # (must run before the UI keyword list, whose bare 'ui' token occurs inside
+    # some owner slugs and would otherwise catch these first)
+    if 'minimax-code' in topics and 'model-provider' in topics:
+        return 'models-providers'
+
     # UI Enhancements
     if any(kw in text for kw in [
         'ui', 'tui', 'web ui', 'sidebar', 'navbar', 'navbar', 'composer',

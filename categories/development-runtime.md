@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**55 plugins**
+**57 plugins**
 
 
 ---
@@ -64,8 +64,10 @@
 - [xmmtr/dsh-better-right-click](https://github.com/xmmtr/dsh-better-right-click)
 - [Sumcam-L/dsh-civhash](https://github.com/Sumcam-L/dsh-civhash) — CivNexus6 hash logic as a standalone CLI (civhash.exe) + DSH plugin: Civ-style CRC32, engine FNV-1a, bone hierarchy hash and suffix reverse search
 - [ChengMioa/dsh-deepseek-web-panel](https://github.com/ChengMioa/dsh-deepseek-web-panel) — DeepSeek web panel for DSH
+- [Alice-Marx/dsh-boot-animation](https://github.com/Alice-Marx/dsh-boot-animation) — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
+- [chenxuuu/dsh-playwright-cli](https://github.com/chenxuuu/dsh-playwright-cli) — wraps microsoft/playwright-cli
 
 ---
 
 
-*Generated on 2026-10-20 · 55 plugins in this category*
+*Generated on 2026-10-20 · 57 plugins in this category*

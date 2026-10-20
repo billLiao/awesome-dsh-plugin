@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**54 plugins**
+**55 plugins**
 
 
 ---
@@ -63,8 +63,9 @@
 - [YiuTerran/dsh-wps365-plugin](https://github.com/YiuTerran/dsh-wps365-plugin) — 配合官方wps365-cli的dsh插件
 - [xmmtr/dsh-better-right-click](https://github.com/xmmtr/dsh-better-right-click)
 - [Sumcam-L/dsh-civhash](https://github.com/Sumcam-L/dsh-civhash) — CivNexus6 hash logic as a standalone CLI (civhash.exe) + DSH plugin: Civ-style CRC32, engine FNV-1a, bone hierarchy hash and suffix reverse search
+- [ChengMioa/dsh-deepseek-web-panel](https://github.com/ChengMioa/dsh-deepseek-web-panel) — DeepSeek web panel for DSH
 
 ---
 
 
-*Generated on 2026-10-20 · 54 plugins in this category*
+*Generated on 2026-10-20 · 55 plugins in this category*

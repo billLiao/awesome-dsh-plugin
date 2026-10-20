@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**57 plugins**
+**59 plugins**
 
 
 ---
@@ -21,6 +21,7 @@
 - [omdsh-dev/dsh-daily-progress](https://github.com/omdsh-dev/dsh-daily-progress) ⭐3
 - [codingayice/dsh-interview](https://github.com/codingayice/dsh-interview) ⭐3 — 面向开发岗位的 DSH AI面试助手，支持八股复习、模拟面试、场景题、力扣 Hot 100 和可视化练习管理。
 - [VibeDev-Si/dsh-film](https://github.com/VibeDev-Si/dsh-film) ⭐3
+- [EliteOtaku/dsh-opendesign-go](https://github.com/EliteOtaku/dsh-opendesign-go) ⭐3 — 为opendesign订阅开发的DSH插件
 - [omdsh-dev/dsh-sandbox-micro](https://github.com/omdsh-dev/dsh-sandbox-micro) ⭐2
 - [AtWhuhu/dsh-devin-cli](https://github.com/AtWhuhu/dsh-devin-cli) ⭐2 — dsh devin cli插件
 - [2128627267/dsh-qbetter-config](https://github.com/2128627267/dsh-qbetter-config) ⭐1
@@ -66,8 +67,9 @@
 - [ChengMioa/dsh-deepseek-web-panel](https://github.com/ChengMioa/dsh-deepseek-web-panel) — DeepSeek web panel for DSH
 - [Alice-Marx/dsh-boot-animation](https://github.com/Alice-Marx/dsh-boot-animation) — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
 - [chenxuuu/dsh-playwright-cli](https://github.com/chenxuuu/dsh-playwright-cli) — wraps microsoft/playwright-cli
+- [mengge237/dsh-pulse](https://github.com/mengge237/dsh-pulse) — 本机脉象：压缩判级 / 四道机械闸 / 未提交改动，做成 DSH 统计条上的一格常驻读数，点一下按配置跑命令集并把报告落成 md+json ｜ Local pulse for DSH: compaction grade, four mechanical gates and uncommitted changes as one always-on readout in the stats dock; one click runs your command set and writes an md + json report
 
 ---
 
 
-*Generated on 2026-10-20 · 57 plugins in this category*
+*Generated on 2026-10-21 · 59 plugins in this category*

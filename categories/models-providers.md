@@ -29,6 +29,7 @@
 - [seriousz158/dsh-codex-use](https://github.com/seriousz158/dsh-codex-use) ⭐2
 - [shangjian2023/dsh-rss-daily](https://github.com/shangjian2023/dsh-rss-daily) ⭐2 — dsh plugin: 46-source daily RSS digest, LLM-edited, delivered via webhook (ServerChan/PushDeer/WxWork/TG/Bark/gotify)
 - [Shizuku-keop/dsh-micro-inversion-standard](https://github.com/Shizuku-keop/dsh-micro-inversion-standard) ⭐2 — 一个可复用的 DSH Agent Preset：双阶段、Token 精益的编码智能体模式。  核心目标：把模型思维链的起手习惯从 "let me" 翻转为 "we need"，同时把上下文占用与 Token 消耗压到最低，并保持供应商 KV Cache 对未变前缀持续命中。
+- [liaoyuqing/dsh-llm-error-retry](https://github.com/liaoyuqing/dsh-llm-error-retry) ⭐2 — 用于在deepseek-harnees中报错时重试大模型请求，支持配置http状态，字段-值命中。
 - [qikairo7/dsh-gemini-pool](https://github.com/qikairo7/dsh-gemini-pool) ⭐2 — 多账号 Google Gemini 提供商（DSH 插件）：订阅额度即用即扣，账号池自动调度；主模型没有视觉也能贴图看图（池内 Gemini 自动转述），另有生图工具与中英双语设置页
 - [lakeofsky347/dsh-oauth](https://github.com/lakeofsky347/dsh-oauth) ⭐2 — 一个适用于dsh的通过oauth认证实现模型注入的插件
 - [clarkzhao/dsh-llm-grok](https://github.com/clarkzhao/dsh-llm-grok) ⭐1 — dsh plugin for grok
@@ -74,7 +75,6 @@
 - [johndfowler/dsh-model-search](https://github.com/johndfowler/dsh-model-search)
 - [publieople/dsh-omniroute-models](https://github.com/publieople/dsh-omniroute-models) — DSH plugin: searchable/filterable model manager for OmniRoute (or any OpenAI-compatible gateway) — provider directory, modality discovery, multi-select enable.
 - [zhuzichen362/dsh-call-shrink](https://github.com/zhuzichen362/dsh-call-shrink) — dsh
-- [liaoyuqing/dsh-llm-error-retry](https://github.com/liaoyuqing/dsh-llm-error-retry) — 用于在deepseek-harnees中报错时重试大模型请求，支持配置http状态，字段-值命中。
 - [alaxrpg/dsh-sensenova-provider](https://github.com/alaxrpg/dsh-sensenova-provider)
 - [wangser10032/dsh-model-autoconfig](https://github.com/wangser10032/dsh-model-autoconfig)
 - [ArcaneOrion/dsh-model-channel-manager](https://github.com/ArcaneOrion/dsh-model-channel-manager) — DSH model channel manager: roundrobin failover engine + model config panel
@@ -116,4 +116,4 @@
 ---
 
 
-*Generated on 2026-10-20 · 103 plugins in this category*
+*Generated on 2026-10-21 · 103 plugins in this category*

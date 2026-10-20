@@ -4,7 +4,7 @@
 > Plugins that enhance the DSH web/terminal user interface.
 
 
-**5418 plugins**
+**5417 plugins**
 
 
 ---
@@ -4774,7 +4774,6 @@
 - [youhuangqing/dsh-pet-plus](https://github.com/youhuangqing/dsh-pet-plus) — DSH 桌宠插件 dsh-pet 的二创版：新增亲密度养成、番茄钟、语音朗读、音效、增强菜单、每日统计；可与原版并存
 - [Gnatnaituy/dsh-sidebar-git](https://github.com/Gnatnaituy/dsh-sidebar-git) — A Git tab in DSH's right sidebar: follows the session's repository to review changes and diffs, stage, commit, switch branches, push/pull — destructive ops go through a prepare→confirm gate.
 - [wobenshiwomu/dsh-bite](https://github.com/wobenshiwomu/dsh-bite) — DeepSeek Harness 插件：咬钩 —— 钉住的关键回合（提问+回复打包）在上下文压缩后自动找回重注入，压缩也带不走；Web UI 钉子按钮 + 肥鱼掠食动画 | Pin your turns; survive compaction
-- [JeffTsuiCUG/dsh-connect-minimaxcode](https://github.com/JeffTsuiCUG/dsh-connect-minimaxcode) — Bring MiniMax Code desktop app models into DeepSeek Harness: zero-config, no API key, Anthropic Messages compatible, dynamic model catalog, and the credit balance plus expiring credits shown in the composer and plugin page. Unofficial plugin; relies on MiniMax non-public client APIs, for study and research use only.
 - [LanYun417/dsh-expert-suite](https://github.com/LanYun417/dsh-expert-suite) — 面向 DSH（DeepSeek Harness）的专家与专家团插件：给 AI 加"角色与团队"两个协作维度——用一个领域专家的身份干活，或拉起一支多 Agent 团队按流程交付。
 - [guiyidu-ui/dsh-plugin-3d-viewer](https://github.com/guiyidu-ui/dsh-plugin-3d-viewer) — DSH 三维查看器插件：消息里的 3d 代码块原地渲染为 Three.js 视图 + 右侧栏常驻 3D 预览面板（支持 obj/stl/gltf/glb）
 - [faith372/dsh-account-glance](https://github.com/faith372/dsh-account-glance) — DSH Web GUI sidebar glance card: DeepSeek account balance, peak/off-peak billing countdown and today's spend / tokens / calls, seated right above the account row. Self-contained host half; @linxin666/dsh-usage optional.
@@ -5431,4 +5430,4 @@
 ---
 
 
-*Generated on 2026-10-20 · 5418 plugins in this category*
+*Generated on 2026-10-20 · 5417 plugins in this category*

@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**102 plugins**
+**103 plugins**
 
 
 ---
@@ -111,8 +111,9 @@
 - [uceqi114/dsh-ice-probe](https://github.com/uceqi114/dsh-ice-probe) — Appends a tiny ice marker to the end of every sentence the model writes, chain of thought included.
 - [vb2250158/dsh-codex-model-selector](https://github.com/vb2250158/dsh-codex-model-selector)
 - [fegnze/dsh-codex-style](https://github.com/fegnze/dsh-codex-style) — DSH output style plugin
+- [JeffTsuiCUG/dsh-connect-minimaxcode](https://github.com/JeffTsuiCUG/dsh-connect-minimaxcode) — Bring MiniMax Code desktop app models into DeepSeek Harness: zero-config, no API key, Anthropic Messages compatible, dynamic model catalog, and the credit balance plus expiring credits shown in the composer and plugin page. Unofficial plugin; relies on MiniMax non-public client APIs, for study and research use only.
 
 ---
 
 
-*Generated on 2026-10-20 · 102 plugins in this category*
+*Generated on 2026-10-20 · 103 plugins in this category*

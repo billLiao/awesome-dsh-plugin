@@ -70143,28 +70143,6 @@
         "updated_at": "2026-10-10T04:13:51Z"
       },
       {
-        "full_name": "JeffTsuiCUG/dsh-connect-minimaxcode",
-        "url": "https://github.com/JeffTsuiCUG/dsh-connect-minimaxcode",
-        "description": "Bring MiniMax Code desktop app models into DeepSeek Harness: zero-config, no API key, Anthropic Messages compatible, dynamic model catalog, and the credit balance plus expiring credits shown in the composer and plugin page. Unofficial plugin; relies on MiniMax non-public client APIs, for study and research use only.",
-        "stars": 0,
-        "topics": [
-          "anthropic-compatible",
-          "cordis",
-          "credits",
-          "deepseek",
-          "deepseek-harness",
-          "dsh",
-          "dsh-plugin",
-          "dsh-plugins",
-          "llm-provider",
-          "minimax",
-          "minimax-code",
-          "model-provider",
-          "usage"
-        ],
-        "updated_at": "2026-10-20T03:37:58Z"
-      },
-      {
         "full_name": "LanYun417/dsh-expert-suite",
         "url": "https://github.com/LanYun417/dsh-expert-suite",
         "description": "面向 DSH（DeepSeek Harness）的专家与专家团插件：给 AI 加\"角色与团队\"两个协作维度——用一个领域专家的身份干活，或拉起一支多 Agent 团队按流程交付。",
@@ -253880,6 +253858,28 @@
           "dsh-plugin"
         ],
         "updated_at": "2026-10-19T03:40:08Z"
+      },
+      {
+        "full_name": "JeffTsuiCUG/dsh-connect-minimaxcode",
+        "url": "https://github.com/JeffTsuiCUG/dsh-connect-minimaxcode",
+        "description": "Bring MiniMax Code desktop app models into DeepSeek Harness: zero-config, no API key, Anthropic Messages compatible, dynamic model catalog, and the credit balance plus expiring credits shown in the composer and plugin page. Unofficial plugin; relies on MiniMax non-public client APIs, for study and research use only.",
+        "stars": 0,
+        "topics": [
+          "anthropic-compatible",
+          "cordis",
+          "credits",
+          "deepseek",
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin",
+          "dsh-plugins",
+          "llm-provider",
+          "minimax",
+          "minimax-code",
+          "model-provider",
+          "usage"
+        ],
+        "updated_at": "2026-10-20T03:37:58Z"
       }
     ],
     "development-runtime": [

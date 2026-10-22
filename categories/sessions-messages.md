@@ -4,7 +4,7 @@
 > Session management, message editing, sharing, and conversation tools.
 
 
-**2917 plugins**
+**2918 plugins**
 
 
 ---
@@ -2926,8 +2926,9 @@
 - [YearnCy/dsh-question-tree](https://github.com/YearnCy/dsh-question-tree) — DSH Desktop 插件：使用树形结构解决线性对话上下文过长而导致回顾问题、记录问题困难的结症，允许同时记录多个问题，自定义问题深度。增加划词功能，支持添加到对话或添加到问题树。选区浮出动作栏、引用 chip、右栏问题树——记住你还没搞懂的地方，而不是让你在长对话里往回翻。
 - [xxxxxxxx2/dsh-peak-valley-reminder](https://github.com/xxxxxxxx2/dsh-peak-valley-reminder) — DeepSeek Harness 峰谷提醒插件：会话标题栏「模式」之后显示高峰/空闲时段并倒计时切换
 - [RoderickWilliams/dsh-picture-text-reader](https://github.com/RoderickWilliams/dsh-picture-text-reader) — DeepSeek Harness plugin: batch-read Xiaohongshu notes and WeChat articles with local OCR, every result carrying its source URL. Read-only.
+- [Lingrui98/dsh-research-hub](https://github.com/Lingrui98/dsh-research-hub) — Project inbox for DeepSeek Harness: collect questions, deliverables and interrupted turns from every session, and act on them in one place.
 
 ---
 
 
-*Generated on 2026-10-23 · 2917 plugins in this category*
+*Generated on 2026-10-23 · 2918 plugins in this category*

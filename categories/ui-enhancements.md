@@ -4,7 +4,7 @@
 > Plugins that enhance the DSH web/terminal user interface.
 
 
-**5729 plugins**
+**5728 plugins**
 
 
 ---
@@ -5179,7 +5179,6 @@
 - [lilcandi/dsh-continue-button](https://github.com/lilcandi/dsh-continue-button) — A continue button beside the composer send key in the DSH Web GUI: one click sends an interruption-aware continuation prompt so an interrupted task picks up where it stopped.
 - [mehdinikzad68/dsh-fa-rtl](https://github.com/mehdinikzad68/dsh-fa-rtl) — Right-to-left display for Persian chat messages in the DeepSeek Harness Web GUI — a DSH plugin/bundle (per-block bidi auto-detection, no app file changes)
 - [CK-Rebi/dsh-preset-reload](https://github.com/CK-Rebi/dsh-preset-reload) — Hot-reload a DeepSeek Harness agent preset: rebuild its revision and rebind running sessions, without restarting dsh.
-- [Lingrui98/dsh-research-hub](https://github.com/Lingrui98/dsh-research-hub) — Project inbox for DeepSeek Harness: collect questions, deliverables and interrupted turns from every session, and act on them in one place.
 - [kissfirembx/dsh-skill-map](https://github.com/kissfirembx/dsh-skill-map) — DSH skill map: all your loaded skills, sorted into your own categories, in a right-sidebar tab.
 - [mrdhira/dsh-kanban](https://github.com/mrdhira/dsh-kanban) — A Kanban board for DSH: one SQLite board shared by a human and their agent sessions, in the desktop app's sidebar. Two gates (Definition of Ready, Definition of Done) are enforced by the board itself, and every move is an event, so cycle time and throughput come from what happened.
 - [yiiii719/dsh-phone-bridge](https://github.com/yiiii719/dsh-phone-bridge) — WeChat bridge + phone layout for DeepSeek Harness: chat with your DSH from WeChat (text, images, files, daily digest) and use its web UI on a phone. 微信桥接 + 手机端适配，把 DeepSeek Harness 变成随身可用的 AI 助手
@@ -5742,4 +5741,4 @@
 ---
 
 
-*Generated on 2026-10-23 · 5729 plugins in this category*
+*Generated on 2026-10-23 · 5728 plugins in this category*

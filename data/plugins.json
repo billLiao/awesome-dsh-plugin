@@ -76139,22 +76139,6 @@
         "updated_at": "2026-10-16T17:06:54Z"
       },
       {
-        "full_name": "Lingrui98/dsh-research-hub",
-        "url": "https://github.com/Lingrui98/dsh-research-hub",
-        "description": "Project inbox for DeepSeek Harness: collect questions, deliverables and interrupted turns from every session, and act on them in one place.",
-        "stars": 0,
-        "topics": [
-          "dashboard",
-          "deepseek-harness",
-          "dsh-plugin",
-          "inbox",
-          "plugin",
-          "productivity",
-          "session-management"
-        ],
-        "updated_at": "2026-10-22T15:58:52Z"
-      },
-      {
         "full_name": "kissfirembx/dsh-skill-map",
         "url": "https://github.com/kissfirembx/dsh-skill-map",
         "description": "DSH skill map: all your loaded skills, sorted into your own categories, in a right-sidebar tab.",
@@ -132696,6 +132680,22 @@
           "xiaohongshu"
         ],
         "updated_at": "2026-10-22T08:06:20Z"
+      },
+      {
+        "full_name": "Lingrui98/dsh-research-hub",
+        "url": "https://github.com/Lingrui98/dsh-research-hub",
+        "description": "Project inbox for DeepSeek Harness: collect questions, deliverables and interrupted turns from every session, and act on them in one place.",
+        "stars": 0,
+        "topics": [
+          "dashboard",
+          "deepseek-harness",
+          "dsh-plugin",
+          "inbox",
+          "plugin",
+          "productivity",
+          "session-management"
+        ],
+        "updated_at": "2026-10-22T15:58:52Z"
       }
     ],
     "memory": [

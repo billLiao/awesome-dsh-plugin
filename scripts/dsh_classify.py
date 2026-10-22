@@ -114,6 +114,12 @@ def categorize(repo):
     if 'minimax-code' in topics and 'model-provider' in topics:
         return 'models-providers'
 
+    # Cross-session inbox / session dashboards → Sessions & Messages
+    # (must run before the UI keyword list, whose bare 'ui' token occurs inside
+    # owner slugs like Lingrui98 — issue #22, 2026-10-23)
+    if 'inbox' in topics and 'session' in text:
+        return 'sessions-messages'
+
     # UI Enhancements
     if any(kw in text for kw in [
         'ui', 'tui', 'web ui', 'sidebar', 'navbar', 'navbar', 'composer',

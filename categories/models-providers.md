@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**105 plugins**
+**107 plugins**
 
 
 ---
@@ -47,6 +47,7 @@
 - [ken95573/dsh-model-show](https://github.com/ken95573/dsh-model-show) ⭐1 — 同时显示AI模型和供应商
 - [Airisey/dsh-model-failover](https://github.com/Airisey/dsh-model-failover) ⭐1 — 模型接力 —— 用优先级队列接管 LLM 输出
 - [DeZhou123/dsh-model-orchestrator](https://github.com/DeZhou123/dsh-model-orchestrator) ⭐1 — DSH 插件：两级模型调度（先选模型、再选渠道；失败先换渠道再换模型），带偏好模式与实时渠道健康面板。与 dsh-our-free-model 配合使用（单向适配、非官方）：只读它写在本机的渠道账本作旁证，不改它、也不要求它为本插件做任何改动；两者零代码依赖，不装 OFM 也能完整路由。
+- [Esper967/dsh-music-insight](https://github.com/Esper967/dsh-music-insight) ⭐1 — 让你的dsh模型感受音乐
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -114,8 +115,9 @@
 - [JeffTsuiCUG/dsh-connect-minimaxcode](https://github.com/JeffTsuiCUG/dsh-connect-minimaxcode) — Bring MiniMax Code desktop app models into DeepSeek Harness: zero-config, no API key, Anthropic Messages compatible, dynamic model catalog, and the credit balance plus expiring credits shown in the composer and plugin page. Unofficial plugin; relies on MiniMax non-public client APIs, for study and research use only.
 - [Zimeng-Luo/dsh-source-fold](https://github.com/Zimeng-Luo/dsh-source-fold) — 列表模型按照来源进行折叠，便于多个接入的时候从不同的来源找东西
 - [bosenok/dsh-openrouter-sync](https://github.com/bosenok/dsh-openrouter-sync) — Keep the DSH openrouter provider model list in sync with OpenRouter's currently-free models.
+- [DeZhou123/dsh-ofm-workbuddy](https://github.com/DeZhou123/dsh-ofm-workbuddy) — 把 OFM 2.5.8 移除的 WorkBuddy（国内 CodeBuddy / 国际 WorkBuddy）双通道装回来：从 v2.5.7 源码原样移植 buddy 全栈，复用宿主已有的账号池与凭据，不复制数据。
 
 ---
 
 
-*Generated on 2026-10-22 · 105 plugins in this category*
+*Generated on 2026-10-22 · 107 plugins in this category*

@@ -4,15 +4,16 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**59 plugins**
+**60 plugins**
 
 
 ---
 
+- [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐70 — Support dsh runtime on Multica.
 - [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐23 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
 - [omdsh-dev/stent](https://github.com/omdsh-dev/stent) ⭐19 — 灵感来源于MC Fabric的Cordis/DSH hook处理器
 - [omdsh-dev/dsh-mygo](https://github.com/omdsh-dev/dsh-mygo) ⭐12
-- [Liaoyuanxinghuo/DSH-Plugin-Manager](https://github.com/Liaoyuanxinghuo/DSH-Plugin-Manager) ⭐10 — 车同轨，书同文。DSH 的多版本、插件、Profile 与整合包，从此归于一统。
+- [Liaoyuanxinghuo/DSH-Plugin-Manager](https://github.com/Liaoyuanxinghuo/DSH-Plugin-Manager) ⭐9 — 车同轨，书同文。DSH 的多版本、插件、Profile 与整合包，从此归于一统。
 - [morlay/dsh-plugin](https://github.com/morlay/dsh-plugin) ⭐8 — dsh plugins
 - [fu827707013/dsh-codebuddy-cli](https://github.com/fu827707013/dsh-codebuddy-cli) ⭐7 — dsh-codebuddy-cli
 - [omdsh-dev/dsh-fun-ticker](https://github.com/omdsh-dev/dsh-fun-ticker) ⭐5 — DSH 行情跑马灯插件：可自选标的的加密/汇率/A股/指数/港美股跑马灯，免 key 数据源，宿主代理+缓存
@@ -72,4 +73,4 @@
 ---
 
 
-*Generated on 2026-10-22 · 59 plugins in this category*
+*Generated on 2026-10-22 · 60 plugins in this category*

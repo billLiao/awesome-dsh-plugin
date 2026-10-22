@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**107 plugins**
+**109 plugins**
 
 
 ---
@@ -116,8 +116,10 @@
 - [Zimeng-Luo/dsh-source-fold](https://github.com/Zimeng-Luo/dsh-source-fold) — 列表模型按照来源进行折叠，便于多个接入的时候从不同的来源找东西
 - [bosenok/dsh-openrouter-sync](https://github.com/bosenok/dsh-openrouter-sync) — Keep the DSH openrouter provider model list in sync with OpenRouter's currently-free models.
 - [DeZhou123/dsh-ofm-workbuddy](https://github.com/DeZhou123/dsh-ofm-workbuddy) — 把 OFM 2.5.8 移除的 WorkBuddy（国内 CodeBuddy / 国际 WorkBuddy）双通道装回来：从 v2.5.7 源码原样移植 buddy 全栈，复用宿主已有的账号池与凭据，不复制数据。
+- [XI180/dsh-citation-chips](https://github.com/XI180/dsh-citation-chips) — 一个DSH插件，使模型在引用了检索材料的话末尾，紧跟一个包含链接的数字角标，并在回答结尾附一份 来源 清单
+- [gongfpp/dsh-novel-fish](https://github.com/gongfpp/dsh-novel-fish) — Read local novels only when expanding selected real DSH reasoning steps. Local-only; no model requests.
 
 ---
 
 
-*Generated on 2026-10-22 · 107 plugins in this category*
+*Generated on 2026-10-23 · 109 plugins in this category*

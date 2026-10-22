@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**104 plugins**
+**105 plugins**
 
 
 ---
@@ -16,6 +16,7 @@
 - [edge-sky/dsh-oauth-adapter](https://github.com/edge-sky/dsh-oauth-adapter) ⭐6 — An OAuth adapter for DSH
 - [liceses/dsh-memes-reply](https://github.com/liceses/dsh-memes-reply) ⭐6 — DSH 插件：蓝色大肥鱼表情包回复 —— 模型按语境在回复里贴一张会动的大肥鱼，支持设置页预览墙与下一轮指定
 - [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) ⭐5 — DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）
+- [1624318455/dsh-plugin-adapter](https://github.com/1624318455/dsh-plugin-adapter) ⭐5 — DSH adapter for OpenCode Zen free models (maintained fork with gateway-compat fixes)
 - [detpecca/dsh-llm-wiki](https://github.com/detpecca/dsh-llm-wiki) ⭐4
 - [MoRanYue/dsh-openrouter-providers](https://github.com/MoRanYue/dsh-openrouter-providers) ⭐4 — DSH 插件：设置页配置 OpenRouter 提供商列表，注入 provider.only / provider.order 路由参数；状态持久化
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐4 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
@@ -86,7 +87,6 @@
 - [homily707/dsh-custom-provider](https://github.com/homily707/dsh-custom-provider)
 - [Anna-la/dsh-submodel-change](https://github.com/Anna-la/dsh-submodel-change) — 可以选择子 agent 调用的模型。
 - [moziforge/calendar-plugins](https://github.com/moziforge/calendar-plugins) — DSH plugins that connect agents to calendar providers: iCloud Calendar over CalDAV, with recurring events expanded and a normalized event shape.
-- [1624318455/dsh-plugin-adapter](https://github.com/1624318455/dsh-plugin-adapter) — DSH adapter for OpenCode Zen free models (maintained fork with gateway-compat fixes)
 - [2404723600/dsh-router-loomy](https://github.com/2404723600/dsh-router-loomy) — DSH plugin: Loomy (iFlyTek) OpenAI-compatible supplier for dsh-router
 - [DoctorxPriestess/dsh-llama-model-manager](https://github.com/DoctorxPriestess/dsh-llama-model-manager) — A DSH plugin that manages local llama.cpp GGUF model lifecycles, automatically loading and unloading models on demand through an OpenAI-compatible gateway.
 - [TetraSsky/dsh-offpeak](https://github.com/TetraSsky/dsh-offpeak) — DSH plugin: holds DeepSeek model calls during peak pricing hours so they're sent at off-peak rates.
@@ -113,8 +113,9 @@
 - [fegnze/dsh-codex-style](https://github.com/fegnze/dsh-codex-style) — DSH output style plugin
 - [JeffTsuiCUG/dsh-connect-minimaxcode](https://github.com/JeffTsuiCUG/dsh-connect-minimaxcode) — Bring MiniMax Code desktop app models into DeepSeek Harness: zero-config, no API key, Anthropic Messages compatible, dynamic model catalog, and the credit balance plus expiring credits shown in the composer and plugin page. Unofficial plugin; relies on MiniMax non-public client APIs, for study and research use only.
 - [Zimeng-Luo/dsh-source-fold](https://github.com/Zimeng-Luo/dsh-source-fold) — 列表模型按照来源进行折叠，便于多个接入的时候从不同的来源找东西
+- [bosenok/dsh-openrouter-sync](https://github.com/bosenok/dsh-openrouter-sync) — Keep the DSH openrouter provider model list in sync with OpenRouter's currently-free models.
 
 ---
 
 
-*Generated on 2026-10-22 · 104 plugins in this category*
+*Generated on 2026-10-22 · 105 plugins in this category*

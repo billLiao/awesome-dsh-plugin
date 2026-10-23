@@ -4,7 +4,7 @@
 > Curated collections and awesome lists of DSH plugins.
 
 
-**447 plugins**
+**449 plugins**
 
 
 ---
@@ -456,8 +456,10 @@
 - [twoweeks1995/dsh-appdata-scanner](https://github.com/twoweeks1995/dsh-appdata-scanner) — DSH 只读 AppData 分析插件：资源管理器式下钻浏览，显示每个目录的体积、来源软件、用途与可删建议，支持按需联网查询
 - [M1r0er/dsh-inkvault](https://github.com/M1r0er/dsh-inkvault) — DeepSeek Harness 的 Obsidian 桥接插件：知识库 + 记忆库双功能，目录显式选择
 - [dream-fish69/dsh-session-workspace-organizer](https://github.com/dream-fish69/dsh-session-workspace-organizer) — Move a DeepSeek Harness workspace folder to a new path — session logs' cwd is rewritten too — and give every new session its own output folder under sessions/.DSH 插件：迁移工作区文件夹并改写会话日志的 cwd；为每个新会话建立独立输出目录；支持空闲会话的移动与删除。
+- [suyunxing/dsh-draw-mode](https://github.com/suyunxing/dsh-draw-mode) — Links a local ComfyUI server into DeepSeek Harness: five draw_* tools, a curated workflow library, per-model prompt dialects and a sidebar panel.
+- [xh0915/dsh-lighthouse](https://github.com/xh0915/dsh-lighthouse) — 灯塔 · 读取当前会话，把删目录、强推、读密钥这类难撤回的操作挑出来，说明影响范围和更稳的做法 · DeepSeek Harness 插件
 
 ---
 
 
-*Generated on 2026-10-23 · 447 plugins in this category*
+*Generated on 2026-10-23 · 449 plugins in this category*

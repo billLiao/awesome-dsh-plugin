@@ -4,7 +4,7 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**450 plugins**
+**451 plugins**
 
 
 ---
@@ -74,6 +74,7 @@
 - [Small-tailqwq/dsh-internet-angel-desktop](https://github.com/Small-tailqwq/dsh-internet-angel-desktop) ⭐4 — 一款基于主播女孩重度依赖创建的 适用于 DSH 的 实验性主题皮肤 / Unofficial pixel desktop skin for DSH Web inspired by NEEDY GIRL OVERDOSE. Experimental, non-commercial fan project.
 - [WTStarMark/dsh-myskin](https://github.com/WTStarMark/dsh-myskin) ⭐4 — DSH 通用皮肤框架：可视化自定义 + 实时预览 + 「皮肤管理」，可以随心设计你的专属皮肤，并通过分发皮肤包和你的小伙伴们分享
 - [feely0208/deepwhale-desktop](https://github.com/feely0208/deepwhale-desktop) ⭐4 — 深鲸桌面 · 永久免费开源的 DeepSeek Harness 桌面壳（背景皮肤/桌面宠物/用量面板）
+- [gosutry/dsh-persona-select](https://github.com/gosutry/dsh-persona-select) ⭐4 — DSH注入系统提示词和设置注入上下文插件。内置吃白饭的蓝色大肥鱼拟人鲸鱼娘女仆角色扮演设定！
 - [zhxqc/dsh-oh-my-theme](https://github.com/zhxqc/dsh-oh-my-theme) ⭐3 — DeepSeek Harness (dsh) web plugin with themes, global typography, @file mentions, project file tree, and Markdown preview.
 - [DocJlm/dsh-arknights](https://github.com/DocJlm/dsh-arknights) ⭐3 — DSH Web 明日方舟主题皮肤合集，支持社区创作者提交 PR
 - [loonai321/dsh-humanized-deepseek-maid](https://github.com/loonai321/dsh-humanized-deepseek-maid) ⭐3 — Humanized whale-girl maid persona plugin for DeepSeek Harness: immersive roleplay, speaking modes, and ALTM-inspired layered memory.
@@ -123,7 +124,6 @@
 - [Ian-Yunqi/dsh-plugin-boot-whale-maid](https://github.com/Ian-Yunqi/dsh-plugin-boot-whale-maid) ⭐2 — dsh-boot · 深度求索开场 | DeepSeek Harness 鲸鱼女仆开机动画插件，深海宫殿、蓝白御姐与原 Q 版，点击/Esc 跳过。
 - [WhatCannotBeSaid/eva-inspired-theme](https://github.com/WhatCannotBeSaid/eva-inspired-theme) ⭐2 — NERV-gate visual theme for DeepSeek Harness (fan work, non-commercial; see LICENSE)
 - [wei125775-lab/dsh-whale-run](https://github.com/wei125775-lab/dsh-whale-run) ⭐2 — dsh-whale-run — a hidden mini-game plugin for DeepSeek Harness (dsh) desktop. 把 dsh 界面上那只鲸鱼摘下来，放到输入框上方的跑道上跑一局。
-- [gosutry/dsh-persona-select](https://github.com/gosutry/dsh-persona-select) ⭐2 — DSH注入系统提示词和设置注入上下文插件。内置吃白饭的蓝色大肥鱼拟人鲸鱼娘女仆角色扮演设定！
 - [km5473/dsh-customizable-theme](https://github.com/km5473/dsh-customizable-theme) ⭐2 — DSH自定义主题：可自行修改背景图片，主题色，表情包与文案。基于[dsh-vesna-theme](https://github.com/Mahiru0427/dsh-vesna-theme)
 - [FormalistBlue/dsh-everforest](https://github.com/FormalistBlue/dsh-everforest) ⭐2 — Everforest color themes (Dark, Light x Hard, Medium, Soft) for DeepSeek Harness (DSH) Web and Desktop.
 - [kinmat-A/dsh-theme-switch](https://github.com/kinmat-A/dsh-theme-switch) ⭐1 — 一款轻量级的 DSH 主题外观切换插件：自动检测已装皮肤，一键互斥切换，全部停用时回退官方外观，即时生效、重启保留。
@@ -459,8 +459,9 @@
 - [null-dat/dsh-whale-tail](https://github.com/null-dat/dsh-whale-tail) — 针对 DSH 思考模式鲸鱼尾巴的动画，丰富成 4 种动画。Four whale-tail animations for the DSH thinking status line.
 - [lsy-loren/dsh-lsy-feature-pack](https://github.com/lsy-loren/dsh-lsy-feature-pack) — 界面功能增强：支持会话删除、支持图片皮肤。
 - [brantshin/dsh-native-glass](https://github.com/brantshin/dsh-native-glass) — Native macOS glass for Anywhere Labs DSH Desktop — transparent chat surfaces with live behind-window blur.
+- [seaison/dsh-plugin-eva-theme](https://github.com/seaison/dsh-plugin-eva-theme) — DSH / DeepSeek Harness EVA 主题插件：明日香暗色、绫波丽亮色，含驾驶员选择、启动语音、时钟与音乐播放器
 
 ---
 
 
-*Generated on 2026-10-24 · 450 plugins in this category*
+*Generated on 2026-10-24 · 451 plugins in this category*

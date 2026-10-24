@@ -4,7 +4,7 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**451 plugins**
+**452 plugins**
 
 
 ---
@@ -460,8 +460,9 @@
 - [lsy-loren/dsh-lsy-feature-pack](https://github.com/lsy-loren/dsh-lsy-feature-pack) — 界面功能增强：支持会话删除、支持图片皮肤。
 - [brantshin/dsh-native-glass](https://github.com/brantshin/dsh-native-glass) — Native macOS glass for Anywhere Labs DSH Desktop — transparent chat surfaces with live behind-window blur.
 - [seaison/dsh-plugin-eva-theme](https://github.com/seaison/dsh-plugin-eva-theme) — DSH / DeepSeek Harness EVA 主题插件：明日香暗色、绫波丽亮色，含驾驶员选择、启动语音、时钟与音乐播放器
+- [zdt3476/dsh-simplify-theme](https://github.com/zdt3476/dsh-simplify-theme)
 
 ---
 
 
-*Generated on 2026-10-24 · 451 plugins in this category*
+*Generated on 2026-10-24 · 452 plugins in this category*

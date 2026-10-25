@@ -13,26 +13,26 @@
 DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding agent (Web and headless), built on a framework where everything is a plugin: models, tools, sandboxes, session storage, UI, even the agent loop itself.
 
 
-**21542 plugins** collected from GitHub topic [`dsh-plugin`](https://github.com/topics/dsh-plugin) · [PRs welcome](#contributing)
+**21901 plugins** collected from GitHub topic [`dsh-plugin`](https://github.com/topics/dsh-plugin) · [PRs welcome](#contributing)
 
 
 ## Categories
 
 | Category | Count | Description |
 |----------|-------|-------------|
-| 🎨 [UI Enhancements](categories/ui-enhancements.md) | 5775 | Plugins that enhance the DSH web/terminal user interface. |
-| 🎭 [Themes & Appearance](categories/themes-appearance.md) | 452 | Skins, themes, and appearance customization for DSH. |
-| 💬 [Sessions & Messages](categories/sessions-messages.md) | 2936 | Session management, message editing, sharing, and conversation tools. |
-| 🧠 [Memory](categories/memory.md) | 501 | Persistent memory, knowledge bases, and context retention plugins. |
-| 🛠️ [Tools & Capabilities](categories/tools-capabilities.md) | 5082 | Vision, browser, terminal, SSH, Docker, and other capability extensions. |
-| 🔁 [Workflow & Automation](categories/workflow-automation.md) | 4043 | Automation loops, scheduled tasks, multi-agent teams, and workflow engines. |
+| 🎨 [UI Enhancements](categories/ui-enhancements.md) | 5879 | Plugins that enhance the DSH web/terminal user interface. |
+| 🎭 [Themes & Appearance](categories/themes-appearance.md) | 466 | Skins, themes, and appearance customization for DSH. |
+| 💬 [Sessions & Messages](categories/sessions-messages.md) | 3006 | Session management, message editing, sharing, and conversation tools. |
+| 🧠 [Memory](categories/memory.md) | 517 | Persistent memory, knowledge bases, and context retention plugins. |
+| 🛠️ [Tools & Capabilities](categories/tools-capabilities.md) | 5158 | Vision, browser, terminal, SSH, Docker, and other capability extensions. |
+| 🔁 [Workflow & Automation](categories/workflow-automation.md) | 4090 | Automation loops, scheduled tasks, multi-agent teams, and workflow engines. |
 | 🔔 [Notifications & Integrations](categories/notifications-integrations.md) | 45 | WeChat, Telegram, IM bridges, desktop notifications, and external integrations. |
-| 🔌 [Models & Providers](categories/models-providers.md) | 109 | Multi-model support, OAuth login, LLM fallback strategies, and provider bridges. |
+| 🔌 [Models & Providers](categories/models-providers.md) | 110 | Multi-model support, OAuth login, LLM fallback strategies, and provider bridges. |
 | 🧑‍💻 [Development & Runtime](categories/development-runtime.md) | 60 | Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling. |
 | 🔒 [Security & Privacy](categories/security-privacy.md) | 14 | Credential management, encryption, audit, and security tooling. |
 | 🎮 [Just for Fun](categories/fun.md) | 17 | Games, pets, entertainment, and playful plugins. |
-| 📋 [Awesome Lists & Collections](categories/awesome-lists.md) | 450 | Curated collections and awesome lists of DSH plugins. |
-| ⚠️ [Weakly Related](categories/weakly-related.md) | 1389 | Repositories tagged dsh-plugin but with weak relevance signals — may use DeepSeek API or have loose association. |
+| 📋 [Awesome Lists & Collections](categories/awesome-lists.md) | 456 | Curated collections and awesome lists of DSH plugins. |
+| ⚠️ [Weakly Related](categories/weakly-related.md) | 1406 | Repositories tagged dsh-plugin but with weak relevance signals — may use DeepSeek API or have loose association. |
 
 ## Featured Plugins
 
@@ -42,11 +42,11 @@ A selection of notable plugins by category:
 
 ### 🎨 UI Enhancements
 
-- [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) ⭐36430 — 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
-- [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) ⭐9322 — DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
+- [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) ⭐42686 — 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
+- [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) ⭐9503 — DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 - [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) ⭐7200 — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-▶️ [View all 5775 plugins →](categories/ui-enhancements.md)
+▶️ [View all 5879 plugins →](categories/ui-enhancements.md)
 
 
 ### 🎭 Themes & Appearance
@@ -55,25 +55,25 @@ A selection of notable plugins by category:
 - [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐2791 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
 - [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) ⭐296 — DeepSeek Harness 滑动变阻器皮肤
 
-▶️ [View all 452 plugins →](categories/themes-appearance.md)
+▶️ [View all 466 plugins →](categories/themes-appearance.md)
 
 
 ### 💬 Sessions & Messages
 
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) ⭐12013 — Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot) ⭐3589 — A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
-- [flizzywine/dsh-tavern](https://github.com/flizzywine/dsh-tavern) ⭐1251 — 基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。
+- [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) ⭐3844 — A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
+- [flizzywine/dsh-tavern](https://github.com/flizzywine/dsh-tavern) ⭐1289 — 基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。
 
-▶️ [View all 2936 plugins →](categories/sessions-messages.md)
+▶️ [View all 3006 plugins →](categories/sessions-messages.md)
 
 
 ### 🧠 Memory
 
-- [text2future/flowix](https://github.com/text2future/flowix) ⭐480 — Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding
-- [himovo/movo](https://github.com/himovo/movo) ⭐349 — Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.
+- [text2future/flowix](https://github.com/text2future/flowix) ⭐483 — Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding
+- [himovo/movo](https://github.com/himovo/movo) ⭐360 — Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.
 - [seriousz158/dsh-memory](https://github.com/seriousz158/dsh-memory) ⭐180
 
-▶️ [View all 501 plugins →](categories/memory.md)
+▶️ [View all 517 plugins →](categories/memory.md)
 
 
 ### 🛠️ Tools & Capabilities
@@ -82,7 +82,7 @@ A selection of notable plugins by category:
 - [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) ⭐16388 — DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版
 - [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork) ⭐7154 — Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.
 
-▶️ [View all 5082 plugins →](categories/tools-capabilities.md)
+▶️ [View all 5158 plugins →](categories/tools-capabilities.md)
 
 
 ### 🔁 Workflow & Automation
@@ -91,7 +91,7 @@ A selection of notable plugins by category:
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) ⭐21165 — Harness engineering beginner tutorial, from 0 to 1
 - [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) ⭐8473 — The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
 
-▶️ [View all 4043 plugins →](categories/workflow-automation.md)
+▶️ [View all 4090 plugins →](categories/workflow-automation.md)
 
 
 ### 🔔 Notifications & Integrations
@@ -109,7 +109,7 @@ A selection of notable plugins by category:
 - [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐10 — DSH Web 模型余量与用量监控插件
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
 
-▶️ [View all 109 plugins →](categories/models-providers.md)
+▶️ [View all 110 plugins →](categories/models-providers.md)
 
 
 ### 🧑‍💻 Development & Runtime
@@ -142,19 +142,19 @@ A selection of notable plugins by category:
 ### 📋 Awesome Lists & Collections
 
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) ⭐20520 — A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
-- [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) ⭐1485 — DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物
+- [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) ⭐1484 — DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物
 - [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) ⭐1189 — DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.
 
-▶️ [View all 450 plugins →](categories/awesome-lists.md)
+▶️ [View all 456 plugins →](categories/awesome-lists.md)
 
 
 ### ⚠️ Weakly Related
 
 
-1389 repositories tagged `dsh-plugin` but with low relevance confidence.
+1406 repositories tagged `dsh-plugin` but with low relevance confidence.
 
 
-▶️ [View all 1389 repos →](categories/weakly-related.md)
+▶️ [View all 1406 repos →](categories/weakly-related.md)
 
 
 ## Data

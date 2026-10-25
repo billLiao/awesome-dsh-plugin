@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**109 plugins**
+**110 plugins**
 
 
 ---
@@ -118,8 +118,9 @@
 - [DeZhou123/dsh-ofm-workbuddy](https://github.com/DeZhou123/dsh-ofm-workbuddy) — 把 OFM 2.5.8 移除的 WorkBuddy（国内 CodeBuddy / 国际 WorkBuddy）双通道装回来：从 v2.5.7 源码原样移植 buddy 全栈，复用宿主已有的账号池与凭据，不复制数据。
 - [XI180/dsh-citation-chips](https://github.com/XI180/dsh-citation-chips) — 一个DSH插件，使模型在引用了检索材料的话末尾，紧跟一个包含链接的数字角标，并在回答结尾附一份 来源 清单
 - [gongfpp/dsh-novel-fish](https://github.com/gongfpp/dsh-novel-fish) — Read local novels only when expanding selected real DSH reasoning steps. Local-only; no model requests.
+- [A-f-ish/dsh-emotion-feedback](https://github.com/A-f-ish/dsh-emotion-feedback) — DSH plugin that judges the working model's own emotion and silently re-injects it before the next turn.
 
 ---
 
 
-*Generated on 2026-10-25 · 109 plugins in this category*
+*Generated on 2026-10-26 · 110 plugins in this category*

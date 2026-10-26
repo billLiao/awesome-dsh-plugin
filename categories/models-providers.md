@@ -9,10 +9,10 @@
 
 ---
 
+- [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model) ⭐13 — Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.
 - [HuanLinOTO/dsh-plugin-auto-blame](https://github.com/HuanLinOTO/dsh-plugin-auto-blame) ⭐11 — 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 | After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips
 - [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐10 — DSH Web 模型余量与用量监控插件
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
-- [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model) ⭐8 — Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.
 - [edge-sky/dsh-oauth-adapter](https://github.com/edge-sky/dsh-oauth-adapter) ⭐6 — An OAuth adapter for DSH
 - [liceses/dsh-memes-reply](https://github.com/liceses/dsh-memes-reply) ⭐6 — DSH 插件：蓝色大肥鱼表情包回复 —— 模型按语境在回复里贴一张会动的大肥鱼，支持设置页预览墙与下一轮指定
 - [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) ⭐5 — DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）
@@ -117,10 +117,10 @@
 - [bosenok/dsh-openrouter-sync](https://github.com/bosenok/dsh-openrouter-sync) — Keep the DSH openrouter provider model list in sync with OpenRouter's currently-free models.
 - [DeZhou123/dsh-ofm-workbuddy](https://github.com/DeZhou123/dsh-ofm-workbuddy) — 把 OFM 2.5.8 移除的 WorkBuddy（国内 CodeBuddy / 国际 WorkBuddy）双通道装回来：从 v2.5.7 源码原样移植 buddy 全栈，复用宿主已有的账号池与凭据，不复制数据。
 - [XI180/dsh-citation-chips](https://github.com/XI180/dsh-citation-chips) — 一个DSH插件，使模型在引用了检索材料的话末尾，紧跟一个包含链接的数字角标，并在回答结尾附一份 来源 清单
-- [gongfpp/dsh-novel-fish](https://github.com/gongfpp/dsh-novel-fish) — Read local novels only when expanding selected real DSH reasoning steps. Local-only; no model requests.
 - [A-f-ish/dsh-emotion-feedback](https://github.com/A-f-ish/dsh-emotion-feedback) — DSH plugin that judges the working model's own emotion and silently re-injects it before the next turn.
+- [minutiae3/dsh-tier-brain](https://github.com/minutiae3/dsh-tier-brain) — 发送前判断这句话的难度，给出建议的模型与推理等级：只建议，不改请求。
 
 ---
 
 
-*Generated on 2026-10-26 · 110 plugins in this category*
+*Generated on 2026-10-27 · 110 plugins in this category*

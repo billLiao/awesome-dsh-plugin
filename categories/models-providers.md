@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**110 plugins**
+**112 plugins**
 
 
 ---
@@ -119,8 +119,10 @@
 - [XI180/dsh-citation-chips](https://github.com/XI180/dsh-citation-chips) — 一个DSH插件，使模型在引用了检索材料的话末尾，紧跟一个包含链接的数字角标，并在回答结尾附一份 来源 清单
 - [A-f-ish/dsh-emotion-feedback](https://github.com/A-f-ish/dsh-emotion-feedback) — DSH plugin that judges the working model's own emotion and silently re-injects it before the next turn.
 - [minutiae3/dsh-tier-brain](https://github.com/minutiae3/dsh-tier-brain) — 发送前判断这句话的难度，给出建议的模型与推理等级：只建议，不改请求。
+- [vener0/dsh-auto-model](https://github.com/vener0/dsh-auto-model)
+- [V01d-Project/dsh-chaos-plugins](https://github.com/V01d-Project/dsh-chaos-plugins) — Four mutually recursive DSH plugins: crash when codex / Claude Code is found, repair the crash, crash on the repair, repair that. Joke project - read the warnings.
 
 ---
 
 
-*Generated on 2026-10-27 · 110 plugins in this category*
+*Generated on 2026-10-28 · 112 plugins in this category*

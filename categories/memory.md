@@ -4,7 +4,7 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**535 plugins**
+**539 plugins**
 
 
 ---
@@ -544,8 +544,12 @@
 - [EinsAI/dsh-heart](https://github.com/EinsAI/dsh-heart) — 给 dsh 的主智能体一颗心：她想被你喜欢、被你需要，想了解你，让你过得更好。亲近是相处里慢慢走出来的，不靠讨好；她说真话，也会保护自己；活照样做好。宪章和记忆对你公开。
 - [GrgChain/deepseek-harness-cloud](https://github.com/GrgChain/deepseek-harness-cloud) — A self-hosted platform for DeepSeek Harness, with browser-based AI agent workspaces, model management, skills, memory, knowledge bases, and MCP connectors.
 - [elegant01/dsh-memory-watchdog](https://github.com/elegant01/dsh-memory-watchdog) — Windows commit-memory watchdog for DSH Desktop: commit attribution, configurable thresholds, a fail-closed restart gate, read-only pagefile advice, a 7-day crash timeline, and opt-in automatic restart / crash-resume.
+- [shenmingsolar-01/dsh-memory-hub](https://github.com/shenmingsolar-01/dsh-memory-hub) — 多端 AI 角色的本机记忆助手：记得住、能收发、能接自己的 AI、可选支付。Local memory helper for AI characters.
+- [Speraymer/dsh-yu-kit](https://github.com/Speraymer/dsh-yu-kit) — 把「蓝色大肥鱼」这套 DSH 插件套件一次装进一个 profile：人格 + 记忆 + 三个内容源 + 两个出口 + 微信 + 多模态。含安装脚本、给 agent 的作业单、手动配置清单、架构图与 MIT 声明。
+- [shargritton/prime-diary](https://github.com/shargritton/prime-diary) — 为 DSH 增加每日日记、重要记忆筛选与草稿审阅的伴生插件
+- [JaMoLpE88/dsh-desktop-windowstatus-saving](https://github.com/JaMoLpE88/dsh-desktop-windowstatus-saving) — DeepSeek Harness Desktop plugin: remembers the main window's size, position and maximized state and restores it before the first frame.
 
 ---
 
 
-*Generated on 2026-10-27 · 535 plugins in this category*
+*Generated on 2026-10-27 · 539 plugins in this category*

@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**112 plugins**
+**113 plugins**
 
 
 ---
@@ -121,8 +121,9 @@
 - [minutiae3/dsh-tier-brain](https://github.com/minutiae3/dsh-tier-brain) — 发送前判断这句话的难度，给出建议的模型与推理等级：只建议，不改请求。
 - [vener0/dsh-auto-model](https://github.com/vener0/dsh-auto-model)
 - [V01d-Project/dsh-chaos-plugins](https://github.com/V01d-Project/dsh-chaos-plugins) — Four mutually recursive DSH plugins: crash when codex / Claude Code is found, repair the crash, crash on the repair, repair that. Joke project - read the warnings.
+- [zengxiangpeng123/dsh-our-free-model-balance-zxp](https://github.com/zengxiangpeng123/dsh-our-free-model-balance-zxp)
 
 ---
 
 
-*Generated on 2026-10-28 · 112 plugins in this category*
+*Generated on 2026-10-29 · 113 plugins in this category*

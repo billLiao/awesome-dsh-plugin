@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**17 plugins**
+**18 plugins**
 
 
 ---
@@ -26,8 +26,9 @@
 - [wonderjz99/dsh-stock-dividend](https://github.com/wonderjz99/dsh-stock-dividend) — A 股分红账本 DSH 插件：按持仓 × 公开分红方案算应有的分红
 - [x-cores/dsh-mine-game](https://github.com/x-cores/dsh-mine-game)
 - [funswe/dsh-resizable-settings](https://github.com/funswe/dsh-resizable-settings)
+- [iypavlov/dsh-cat-pet](https://github.com/iypavlov/dsh-cat-pet)
 
 ---
 
 
-*Generated on 2026-10-28 · 17 plugins in this category*
+*Generated on 2026-10-29 · 18 plugins in this category*

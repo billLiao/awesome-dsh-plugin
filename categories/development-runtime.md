@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**62 plugins**
+**63 plugins**
 
 
 ---
@@ -71,8 +71,9 @@
 - [mengge237/dsh-pulse](https://github.com/mengge237/dsh-pulse) — 本机脉象：压缩判级 / 四道机械闸 / 未提交改动，做成 DSH 统计条上的一格常驻读数，点一下按配置跑命令集并把报告落成 md+json ｜ Local pulse for DSH: compaction grade, four mechanical gates and uncommitted changes as one always-on readout in the stats dock; one click runs your command set and writes an md + json report
 - [ggxx001/dsh-plugin-purge](https://github.com/ggxx001/dsh-plugin-purge) — 彻底卸载插件库里的插件：删除第三方插件依赖，停用并移出安装包内置插件，支持恢复显示。
 - [HateYouLittle/dsh-clinepass](https://github.com/HateYouLittle/dsh-clinepass)
+- [sakikoTGW/dsh-plugin-tailor](https://github.com/sakikoTGW/dsh-plugin-tailor) — Tailor a repository to fit: 8-dimension maturity audit, 7 README styles, bilingual drafts, deterministic brand assets, pre-release verification. DSH plugin.
 
 ---
 
 
-*Generated on 2026-10-28 · 62 plugins in this category*
+*Generated on 2026-10-28 · 63 plugins in this category*

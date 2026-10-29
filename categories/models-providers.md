@@ -4,14 +4,14 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**114 plugins**
+**113 plugins**
 
 
 ---
 
 - [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model) ⭐13 — Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.
+- [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐12 — DSH Web 模型余量与用量监控插件
 - [HuanLinOTO/dsh-plugin-auto-blame](https://github.com/HuanLinOTO/dsh-plugin-auto-blame) ⭐11 — 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 | After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips
-- [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐10 — DSH Web 模型余量与用量监控插件
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
 - [edge-sky/dsh-oauth-adapter](https://github.com/edge-sky/dsh-oauth-adapter) ⭐6 — An OAuth adapter for DSH
 - [liceses/dsh-memes-reply](https://github.com/liceses/dsh-memes-reply) ⭐6 — DSH 插件：蓝色大肥鱼表情包回复 —— 模型按语境在回复里贴一张会动的大肥鱼，支持设置页预览墙与下一轮指定
@@ -122,9 +122,8 @@
 - [vener0/dsh-auto-model](https://github.com/vener0/dsh-auto-model)
 - [V01d-Project/dsh-chaos-plugins](https://github.com/V01d-Project/dsh-chaos-plugins) — Four mutually recursive DSH plugins: crash when codex / Claude Code is found, repair the crash, crash on the repair, repair that. Joke project - read the warnings.
 - [zengxiangpeng123/dsh-our-free-model-balance-zxp](https://github.com/zengxiangpeng123/dsh-our-free-model-balance-zxp)
-- [beibing173/dsh-codex-gpt](https://github.com/beibing173/dsh-codex-gpt)
 
 ---
 
 
-*Generated on 2026-10-29 · 114 plugins in this category*
+*Generated on 2026-10-30 · 113 plugins in this category*

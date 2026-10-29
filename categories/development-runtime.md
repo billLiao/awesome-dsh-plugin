@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**65 plugins**
+**66 plugins**
 
 
 ---
@@ -74,8 +74,9 @@
 - [HateYouLittle/dsh-clinepass](https://github.com/HateYouLittle/dsh-clinepass)
 - [ReWebaiyu/dsh-qq-console](https://github.com/ReWebaiyu/dsh-qq-console) — dsh-qq 的源码备份与开发留档（插件安装与市场条目请看 ReWebaiyu/dsh-qq）
 - [zyqchanel-06/dsh-rail-x](https://github.com/zyqchanel-06/dsh-rail-x) — DSH 输入框附件删除按钮常显：一条 CSS + 自愈观察器，不悬停也能点掉误粘的附件
+- [Jydsh/dsh-ding-card](https://github.com/Jydsh/dsh-ding-card) — dsh上基于dsh-im插件开发的插件，主要接入钉钉卡片模板，可设计，可拓展可测试的功能。
 
 ---
 
 
-*Generated on 2026-10-29 · 65 plugins in this category*
+*Generated on 2026-10-30 · 66 plugins in this category*

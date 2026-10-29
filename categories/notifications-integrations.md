@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**48 plugins**
+**49 plugins**
 
 
 ---
@@ -57,8 +57,9 @@
 - [AlleyRain/dsh-notifier](https://github.com/AlleyRain/dsh-notifier) — 用于在dsh需要用户回应时及时通知
 - [heyitaowml-ctrl/dsh-vscode-bridge](https://github.com/heyitaowml-ctrl/dsh-vscode-bridge)
 - [lof6yo/dsh-opencode-live](https://github.com/lof6yo/dsh-opencode-live) — OpenCode as a DSH subagent, with a live ACP trace panel for its agents and self-spawned subagents
+- [nobu2333/dsh-game-bridge](https://github.com/nobu2333/dsh-game-bridge)
 
 ---
 
 
-*Generated on 2026-10-29 · 48 plugins in this category*
+*Generated on 2026-10-30 · 49 plugins in this category*

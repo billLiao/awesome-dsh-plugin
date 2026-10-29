@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**64 plugins**
+**65 plugins**
 
 
 ---
@@ -73,8 +73,9 @@
 - [ggxx001/dsh-plugin-purge](https://github.com/ggxx001/dsh-plugin-purge) — 彻底卸载插件库里的插件：删除第三方插件依赖，停用并移出安装包内置插件，支持恢复显示。
 - [HateYouLittle/dsh-clinepass](https://github.com/HateYouLittle/dsh-clinepass)
 - [ReWebaiyu/dsh-qq-console](https://github.com/ReWebaiyu/dsh-qq-console) — dsh-qq 的源码备份与开发留档（插件安装与市场条目请看 ReWebaiyu/dsh-qq）
+- [zyqchanel-06/dsh-rail-x](https://github.com/zyqchanel-06/dsh-rail-x) — DSH 输入框附件删除按钮常显：一条 CSS + 自愈观察器，不悬停也能点掉误粘的附件
 
 ---
 
 
-*Generated on 2026-10-29 · 64 plugins in this category*
+*Generated on 2026-10-29 · 65 plugins in this category*

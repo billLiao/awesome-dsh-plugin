@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**113 plugins**
+**114 plugins**
 
 
 ---
@@ -122,8 +122,9 @@
 - [vener0/dsh-auto-model](https://github.com/vener0/dsh-auto-model)
 - [V01d-Project/dsh-chaos-plugins](https://github.com/V01d-Project/dsh-chaos-plugins) — Four mutually recursive DSH plugins: crash when codex / Claude Code is found, repair the crash, crash on the repair, repair that. Joke project - read the warnings.
 - [zengxiangpeng123/dsh-our-free-model-balance-zxp](https://github.com/zengxiangpeng123/dsh-our-free-model-balance-zxp)
+- [beibing173/dsh-codex-gpt](https://github.com/beibing173/dsh-codex-gpt)
 
 ---
 
 
-*Generated on 2026-10-29 · 113 plugins in this category*
+*Generated on 2026-10-29 · 114 plugins in this category*

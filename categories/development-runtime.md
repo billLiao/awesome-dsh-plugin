@@ -36,6 +36,7 @@
 - [ystyle/dsh-harmonyos](https://github.com/ystyle/dsh-harmonyos) ⭐1 — dsh-harmonyos | 鸿蒙PC版本dsh, 支持鸿蒙PC一键安装
 - [YuMo-233/dsh-kubejs](https://github.com/YuMo-233/dsh-kubejs) ⭐1 — DSH 插件修改者：以独立脚本包定制其他已安装插件，不改插件源码（KubeJS 模式）
 - [Alice-Marx/dsh-boot-animation](https://github.com/Alice-Marx/dsh-boot-animation) ⭐1 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
+- [sakikoTGW/dsh-plugin-tailor](https://github.com/sakikoTGW/dsh-plugin-tailor) ⭐1 — Tailor a repository to fit: 8-dimension maturity audit, 7 README styles, bilingual drafts, deterministic brand assets, pre-release verification. DSH plugin.
 - [zdjmrq/dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) — DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins
 - [GoGoGoDoge/dsh-plugin-installer](https://github.com/GoGoGoDoge/dsh-plugin-installer)
 - [jiay98528-dev/dsh-plugin-weaknet-adaptor](https://github.com/jiay98528-dev/dsh-plugin-weaknet-adaptor)
@@ -71,7 +72,6 @@
 - [mengge237/dsh-pulse](https://github.com/mengge237/dsh-pulse) — 本机脉象：压缩判级 / 四道机械闸 / 未提交改动，做成 DSH 统计条上的一格常驻读数，点一下按配置跑命令集并把报告落成 md+json ｜ Local pulse for DSH: compaction grade, four mechanical gates and uncommitted changes as one always-on readout in the stats dock; one click runs your command set and writes an md + json report
 - [ggxx001/dsh-plugin-purge](https://github.com/ggxx001/dsh-plugin-purge) — 彻底卸载插件库里的插件：删除第三方插件依赖，停用并移出安装包内置插件，支持恢复显示。
 - [HateYouLittle/dsh-clinepass](https://github.com/HateYouLittle/dsh-clinepass)
-- [sakikoTGW/dsh-plugin-tailor](https://github.com/sakikoTGW/dsh-plugin-tailor) — Tailor a repository to fit: 8-dimension maturity audit, 7 README styles, bilingual drafts, deterministic brand assets, pre-release verification. DSH plugin.
 - [ReWebaiyu/dsh-qq-console](https://github.com/ReWebaiyu/dsh-qq-console) — dsh-qq 的源码备份与开发留档（插件安装与市场条目请看 ReWebaiyu/dsh-qq）
 
 ---

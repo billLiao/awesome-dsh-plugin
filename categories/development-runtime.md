@@ -4,13 +4,13 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**66 plugins**
+**67 plugins**
 
 
 ---
 
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐71 — Support dsh runtime on Multica.
-- [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐23 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
+- [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐21 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
 - [omdsh-dev/stent](https://github.com/omdsh-dev/stent) ⭐19 — 灵感来源于MC Fabric的Cordis/DSH hook处理器
 - [omdsh-dev/dsh-mygo](https://github.com/omdsh-dev/dsh-mygo) ⭐12
 - [Liaoyuanxinghuo/DSH-Plugin-Manager](https://github.com/Liaoyuanxinghuo/DSH-Plugin-Manager) ⭐11 — 车同轨，书同文。DSH 的多版本、插件、Profile 与整合包，从此归于一统。
@@ -75,8 +75,9 @@
 - [ReWebaiyu/dsh-qq-console](https://github.com/ReWebaiyu/dsh-qq-console) — dsh-qq 的源码备份与开发留档（插件安装与市场条目请看 ReWebaiyu/dsh-qq）
 - [zyqchanel-06/dsh-rail-x](https://github.com/zyqchanel-06/dsh-rail-x) — DSH 输入框附件删除按钮常显：一条 CSS + 自愈观察器，不悬停也能点掉误粘的附件
 - [Jydsh/dsh-ding-card](https://github.com/Jydsh/dsh-ding-card) — dsh上基于dsh-im插件开发的插件，主要接入钉钉卡片模板，可设计，可拓展可测试的功能。
+- [fj7937290-sys/dsh-video-eyes](https://github.com/fj7937290-sys/dsh-video-eyes) — ??????????:???????? + ?????????,????????????? | Video sampling for text-only agents
 
 ---
 
 
-*Generated on 2026-10-30 · 66 plugins in this category*
+*Generated on 2026-10-31 · 67 plugins in this category*

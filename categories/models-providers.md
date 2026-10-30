@@ -4,12 +4,12 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**113 plugins**
+**115 plugins**
 
 
 ---
 
-- [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model) ⭐13 — Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.
+- [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model) ⭐12 — Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.
 - [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐12 — DSH Web 模型余量与用量监控插件
 - [HuanLinOTO/dsh-plugin-auto-blame](https://github.com/HuanLinOTO/dsh-plugin-auto-blame) ⭐11 — 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 | After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
@@ -122,8 +122,10 @@
 - [vener0/dsh-auto-model](https://github.com/vener0/dsh-auto-model)
 - [V01d-Project/dsh-chaos-plugins](https://github.com/V01d-Project/dsh-chaos-plugins) — Four mutually recursive DSH plugins: crash when codex / Claude Code is found, repair the crash, crash on the repair, repair that. Joke project - read the warnings.
 - [zengxiangpeng123/dsh-our-free-model-balance-zxp](https://github.com/zengxiangpeng123/dsh-our-free-model-balance-zxp)
+- [yorelog/dsh-open-model](https://github.com/yorelog/dsh-open-model)
+- [SB-TDM/dsh-rvc-cover](https://github.com/SB-TDM/dsh-rvc-cover) — 用本机 RVC 模型翻唱，并让说话走同一个模型。
 
 ---
 
 
-*Generated on 2026-10-30 · 113 plugins in this category*
+*Generated on 2026-10-30 · 115 plugins in this category*

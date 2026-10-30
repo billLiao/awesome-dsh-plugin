@@ -618,6 +618,7 @@
 - [wang678678/dsh-local-plugins](https://github.com/wang678678/dsh-local-plugins) — Local DSH plugins: knowledge-base picker, workspace directory flow, doc-routing guard, market autogroup
 - [dolou12388/dsh-memory-hybrid](https://github.com/dolou12388/dsh-memory-hybrid) — 给 DeepSeek Harness 的混合架构长期记忆插件：KV 权威层 + 向量派生索引 + 艾宾浩斯衰减 + 可选 Jev 判别
 - [mounta1n-18/dsh-memory](https://github.com/mounta1n-18/dsh-memory) — DeepSeek Harness 插件：本地记忆系统（分类索引 / 回忆统计 / 教训三段式 / 压缩流水线）+ 仿轨迹记忆日志。零依赖、无构建。 | Zero-dependency DeepSeek Harness plugin: a local memory system (index, recall stats, compression pipeline) plus a trajectory-style memory log.
+- [HZDF-2026/dsh-compaction-ctxfold](https://github.com/HZDF-2026/dsh-compaction-ctxfold) — DeepSeek Harness 确定性压缩后端：只用官方 summarize() 钩子把 LLM 转述摘要换成 ctxfold 规则管线——零 LLM 调用、毫秒级、字节级可复现，逐字锚点层（路径/数字/配置键/命令）让关键事实跨压缩不漂移。 | Deterministic compaction backend for DeepSeek Harness: replaces the LLM-written compaction summary with the ctxfold rule pipeline via the official summarize() hook — zero LLM calls, ms-level, byte-deterministic, with a verbatim anchor layer that keeps paths, numbers, config keys and commands exact across compaction.
 
 ---
 

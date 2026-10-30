@@ -13,17 +13,17 @@
 DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行的 Coding Agent，底层又是一套「一切皆插件」的框架。
 
 
-**23994 个插件**，来自 GitHub 话题 [`dsh-plugin`](https://github.com/topics/dsh-plugin) · 欢迎 [PR](#贡献)
+**23995 个插件**，来自 GitHub 话题 [`dsh-plugin`](https://github.com/topics/dsh-plugin) · 欢迎 [PR](#贡献)
 
 
 ## 分类
 
 | 分类 | 数量 | 说明 |
 |------|------|------|
-| 🎨 [UI 增强](categories/ui-enhancements.md) | 6552 | 增强 DSH Web/终端用户界面的插件。 |
+| 🎨 [UI 增强](categories/ui-enhancements.md) | 6554 | 增强 DSH Web/终端用户界面的插件。 |
 | 🎭 [主题与外观](categories/themes-appearance.md) | 537 | DSH 皮肤、主题与外观定制。 |
 | 💬 [会话与消息](categories/sessions-messages.md) | 3366 | 会话管理、消息编辑、分享与对话工具。 |
-| 🧠 [记忆](categories/memory.md) | 608 | 持久记忆、知识库与上下文保留插件。 |
+| 🧠 [记忆](categories/memory.md) | 609 | 持久记忆、知识库与上下文保留插件。 |
 | 🛠️ [工具与能力](categories/tools-capabilities.md) | 5595 | 视觉、浏览器、终端、SSH、Docker 等能力扩展。 |
 | 🔁 [工作流与自动化](categories/workflow-automation.md) | 4377 | 自动化循环、定时任务、多智能体团队与工作流引擎。 |
 | 🔔 [通知与集成](categories/notifications-integrations.md) | 49 | 微信、Telegram、IM 桥接、桌面通知与外部集成。 |
@@ -31,7 +31,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 | 🧑‍💻 [开发与运行时](categories/development-runtime.md) | 67 | 插件管理器、SDK、CLI、桌面壳与开发者工具。 |
 | 🔒 [安全与隐私](categories/security-privacy.md) | 16 | 凭证管理、加密、审计与安全工具。 |
 | 🎮 [娱乐](categories/fun.md) | 19 | 游戏、桌宠、娱乐与趣味插件。 |
-| 📋 [精选列表与合集](categories/awesome-lists.md) | 494 | DSH 插件精选列表与合集。 |
+| 📋 [精选列表与合集](categories/awesome-lists.md) | 492 | DSH 插件精选列表与合集。 |
 | ⚠️ [弱相关](categories/weakly-related.md) | 1481 | 标记了 dsh-plugin 但关联性较弱的仓库——可能只是使用了 DeepSeek API 或关联松散。 |
 
 ## 精选插件
@@ -43,7 +43,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) ⭐9822 — DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 - [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) ⭐7200 — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
 
-▶️ [查看全部 6552 个插件 →](categories/ui-enhancements.md)
+▶️ [查看全部 6554 个插件 →](categories/ui-enhancements.md)
 
 
 ### 🎭 主题与外观
@@ -70,7 +70,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [himovo/movo](https://github.com/himovo/movo) ⭐473 — Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.
 - [tinqiao-oss/engramory](https://github.com/tinqiao-oss/engramory) ⭐198 — A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook. Includes dsh-engramory, a DeepSeek Harness plugin.
 
-▶️ [查看全部 608 个插件 →](categories/memory.md)
+▶️ [查看全部 609 个插件 →](categories/memory.md)
 
 
 ### 🛠️ 工具与能力
@@ -142,7 +142,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) ⭐1488 — DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物
 - [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) ⭐1189 — DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.
 
-▶️ [查看全部 494 个插件 →](categories/awesome-lists.md)
+▶️ [查看全部 492 个插件 →](categories/awesome-lists.md)
 
 
 ### ⚠️ 弱相关

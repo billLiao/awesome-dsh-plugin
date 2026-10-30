@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_repos": 24052,
-    "total_plugins": 23994,
+    "total_repos": 24053,
+    "total_plugins": 23995,
     "generated_at": "2026-10-31"
   },
   "categories": {
@@ -24792,6 +24792,19 @@
         "updated_at": "2026-10-30T15:46:14Z"
       },
       {
+        "full_name": "westanke/dsh-remote-bridge",
+        "url": "https://github.com/westanke/dsh-remote-bridge",
+        "description": "把 DSH 内核的私有 remote 协议翻译成版本化 REST：让手机等受信任客户端在离开电脑后仍能使用聊天、文件与设备能力；桌面端在你的 DSH 设置里提供「手机设置」（根目录 / 远程访问 / 设备 / 回收站 / 审计 / App 下载）。A versioned REST bridge for DeepSeek Harness — remote access for trusted clients, plus a Phone-settings panel inside the DSH WebUI.",
+        "stars": 1,
+        "topics": [
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin",
+          "remote-access"
+        ],
+        "updated_at": "2026-10-30T15:05:44Z"
+      },
+      {
         "full_name": "01men/DeptAI-UI-DSH",
         "url": "https://github.com/01men/DeptAI-UI-DSH",
         "description": "元冰可 · 01门（Gate 01）—— AI 代理与人类的协作前台：部门空间工作台、会话执行卡、14 行业图谱包、制造业 AI 工具集与钉钉桥；dsh 一键插件化（npm @ybkk/gate-01），调用治理底座 01men/ybkkasi 的资产与身份权限。",
@@ -44880,6 +44893,16 @@
           "dsh-plugin"
         ],
         "updated_at": "2026-10-30T09:18:34Z"
+      },
+      {
+        "full_name": "z-time-007/whale-desktop-kit",
+        "url": "https://github.com/z-time-007/whale-desktop-kit",
+        "description": "DeepSeek Harness 桌面增强套件（鲸跃）：壁纸、黑鲸鱼桌宠、工作区/对话框透明度、顶部快捷栏 + 个人助理（本地秘书/文档生成）、Office 文档安全读取、余额与 token 用量数据源、安全自动批准，外加原生 Electron 桌面应用。根目录即规范插件，dsh plugin add 一键安装全部 6 个增强。",
+        "stars": 0,
+        "topics": [
+          "dsh-plugin"
+        ],
+        "updated_at": "2026-08-17T09:32:37Z"
       },
       {
         "full_name": "kyoukisu/dsh-rich-ui",
@@ -156683,6 +156706,23 @@
           "dsh-plugin"
         ],
         "updated_at": "2026-10-30T08:43:44Z"
+      },
+      {
+        "full_name": "feverZHONG/dsh-liya-workspace",
+        "url": "https://github.com/feverZHONG/dsh-liya-workspace",
+        "description": "莉娅 DSH 工作区插件 —— 在设置里展示档案速览（FILE-MAP 摘要 · memory/records/diary 统计 · 最近日记），工作区根目录可配置、即时生效。适配 DSH 0.2.0-rc.2。",
+        "stars": 0,
+        "topics": [
+          "chinese",
+          "cordis",
+          "dashboard",
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin",
+          "liya",
+          "workspace"
+        ],
+        "updated_at": "2026-10-02T14:27:37Z"
       },
       {
         "full_name": "wang-jie-git/dsh-memory-ai",
@@ -306892,16 +306932,6 @@
         "updated_at": "2026-08-17T09:39:50Z"
       },
       {
-        "full_name": "z-time-007/whale-desktop-kit",
-        "url": "https://github.com/z-time-007/whale-desktop-kit",
-        "description": "DeepSeek Harness 桌面增强套件（鲸跃）：壁纸、黑鲸鱼桌宠、工作区/对话框透明度、顶部快捷栏 + 个人助理（本地秘书/文档生成）、Office 文档安全读取、余额与 token 用量数据源、安全自动批准，外加原生 Electron 桌面应用。根目录即规范插件，dsh plugin add 一键安装全部 6 个增强。",
-        "stars": 0,
-        "topics": [
-          "dsh-plugin"
-        ],
-        "updated_at": "2026-08-17T09:32:37Z"
-      },
-      {
         "full_name": "arkyu2077/awesome-dsh-plugin",
         "url": "https://github.com/arkyu2077/awesome-dsh-plugin",
         "description": "面向 DeepSeek Harness 用户的插件产品说明书与导航：按场景选插件，了解安装、权限、兼容性和风险",
@@ -308111,23 +308141,6 @@
           "workspace"
         ],
         "updated_at": "2026-10-03T08:02:12Z"
-      },
-      {
-        "full_name": "feverZHONG/dsh-liya-workspace",
-        "url": "https://github.com/feverZHONG/dsh-liya-workspace",
-        "description": "莉娅 DSH 工作区插件 —— 在设置里展示档案速览（FILE-MAP 摘要 · memory/records/diary 统计 · 最近日记），工作区根目录可配置、即时生效。适配 DSH 0.2.0-rc.2。",
-        "stars": 0,
-        "topics": [
-          "chinese",
-          "cordis",
-          "dashboard",
-          "deepseek-harness",
-          "dsh",
-          "dsh-plugin",
-          "liya",
-          "workspace"
-        ],
-        "updated_at": "2026-10-02T14:27:37Z"
       },
       {
         "full_name": "feverZHONG/dsh-dist-manager",

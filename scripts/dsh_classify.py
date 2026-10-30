@@ -97,8 +97,14 @@ def categorize(repo):
 
     text = f"{name} {desc} {' '.join(topics)}"
 
+    # '根目录' (root directory) in plugin descriptions must not trigger the
+    # awesome-lists '目录' keyword below (PR #23, 2026-10-31:
+    # westanke/dsh-remote-bridge lists a settings panel "（根目录 / 远程访问 / …）"
+    # and was misfiled as an awesome list).
+    text_list_check = text.replace('根目录', '')
+
     # Awesome lists / collections
-    if any(kw in text for kw in ['awesome', 'curated', 'collection', '精选', '目录']):
+    if any(kw in text_list_check for kw in ['awesome', 'curated', 'collection', '精选', '目录']):
         if any(kw in text for kw in ['plugin', 'dsh']):
             return 'awesome-lists'
 

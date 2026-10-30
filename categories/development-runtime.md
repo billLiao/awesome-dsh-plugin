@@ -75,6 +75,7 @@
 - [ReWebaiyu/dsh-qq-console](https://github.com/ReWebaiyu/dsh-qq-console) — dsh-qq 的源码备份与开发留档（插件安装与市场条目请看 ReWebaiyu/dsh-qq）
 - [zyqchanel-06/dsh-rail-x](https://github.com/zyqchanel-06/dsh-rail-x) — DSH 输入框附件删除按钮常显：一条 CSS + 自愈观察器，不悬停也能点掉误粘的附件
 - [Jydsh/dsh-ding-card](https://github.com/Jydsh/dsh-ding-card) — dsh上基于dsh-im插件开发的插件，主要接入钉钉卡片模板，可设计，可拓展可测试的功能。
+- [westanke/dsh-remote-bridge](https://github.com/westanke/dsh-remote-bridge) — Versioned REST bridge for DSH's private remote protocol (chat / sessions / files / devices), so trusted clients such as the Android app dsh-companion can use this machine from outside it; adds a Phone-settings panel with seven inline cards to the WebUI. 把 DSH 内核的私有 remote 协议翻译成版本化 REST 接口供手机端远程使用，并在设置里加一个「手机设置」面板。
 
 ---
 

@@ -162718,6 +162718,20 @@
           "zero-dependency"
         ],
         "updated_at": "2026-10-30T09:58:37Z"
+      },
+      {
+        "full_name": "HZDF-2026/dsh-compaction-ctxfold",
+        "url": "https://github.com/HZDF-2026/dsh-compaction-ctxfold",
+        "description": "Deterministic compaction backend for DeepSeek Harness — zero-LLM, byte-deterministic summaries with verbatim anchors",
+        "stars": 0,
+        "topics": [
+          "compaction",
+          "context",
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin"
+        ],
+        "updated_at": "2026-10-30T20:10:20Z"
       }
     ],
     "tools-capabilities": [
@@ -300614,20 +300628,6 @@
           "dsh-plugin"
         ],
         "updated_at": "2026-10-30T22:50:55Z"
-      },
-      {
-        "full_name": "HZDF-2026/dsh-compaction-ctxfold",
-        "url": "https://github.com/HZDF-2026/dsh-compaction-ctxfold",
-        "description": "Deterministic compaction backend for DeepSeek Harness — zero-LLM, byte-deterministic summaries with verbatim anchors",
-        "stars": 0,
-        "topics": [
-          "compaction",
-          "context",
-          "deepseek-harness",
-          "dsh",
-          "dsh-plugin"
-        ],
-        "updated_at": "2026-10-30T20:10:20Z"
       },
       {
         "full_name": "SweetenedSuzuka/dsh-zh-number-format",

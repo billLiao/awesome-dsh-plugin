@@ -23,9 +23,9 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 | 🎨 [UI Enhancements](categories/ui-enhancements.md) | 6574 | Plugins that enhance the DSH web/terminal user interface. |
 | 🎭 [Themes & Appearance](categories/themes-appearance.md) | 541 | Skins, themes, and appearance customization for DSH. |
 | 💬 [Sessions & Messages](categories/sessions-messages.md) | 3395 | Session management, message editing, sharing, and conversation tools. |
-| 🧠 [Memory](categories/memory.md) | 609 | Persistent memory, knowledge bases, and context retention plugins. |
+| 🧠 [Memory](categories/memory.md) | 610 | Persistent memory, knowledge bases, and context retention plugins. |
 | 🛠️ [Tools & Capabilities](categories/tools-capabilities.md) | 5612 | Vision, browser, terminal, SSH, Docker, and other capability extensions. |
-| 🔁 [Workflow & Automation](categories/workflow-automation.md) | 4381 | Automation loops, scheduled tasks, multi-agent teams, and workflow engines. |
+| 🔁 [Workflow & Automation](categories/workflow-automation.md) | 4380 | Automation loops, scheduled tasks, multi-agent teams, and workflow engines. |
 | 🔔 [Notifications & Integrations](categories/notifications-integrations.md) | 50 | WeChat, Telegram, IM bridges, desktop notifications, and external integrations. |
 | 🔌 [Models & Providers](categories/models-providers.md) | 115 | Multi-model support, OAuth login, LLM fallback strategies, and provider bridges. |
 | 🧑‍💻 [Development & Runtime](categories/development-runtime.md) | 68 | Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling. |
@@ -73,7 +73,7 @@ A selection of notable plugins by category:
 - [himovo/movo](https://github.com/himovo/movo) ⭐473 — Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.
 - [tinqiao-oss/engramory](https://github.com/tinqiao-oss/engramory) ⭐198 — A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook. Includes dsh-engramory, a DeepSeek Harness plugin.
 
-▶️ [View all 609 plugins →](categories/memory.md)
+▶️ [View all 610 plugins →](categories/memory.md)
 
 
 ### 🛠️ Tools & Capabilities
@@ -91,7 +91,7 @@ A selection of notable plugins by category:
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) ⭐21165 — Harness engineering beginner tutorial, from 0 to 1
 - [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) ⭐13857 — DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
 
-▶️ [View all 4381 plugins →](categories/workflow-automation.md)
+▶️ [View all 4380 plugins →](categories/workflow-automation.md)
 
 
 ### 🔔 Notifications & Integrations

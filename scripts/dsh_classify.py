@@ -120,6 +120,13 @@ def categorize(repo):
     if 'minimax-code' in topics and 'model-provider' in topics:
         return 'models-providers'
 
+    # Context-folding compaction backends → Memory (context retention).
+    # 'ctxfold' is a memory-domain name token; without this rule the generic
+    # workflow-automation keyword 'harness' (from "DeepSeek Harness" in the
+    # description) would catch it first. PR #24 by HZDF-2026, 2026-10-31.
+    if 'ctxfold' in name:
+        return 'memory'
+
     # Cross-session inbox / session dashboards → Sessions & Messages
     # (must run before the UI keyword list, whose bare 'ui' token occurs inside
     # owner slugs like Lingrui98 — issue #22, 2026-10-23)

@@ -23,9 +23,9 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 | 🎨 [UI 增强](categories/ui-enhancements.md) | 6574 | 增强 DSH Web/终端用户界面的插件。 |
 | 🎭 [主题与外观](categories/themes-appearance.md) | 541 | DSH 皮肤、主题与外观定制。 |
 | 💬 [会话与消息](categories/sessions-messages.md) | 3395 | 会话管理、消息编辑、分享与对话工具。 |
-| 🧠 [记忆](categories/memory.md) | 609 | 持久记忆、知识库与上下文保留插件。 |
+| 🧠 [记忆](categories/memory.md) | 610 | 持久记忆、知识库与上下文保留插件。 |
 | 🛠️ [工具与能力](categories/tools-capabilities.md) | 5612 | 视觉、浏览器、终端、SSH、Docker 等能力扩展。 |
-| 🔁 [工作流与自动化](categories/workflow-automation.md) | 4381 | 自动化循环、定时任务、多智能体团队与工作流引擎。 |
+| 🔁 [工作流与自动化](categories/workflow-automation.md) | 4380 | 自动化循环、定时任务、多智能体团队与工作流引擎。 |
 | 🔔 [通知与集成](categories/notifications-integrations.md) | 50 | 微信、Telegram、IM 桥接、桌面通知与外部集成。 |
 | 🔌 [模型与账号接入](categories/models-providers.md) | 115 | 多模型支持、OAuth 登录、LLM 回退策略与提供商桥接。 |
 | 🧑‍💻 [开发与运行时](categories/development-runtime.md) | 68 | 插件管理器、SDK、CLI、桌面壳与开发者工具。 |
@@ -70,7 +70,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [himovo/movo](https://github.com/himovo/movo) ⭐473 — Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.
 - [tinqiao-oss/engramory](https://github.com/tinqiao-oss/engramory) ⭐198 — A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook. Includes dsh-engramory, a DeepSeek Harness plugin.
 
-▶️ [查看全部 609 个插件 →](categories/memory.md)
+▶️ [查看全部 610 个插件 →](categories/memory.md)
 
 
 ### 🛠️ 工具与能力
@@ -88,7 +88,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) ⭐21165 — Harness engineering beginner tutorial, from 0 to 1
 - [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) ⭐13857 — DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
 
-▶️ [查看全部 4381 个插件 →](categories/workflow-automation.md)
+▶️ [查看全部 4380 个插件 →](categories/workflow-automation.md)
 
 
 ### 🔔 通知与集成

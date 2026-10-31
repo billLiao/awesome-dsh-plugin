@@ -4,7 +4,7 @@
 > Automation loops, scheduled tasks, multi-agent teams, and workflow engines.
 
 
-**4381 plugins**
+**4380 plugins**
 
 
 ---
@@ -4387,11 +4387,10 @@
 - [k-ying/manualcompact-billion](https://github.com/k-ying/manualcompact-billion) — Keep DSH's native /compact (manual compaction) while billion-context keeps automatic compression.
 - [Deiael/change-review](https://github.com/Deiael/change-review) — DeepSeek Harness change review board with diff-scoped unit, edge, and exploratory self-tests.
 - [xushilianzhuren/dsh-constitution-viz](https://github.com/xushilianzhuren/dsh-constitution-viz) — 宪法可视化：上下文构成一屏看——截断探针（宪法文件多深度标记可见性自检·死区条款禁凭残页背书）+注入边界（自动注入面/按需拉取面）+总纲令体检（常驻令在位与字节量），与宪法种子一注入一验收成对
-- [HZDF-2026/dsh-compaction-ctxfold](https://github.com/HZDF-2026/dsh-compaction-ctxfold) — Deterministic compaction backend for DeepSeek Harness — zero-LLM, byte-deterministic summaries with verbatim anchors
 - [SweetenedSuzuka/dsh-zh-number-format](https://github.com/SweetenedSuzuka/dsh-zh-number-format) — DeepSeek Harness插件，将DeepSeek Harness中的三位分节计数改为四位分级计数，同时将“token”改为“词元”。
 - [stitchmaps/dsh-marketboard](https://github.com/stitchmaps/dsh-marketboard) — DeepSeek Harness 行情看板：A股/港股/美股、外汇、国内外商品期货与指数，自定义分组与自动刷新。
 
 ---
 
 
-*Generated on 2026-10-31 · 4381 plugins in this category*
+*Generated on 2026-10-31 · 4380 plugins in this category*

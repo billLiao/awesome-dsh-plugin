@@ -4,7 +4,7 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**609 plugins**
+**610 plugins**
 
 
 ---
@@ -618,8 +618,9 @@
 - [wang678678/dsh-local-plugins](https://github.com/wang678678/dsh-local-plugins) — Local DSH plugins: knowledge-base picker, workspace directory flow, doc-routing guard, market autogroup
 - [dolou12388/dsh-memory-hybrid](https://github.com/dolou12388/dsh-memory-hybrid) — 给 DeepSeek Harness 的混合架构长期记忆插件：KV 权威层 + 向量派生索引 + 艾宾浩斯衰减 + 可选 Jev 判别
 - [mounta1n-18/dsh-memory](https://github.com/mounta1n-18/dsh-memory) — DeepSeek Harness 插件：本地记忆系统（分类索引 / 回忆统计 / 教训三段式 / 压缩流水线）+ 仿轨迹记忆日志。零依赖、无构建。 | Zero-dependency DeepSeek Harness plugin: a local memory system (index, recall stats, compression pipeline) plus a trajectory-style memory log.
+- [HZDF-2026/dsh-compaction-ctxfold](https://github.com/HZDF-2026/dsh-compaction-ctxfold) — Deterministic compaction backend for DeepSeek Harness — zero-LLM, byte-deterministic summaries with verbatim anchors
 
 ---
 
 
-*Generated on 2026-10-31 · 609 plugins in this category*
+*Generated on 2026-10-31 · 610 plugins in this category*

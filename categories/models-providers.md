@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**115 plugins**
+**116 plugins**
 
 
 ---
@@ -124,8 +124,9 @@
 - [zengxiangpeng123/dsh-our-free-model-balance-zxp](https://github.com/zengxiangpeng123/dsh-our-free-model-balance-zxp)
 - [yorelog/dsh-open-model](https://github.com/yorelog/dsh-open-model)
 - [SB-TDM/dsh-rvc-cover](https://github.com/SB-TDM/dsh-rvc-cover) — 用本机 RVC 模型翻唱，并让说话走同一个模型。
+- [backtomyfuture/dsh-resource-center](https://github.com/backtomyfuture/dsh-resource-center)
 
 ---
 
 
-*Generated on 2026-10-31 · 115 plugins in this category*
+*Generated on 2026-11-01 · 116 plugins in this category*

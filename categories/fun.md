@@ -17,6 +17,7 @@
 - [sorry123maker/dsh-salary-cat](https://github.com/sorry123maker/dsh-salary-cat) ⭐1 — dsh的月薪猫宠物
 - [gameswu/dsh-cross-collaboration](https://github.com/gameswu/dsh-cross-collaboration) ⭐1 — dsh跨设备agent协作插件
 - [xuexiaolei1997/dsh-plugin-stock-x](https://github.com/xuexiaolei1997/dsh-plugin-stock-x) ⭐1
+- [hulibuld/dsh-pet-cuteness-plugin](https://github.com/hulibuld/dsh-pet-cuteness-plugin) ⭐1 — 由 DSH 上传：AI娘化插件
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
 - [Helly0000/dsh-life-game](https://github.com/Helly0000/dsh-life-game)
@@ -27,9 +28,8 @@
 - [x-cores/dsh-mine-game](https://github.com/x-cores/dsh-mine-game)
 - [funswe/dsh-resizable-settings](https://github.com/funswe/dsh-resizable-settings)
 - [iypavlov/dsh-cat-pet](https://github.com/iypavlov/dsh-cat-pet)
-- [hulibuld/dsh-pet-cuteness-plugin](https://github.com/hulibuld/dsh-pet-cuteness-plugin) — 由 DSH 上传：AI娘化插件
 
 ---
 
 
-*Generated on 2026-10-31 · 19 plugins in this category*
+*Generated on 2026-11-01 · 19 plugins in this category*

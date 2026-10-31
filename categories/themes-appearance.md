@@ -4,14 +4,14 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**537 plugins**
+**541 plugins**
 
 
 ---
 
 - [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) ⭐4536 — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
 - [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐2903 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
-- [Yuuyuko-uu/dsh-fish-memory](https://github.com/Yuuyuko-uu/dsh-fish-memory) ⭐409 — 🐋 DSH 鱼的记忆：给会话一份会淡忘的长期记忆，每条都带时间。名字里的「鱼」来自 DeepSeek 的鲸鱼。
+- [Yuuyuko-uu/dsh-fish-memory](https://github.com/Yuuyuko-uu/dsh-fish-memory) ⭐410 — 🐋 DSH 鱼的记忆：给会话一份会淡忘的长期记忆，每条都带时间。名字里的「鱼」来自 DeepSeek 的鲸鱼。
 - [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) ⭐331 — DeepSeek Harness 滑动变阻器皮肤
 - [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) ⭐152 — 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风。
 - [louke6572/dsh-whale-widget-plus](https://github.com/louke6572/dsh-whale-widget-plus) ⭐76 — 基于DeepSeek-Balance-Whale-Widget开发，新增了不同版本的表情，新增加台词自定义切换增加，增加了表情与台词手动切换，增加合并了dsh-pet功能，不需要单独安装，只需要一个插件就行
@@ -150,7 +150,6 @@
 - [cdxDNRF/dsh-wishadel-theme](https://github.com/cdxDNRF/dsh-wishadel-theme) ⭐1 — dsh主题维什戴尔风格
 - [Jack-sun-learner/dsh-image-skin](https://github.com/Jack-sun-learner/dsh-image-skin) ⭐1 — DSH 图片皮肤插件：导入 PNG/JPG/WebP 自动生成主题配色，可选 Q 版宠物（程序化/AI 生图）
 - [yhPrime/dsh-theme-picker](https://github.com/yhPrime/dsh-theme-picker) ⭐1 — DeepSeek Harness 主题选择插件：管理应用主题与已安装主题插件，同一时间仅一个主题生效。
-- [Zdram/deepseek-harness-skin](https://github.com/Zdram/deepseek-harness-skin) ⭐1 — 给DeepSeek Harness的界面提供可更换的自定义背景和界面半透明效果
 - [stuarthu/dsh-update-notifier](https://github.com/stuarthu/dsh-update-notifier) ⭐1 — Hourly checks npm for newer versions of your installed dsh plugins and pops an approval bubble asking which to upgrade
 - [AlwaysSum/deepseek-harness-kit](https://github.com/AlwaysSum/deepseek-harness-kit) ⭐1 — 让所有人可以更方便的使用DeepSeek harness
 - [xiaohaozi12138/dsh-desktop-win32](https://github.com/xiaohaozi12138/dsh-desktop-win32) ⭐1 — 超轻量dsh(DeepSeek Harness)插件，安装创建启动器，双击默认打开浏览器跳转，并附带可爱小鲸鱼图标，超小无依赖
@@ -261,8 +260,11 @@
 - [CLxingxi/dsh-balance-whale](https://github.com/CLxingxi/dsh-balance-whale) ⭐1 — 🐳 小鲸鱼余额挂件：常驻 DSH 界面右下角，实时显示 DeepSeek 账户余额，QQ 弹弹 / 拖拽吸附 / 数字滚动 / 记账
 - [weiplwei/DeepSeek-chan-sleep-shutdown](https://github.com/weiplwei/DeepSeek-chan-sleep-shutdown) ⭐1 — Night & moon themed sleep-shutdown button for DeepSeek Harness — whale mascot (DeepSeek-chan), cancellable countdown. 任务完成后自动关机（大肥鱼睡觉按钮）
 - [lubenkov/dsh-pajama-whale](https://github.com/lubenkov/dsh-pajama-whale) ⭐1 — A draggable pet in a blue-whale onesie for DeepSeek Harness: sticks to the window edges, squashes flat, blinks, sleeps, and reports agent status in a thought cloud.
+- [bilihave/dsh-whale-panel](https://github.com/bilihave/dsh-whale-panel) ⭐1 — B站 策展浮窗（DSH 插件）：按概率学习兴趣、按半衰期淡忘，把每日金额上限换算成 token 额度后挑片，契合度达标才 @ 你；评论有日上限，政治/政府/前沿科学三类话题一律不评价；带总开关可一键彻底停手。
 - [Srelka/dsh-ascii-scenes](https://github.com/Srelka/dsh-ascii-scenes) ⭐1 — Eight interactive ASCII ambient themes for DeepSeek Harness — 八套可交互的字符场景主题。
 - [Time-233/dsh-theme-neon-arcade](https://github.com/Time-233/dsh-theme-neon-arcade) ⭐1 — NEON ARCADE · DeepSeek Harness 桌面端霓虹像素主题，支持可开关空战背景、鼠标拖动战机与无限复活。
+- [waspqj/dsh-study-mode](https://github.com/waspqj/dsh-study-mode) ⭐1 — 学习模式（study-mode）agent 预设：主题知识库 + 检索优先的回答（命中标出处、查不到标未验证），侧边栏带知识库面板。
+- [wanxi123w/dsh-theme-theresa](https://github.com/wanxi123w/dsh-theme-theresa) ⭐1 — 给 DeepSeek Harness 的「特蕾西娅」主题插件：象牙白 / 墨 / 淡玫瑰配色，整页背景图、毛玻璃侧栏、侧栏立绘、四角金线、落款签名与开屏动画，全部可在设置里调。
 - [DKthreeFR/ATRI-Theme-DSH](https://github.com/DKthreeFR/ATRI-Theme-DSH) — ATRI 亚托莉主题的DeepSeepk Harnesss装饰
 - [xianshu-virtuous/dsh-whale-companion](https://github.com/xianshu-virtuous/dsh-whale-companion) — DeepSeek Harness whale-maid persona and automatic near-limit session continuation
 - [LimBoo233/dsh-web-extras](https://github.com/LimBoo233/dsh-web-extras) — DeepSeek Harness Web 界面增强插件：完成/审批/提问提醒（音效 + 立绘）、外观定制（背景图 / 透明度 / 输入区折叠）、按轮次聚合的文件变更视图（行级差异 + 修改前后代码高亮）。纯浏览器端实现，无 Host 代码，数据仅保存在本地浏览器。
@@ -292,6 +294,7 @@
 - [breaker505/dsh-aurora-skin](https://github.com/breaker505/dsh-aurora-skin) — Three hand-tuned skins for DeepSeek Harness (DSH): Aurora (deep navy + electric cyan + warm coral), Paper (cool white + deep teal), and Hologram (near-black + lime-cyan). Pure --dsw-alias-* tokens, no core patches.
 - [crwsr124/dsh-mobile-layout](https://github.com/crwsr124/dsh-mobile-layout) — DeepSeek Harness Web 移动端体验套件：手机端阅读布局 + 极光玻璃换肤（文字对比度自动适配）+ 文件浏览器页签 + abort 自愈。零依赖，一个插件让 dsh web 在手机上好看好用。
 - [qiqikuaidianpao/mypet](https://github.com/qiqikuaidianpao/mypet) — 🐾 Tamagotchi-style desktop pet plugin for DeepSeek Harness — living skins that blink & wag, weather + time-of-day ambience, weekly reports, fetch mini-game · 电子宠物
+- [Zdram/deepseek-harness-skin](https://github.com/Zdram/deepseek-harness-skin) — 给DeepSeek Harness的界面提供可更换的自定义背景和界面半透明效果
 - [wuyuzi-luo/dsh-desktop](https://github.com/wuyuzi-luo/dsh-desktop) — DeepSeek Harness (dsh) 的 Windows 桌面管理壳：托盘常驻、Skills/MCP 管理面板、自定义皮肤、自动更新，小白友好的一键安装引导
 - [SynetAI/LastTokens](https://github.com/SynetAI/LastTokens) — 实时显示 DeepSeek API 余额、任务消耗记录（tokens 消耗量 / 缓存命中 / 耗时 / 估算金额）， 可拖动悬浮球 + 四主题悬浮仪表盘。
 - [hhj2714/dsh-whale-btn](https://github.com/hhj2714/dsh-whale-btn) — 桌面悬浮鲸鱼按钮：置顶可拖动，单击聚焦/打开 DeepSeek Harness 窗口 (DSH host plugin, macOS arm64)
@@ -443,7 +446,7 @@
 - [zhongyichang1998/dsh-open-meadow](https://github.com/zhongyichang1998/dsh-open-meadow) — 海风与草甸：适用于官方 macOS DeepSeek Harness 0.2.0-rc.2 的动态海边主题，提供云层、局部海浪、前景花草摆动和中文设置。
 - [nightosong/gord-dsh-saber-theme](https://github.com/nightosong/gord-dsh-saber-theme) — 这是一个 DeepSeek Harness（DSH）的 Saber（Fate）主题皮肤，支持 macOS 和 Windows。
 - [Sakayorilove/dsh-laurel](https://github.com/Sakayorilove/dsh-laurel) — Laurel 套件：给 DeepSeek Harness 的「功能管理」面板 + 四个可单独开关的插件（通知 / Claude 主题 / 记忆与上下文 / 可视化规划）
-- [pidongqianqian/dsh-mermaid-plus](https://github.com/pidongqianqian/dsh-mermaid-plus) — Mermaid diagrams for DeepSeek Harness — on-demand rendering, theme-aware, fullscreen zoom viewer
+- [pidongqianqian/dsh-mermaid-plus](https://github.com/pidongqianqian/dsh-mermaid-plus) — Mermaid diagrams for DeepSeek Harness — on-demand rendering, compact ELK layout by default, theme-aware, copy and fullscreen zoom viewer
 - [BlanCatOra/dsh-colorful-commands](https://github.com/BlanCatOra/dsh-colorful-commands) — 按类别给 DeepSeek Harness 界面着色：思考 / 命令三级风险 / 读写 / 搜索 / 网页，内置中国传统色·日本传统色·马卡龙预设，逐类别可自定义，低饱和不刺眼。🤖 由 AI 编码代理 blancatora 生成（非人类手写）。
 - [nisew2/dsh-whale-dive](https://github.com/nisew2/dsh-whale-dive) — Read Bilibili and Douyin from inside DeepSeek Harness: paced signed Bilibili API reads plus Douyin pages rendered through a real Edge browser over CDP.
 - [Henrycheheng/dsh-plugin-matt-skills](https://github.com/Henrycheheng/dsh-plugin-matt-skills) — Matt Pocock's engineering & productivity skills, adapted for DeepSeek Harness as a Cordis bundle plugin. MIT licensed.
@@ -536,9 +539,8 @@
 - [CC-play/dsh-theme-cooldark](https://github.com/CC-play/dsh-theme-cooldark) — A dark theme for DeepSeek Harness
 - [chenbocheng2568-dot/dsh-threebody-skin](https://github.com/chenbocheng2568-dot/dsh-threebody-skin) — 三体 · DeepSeek Harness 皮肤：片头冷色调 + 群山远景虚影 + 星空缓慢转动 + 水滴舰队 · Three-Body skin for DSH: cold palette with a faint closing landscape ghost
 - [nizihan29/dsh-theme-strinova](https://github.com/nizihan29/dsh-theme-strinova)
-- [fanyingnie2163663/dsh-whale-weather](https://github.com/fanyingnie2163663/dsh-whale-weather) — 会看天，也会关心你：给 DeepSeek Harness 的关心型天气插件。预报 + 空气质量 + 本地偏好档案（称呼/怕冷怕热/出行方式/伞/健康备注），按时段说人话。免费、无需 API Key。
+- [fanyingnie2163663/dsh-whale-care](https://github.com/fanyingnie2163663/dsh-whale-care) — 会看天，也会关心你：给 DeepSeek Harness 的关心引擎。天气是第一个来源——个性化预报、穿衣带伞建议、每日关心（可开关、跟作息）、极端天气预警与提醒；偏好只存本地。MIT，无需 API Key。
 - [leno-whale/dsh-leno-film-eye](https://github.com/leno-whale/dsh-leno-film-eye) — 鱼眼：让 DSH agent 真的看完一段片子——连续画面、声音形状、剪辑节奏三线对齐（ffmpeg，无云依赖）
-- [bilihave/dsh-whale-panel](https://github.com/bilihave/dsh-whale-panel) — B站 策展浮窗（DSH 插件）：按概率学习兴趣、按半衰期淡忘，把每日金额上限换算成 token 额度后挑片，契合度达标才 @ 你；评论有日上限，政治/政府/前沿科学三类话题一律不评价；带总开关可一键彻底停手。
 - [pyyxzi/dsh-deepmoyu](https://github.com/pyyxzi/dsh-deepmoyu) — DeepMoYu 鲸鱼摸鱼 — DSH 插件：让鲸鱼娘自主刷 B站，自己搜片、读字幕、发评论、发动态、回私信，还能写日报、做视频。Fork of c1overzz/dsh-bili-scroll
 - [Ewigkeit1203/dsh-whale-pet](https://github.com/Ewigkeit1203/dsh-whale-pet)
 - [Aliciawque/dsh-big-whale](https://github.com/Aliciawque/dsh-big-whale) — 大鲸鱼 / Big Whale / 大クジラ — a trilingual DSH desktop companion with lip sync, expressions, idle motions and context-compaction rice.
@@ -546,8 +548,10 @@
 - [chy1021653908/want-to-type](https://github.com/chy1021653908/want-to-type) — Theme-matched typing effects, companions, combos and sounds for DSH.
 - [ggxx001/dsh-whale-widget](https://github.com/ggxx001/dsh-whale-widget) — DSH Web 界面右下角的 DeepSeek 余额小鲸鱼挂件:余额/今日已用/峰谷定价、自定义泡泡点击序列(文本/余额/今日/峰谷/图片/随机语句与并列加权选择)、逐行样式与字体、悬浮快捷编辑、音效与每轮消耗、自定义角色/动图/音效、吸附与翻转自定义
 - [Song2012/dsh-codex-chat](https://github.com/Song2012/dsh-codex-chat) — Codex 风格会话样式：轮次分隔线 + 右侧输入卡片（DSH Web 插件）
+- [wld007/dsh-medical-anonymizer](https://github.com/wld007/dsh-medical-anonymizer) — DeepSeek Harness 医疗数据批量匿名化插件：规则识别 + 可选本地/内网模型复核，稳定假名替换，输出审计报告。
+- [galizhajidanbaofan/dsh-theme-notebook-paper](https://github.com/galizhajidanbaofan/dsh-theme-notebook-paper) — 把 DeepSeek Harness 桌面端铺成横线笔记本纸的纯外观主题插件（Desktop profile）
 
 ---
 
 
-*Generated on 2026-10-31 · 537 plugins in this category*
+*Generated on 2026-10-31 · 541 plugins in this category*

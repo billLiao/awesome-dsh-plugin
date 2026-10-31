@@ -4,7 +4,7 @@
 > Credential management, encryption, audit, and security tooling.
 
 
-**16 plugins**
+**17 plugins**
 
 
 ---
@@ -25,8 +25,9 @@
 - [moyuqing-man/dsh-plugin-community](https://github.com/moyuqing-man/dsh-plugin-community) — DSH 插件社区的讨论与反馈入口：插件展示 / 求助 / 想法与需求 / 已知问题。本仓库不含任何可执行代码（见 SECURITY.md）。 / Discussion and feedback hub for the DSH plugin community. Contains no executable code.
 - [chjy090/dsh-pairing-gate](https://github.com/chjy090/dsh-pairing-gate) — DSH安全认证插件
 - [Shark00I/dsh-audit](https://github.com/Shark00I/dsh-audit)
+- [ICE03E/dsh-ecosystem-audit](https://github.com/ICE03E/dsh-ecosystem-audit) — dsh 插件: 自写插件 vs 官方/第三方对比、迁移建议与优秀插件推荐
 
 ---
 
 
-*Generated on 2026-10-31 · 16 plugins in this category*
+*Generated on 2026-10-31 · 17 plugins in this category*

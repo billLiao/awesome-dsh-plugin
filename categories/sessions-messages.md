@@ -9,6 +9,8 @@
 
 ---
 
+- [NFdrybattery/dsh-handitoff](https://github.com/NFdrybattery/dsh-handitoff) ⭐ 0 — Hand off a long DSH session to a fresh one: `/handitoff` writes HANDOFF.md, appends the recent rounds, and injects a takeover brief with optional user notes.
+
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) ⭐12180 — Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
 - [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) ⭐4754 — A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
 - [kingcharleslzy-ai/dsh-purge](https://github.com/kingcharleslzy-ai/dsh-purge) ⭐3808 — dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。

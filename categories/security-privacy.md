@@ -4,7 +4,7 @@
 > Credential management, encryption, audit, and security tooling.
 
 
-**17 plugins**
+**18 plugins**
 
 
 ---
@@ -26,8 +26,9 @@
 - [chjy090/dsh-pairing-gate](https://github.com/chjy090/dsh-pairing-gate) — DSH安全认证插件
 - [Shark00I/dsh-audit](https://github.com/Shark00I/dsh-audit)
 - [ICE03E/dsh-ecosystem-audit](https://github.com/ICE03E/dsh-ecosystem-audit) — dsh 插件: 自写插件 vs 官方/第三方对比、迁移建议与优秀插件推荐
+- [Lqba-dx/dsh-egress-audit](https://github.com/Lqba-dx/dsh-egress-audit)
 
 ---
 
 
-*Generated on 2026-11-01 · 17 plugins in this category*
+*Generated on 2026-11-02 · 18 plugins in this category*

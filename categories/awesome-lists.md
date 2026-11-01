@@ -10,14 +10,14 @@
 ---
 
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) ⭐21830 — A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
-- [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) ⭐1488 — DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物
+- [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) ⭐1489 — DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物
 - [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) ⭐1189 — DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.
 - [Anil-matcha/awesome-dsh-plugin](https://github.com/Anil-matcha/awesome-dsh-plugin) ⭐987 — A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem
 - [Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins](https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins) ⭐574 — Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.
 - [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia) ⭐490 — AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
 - [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin) ⭐485 — 30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。
 - [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) ⭐353 — A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh
-- [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins) ⭐345 — DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com
+- [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins) ⭐346 — DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com
 - [libukai/awesome-deepseek-harness](https://github.com/libukai/awesome-deepseek-harness) ⭐255 — DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit
 - [leenkcool/Blue-Whale-Harness](https://github.com/leenkcool/Blue-Whale-Harness) ⭐200 — 🐋 DeepSeek Harness 插件总目录 · The catalog of DSH plugins：1958 个仓库 / 1819 个真插件（Skills · MCP · Tools · UI · Orchestration），中英文搜索、分类筛选、STAR 排序 → leenkcool.github.io
 - [beancookie/awesome-dsh-plugin](https://github.com/beancookie/awesome-dsh-plugin) ⭐186 — Awesome DeepSeek Harness (DSH) Plugin
@@ -36,8 +36,8 @@
 - [Meredith2328/dsh-sticky-note](https://github.com/Meredith2328/dsh-sticky-note) ⭐47 — 左下角便签：随手记点子/感想/TODO，实时保存到归档目录，清单+悬浮归档
 - [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills) ⭐43 — An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准。Works with Claude Code, Codex, DSH, VS Code Copilot & any compatible agent.
 - [Jiyr0119/dsh-workspace-explorer](https://github.com/Jiyr0119/dsh-workspace-explorer) ⭐39 — DeepSeek Harness 工作区文件资源管理器:右侧目录树面板,点击/拖拽文件引用进输入框,UI 对齐 DSH 原生风格 | Workspace file explorer plugin for DeepSeek Harness: right-side file tree panel, click or drag file references into the composer, native DSH look
+- [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) ⭐36 — Community-curated DeepSeek Harness (dsh) plugins, tools, skills and learning resources. Searchable bilingual directory | DeepSeek 插件、工具与技能精选
 - [FTShare-Lab/dsh_kline](https://github.com/FTShare-Lab/dsh_kline) ⭐35 — 面向 DeepSeek Harness 的交互式 K 线分析插件，支持多市场行情、技术指标、支撑压力位、新闻与基本面分析，并在原生侧栏中直接展示。
-- [awesome-deepseekharness/awesome-deepseek-harness](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) ⭐35 — Community-curated DeepSeek Harness (dsh) plugins, tools, skills and learning resources. Searchable bilingual directory | DeepSeek 插件、工具与技能精选
 - [the-beating-light-of-the-nail/dsh-meme-hub](https://github.com/the-beating-light-of-the-nail/dsh-meme-hub) ⭐34 — 🐋 The meme side of DeepSeek Harness — 贪玩蓝鲸/QQ2006/whale girls/mini-games · A curated tour of the wildest dsh plugins
 - [Ed-Marcavage/awesome-security-agent-harnesses](https://github.com/Ed-Marcavage/awesome-security-agent-harnesses) ⭐32 — AI agents for pentesting, code audit, fuzzing, vulnerability discovery, and reverse engineering: harnesses, sandboxes, security MCP servers, benchmarks, and evals.
 - [wingsky-1/dsh-plugin-hub](https://github.com/wingsky-1/dsh-plugin-hub) ⭐30 — DSH (DeepSeek Harness) web GUI plugin collection — task notifications, provider usage, LAN proxy, MCP manager, worktree sidebar, isolated browser verification. Targets dsh release candidates (rc only, no alpha); exact baseline in README. Install: dsh plugin --profile web add @wingsky-1/dsh-plugins-all
@@ -62,6 +62,7 @@
 - [XHR666/dsh-mpkg-wallpaper](https://github.com/XHR666/dsh-mpkg-wallpaper) ⭐12 — DSH 插件：把 Wallpaper Engine 的 .mpkg / 创意工坊目录作为网页背景（视频/网页/场景壁纸）。渲染器产品名 WEwebLoader。
 - [vvlife/awesome-deepseek-harness-plugins](https://github.com/vvlife/awesome-deepseek-harness-plugins) ⭐11 — A curated list of plugins, tools, skins, and extensions for DeepSeek Harness (DSH).
 - [amplifthq/oh-my-dsh](https://github.com/amplifthq/oh-my-dsh) ⭐11 — A curated distribution of DeepSeek Harness. Overlay, not a fork.
+- [isheng-eqi/dsh-hermes-memory](https://github.com/isheng-eqi/dsh-hermes-memory) ⭐11 — Hermes-style persistent memory (MEMORY.md / USER.md) for DeepSeek Harness (DSH) — a faithful port of hermes-agent MemoryStore: bounded, file-backed, model-curated, frozen-snapshot injection.
 - [YunzhouLi-hub/dsh-overall-mcp](https://github.com/YunzhouLi-hub/dsh-overall-mcp) ⭐11 — DeepSeek Harness 面板「全局 MCP & Skill」：宿主机 MCP 配置扫描与自动接入、六个 MCP 目录 + 四个 skill 市场、本机收录索引、调用记录
 - [NoWint/Oh-My-DSH](https://github.com/NoWint/Oh-My-DSH) ⭐10 — 🐋 Oh-My-DSH — DeepSeek Harness Plugin Ecosystem【每一小时更新】
 - [dsh-research/dsh-research](https://github.com/dsh-research/dsh-research) ⭐10 — The research plugin market for DeepSeek Harness (dsh): a Research plugins page in Settings that installs a curated, hand-read catalog into the profile you are running. Catalog at dsh-research.com.
@@ -83,7 +84,6 @@
 - [lilyblessing/dsh-mcp-skill-panel](https://github.com/lilyblessing/dsh-mcp-skill-panel) ⭐6 — MCP 与技能管理面板：设置页展示 MCP 服务器与 Skill 目录，随时启停释放上下文占用。
 - [songoao25/dsh-virtual-product-team](https://github.com/songoao25/dsh-virtual-product-team) ⭐6 — Product Team Mode - a DeepSeek Harness agent preset: user-led conversation with a virtual product team (PM to Engineer to QA to Release) walking you from idea to shipped product
 - [lwmxiaobei/dsh-plugins](https://github.com/lwmxiaobei/dsh-plugins) ⭐6 — DeepSeek Harness 社区插件目录，自动汇总并基础校验 GitHub 插件，支持搜索、筛选、双语详情与最新版本安装命令复制。Community directory for DeepSeek Harness plugins with automated discovery, basic validation, search, filters, bilingual details, and latest version install commands.
-- [isheng-eqi/dsh-hermes-memory](https://github.com/isheng-eqi/dsh-hermes-memory) ⭐6 — Hermes-style persistent memory (MEMORY.md / USER.md) for DeepSeek Harness (DSH) — a faithful port of hermes-agent MemoryStore: bounded, file-backed, model-curated, frozen-snapshot injection.
 - [yingjian666/dsh-zh-thinking](https://github.com/yingjian666/dsh-zh-thinking) ⭐6 — DeepSeek Harness (dsh) 插件：注入系统提示词，强制 Agent 的思维链 / 规划 / 工具推理全程使用简体中文，防止中文思考漂移为英文。零外部依赖，任意本地目录 link 即装。
 - [Zoria-Lind/dsh-ecolink](https://github.com/Zoria-Lind/dsh-ecolink) ⭐6 — Memory ecosystem bridging the DeepSeek web app and local DSH — one local memory pool shared by a browser extension (harvest/inject), a zero-dependency local service (sole writer), and a DSH adapter (pre-step injection).
 - [NoProblUm/dsh-codexlike-projectless](https://github.com/NoProblUm/dsh-codexlike-projectless) ⭐6 — Provides a Codex-like, project-free session experience for DeepSeek Harness, automatically creating a working directory organized by date and topic upon first sending.为 DeepSeek Harness 提供类 Codex 的无项目会话体验，首次发送时自动创建按日期和主题组织的工作目录。
@@ -174,6 +174,7 @@
 - [felixpu/dsh-env-inspector-plus](https://github.com/felixpu/dsh-env-inspector-plus) ⭐2 — 环境体检：在「设置 → 环境体检」加一个分页，展示当前 DSH 宿主进程的身份（pid / 入口 / 工作目录 / Node / 运行时长）与环境变量分组（总数、DSH_ 前缀组、凭证形态组），值一律不出宿主；同时给模型一个只读的 env_inspect 工具。
 - [reaxlll/dsh-workspace-recollection](https://github.com/reaxlll/dsh-workspace-recollection) ⭐2 — DSH工作区内跨会话记忆插件
 - [Zilize/parallax-dsh](https://github.com/Zilize/parallax-dsh) ⭐2 — DeepSeek Harness (dsh) plugin for comprehensive arXiv literature search, with Jev-powered AI screening and classification.
+- [JHboy203/dsh-plugin-installer](https://github.com/JHboy203/dsh-plugin-installer) ⭐2 — DSH 侧栏「插件 / Skill 安装」：GitHub / Release / 压缩包 / 本地目录 → 下载·解包·预检·快照·安装·诊断·回滚；MCP 与 Skill 也可装；AI 模型可自选（默认跟随 DSH），首次打开有引导；支持自定义搜索来源；安装零 token。 | DSH sidebar installer for plugins, Skills and MCP: deterministic pipeline; pick the AI model (defaults to DSH) with a first-run guide; custom search sources; zero-token installs.
 - [YukiSuoug/dsh-plugin-updater](https://github.com/YukiSuoug/dsh-plugin-updater) ⭐2 — 给 DeepSeek Harness 插件页加一个「更新」标签：检查已安装插件的最新版本、切换安装源（官方源/国内镜像/自定义）、一键升级、打开本地目录或仓库。复用官方 plugin-manager 的 pnpm 管线，不自己造下载器。
 - [Selinefieldcrop975/awesome-deepseek-agent](https://github.com/Selinefieldcrop975/awesome-deepseek-agent) ⭐1 — Discover step-by-step guides to integrate DeepSeek models into top AI agents and coding assistants, with quick setup for V4-Pro and V4-Flash.
 - [ReachGa0/dsh-desktop](https://github.com/ReachGa0/dsh-desktop) ⭐1 — DeepSeek Harness 桌面版（Windows）：双击即用，选区截图直接问 AI · 系统托盘、会话管理 · Featured in awesome-dsh-plugin
@@ -480,7 +481,6 @@
 - [xevil3301/dsh-chatlock](https://github.com/xevil3301/dsh-chatlock) — DSH 聊天锁 / 保险箱：给会话上密码锁，把目录加密成保险箱
 - [huajiao1998/dsh-plugin-subagent-clean](https://github.com/huajiao1998/dsh-plugin-subagent-clean) — DeepSeek Harness 子代理清理插件：删除子代理会话，并把父会话日志里残留的目录行原位退休，附带网页端一键清理面板（上游会报错、历史行清不掉）
 - [Mint-hfut/dsh-personal-assistant](https://github.com/Mint-hfut/dsh-personal-assistant) — Proactive personal assistant for DeepSeek Harness: preferences, knowledge, follow-through, and collection learning.
-- [JHboy203/dsh-plugin-installer](https://github.com/JHboy203/dsh-plugin-installer) — DSH 侧栏「插件 / Skill 安装」：GitHub / Release / 压缩包 / 本地目录 → 下载·解包·预检·快照·安装·诊断·回滚；MCP 与 Skill 也可装；AI 只推荐与递请求（安装零 token）；支持自定义搜索来源。 | DSH sidebar installer for plugins, Skills and MCP: deterministic pipeline with precheck, snapshot and rollback; AI recommends only; custom search sources.
 - [JHboy203/dsh-plugin-catalog](https://github.com/JHboy203/dsh-plugin-catalog) — DSH 侧栏「插件目录」：插件/Skill/MCP 卡片清点 + 90 天调用与报错统计 + 运行期 fiberPhase 对账 + 卡片上卸载/停用/删 SKILL。开发版（非最终版），支持 DSH 0.2.1–0.2.x，不定期更新。 | DSH sidebar catalog for plugins, Skills and MCP: cards, 90-day call stats, runtime reconciliation, in-panel disposal. Dev build for DSH 0.2.1–0.2.x.
 - [ramwin/dsh-workspace-tree-status](https://github.com/ramwin/dsh-workspace-tree-status) — DSH Web 插件：工作区树目录行显示聚合会话状态点（等待输入/刚完成/运行中），父文件夹自动汇总嵌套工作区的会话状态。Aggregated session status dots on DSH Web's workspace-tree folder rows.
 - [kadaliao/dsh-plugins](https://github.com/kadaliao/dsh-plugins) — A collection of plugins for DeepSeek Harness: small, focused additions to the chat, the composer and the workspace.
@@ -513,4 +513,4 @@
 ---
 
 
-*Generated on 2026-11-01 · 500 plugins in this category*
+*Generated on 2026-11-02 · 500 plugins in this category*

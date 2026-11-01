@@ -52,6 +52,15 @@ def score_plugin(repo):
         score += 2
         reasons.append('dsh-plugin topic')
 
+    # Issue #26 (2026-10-31): omni-learning-anything carries the dsh-plugin
+    # topic but its description never mentions DSH, so the topic signal alone
+    # (+2) leaves it at score 2 = weakly-related and categorize() never runs
+    # on it. Narrow name-token rule lifts it to strong; see the matching
+    # categorize() rule below.
+    if 'omni-learning-anything' in name:
+        score += 2
+        reasons.append('known omni-learning-anything plugin (issue #26)')
+
     # --- Weak signals (+1) ---
 
     # Description mentions dsh/deepseek/harness (but not explicitly as plugin)
@@ -126,6 +135,11 @@ def categorize(repo):
     # description) would catch it first. PR #24 by HZDF-2026, 2026-10-31.
     if 'ctxfold' in name:
         return 'memory'
+
+    # Issue #26 (2026-10-31): omni-learning-anything is a learning/tools
+    # plugin; submitter requested tools-capabilities.
+    if 'omni-learning-anything' in name:
+        return 'tools-capabilities'
 
     # Cross-session inbox / session dashboards → Sessions & Messages
     # (must run before the UI keyword list, whose bare 'ui' token occurs inside

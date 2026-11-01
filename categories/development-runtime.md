@@ -76,8 +76,8 @@
 - [HateYouLittle/dsh-clinepass](https://github.com/HateYouLittle/dsh-clinepass)
 - [ReWebaiyu/dsh-qq-console](https://github.com/ReWebaiyu/dsh-qq-console) — dsh-qq 的源码备份与开发留档（插件安装与市场条目请看 ReWebaiyu/dsh-qq）
 - [zyqchanel-06/dsh-rail-x](https://github.com/zyqchanel-06/dsh-rail-x) — DSH 输入框附件删除按钮常显：一条 CSS + 自愈观察器，不悬停也能点掉误粘的附件
-- [fj7937290-sys/dsh-video-eyes](https://github.com/fj7937290-sys/dsh-video-eyes) — ??????????:???????? + ?????????,????????????? | Video sampling for text-only agents
 - [rocketstar666/dsh-approval-comment](https://github.com/rocketstar666/dsh-approval-comment) — DSH 审批流程选择拒绝时，支持填写拒绝的理由（附言），类似 Claude Code CLI 的 Tab to amend
+- [otm1998/dsh-plugin-namer](https://github.com/otm1998/dsh-plugin-namer) — 给已安装的第三方插件改名，写进它自己的语言元数据
 
 ---
 

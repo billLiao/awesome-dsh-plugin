@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**69 plugins**
+**70 plugins**
 
 
 ---
@@ -78,8 +78,9 @@
 - [zyqchanel-06/dsh-rail-x](https://github.com/zyqchanel-06/dsh-rail-x) — DSH 输入框附件删除按钮常显：一条 CSS + 自愈观察器，不悬停也能点掉误粘的附件
 - [rocketstar666/dsh-approval-comment](https://github.com/rocketstar666/dsh-approval-comment) — DSH 审批流程选择拒绝时，支持填写拒绝的理由（附言），类似 Claude Code CLI 的 Tab to amend
 - [otm1998/dsh-plugin-namer](https://github.com/otm1998/dsh-plugin-namer) — 给已安装的第三方插件改名，写进它自己的语言元数据
+- [mouyu6508-hue/dsh-fusion](https://github.com/mouyu6508-hue/dsh-fusion) — DSH plugin composition conflict fusion: detect duplicate loaders across bundles, merge silently overridden config, emit a boot-safe patch.
 
 ---
 
 
-*Generated on 2026-11-01 · 69 plugins in this category*
+*Generated on 2026-11-01 · 70 plugins in this category*

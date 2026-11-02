@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**117 plugins**
+**118 plugins**
 
 
 ---
@@ -126,8 +126,9 @@
 - [SB-TDM/dsh-rvc-cover](https://github.com/SB-TDM/dsh-rvc-cover) — 用本机 RVC 模型翻唱，并让说话走同一个模型。
 - [backtomyfuture/dsh-resource-center](https://github.com/backtomyfuture/dsh-resource-center)
 - [mhxy13867806343/dsh-plugin-select-model](https://github.com/mhxy13867806343/dsh-plugin-select-model)
+- [twoweeks1995/dsh-subagent-setup](https://github.com/twoweeks1995/dsh-subagent-setup)
 
 ---
 
 
-*Generated on 2026-11-02 · 117 plugins in this category*
+*Generated on 2026-11-03 · 118 plugins in this category*

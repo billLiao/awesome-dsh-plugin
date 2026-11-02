@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**19 plugins**
+**20 plugins**
 
 
 ---
@@ -28,8 +28,9 @@
 - [x-cores/dsh-mine-game](https://github.com/x-cores/dsh-mine-game)
 - [funswe/dsh-resizable-settings](https://github.com/funswe/dsh-resizable-settings)
 - [iypavlov/dsh-cat-pet](https://github.com/iypavlov/dsh-cat-pet)
+- [xnwang1999/dsh-dragon-maid-pet](https://github.com/xnwang1999/dsh-dragon-maid-pet)
 
 ---
 
 
-*Generated on 2026-11-02 · 19 plugins in this category*
+*Generated on 2026-11-02 · 20 plugins in this category*

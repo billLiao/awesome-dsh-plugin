@@ -141,6 +141,14 @@ def categorize(repo):
     if 'omni-learning-anything' in name:
         return 'tools-capabilities'
 
+    # Issue #28 (2026-11-03): dsh-plugin-upgrader is a plugin-version manager
+    # (one-click upgrades, version history and rollback for *plugins* on the
+    # Plugins page), not a session tool; the generic sessions-messages keyword
+    # 'rollback' catches its description first. Narrow name token →
+    # Development & Runtime (plugin managers live there).
+    if 'dsh-plugin-upgrader' in name:
+        return 'development-runtime'
+
     # Cross-session inbox / session dashboards → Sessions & Messages
     # (must run before the UI keyword list, whose bare 'ui' token occurs inside
     # owner slugs like Lingrui98 — issue #22, 2026-10-23)

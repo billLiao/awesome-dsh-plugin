@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**72 plugins**
+**73 plugins**
 
 
 ---
@@ -24,6 +24,7 @@
 - [omdsh-dev/dsh-daily-progress](https://github.com/omdsh-dev/dsh-daily-progress) ⭐3
 - [codingayice/dsh-interview](https://github.com/codingayice/dsh-interview) ⭐3 — 面向开发岗位的 DSH AI面试助手，支持八股复习、模拟面试、场景题、力扣 Hot 100 和可视化练习管理。
 - [VibeDev-Si/dsh-film](https://github.com/VibeDev-Si/dsh-film) ⭐3
+- [zuwenyin/dsh-plugin-upgrader](https://github.com/zuwenyin/dsh-plugin-upgrader) ⭐3 — One-click upgrades, version history and rollback for plugins on the DeepSeek Harness Plugins page
 - [omdsh-dev/dsh-sandbox-micro](https://github.com/omdsh-dev/dsh-sandbox-micro) ⭐2
 - [AtWhuhu/dsh-devin-cli](https://github.com/AtWhuhu/dsh-devin-cli) ⭐2 — dsh devin cli插件
 - [2128627267/dsh-qbetter-config](https://github.com/2128627267/dsh-qbetter-config) ⭐1
@@ -85,4 +86,4 @@
 ---
 
 
-*Generated on 2026-11-03 · 72 plugins in this category*
+*Generated on 2026-11-03 · 73 plugins in this category*

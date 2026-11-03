@@ -22,13 +22,13 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 |------|------|------|
 | 🎨 [UI 增强](categories/ui-enhancements.md) | 6936 | 增强 DSH Web/终端用户界面的插件。 |
 | 🎭 [主题与外观](categories/themes-appearance.md) | 576 | DSH 皮肤、主题与外观定制。 |
-| 💬 [会话与消息](categories/sessions-messages.md) | 3634 | 会话管理、消息编辑、分享与对话工具。 |
+| 💬 [会话与消息](categories/sessions-messages.md) | 3633 | 会话管理、消息编辑、分享与对话工具。 |
 | 🧠 [记忆](categories/memory.md) | 665 | 持久记忆、知识库与上下文保留插件。 |
 | 🛠️ [工具与能力](categories/tools-capabilities.md) | 5941 | 视觉、浏览器、终端、SSH、Docker 等能力扩展。 |
 | 🔁 [工作流与自动化](categories/workflow-automation.md) | 4582 | 自动化循环、定时任务、多智能体团队与工作流引擎。 |
 | 🔔 [通知与集成](categories/notifications-integrations.md) | 51 | 微信、Telegram、IM 桥接、桌面通知与外部集成。 |
 | 🔌 [模型与账号接入](categories/models-providers.md) | 118 | 多模型支持、OAuth 登录、LLM 回退策略与提供商桥接。 |
-| 🧑‍💻 [开发与运行时](categories/development-runtime.md) | 72 | 插件管理器、SDK、CLI、桌面壳与开发者工具。 |
+| 🧑‍💻 [开发与运行时](categories/development-runtime.md) | 73 | 插件管理器、SDK、CLI、桌面壳与开发者工具。 |
 | 🔒 [安全与隐私](categories/security-privacy.md) | 18 | 凭证管理、加密、审计与安全工具。 |
 | 🎮 [娱乐](categories/fun.md) | 21 | 游戏、桌宠、娱乐与趣味插件。 |
 | 📋 [精选列表与合集](categories/awesome-lists.md) | 505 | DSH 插件精选列表与合集。 |
@@ -61,7 +61,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) ⭐5176 — A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
 - [kingcharleslzy-ai/dsh-purge](https://github.com/kingcharleslzy-ai/dsh-purge) ⭐4024 — dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。
 
-▶️ [查看全部 3634 个插件 →](categories/sessions-messages.md)
+▶️ [查看全部 3633 个插件 →](categories/sessions-messages.md)
 
 
 ### 🧠 记忆
@@ -115,7 +115,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐71 — Support dsh runtime on Multica.
 - [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐21 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
 
-▶️ [查看全部 72 个插件 →](categories/development-runtime.md)
+▶️ [查看全部 73 个插件 →](categories/development-runtime.md)
 
 
 ### 🔒 安全与隐私

@@ -119045,20 +119045,6 @@
         "updated_at": "2026-10-22T16:32:20Z"
       },
       {
-        "full_name": "zuwenyin/dsh-plugin-upgrader",
-        "url": "https://github.com/zuwenyin/dsh-plugin-upgrader",
-        "description": "One-click upgrades, version history and rollback for plugins on the DeepSeek Harness Plugins page",
-        "stars": 3,
-        "topics": [
-          "deepseek-harness",
-          "dsh",
-          "dsh-plugin",
-          "plugin-manager",
-          "version-manager"
-        ],
-        "updated_at": "2026-11-03T07:33:25Z"
-      },
-      {
         "full_name": "Kyf-eng/dsh-threads",
         "url": "https://github.com/Kyf-eng/dsh-threads",
         "description": "DeepSeek Harness plugin: the main conversation dispatches work into real thread sessions and gets short summaries back.",
@@ -320535,6 +320521,20 @@
           "dsh-plugin"
         ],
         "updated_at": "2026-10-15T03:52:20Z"
+      },
+      {
+        "full_name": "zuwenyin/dsh-plugin-upgrader",
+        "url": "https://github.com/zuwenyin/dsh-plugin-upgrader",
+        "description": "One-click upgrades, version history and rollback for plugins on the DeepSeek Harness Plugins page",
+        "stars": 3,
+        "topics": [
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin",
+          "plugin-manager",
+          "version-manager"
+        ],
+        "updated_at": "2026-11-03T07:33:25Z"
       },
       {
         "full_name": "omdsh-dev/dsh-sandbox-micro",

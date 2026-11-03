@@ -22,13 +22,13 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 |----------|-------|-------------|
 | 🎨 [UI Enhancements](categories/ui-enhancements.md) | 6936 | Plugins that enhance the DSH web/terminal user interface. |
 | 🎭 [Themes & Appearance](categories/themes-appearance.md) | 576 | Skins, themes, and appearance customization for DSH. |
-| 💬 [Sessions & Messages](categories/sessions-messages.md) | 3634 | Session management, message editing, sharing, and conversation tools. |
+| 💬 [Sessions & Messages](categories/sessions-messages.md) | 3633 | Session management, message editing, sharing, and conversation tools. |
 | 🧠 [Memory](categories/memory.md) | 665 | Persistent memory, knowledge bases, and context retention plugins. |
 | 🛠️ [Tools & Capabilities](categories/tools-capabilities.md) | 5941 | Vision, browser, terminal, SSH, Docker, and other capability extensions. |
 | 🔁 [Workflow & Automation](categories/workflow-automation.md) | 4582 | Automation loops, scheduled tasks, multi-agent teams, and workflow engines. |
 | 🔔 [Notifications & Integrations](categories/notifications-integrations.md) | 51 | WeChat, Telegram, IM bridges, desktop notifications, and external integrations. |
 | 🔌 [Models & Providers](categories/models-providers.md) | 118 | Multi-model support, OAuth login, LLM fallback strategies, and provider bridges. |
-| 🧑‍💻 [Development & Runtime](categories/development-runtime.md) | 72 | Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling. |
+| 🧑‍💻 [Development & Runtime](categories/development-runtime.md) | 73 | Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling. |
 | 🔒 [Security & Privacy](categories/security-privacy.md) | 18 | Credential management, encryption, audit, and security tooling. |
 | 🎮 [Just for Fun](categories/fun.md) | 21 | Games, pets, entertainment, and playful plugins. |
 | 📋 [Awesome Lists & Collections](categories/awesome-lists.md) | 505 | Curated collections and awesome lists of DSH plugins. |
@@ -64,7 +64,7 @@ A selection of notable plugins by category:
 - [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) ⭐5176 — A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
 - [kingcharleslzy-ai/dsh-purge](https://github.com/kingcharleslzy-ai/dsh-purge) ⭐4024 — dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。
 
-▶️ [View all 3634 plugins →](categories/sessions-messages.md)
+▶️ [View all 3633 plugins →](categories/sessions-messages.md)
 
 
 ### 🧠 Memory
@@ -118,7 +118,7 @@ A selection of notable plugins by category:
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐71 — Support dsh runtime on Multica.
 - [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐21 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
 
-▶️ [View all 72 plugins →](categories/development-runtime.md)
+▶️ [View all 73 plugins →](categories/development-runtime.md)
 
 
 ### 🔒 Security & Privacy

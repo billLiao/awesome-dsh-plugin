@@ -4,7 +4,7 @@
 > Session management, message editing, sharing, and conversation tools.
 
 
-**3634 plugins**
+**3633 plugins**
 
 
 ---
@@ -567,7 +567,6 @@
 - [xlxs123/dsh-session-multiselect](https://github.com/xlxs123/dsh-session-multiselect) ⭐3 — DSH Desktop 插件：会话多选面板 —— 搜索/分组/筛选、批量删除（回收站 7 天可恢复）、恢复、置顶/归档、键盘操作、复制清单。Multi-select panel for DSH conversations with a restorable trash and Markdown export.
 - [arrow1031-dev/dsh-qq-bot](https://github.com/arrow1031-dev/dsh-qq-bot) ⭐3 — 把 QQ 接到 DSH Agent 的插件（社区化维护）：经 NapCat / OneBot 11 收发消息，每个 QQ 会话一个 DSH Agent。
 - [Jxxxxx729/dsh-win-notify](https://github.com/Jxxxxx729/dsh-win-notify) ⭐3 — DeepSeek Harness 插件：在 Windows 通知栏提示对话完成、等待选择、等待授权或需要登录，点击通知直接跳回对应对话。Toast 以 DeepSeek Harness 应用身份发出。
-- [zuwenyin/dsh-plugin-upgrader](https://github.com/zuwenyin/dsh-plugin-upgrader) ⭐3 — One-click upgrades, version history and rollback for plugins on the DeepSeek Harness Plugins page
 - [Kyf-eng/dsh-threads](https://github.com/Kyf-eng/dsh-threads) ⭐3 — DeepSeek Harness plugin: the main conversation dispatches work into real thread sessions and gets short summaries back.
 - [Leawind/dsh-rice-on-a-stick](https://github.com/Leawind/dsh-rice-on-a-stick) ⭐3 — Operate DeepSeek Harness (dsh) from any MCP client or from dsh sessions. 白饭钓竿：让 MCP 客户端与 dsh 会话直接控制 dsh。
 - [Mengtiansoul/dsh-douyin-on-base](https://github.com/Mengtiansoul/dsh-douyin-on-base) ⭐3 — DSH 抖音插件：内容模块（star-browser 刷推荐流 / 视觉评估 / 互动）+ 社交模块（douyin-im 收发私信群聊，零浏览器）。设置面板分三页，保存即时生效。
@@ -3647,4 +3646,4 @@
 ---
 
 
-*Generated on 2026-11-03 · 3634 plugins in this category*
+*Generated on 2026-11-03 · 3633 plugins in this category*

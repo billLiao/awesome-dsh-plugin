@@ -45,6 +45,7 @@
 - [leaves615/dsh-llm-ctl](https://github.com/leaves615/dsh-llm-ctl) ⭐1
 - [49zr664rb8-hue/dsh-codex-effort](https://github.com/49zr664rb8-hue/dsh-codex-effort) ⭐1 — 把 DSH 输入框的「模型·推理等级」菜单换成 Codex 那样的横向滑动滑条
 - [ken95573/dsh-model-show](https://github.com/ken95573/dsh-model-show) ⭐1 — 同时显示AI模型和供应商
+- [Asaiuta/dsh-blackhole](https://github.com/Asaiuta/dsh-blackhole) ⭐1
 - [Airisey/dsh-model-failover](https://github.com/Airisey/dsh-model-failover) ⭐1 — 模型接力 —— 用优先级队列接管 LLM 输出
 - [DeZhou123/dsh-model-orchestrator](https://github.com/DeZhou123/dsh-model-orchestrator) ⭐1 — DSH 插件：两级模型调度（先选模型、再选渠道；失败先换渠道再换模型），带偏好模式与实时渠道健康面板。与 dsh-our-free-model 配合使用（单向适配、非官方）：只读它写在本机的渠道账本作旁证，不改它、也不要求它为本插件做任何改动；两者零代码依赖，不装 OFM 也能完整路由。
 - [Esper967/dsh-music-insight](https://github.com/Esper967/dsh-music-insight) ⭐1 — 让你的dsh模型感受音乐
@@ -103,7 +104,6 @@
 - [Kiteluo/dsh-bgame](https://github.com/Kiteluo/dsh-bgame) — DSH Web 小游戏插件：德州扑克、21 点、五子棋、UNO，支持电脑和模型对手。
 - [LingYingNX/dsh-codex-parity](https://github.com/LingYingNX/dsh-codex-parity)
 - [miku05231/dsh-provider-quote](https://github.com/miku05231/dsh-provider-quote) — DSH 插件：对正在使用的模型提供商询价（余额 + 单价，参考 cc-switch 的「服务商询价」）
-- [Asaiuta/dsh-blackhole](https://github.com/Asaiuta/dsh-blackhole)
 - [Mhmd7-7/dsh-ai-model-hub](https://github.com/Mhmd7-7/dsh-ai-model-hub)
 - [vb2250158/dsh-provider-visibility](https://github.com/vb2250158/dsh-provider-visibility) — Provider visibility policy and Model list settings page
 - [lilinhua0413/dsh-undici-timeout-fix](https://github.com/lilinhua0413/dsh-undici-timeout-fix) — Removes undici's 300s body timeout that cuts off long local-model prefills.

@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**49 plugins**
+**51 plugins**
 
 
 ---
@@ -58,8 +58,10 @@
 - [lof6yo/dsh-opencode-live](https://github.com/lof6yo/dsh-opencode-live) — OpenCode as a DSH subagent, with a live ACP trace panel for its agents and self-spawned subagents
 - [nobu2333/dsh-game-bridge](https://github.com/nobu2333/dsh-game-bridge)
 - [YarXVI/dsh-npu](https://github.com/YarXVI/dsh-npu) — 燧心 / Hearthcore —— DSH 插件：AMD NPU + GPU 本地推理，按需点火、零残留进程、对外一个 OpenAI 端口，第五框架 amd-hybrid 双引擎协同。MIT。
+- [fevolq/terms-bridge](https://github.com/fevolq/terms-bridge) — DSH插件。桥接项目
+- [wwjzzy/dsh-weread](https://github.com/wwjzzy/dsh-weread) — 微信读书简易插件
 
 ---
 
 
-*Generated on 2026-11-03 · 49 plugins in this category*
+*Generated on 2026-11-03 · 51 plugins in this category*

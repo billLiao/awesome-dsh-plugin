@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**51 plugins**
+**52 plugins**
 
 
 ---
@@ -60,8 +60,9 @@
 - [YarXVI/dsh-npu](https://github.com/YarXVI/dsh-npu) — 燧心 / Hearthcore —— DSH 插件：AMD NPU + GPU 本地推理，按需点火、零残留进程、对外一个 OpenAI 端口，第五框架 amd-hybrid 双引擎协同。MIT。
 - [fevolq/terms-bridge](https://github.com/fevolq/terms-bridge) — DSH插件。桥接项目
 - [wwjzzy/dsh-weread](https://github.com/wwjzzy/dsh-weread) — 微信读书简易插件
+- [tsurumi-yizhou/dsh-live-notify](https://github.com/tsurumi-yizhou/dsh-live-notify)
 
 ---
 
 
-*Generated on 2026-11-04 · 51 plugins in this category*
+*Generated on 2026-11-04 · 52 plugins in this category*

@@ -7053,6 +7053,8 @@
 - [momijijin/dsh-session-groups](https://github.com/momijijin/dsh-session-groups) — Free-form nested session groups for the DeepSeek Harness sidebar: cross-workspace organization without moving sessions, with local persistence, backup recovery, drag-and-drop, and optional AI control.
 - [4wgtty4zm7-a11y/dsh-session-recycle-tools](https://github.com/4wgtty4zm7-a11y/dsh-session-recycle-tools) — Session recycle bin + batch picker for the DeepSeek Harness web sidebar: two entries above the settings row, independent of the host archive.
 
+- [gf691271/dsh-quote-reply](https://github.com/gf691271/dsh-quote-reply) — Claude Code style quote & reply: select text, answer it in a popover, stack the pairs as blocks above the composer, send once. 引用回复：选中文字就地回复，问答变成方块，一次发出。
+
 ---
 
 

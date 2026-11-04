@@ -4,7 +4,7 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**587 plugins**
+**596 plugins**
 
 
 ---
@@ -109,6 +109,7 @@
 - [nailiang002-wq/deepseek-girl-harness](https://github.com/nailiang002-wq/deepseek-girl-harness) ⭐3 — DeepSeek Harness Desktop 小鲸鱼：手绘转轮、五套换装、白饭互动，摸头显示余额与今日用量。 / Companion with a compact action wheel, outfits, rice and a head-pat ledger.
 - [Weidows/dsh-whalechan-herself](https://github.com/Weidows/dsh-whalechan-herself) ⭐3 — 给 DeepSeek Harness 装一个鲸鱼娘（DeepSeek娘）Agent 预设：完整干活能力 + 人设，开工吐槽、收工讨饭，按概率发表情包（设置页可调）。
 - [geekjourneyx/dsh-md2wechat](https://github.com/geekjourneyx/dsh-md2wechat) ⭐3 — DSH 一站式公众号创作插件，集成写作润色、标题优化、主题与高级模块排版、智能配图，支持预览、导出及保存到公众号草稿箱。
+- [1720198650/dsh-cognition-engine](https://github.com/1720198650/dsh-cognition-engine) ⭐2 — 给 AI 装一个会作废、会记账、会自我纠错的长期记忆。双时态记忆 + 人定主题 + 准则本（证据链/来源分级/冲突裁决），零外部依赖纯本地 JSON。
 - [Flamencoff/dsh-xiaozhushou](https://github.com/Flamencoff/dsh-xiaozhushou) ⭐2 — 给不会编程的人用的工作任务管理看板 + 共同成长的智能助手；带鲸鱼娘浮窗，秘书/CEO/史官陪你把事做完。
 - [z1223473749/dsh-QiuYaTools](https://github.com/z1223473749/dsh-QiuYaTools) ⭐2 — 为 DeepSeek Harness 提供 Git 分支、改动对比与 PR 管理，会话和计划批注、长文本附件、独立窗口、批量归档、提示词建议与 Q 主题，并支持 Mac/Windows 电脑操控和实时预览。
 - [thjyy/dph-endfield-theme](https://github.com/thjyy/dph-endfield-theme) ⭐2 — Unofficial Endfield-inspired theme and animated mascot for DeepSeek Harness Web
@@ -285,6 +286,8 @@
 - [pmqzienbcka/dsh-theme-aurora](https://github.com/pmqzienbcka/dsh-theme-aurora) ⭐1
 - [Kris8888888/dsh-desktop-pet](https://github.com/Kris8888888/dsh-desktop-pet) ⭐1 — A whale or pixel-crab pet for DeepSeek Harness that reacts to your sessions.
 - [CEQ233/dsh-anime-bundle](https://github.com/CEQ233/dsh-anime-bundle) ⭐1 — DeepSeek Harness 插件：一键开关整套二次元外观、更新插件、切换人格，非官方。
+- [joeseesun/qiaomu-publish-dsh](https://github.com/joeseesun/qiaomu-publish-dsh) ⭐1 — 原版乔木 Publish 的 DeepSeek Harness 版本：42 主题、公众号排版、X/知乎/小红书草稿、封面与长图导出
+- [offercontext/dsh-offercontext-skin](https://github.com/offercontext/dsh-offercontext-skin) ⭐1
 - [orchivo/dsh-conversation-tree](https://github.com/orchivo/dsh-conversation-tree) — Conversation Tree for DSH — organise DeepSeek Harness conversations into a collapsible tree by workspace and topic, and open the real sessions in place. 对话树：把 DSH 对话按工作区与主题组织成可折叠的树。
 - [DKthreeFR/ATRI-Theme-DSH](https://github.com/DKthreeFR/ATRI-Theme-DSH) — ATRI 亚托莉主题的DeepSeepk Harnesss装饰
 - [xianshu-virtuous/dsh-whale-companion](https://github.com/xianshu-virtuous/dsh-whale-companion) — DeepSeek Harness whale-maid persona and automatic near-limit session continuation
@@ -596,8 +599,14 @@
 - [ffyfox/dsh-theme-mist](https://github.com/ffyfox/dsh-theme-mist) — DSH Go 视觉语言主题插件，作为 DeepSeek Harness 的可热插拔客户端主题——六种强调色、浅色/深色/跟随系统、零 DOM 重写。DSH Go visual language as a hot-pluggable client theme for DeepSeek Harness — six accents, light/dark/system, zero DOM rewrite.
 - [TomYang1993/dsh-wuxia-ink](https://github.com/TomYang1993/dsh-wuxia-ink) — 影之刃零 Ink Blade — a Wuxia ink-wash theme for DeepSeek Harness (unofficial fan project)
 - [kleinklein0824/dsh-official-skin](https://github.com/kleinklein0824/dsh-official-skin) — 非官方社区项目。为 DeepSeek Harness（DSH）打造的官网风格主题插件：深色模式含流体极光、粒子鲸鱼与星座网格，浅色模式采用蓝色 Hero 渐变与琉璃玻璃面板，并支持跟随 DSH 深浅色设置一键切换。
+- [samir2015dzh/dsh-studio](https://github.com/samir2015dzh/dsh-studio) — Skill workbench + on-demand MCP for DeepSeek Harness: per-turn distillation, semantic merge, three-layer filtering, recycle bin, purpose-based grouping, idle reclaim, credential masking
+- [cjjchina3088191870-sudo/dsh-plugin-ekko-skin-manager](https://github.com/cjjchina3088191870-sudo/dsh-plugin-ekko-skin-manager) — DSH 皮肤管理器：初音与玫瑰可单独安装，互斥切换、保留草稿与独立偏好
+- [cjjchina3088191870-sudo/dsh-plugin-miku-theme](https://github.com/cjjchina3088191870-sudo/dsh-plugin-miku-theme) — 初音未来 · DeepSeek Harness Web 主题：星光舞台、珠光饰框、原生对话与手机适配
+- [cilis/dsh-whale-tts](https://github.com/cilis/dsh-whale-tts) — 让小鲸鱼拥有自己的声音
+- [Galaxy-VN/dsh-pixel-themes](https://github.com/Galaxy-VN/dsh-pixel-themes)
+- [Semonxue/dsh-my-newhome](https://github.com/Semonxue/dsh-my-newhome)
 
 ---
 
 
-*Generated on 2026-11-04 · 587 plugins in this category*
+*Generated on 2026-11-05 · 596 plugins in this category*

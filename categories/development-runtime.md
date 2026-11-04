@@ -40,6 +40,7 @@
 - [Alice-Marx/dsh-boot-animation](https://github.com/Alice-Marx/dsh-boot-animation) ⭐1 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
 - [Jydsh/dsh-ding-card](https://github.com/Jydsh/dsh-ding-card) ⭐1 — dsh上基于dsh-im插件开发的插件，主要接入钉钉卡片模板，可设计，可拓展可测试的功能。
 - [alice0721021-web/dsh-local-devkit](https://github.com/alice0721021-web/dsh-local-devkit) ⭐1
+- [dev-HuTao/dsh-plugin-landscape-bg](https://github.com/dev-HuTao/dsh-plugin-landscape-bg) ⭐1
 - [zdjmrq/dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) — DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins
 - [GoGoGoDoge/dsh-plugin-installer](https://github.com/GoGoGoDoge/dsh-plugin-installer)
 - [jiay98528-dev/dsh-plugin-weaknet-adaptor](https://github.com/jiay98528-dev/dsh-plugin-weaknet-adaptor)
@@ -80,11 +81,10 @@
 - [rocketstar666/dsh-approval-comment](https://github.com/rocketstar666/dsh-approval-comment) — DSH 审批流程选择拒绝时，支持填写拒绝的理由（附言），类似 Claude Code CLI 的 Tab to amend
 - [otm1998/dsh-plugin-namer](https://github.com/otm1998/dsh-plugin-namer) — 给已安装的第三方插件改名，写进它自己的语言元数据
 - [mouyu6508-hue/dsh-fusion](https://github.com/mouyu6508-hue/dsh-fusion) — DSH plugin composition conflict fusion: detect duplicate loaders across bundles, merge silently overridden config, emit a boot-safe patch.
-- [dev-HuTao/dsh-plugin-landscape-bg](https://github.com/dev-HuTao/dsh-plugin-landscape-bg)
 - [NingZhenPeng/dsh-plugin-preflight](https://github.com/NingZhenPeng/dsh-plugin-preflight) — DSH 插件安装预检闸门：装之前跑九项预检，拒绝即拦截，并留下审计日志
 - [yanyan-shub/dsh-fishday](https://github.com/yanyan-shub/dsh-fishday) — 让你的ds可以有自己的一套时间和她自己的世界！安装这个插件之后ds会在自己无聊的时候找事干，而且你还可以在一天结束的时候问问她今天都做了什么
 
 ---
 
 
-*Generated on 2026-11-04 · 74 plugins in this category*
+*Generated on 2026-11-05 · 74 plugins in this category*

@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**118 plugins**
+**119 plugins**
 
 
 ---
@@ -13,12 +13,12 @@
 - [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐12 — DSH Web 模型余量与用量监控插件
 - [HuanLinOTO/dsh-plugin-auto-blame](https://github.com/HuanLinOTO/dsh-plugin-auto-blame) ⭐11 — 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 | After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
+- [MoRanYue/dsh-openrouter-providers](https://github.com/MoRanYue/dsh-openrouter-providers) ⭐6 — DSH 插件：设置页配置 OpenRouter 提供商列表，注入 provider.only / provider.order 路由参数；状态持久化
 - [edge-sky/dsh-oauth-adapter](https://github.com/edge-sky/dsh-oauth-adapter) ⭐6 — An OAuth adapter for DSH
 - [liceses/dsh-memes-reply](https://github.com/liceses/dsh-memes-reply) ⭐6 — DSH 插件：蓝色大肥鱼表情包回复 —— 模型按语境在回复里贴一张会动的大肥鱼，支持设置页预览墙与下一轮指定
 - [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) ⭐5 — DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）
 - [1624318455/dsh-plugin-adapter](https://github.com/1624318455/dsh-plugin-adapter) ⭐5 — DSH adapter for OpenCode Zen free models (maintained fork with gateway-compat fixes)
 - [detpecca/dsh-llm-wiki](https://github.com/detpecca/dsh-llm-wiki) ⭐4
-- [MoRanYue/dsh-openrouter-providers](https://github.com/MoRanYue/dsh-openrouter-providers) ⭐4 — DSH 插件：设置页配置 OpenRouter 提供商列表，注入 provider.only / provider.order 路由参数；状态持久化
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐4 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
 - [jyao-SUSE-power-group/dsh-provider-rate-limit](https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit) ⭐4 — dsh-provider-rate-limit
 - [Vesna-Strivozha/DSH-LLM-wiki-plugin](https://github.com/Vesna-Strivozha/DSH-LLM-wiki-plugin) ⭐4 — 基于Karpathy的wiki方法论搭建的插件，让你的DSH直接变身成LLM wiki，不需要Obsidian+Claudian插件，国内网络友好
@@ -127,8 +127,9 @@
 - [backtomyfuture/dsh-resource-center](https://github.com/backtomyfuture/dsh-resource-center)
 - [mhxy13867806343/dsh-plugin-select-model](https://github.com/mhxy13867806343/dsh-plugin-select-model)
 - [twoweeks1995/dsh-subagent-setup](https://github.com/twoweeks1995/dsh-subagent-setup)
+- [xiong4huo/dsh-recursive-best-of-n](https://github.com/xiong4huo/dsh-recursive-best-of-n) — DSH 插件 · Recursive Best-of-N（递归择优树）agent preset：并行数与递归深度跟随用户的 Subagent 设置，主 agent 一次并行派发多个子代理，每层择优上送。
 
 ---
 
 
-*Generated on 2026-11-04 · 118 plugins in this category*
+*Generated on 2026-11-05 · 119 plugins in this category*

@@ -24,6 +24,7 @@
 - [Vesna-Strivozha/DSH-LLM-wiki-plugin](https://github.com/Vesna-Strivozha/DSH-LLM-wiki-plugin) ⭐4 — 基于Karpathy的wiki方法论搭建的插件，让你的DSH直接变身成LLM wiki，不需要Obsidian+Claudian插件，国内网络友好
 - [liaoyuqing/dsh-llm-error-retry](https://github.com/liaoyuqing/dsh-llm-error-retry) ⭐3 — 用于在deepseek-harnees中报错时重试大模型请求，支持配置http状态，字段-值命中。
 - [xiaobbl/dsh-opencode-go-model-list](https://github.com/xiaobbl/dsh-opencode-go-model-list) ⭐3 — 修复dsh上opencode go模型列表问题
+- [Leafyezi233/dsh-model-gateway](https://github.com/Leafyezi233/dsh-model-gateway) ⭐3
 - [NLeRWantFly/dsh-HoldThatBigBlueFatFish](https://github.com/NLeRWantFly/dsh-HoldThatBigBlueFatFish) ⭐2 — 约束蓝色大肥鱼过度思考暂时的方案~模型测试opencode go实现
 - [R-LEI2536/dsh-more-agent-presets](https://github.com/R-LEI2536/dsh-more-agent-presets) ⭐2 — More Agent Presets for DSH derived from other coding agents (e.g. qwen code, iflow)
 - [wtiaw/dsh-ccswitch-importer](https://github.com/wtiaw/dsh-ccswitch-importer) ⭐2 — Import CCSwitch Codex profiles and configure per-model reasoning in DSH.
@@ -98,7 +99,6 @@
 - [jcjyids/dsh-web-advanced-settings](https://github.com/jcjyids/dsh-web-advanced-settings) — 完全由DeepSeek大模型生成
 - [MCXCC303/dsh-hdsl-3dmodel](https://github.com/MCXCC303/dsh-hdsl-3dmodel)
 - [phoenixyun/dsh-plugin-live-diff](https://github.com/phoenixyun/dsh-plugin-live-diff) — Live streaming diffs for DSH file edits: a diff that grows while the model is still emitting the edit arguments.
-- [Leafyezi233/dsh-model-gateway](https://github.com/Leafyezi233/dsh-model-gateway)
 - [YuMo-233/dsh-subagent-model-switch](https://github.com/YuMo-233/dsh-subagent-model-switch) — DSH ??:???/?????????????--??????????,????? turn ?????
 - [SnowNight777/dsh-llm-gateway](https://github.com/SnowNight777/dsh-llm-gateway) — 把 DSH 已配置的模型共享给本机程序——无需重复配置，用 OpenAI 兼容接口直接调用
 - [Kiteluo/dsh-bgame](https://github.com/Kiteluo/dsh-bgame) — DSH Web 小游戏插件：德州扑克、21 点、五子棋、UNO，支持电脑和模型对手。

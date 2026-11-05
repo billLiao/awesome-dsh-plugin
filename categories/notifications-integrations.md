@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**52 plugins**
+**53 plugins**
 
 
 ---
@@ -61,8 +61,9 @@
 - [fevolq/terms-bridge](https://github.com/fevolq/terms-bridge) — DSH插件。桥接项目
 - [wwjzzy/dsh-weread](https://github.com/wwjzzy/dsh-weread) — 微信读书简易插件
 - [tsurumi-yizhou/dsh-live-notify](https://github.com/tsurumi-yizhou/dsh-live-notify)
+- [Mapleru/dsh-codex-bridge](https://github.com/Mapleru/dsh-codex-bridge)
 
 ---
 
 
-*Generated on 2026-11-05 · 52 plugins in this category*
+*Generated on 2026-11-05 · 53 plugins in this category*

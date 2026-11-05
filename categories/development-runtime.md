@@ -63,7 +63,7 @@
 - [alexzshl/dsh-settings-size](https://github.com/alexzshl/dsh-settings-size) — config dsh settings size
 - [ladyya0306/dsh-office-plugin](https://github.com/ladyya0306/dsh-office-plugin) — DSH办公程序复用与精确填报插件；当前rc7，提供Windows离线安装方式。
 - [VibeDev-Si/dsh-vibedev](https://github.com/VibeDev-Si/dsh-vibedev)
-- [beicause/dsh-extra-sandbox-presets](https://github.com/beicause/dsh-extra-sandbox-presets) — Registers arbitrary configured DSH permission presets, each selecting a sandbox mode and approval policy plus the directories writable on top of it. Linux bwrap only.
+- [beicause/dsh-sandbox-presets-extra](https://github.com/beicause/dsh-sandbox-presets-extra) — Registers arbitrary configured DSH permission presets, each selecting a sandbox mode and approval policy plus the directories writable on top of it. Linux bwrap only.
 - [BinXie-lixiangdehua/dsh-devflow](https://github.com/BinXie-lixiangdehua/dsh-devflow) — 开发工作流
 - [EnhydraLutristus/dsh-math-tex](https://github.com/EnhydraLutristus/dsh-math-tex) — DSH plugin: keeps streamed answers free of red (broken) KaTeX regions — validates every maths region with the client's own renderer before it is written
 - [EnhydraLutristus/dsh-math-tex](https://github.com/EnhydraLutristus/dsh-math-tex) — DSH plugin: keeps streamed answers free of red (broken) KaTeX regions - validates every maths region with the client's own renderer before it is written
@@ -89,4 +89,4 @@
 ---
 
 
-*Generated on 2026-11-05 · 76 plugins in this category*
+*Generated on 2026-11-06 · 76 plugins in this category*

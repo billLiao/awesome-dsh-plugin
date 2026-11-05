@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**21 plugins**
+**23 plugins**
 
 
 ---
@@ -30,8 +30,10 @@
 - [iypavlov/dsh-cat-pet](https://github.com/iypavlov/dsh-cat-pet)
 - [xnwang1999/dsh-dragon-maid-pet](https://github.com/xnwang1999/dsh-dragon-maid-pet)
 - [x-cores/dsh-3d-mine-game](https://github.com/x-cores/dsh-3d-mine-game)
+- [260807094-alt/dsh-star-pet](https://github.com/260807094-alt/dsh-star-pet) — self code and software
+- [haaahhhis/MultiGameAssistant](https://github.com/haaahhhis/MultiGameAssistant) — 基于dsh核心搭建的多游戏脚本综合管理Agent，长期使用容易目光呆滞。
 
 ---
 
 
-*Generated on 2026-11-05 · 21 plugins in this category*
+*Generated on 2026-11-06 · 23 plugins in this category*

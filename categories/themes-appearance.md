@@ -4,7 +4,7 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**602 plugins**
+**603 plugins**
 
 
 ---
@@ -611,8 +611,9 @@
 - [nerv-base/dsh-theme-eva](https://github.com/nerv-base/dsh-theme-eva) — EVA Unit-02 theme for DeepSeek Harness: entry-plug cinematic, sync meter, and dark workbench styling.
 - [skyzou071026-collab/dsh-coopanion](https://github.com/skyzou071026-collab/dsh-coopanion) — 镜像：@takboo/dsh-coopanion v0.4.18 — DSH 桌面鲸鱼同伴与任务通知（上游 takboo/dsh-coopanion，AGPL-3.0）
 - [wangtheme-coder/dsh-stellar-effort](https://github.com/wangtheme-coder/dsh-stellar-effort) — 星轨推理：真实 DSH 推理强度控制与轻量、持续演化的微缩宇宙
+- [tianyadadi/dsh-workbench](https://github.com/tianyadadi/dsh-workbench) — DeepSeek Harness 本地可视化工作台 — 零依赖、零联网、零 token。包含插件管理、记忆银河系、主题切换
 
 ---
 
 
-*Generated on 2026-11-06 · 602 plugins in this category*
+*Generated on 2026-11-06 · 603 plugins in this category*

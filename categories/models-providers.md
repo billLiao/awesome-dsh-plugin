@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**122 plugins**
+**121 plugins**
 
 
 ---
@@ -13,6 +13,7 @@
 - [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐12 — DSH Web 模型余量与用量监控插件
 - [HuanLinOTO/dsh-plugin-auto-blame](https://github.com/HuanLinOTO/dsh-plugin-auto-blame) ⭐11 — 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 | After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
+- [qikairo7/dsh-gemini-pool](https://github.com/qikairo7/dsh-gemini-pool) ⭐7 — 多账号 Google Gemini 提供商（DSH 插件）：订阅额度即用即扣，账号池自动调度；主模型没有视觉也能贴图看图（池内 Gemini 自动转述），另有生图工具与中英双语设置页
 - [MoRanYue/dsh-openrouter-providers](https://github.com/MoRanYue/dsh-openrouter-providers) ⭐6 — DSH 插件：设置页配置 OpenRouter 提供商列表，注入 provider.only / provider.order 路由参数；状态持久化
 - [edge-sky/dsh-oauth-adapter](https://github.com/edge-sky/dsh-oauth-adapter) ⭐6 — An OAuth adapter for DSH
 - [liceses/dsh-memes-reply](https://github.com/liceses/dsh-memes-reply) ⭐6 — DSH 插件：蓝色大肥鱼表情包回复 —— 模型按语境在回复里贴一张会动的大肥鱼，支持设置页预览墙与下一轮指定
@@ -32,7 +33,6 @@
 - [seriousz158/dsh-codex-use](https://github.com/seriousz158/dsh-codex-use) ⭐2
 - [shangjian2023/dsh-rss-daily](https://github.com/shangjian2023/dsh-rss-daily) ⭐2 — dsh plugin: 46-source daily RSS digest, LLM-edited, delivered via webhook (ServerChan/PushDeer/WxWork/TG/Bark/gotify)
 - [Shizuku-keop/dsh-micro-inversion-standard](https://github.com/Shizuku-keop/dsh-micro-inversion-standard) ⭐2 — 一个可复用的 DSH Agent Preset：双阶段、Token 精益的编码智能体模式。  核心目标：把模型思维链的起手习惯从 "let me" 翻转为 "we need"，同时把上下文占用与 Token 消耗压到最低，并保持供应商 KV Cache 对未变前缀持续命中。
-- [qikairo7/dsh-gemini-pool](https://github.com/qikairo7/dsh-gemini-pool) ⭐2 — 多账号 Google Gemini 提供商（DSH 插件）：订阅额度即用即扣，账号池自动调度；主模型没有视觉也能贴图看图（池内 Gemini 自动转述），另有生图工具与中英双语设置页
 - [lakeofsky347/dsh-oauth](https://github.com/lakeofsky347/dsh-oauth) ⭐2 — 一个适用于dsh的通过oauth认证实现模型注入的插件
 - [hongdougao111/dsh-bagu](https://github.com/hongdougao111/dsh-bagu) ⭐2 — 两道门。发出去的话像八股就打回；对方抛梗，在模型开始想之前就把族查好塞进上下文。会玩梗 ≠ 能查梗。
 - [clarkzhao/dsh-llm-grok](https://github.com/clarkzhao/dsh-llm-grok) ⭐1 — dsh plugin for grok
@@ -130,9 +130,8 @@
 - [twoweeks1995/dsh-subagent-setup](https://github.com/twoweeks1995/dsh-subagent-setup)
 - [xiong4huo/dsh-recursive-best-of-n](https://github.com/xiong4huo/dsh-recursive-best-of-n) — DSH 插件 · Recursive Best-of-N（递归择优树）agent preset：并行数与递归深度跟随用户的 Subagent 设置，主 agent 一次并行派发多个子代理，每层择优上送。
 - [Mark-SmallCharlie/dsh-screen-roach](https://github.com/Mark-SmallCharlie/dsh-screen-roach)
-- [LINGTIAN303/dsh-model-tabs](https://github.com/LINGTIAN303/dsh-model-tabs)
 
 ---
 
 
-*Generated on 2026-11-06 · 122 plugins in this category*
+*Generated on 2026-11-07 · 121 plugins in this category*

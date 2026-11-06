@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**77 plugins**
+**78 plugins**
 
 
 ---
@@ -27,6 +27,7 @@
 - [zuwenyin/dsh-plugin-upgrader](https://github.com/zuwenyin/dsh-plugin-upgrader) ⭐3 — DSH plugin for DeepSeek Harness: upgrade plugins from the Plugins page, version history, rollback, live pnpm progress
 - [omdsh-dev/dsh-sandbox-micro](https://github.com/omdsh-dev/dsh-sandbox-micro) ⭐2
 - [AtWhuhu/dsh-devin-cli](https://github.com/AtWhuhu/dsh-devin-cli) ⭐2 — dsh devin cli插件
+- [ystyle/dsh-harmonyos](https://github.com/ystyle/dsh-harmonyos) ⭐2 — dsh-harmonyos | 鸿蒙PC版本dsh, 支持鸿蒙PC一键安装
 - [2128627267/dsh-qbetter-config](https://github.com/2128627267/dsh-qbetter-config) ⭐1
 - [showlibia/dsh-plugin-installer](https://github.com/showlibia/dsh-plugin-installer) ⭐1
 - [q2316367743/dsh-plugin-manager](https://github.com/q2316367743/dsh-plugin-manager) ⭐1 — dsh 插件管理器
@@ -35,7 +36,6 @@
 - [Harzva/dsh-cli-store](https://github.com/Harzva/dsh-cli-store) ⭐1
 - [helibeiqi/dsh-csp-runtime](https://github.com/helibeiqi/dsh-csp-runtime) ⭐1 — Cognitive State Protocol (CSP) v0.1 — the cross-framework interop layer that makes AI thinking state serializable, persistable, and transferable. Host-side Cordis plugin for the DSH ecosystem.
 - [dymzz/lgtm-dsh](https://github.com/dymzz/lgtm-dsh) ⭐1 — lgtm-dsh is a DSH plugin that automatically installs lgtm, reuses the Jev already configured in DSH, and lets the agent automatically call lgtm during the testing phase.
-- [ystyle/dsh-harmonyos](https://github.com/ystyle/dsh-harmonyos) ⭐1 — dsh-harmonyos | 鸿蒙PC版本dsh, 支持鸿蒙PC一键安装
 - [YuMo-233/dsh-kubejs](https://github.com/YuMo-233/dsh-kubejs) ⭐1 — DSH 插件修改者：以独立脚本包定制其他已安装插件，不改插件源码（KubeJS 模式）
 - [Alice-Marx/dsh-boot-animation](https://github.com/Alice-Marx/dsh-boot-animation) ⭐1 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
 - [Jydsh/dsh-ding-card](https://github.com/Jydsh/dsh-ding-card) ⭐1 — dsh上基于dsh-im插件开发的插件，主要接入钉钉卡片模板，可设计，可拓展可测试的功能。
@@ -86,8 +86,9 @@
 - [Wystan68/dsh-plugin-sync](https://github.com/Wystan68/dsh-plugin-sync) — DSH plugin: keep the installed plugin set identical across devices — sync codes or an encrypted Cloudflare relay.
 - [yhuan416/dsh-opencode-client](https://github.com/yhuan416/dsh-opencode-client)
 - [Lroyia/dsh-book-reader](https://github.com/Lroyia/dsh-book-reader) — 基于dsh开发的本地书架插件
+- [d342784178/dsh-opencli](https://github.com/d342784178/dsh-opencli) — opencli终端复用， 减少每次命令执行node启动耗时
 
 ---
 
 
-*Generated on 2026-11-06 · 77 plugins in this category*
+*Generated on 2026-11-07 · 78 plugins in this category*

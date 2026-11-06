@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**76 plugins**
+**77 plugins**
 
 
 ---
@@ -85,8 +85,9 @@
 - [yanyan-shub/dsh-fishday](https://github.com/yanyan-shub/dsh-fishday) — 让你的ds可以有自己的一套时间和她自己的世界！安装这个插件之后ds会在自己无聊的时候找事干，而且你还可以在一天结束的时候问问她今天都做了什么
 - [Wystan68/dsh-plugin-sync](https://github.com/Wystan68/dsh-plugin-sync) — DSH plugin: keep the installed plugin set identical across devices — sync codes or an encrypted Cloudflare relay.
 - [yhuan416/dsh-opencode-client](https://github.com/yhuan416/dsh-opencode-client)
+- [Lroyia/dsh-book-reader](https://github.com/Lroyia/dsh-book-reader) — 基于dsh开发的本地书架插件
 
 ---
 
 
-*Generated on 2026-11-06 · 76 plugins in this category*
+*Generated on 2026-11-06 · 77 plugins in this category*

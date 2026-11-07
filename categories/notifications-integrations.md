@@ -13,6 +13,7 @@
 - [minhdevtry/dsh-markdown-ide](https://github.com/minhdevtry/dsh-markdown-ide) ⭐5 — DSH Plugin for Markdown like Notion experience
 - [bill9109/dsh-webbridge](https://github.com/bill9109/dsh-webbridge) ⭐4 — DSH 结合 Kimi WebBridge
 - [lsq-dsh-plugins/dsh-windows-notifications](https://github.com/lsq-dsh-plugins/dsh-windows-notifications) ⭐3
+- [qzy033/dsh-astrbot-gateway](https://github.com/qzy033/dsh-astrbot-gateway) ⭐3 — 大肥鱼桥：DSH 与 AstrBot 之间的桥接插件，指令下行、结果只走文件交付，不直发用户
 - [asakumizy/dsh-trae-bridge](https://github.com/asakumizy/dsh-trae-bridge) ⭐2 — DSH和trae连接
 - [0QwQ0/dsh-discord-richpresence](https://github.com/0QwQ0/dsh-discord-richpresence) ⭐2 — dsh-plugin: push vague, user-configurable DSH interaction states to local Discord as Rich Presence
 - [lovedheart/dsh-plugin-telegram](https://github.com/lovedheart/dsh-plugin-telegram) ⭐2 — DSH plugin for Telegram bot integration
@@ -38,7 +39,6 @@
 - [alchemistwu/dsh-telegram](https://github.com/alchemistwu/dsh-telegram)
 - [hotpot-labs/dsh-notifier-plugin](https://github.com/hotpot-labs/dsh-notifier-plugin) — dsh 干完活之后通知你，【轻量级】通知插件，只通知，不交互，mac/windows/linux 操作系统支持，dsh 在干活时你可以摸鱼
 - [zhengmz/dsh-wecom-plugin](https://github.com/zhengmz/dsh-wecom-plugin) — DSH 的企业微信插件
-- [qzy033/dsh-astrbot-gateway](https://github.com/qzy033/dsh-astrbot-gateway) — 大肥鱼桥：DSH 与 AstrBot 之间的桥接插件，指令下行、结果只走文件交付，不直发用户
 - [StanElka/dsh-vscode](https://github.com/StanElka/dsh-vscode)
 - [avontura/dsh-notify](https://github.com/avontura/dsh-notify)
 - [masknull/dsh-webhook-notifier](https://github.com/masknull/dsh-webhook-notifier) — DSH 插件：AI 回合完成、权限申请、提问、出错、开始运行等场景发生时，向 Webhook 发送自定义 HTTP 通知（GET/POST、预设字段或自定义文本、发送日志）。 | DSH plugin: send custom HTTP webhook notifications on DSH events (turn completed, permission request, question, error, run started) - GET/POST, preset fields or custom text, send log.
@@ -67,4 +67,4 @@
 ---
 
 
-*Generated on 2026-11-07 · 54 plugins in this category*
+*Generated on 2026-11-08 · 54 plugins in this category*

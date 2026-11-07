@@ -99,7 +99,6 @@
 - [pgnqukezrdxmhjso/dsh-llm-codebuddy-power](https://github.com/pgnqukezrdxmhjso/dsh-llm-codebuddy-power) — 功能齐全的 CodeBuddy（WorkBuddy）提供者插件。 A full-featured CodeBuddy (WorkBuddy) provider plugin.
 - [jcjyids/dsh-web-advanced-settings](https://github.com/jcjyids/dsh-web-advanced-settings) — 完全由DeepSeek大模型生成
 - [MCXCC303/dsh-hdsl-3dmodel](https://github.com/MCXCC303/dsh-hdsl-3dmodel)
-- [phoenixyun/dsh-plugin-live-diff](https://github.com/phoenixyun/dsh-plugin-live-diff) — Live streaming diffs for DSH file edits: a diff that grows while the model is still emitting the edit arguments.
 - [YuMo-233/dsh-subagent-model-switch](https://github.com/YuMo-233/dsh-subagent-model-switch) — DSH ??:???/?????????????--??????????,????? turn ?????
 - [SnowNight777/dsh-llm-gateway](https://github.com/SnowNight777/dsh-llm-gateway) — 把 DSH 已配置的模型共享给本机程序——无需重复配置，用 OpenAI 兼容接口直接调用
 - [Kiteluo/dsh-bgame](https://github.com/Kiteluo/dsh-bgame) — DSH Web 小游戏插件：德州扑克、21 点、五子棋、UNO，支持电脑和模型对手。
@@ -130,8 +129,9 @@
 - [twoweeks1995/dsh-subagent-setup](https://github.com/twoweeks1995/dsh-subagent-setup)
 - [xiong4huo/dsh-recursive-best-of-n](https://github.com/xiong4huo/dsh-recursive-best-of-n) — DSH 插件 · Recursive Best-of-N（递归择优树）agent preset：并行数与递归深度跟随用户的 Subagent 设置，主 agent 一次并行派发多个子代理，每层择优上送。
 - [Mark-SmallCharlie/dsh-screen-roach](https://github.com/Mark-SmallCharlie/dsh-screen-roach)
+- [GaoHu1997/dsh-maestro-codex](https://github.com/GaoHu1997/dsh-maestro-codex)
 
 ---
 
 
-*Generated on 2026-11-07 · 121 plugins in this category*
+*Generated on 2026-11-08 · 121 plugins in this category*

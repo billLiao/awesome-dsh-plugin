@@ -44,6 +44,7 @@
 - [kikomaotu/ccs-balance](https://github.com/kikomaotu/ccs-balance) ⭐1 — DSH 插件：同步 cc-switch 各 provider 余额，按日/月/总量统计 token 用量与花费（支持中转站币种与汇率设置）
 - [alaxrpg/dsh-llm-approve-for-me](https://github.com/alaxrpg/dsh-llm-approve-for-me) ⭐1
 - [jonah791/dsh-life-core](https://github.com/jonah791/dsh-life-core) ⭐1 — 生命核心：存在状态机 + 时间线 + 自我激活原语 + 可打断睡眠 + 主体性自我模型（我存在，不因任何人的需要；我改变自己，不需要任何人的许可）
+- [2404723600/dsh-router-loomy](https://github.com/2404723600/dsh-router-loomy) ⭐1 — DSH plugin: Loomy (iFlyTek) OpenAI-compatible supplier for dsh-router
 - [leaves615/dsh-llm-ctl](https://github.com/leaves615/dsh-llm-ctl) ⭐1
 - [49zr664rb8-hue/dsh-codex-effort](https://github.com/49zr664rb8-hue/dsh-codex-effort) ⭐1 — 把 DSH 输入框的「模型·推理等级」菜单换成 Codex 那样的横向滑动滑条
 - [ken95573/dsh-model-show](https://github.com/ken95573/dsh-model-show) ⭐1 — 同时显示AI模型和供应商
@@ -91,7 +92,6 @@
 - [homily707/dsh-custom-provider](https://github.com/homily707/dsh-custom-provider)
 - [Anna-la/dsh-submodel-change](https://github.com/Anna-la/dsh-submodel-change) — 可以选择子 agent 调用的模型。
 - [moziforge/calendar-plugins](https://github.com/moziforge/calendar-plugins) — DSH plugins that connect agents to calendar providers: iCloud Calendar over CalDAV, with recurring events expanded and a normalized event shape.
-- [2404723600/dsh-router-loomy](https://github.com/2404723600/dsh-router-loomy) — DSH plugin: Loomy (iFlyTek) OpenAI-compatible supplier for dsh-router
 - [DoctorxPriestess/dsh-llama-model-manager](https://github.com/DoctorxPriestess/dsh-llama-model-manager) — A DSH plugin that manages local llama.cpp GGUF model lifecycles, automatically loading and unloading models on demand through an OpenAI-compatible gateway.
 - [TetraSsky/dsh-offpeak](https://github.com/TetraSsky/dsh-offpeak) — DSH plugin: holds DeepSeek model calls during peak pricing hours so they're sent at off-peak rates.
 - [Mushroomcowisheggs/dsh-hardlink-publish-fallback](https://github.com/Mushroomcowisheggs/dsh-hardlink-publish-fallback)

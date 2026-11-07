@@ -18,6 +18,7 @@
 - [gameswu/dsh-cross-collaboration](https://github.com/gameswu/dsh-cross-collaboration) ⭐1 — dsh跨设备agent协作插件
 - [xuexiaolei1997/dsh-plugin-stock-x](https://github.com/xuexiaolei1997/dsh-plugin-stock-x) ⭐1
 - [hulibuld/dsh-pet-cuteness-plugin](https://github.com/hulibuld/dsh-pet-cuteness-plugin) ⭐1 — 由 DSH 上传：AI娘化插件
+- [haaahhhis/MultiGameAssistant](https://github.com/haaahhhis/MultiGameAssistant) ⭐1 — 基于dsh核心搭建的多游戏脚本综合管理Agent，长期使用容易目光呆滞。
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
 - [Helly0000/dsh-life-game](https://github.com/Helly0000/dsh-life-game)
@@ -31,7 +32,6 @@
 - [xnwang1999/dsh-dragon-maid-pet](https://github.com/xnwang1999/dsh-dragon-maid-pet)
 - [x-cores/dsh-3d-mine-game](https://github.com/x-cores/dsh-3d-mine-game)
 - [260807094-alt/dsh-star-pet](https://github.com/260807094-alt/dsh-star-pet) — self code and software
-- [haaahhhis/MultiGameAssistant](https://github.com/haaahhhis/MultiGameAssistant) — 基于dsh核心搭建的多游戏脚本综合管理Agent，长期使用容易目光呆滞。
 
 ---
 

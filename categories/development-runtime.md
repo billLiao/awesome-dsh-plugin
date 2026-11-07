@@ -4,12 +4,12 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**78 plugins**
+**80 plugins**
 
 
 ---
 
-- [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) ⭐310 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
+- [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) ⭐329 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐71 — Support dsh runtime on Multica.
 - [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐21 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
 - [omdsh-dev/stent](https://github.com/omdsh-dev/stent) ⭐19 — 灵感来源于MC Fabric的Cordis/DSH hook处理器
@@ -17,8 +17,8 @@
 - [Liaoyuanxinghuo/DSH-Plugin-Manager](https://github.com/Liaoyuanxinghuo/DSH-Plugin-Manager) ⭐11 — 车同轨，书同文。DSH 的多版本、插件、Profile 与整合包，从此归于一统。
 - [morlay/dsh-plugin](https://github.com/morlay/dsh-plugin) ⭐9 — dsh plugins
 - [fu827707013/dsh-codebuddy-cli](https://github.com/fu827707013/dsh-codebuddy-cli) ⭐8 — dsh-codebuddy-cli
+- [EliteOtaku/dsh-opendesign-go](https://github.com/EliteOtaku/dsh-opendesign-go) ⭐6 — 为opendesign订阅开发的DSH插件
 - [omdsh-dev/dsh-fun-ticker](https://github.com/omdsh-dev/dsh-fun-ticker) ⭐5 — DSH 行情跑马灯插件：可自选标的的加密/汇率/A股/指数/港美股跑马灯，免 key 数据源，宿主代理+缓存
-- [EliteOtaku/dsh-opendesign-go](https://github.com/EliteOtaku/dsh-opendesign-go) ⭐4 — 为opendesign订阅开发的DSH插件
 - [omdsh-dev/dsh-daily-fortune](https://github.com/omdsh-dev/dsh-daily-fortune) ⭐3 — DSH daily fortune plugin with Guan Yin lots, Tarot spreads, and daily quotes
 - [omdsh-dev/dsh-ernie-image](https://github.com/omdsh-dev/dsh-ernie-image) ⭐3
 - [omdsh-dev/dsh-daily-progress](https://github.com/omdsh-dev/dsh-daily-progress) ⭐3
@@ -87,8 +87,10 @@
 - [yhuan416/dsh-opencode-client](https://github.com/yhuan416/dsh-opencode-client)
 - [Lroyia/dsh-book-reader](https://github.com/Lroyia/dsh-book-reader) — 基于dsh开发的本地书架插件
 - [d342784178/dsh-opencli](https://github.com/d342784178/dsh-opencli) — opencli终端复用， 减少每次命令执行node启动耗时
+- [daoyan2142/dsh-runtime-kit](https://github.com/daoyan2142/dsh-runtime-kit) — DSH runtime plugin: context governance, fast path, PTC orchestration, sandbox isolation and audit - zero business dependencies
+- [junchaomo/dsh-traffic-counter-downloads](https://github.com/junchaomo/dsh-traffic-counter-downloads) — DSH 插件 · 车流量统计官方下载页（暂无安装包）
 
 ---
 
 
-*Generated on 2026-11-07 · 78 plugins in this category*
+*Generated on 2026-11-07 · 80 plugins in this category*

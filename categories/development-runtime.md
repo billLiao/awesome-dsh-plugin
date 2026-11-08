@@ -4,12 +4,12 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**82 plugins**
+**84 plugins**
 
 
 ---
 
-- [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) ⭐329 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
+- [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) ⭐333 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐71 — Support dsh runtime on Multica.
 - [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐21 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
 - [omdsh-dev/stent](https://github.com/omdsh-dev/stent) ⭐19 — 灵感来源于MC Fabric的Cordis/DSH hook处理器
@@ -91,8 +91,10 @@
 - [junchaomo/dsh-traffic-counter-downloads](https://github.com/junchaomo/dsh-traffic-counter-downloads) — DSH 插件 · 车流量统计官方下载页（暂无安装包）
 - [liuming-dev/dsh-plugins](https://github.com/liuming-dev/dsh-plugins)
 - [spark-ai-boy/dsh-tls-trust-anchor](https://github.com/spark-ai-boy/dsh-tls-trust-anchor)
+- [shihuadexiaoyugan/eu4-mod-workbench](https://github.com/shihuadexiaoyugan/eu4-mod-workbench) — 基于 DSH 的欧陆风云4 Mod 可视化开发工作台 (AI Powered EU4 Mod Workbench
+- [flyingHX/DSH-Content-Hub](https://github.com/flyingHX/DSH-Content-Hub) — 一份内容，多个平台，事实不漂移。把长文/访谈/报告拆成六类可复用内容原子（观点、证据、故事、步骤、引语、问题），按文章/短视频的媒介语法重新编排，并打包检查跨稿事实一致性。DSH 插件。One source, many formats, zero fact drift. Atomize long-form content into six reusable units (claim, evidence, story, step, quote, question), adapt them to article and short-video templates, and audit cross-draft consistency. A DSH plugin.
 
 ---
 
 
-*Generated on 2026-11-08 · 82 plugins in this category*
+*Generated on 2026-11-08 · 84 plugins in this category*

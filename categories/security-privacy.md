@@ -4,7 +4,7 @@
 > Credential management, encryption, audit, and security tooling.
 
 
-**18 plugins**
+**19 plugins**
 
 
 ---
@@ -15,6 +15,7 @@
 - [tmpdot/dsh-audit-foundation](https://github.com/tmpdot/dsh-audit-foundation) ⭐1
 - [CMSKL/dsh-plugin-observatory](https://github.com/CMSKL/dsh-plugin-observatory) ⭐1 — DSH plugin compatibility audit and bounded Loader lifecycle observation
 - [jonah791/dsh-prompt-defense](https://github.com/jonah791/dsh-prompt-defense) ⭐1 — DSH 提示词注入防御：外部内容标记 + 注入特征检测 + 危险动作人审门控 + 审计侧车
+- [wodaimnd/dsh-forge](https://github.com/wodaimnd/dsh-forge) — Plugin forge · author, audit and repair DSH plugins
 - [Huauauaa/privacy](https://github.com/Huauauaa/privacy) — dsh-privacy-mask
 - [nmsl1234/dsh-privacy-gate](https://github.com/nmsl1234/dsh-privacy-gate) — dsh-plugin
 - [kiwings/dsh-security](https://github.com/kiwings/dsh-security) — Plugins for performing security audits using dsh
@@ -31,4 +32,4 @@
 ---
 
 
-*Generated on 2026-11-08 · 18 plugins in this category*
+*Generated on 2026-11-08 · 19 plugins in this category*

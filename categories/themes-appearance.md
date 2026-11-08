@@ -640,7 +640,10 @@
 - [gioguarin/dsh-nebula-theme](https://github.com/gioguarin/dsh-nebula-theme) — Ember-nebula theme for the DeepSeek Harness web client: a filamented night sky with a live fire field that stays calm while idle and rises while an agent thinks.
 - [Faust-sudo/dsh-bili-faship](https://github.com/Faust-sudo/dsh-bili-faship) — 鲸鱼娘视频工坊：DSH 插件 —— agent 自己构思→写 storyboard→配音/逐帧渲染→代码自审→投稿 B 站（AI 标注 / 不冒充真人 / 风控不重试，真发默认关）
 
+- [lianghui32/dsh-theme-blue-planet](https://github.com/lianghui32/dsh-theme-blue-planet) — 蔚蓝星球 · Azure Planet：深蓝星野 + 蓝色星球地平线的 DSH 主题，完整 token 覆盖、半透明面板、星环与可切换 HUD 动效。
+
 ---
 
 
 *Generated on 2026-11-08 · 630 plugins in this category*
+

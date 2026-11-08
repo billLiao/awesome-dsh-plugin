@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**121 plugins**
+**122 plugins**
 
 
 ---
@@ -130,8 +130,9 @@
 - [xiong4huo/dsh-recursive-best-of-n](https://github.com/xiong4huo/dsh-recursive-best-of-n) — DSH 插件 · Recursive Best-of-N（递归择优树）agent preset：并行数与递归深度跟随用户的 Subagent 设置，主 agent 一次并行派发多个子代理，每层择优上送。
 - [Mark-SmallCharlie/dsh-screen-roach](https://github.com/Mark-SmallCharlie/dsh-screen-roach)
 - [GaoHu1997/dsh-maestro-codex](https://github.com/GaoHu1997/dsh-maestro-codex)
+- [ksi512/dsh-tok-qty](https://github.com/ksi512/dsh-tok-qty) — DSH的用量统计插件，也可统计DSH调用的其他模型的总量。
 
 ---
 
 
-*Generated on 2026-11-08 · 121 plugins in this category*
+*Generated on 2026-11-08 · 122 plugins in this category*

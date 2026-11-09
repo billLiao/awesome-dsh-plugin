@@ -149,6 +149,14 @@ def categorize(repo):
     if 'dsh-plugin-upgrader' in name:
         return 'development-runtime'
 
+    # PR #32 (2026-11-09): dsh-theme-blue-planet is a DeepSeek Harness theme;
+    # the owner slug 'lianghui32' contains 'ui', so the bare 'ui' keyword in
+    # the UI list below misfiles it into UI Enhancements (same owner-slug
+    # root cause as jefftsuicug / Lingrui98 above). Narrow name token →
+    # Themes & Appearance.
+    if 'dsh-theme-blue-planet' in name:
+        return 'themes-appearance'
+
     # Cross-session inbox / session dashboards → Sessions & Messages
     # (must run before the UI keyword list, whose bare 'ui' token occurs inside
     # owner slugs like Lingrui98 — issue #22, 2026-10-23)

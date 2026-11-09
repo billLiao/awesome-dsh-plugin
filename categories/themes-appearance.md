@@ -4,7 +4,7 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**637 plugins**
+**638 plugins**
 
 
 ---
@@ -646,8 +646,9 @@
 - [DarbeChan/dsh-qizhoucnc-cam](https://github.com/DarbeChan/dsh-qizhoucnc-cam) — DSH plugin: Qizhou CNC CAM — NC toolpath recognition, 3D preview, full editor, and theme integration.
 - [juliiiiiiiu/my-cozy-dsh](https://github.com/juliiiiiiiu/my-cozy-dsh) — My Cozy DSH: an illustrated theme for DeepSeek Harness
 - [frank6892103/dsh-WutheringWaves](https://github.com/frank6892103/dsh-WutheringWaves) — dsh鸣潮主题插件
+- [lianghui32/dsh-theme-blue-planet](https://github.com/lianghui32/dsh-theme-blue-planet) — Azure Planet · 蔚蓝星球 — a deep-blue, ringed-planet theme for DeepSeek Harness
 
 ---
 
 
-*Generated on 2026-11-09 · 637 plugins in this category*
+*Generated on 2026-11-09 · 638 plugins in this category*

@@ -112918,18 +112918,6 @@
         "updated_at": "2026-11-08T12:01:10Z"
       },
       {
-        "full_name": "lianghui32/dsh-theme-blue-planet",
-        "url": "https://github.com/lianghui32/dsh-theme-blue-planet",
-        "description": "Azure Planet · 蔚蓝星球 — a deep-blue, ringed-planet theme for DeepSeek Harness",
-        "stars": 0,
-        "topics": [
-          "deepseek-harness",
-          "dsh-plugin",
-          "dsh-theme"
-        ],
-        "updated_at": "2026-11-08T11:19:27Z"
-      },
-      {
         "full_name": "zhangyong0010/dsh-handshake",
         "url": "https://github.com/zhangyong0010/dsh-handshake",
         "description": "Codex ↔ DeepSeek Harness task handoff with original requirements, shared project rules and workspace checks.",
@@ -122357,6 +122345,18 @@
           "dsh-plugins"
         ],
         "updated_at": "2026-11-08T08:40:04Z"
+      },
+      {
+        "full_name": "lianghui32/dsh-theme-blue-planet",
+        "url": "https://github.com/lianghui32/dsh-theme-blue-planet",
+        "description": "Azure Planet · 蔚蓝星球 — a deep-blue, ringed-planet theme for DeepSeek Harness",
+        "stars": 0,
+        "topics": [
+          "deepseek-harness",
+          "dsh-plugin",
+          "dsh-theme"
+        ],
+        "updated_at": "2026-11-08T11:19:27Z"
       }
     ],
     "sessions-messages": [

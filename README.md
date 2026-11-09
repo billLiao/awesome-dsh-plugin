@@ -20,8 +20,8 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 | Category | Count | Description |
 |----------|-------|-------------|
-| 🎨 [UI Enhancements](categories/ui-enhancements.md) | 7710 | Plugins that enhance the DSH web/terminal user interface. |
-| 🎭 [Themes & Appearance](categories/themes-appearance.md) | 637 | Skins, themes, and appearance customization for DSH. |
+| 🎨 [UI Enhancements](categories/ui-enhancements.md) | 7709 | Plugins that enhance the DSH web/terminal user interface. |
+| 🎭 [Themes & Appearance](categories/themes-appearance.md) | 638 | Skins, themes, and appearance customization for DSH. |
 | 💬 [Sessions & Messages](categories/sessions-messages.md) | 4058 | Session management, message editing, sharing, and conversation tools. |
 | 🧠 [Memory](categories/memory.md) | 780 | Persistent memory, knowledge bases, and context retention plugins. |
 | 🛠️ [Tools & Capabilities](categories/tools-capabilities.md) | 6464 | Vision, browser, terminal, SSH, Docker, and other capability extensions. |
@@ -46,7 +46,7 @@ A selection of notable plugins by category:
 - [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) ⭐16036 — dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 - [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) ⭐10237 — DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-▶️ [View all 7710 plugins →](categories/ui-enhancements.md)
+▶️ [View all 7709 plugins →](categories/ui-enhancements.md)
 
 
 ### 🎭 Themes & Appearance
@@ -55,7 +55,7 @@ A selection of notable plugins by category:
 - [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐3052 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
 - [Yuuyuko-uu/dsh-fish-memory](https://github.com/Yuuyuko-uu/dsh-fish-memory) ⭐497 — 🐋 DSH 鱼的记忆：给会话一份会淡忘的长期记忆，每条都带时间。名字里的「鱼」来自 DeepSeek 的鲸鱼。
 
-▶️ [View all 637 plugins →](categories/themes-appearance.md)
+▶️ [View all 638 plugins →](categories/themes-appearance.md)
 
 
 ### 💬 Sessions & Messages

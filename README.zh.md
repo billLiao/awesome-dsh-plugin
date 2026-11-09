@@ -20,8 +20,8 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 
 | 分类 | 数量 | 说明 |
 |------|------|------|
-| 🎨 [UI 增强](categories/ui-enhancements.md) | 7710 | 增强 DSH Web/终端用户界面的插件。 |
-| 🎭 [主题与外观](categories/themes-appearance.md) | 637 | DSH 皮肤、主题与外观定制。 |
+| 🎨 [UI 增强](categories/ui-enhancements.md) | 7709 | 增强 DSH Web/终端用户界面的插件。 |
+| 🎭 [主题与外观](categories/themes-appearance.md) | 638 | DSH 皮肤、主题与外观定制。 |
 | 💬 [会话与消息](categories/sessions-messages.md) | 4058 | 会话管理、消息编辑、分享与对话工具。 |
 | 🧠 [记忆](categories/memory.md) | 780 | 持久记忆、知识库与上下文保留插件。 |
 | 🛠️ [工具与能力](categories/tools-capabilities.md) | 6464 | 视觉、浏览器、终端、SSH、Docker 等能力扩展。 |
@@ -43,7 +43,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) ⭐16036 — dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 - [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) ⭐10237 — DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-▶️ [查看全部 7710 个插件 →](categories/ui-enhancements.md)
+▶️ [查看全部 7709 个插件 →](categories/ui-enhancements.md)
 
 
 ### 🎭 主题与外观
@@ -52,7 +52,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐3052 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
 - [Yuuyuko-uu/dsh-fish-memory](https://github.com/Yuuyuko-uu/dsh-fish-memory) ⭐497 — 🐋 DSH 鱼的记忆：给会话一份会淡忘的长期记忆，每条都带时间。名字里的「鱼」来自 DeepSeek 的鲸鱼。
 
-▶️ [查看全部 637 个插件 →](categories/themes-appearance.md)
+▶️ [查看全部 638 个插件 →](categories/themes-appearance.md)
 
 
 ### 💬 会话与消息

@@ -4,7 +4,7 @@
 > Plugins that enhance the DSH web/terminal user interface.
 
 
-**7710 plugins**
+**7709 plugins**
 
 
 ---
@@ -7685,7 +7685,6 @@
 - [Marco77Cl/dsh-plugin-conversation-delete](https://github.com/Marco77Cl/dsh-plugin-conversation-delete) — Permanently delete a conversation from DeepSeek Harness — session log, projection cache, and sidebar entry.
 - [mengzhongjie/dsh-codex-sidebar](https://github.com/mengzhongjie/dsh-codex-sidebar) — Message view for the DSH sidebar: sessions grouped by priority and date, switched from a bell button.
 - [mufanlee/dsh-pikachu-pet](https://github.com/mufanlee/dsh-pikachu-pet) — Unofficial fan-made Pikachu desktop pet plugin for the DeepSeek Harness Web GUI.
-- [lianghui32/dsh-theme-blue-planet](https://github.com/lianghui32/dsh-theme-blue-planet) — Azure Planet · 蔚蓝星球 — a deep-blue, ringed-planet theme for DeepSeek Harness
 - [zhangyong0010/dsh-handshake](https://github.com/zhangyong0010/dsh-handshake) — Codex ↔ DeepSeek Harness task handoff with original requirements, shared project rules and workspace checks.
 - [HughPython/dsh-tc-mail](https://github.com/HughPython/dsh-tc-mail) — Agent Mail (腾讯智能体邮箱) client for DeepSeek Harness — sidebar panel, read/send/search, appearance settings, mail_* agent tools.
 - [yunxiao11xie/dsh-model-router](https://github.com/yunxiao11xie/dsh-model-router) — Serial model orchestration for the DeepSeek Harness: delegate subtasks to the best-fit model from a built-in catalog.
@@ -7723,4 +7722,4 @@
 ---
 
 
-*Generated on 2026-11-09 · 7710 plugins in this category*
+*Generated on 2026-11-09 · 7709 plugins in this category*

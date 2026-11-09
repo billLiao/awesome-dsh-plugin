@@ -34,7 +34,7 @@
 - [shangjian2023/dsh-rss-daily](https://github.com/shangjian2023/dsh-rss-daily) ⭐2 — dsh plugin: 46-source daily RSS digest, LLM-edited, delivered via webhook (ServerChan/PushDeer/WxWork/TG/Bark/gotify)
 - [Shizuku-keop/dsh-micro-inversion-standard](https://github.com/Shizuku-keop/dsh-micro-inversion-standard) ⭐2 — 一个可复用的 DSH Agent Preset：双阶段、Token 精益的编码智能体模式。  核心目标：把模型思维链的起手习惯从 "let me" 翻转为 "we need"，同时把上下文占用与 Token 消耗压到最低，并保持供应商 KV Cache 对未变前缀持续命中。
 - [lakeofsky347/dsh-oauth](https://github.com/lakeofsky347/dsh-oauth) ⭐2 — 一个适用于dsh的通过oauth认证实现模型注入的插件
-- [hongdougao111/dsh-bagu](https://github.com/hongdougao111/dsh-bagu) ⭐2 — 两道门。发出去的话像八股就打回；对方抛梗，在模型开始想之前就把族查好塞进上下文。会玩梗 ≠ 能查梗。
+- [hongdougao111/dsh-bagu](https://github.com/hongdougao111/dsh-bagu) ⭐2 — 两道门。发出去的话像八股就打回（聊天/评论/邮件/commit/PR/文档/注释全管）；对方抛梗就接住（内置梗wiki 6792 条，模型开始想之前就查好怎么接）。
 - [clarkzhao/dsh-llm-grok](https://github.com/clarkzhao/dsh-llm-grok) ⭐1 — dsh plugin for grok
 - [Xpectuer/dsh-llm-approver](https://github.com/Xpectuer/dsh-llm-approver) ⭐1
 - [iceprosurface/dsh-gateway-config](https://github.com/iceprosurface/dsh-gateway-config) ⭐1 — DSH web profile and TapSVC model configuration plugin

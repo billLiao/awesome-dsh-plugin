@@ -14,7 +14,7 @@
 - [Yuuyuko-uu/dsh-fish-memory](https://github.com/Yuuyuko-uu/dsh-fish-memory) ⭐497 — 🐋 DSH 鱼的记忆：给会话一份会淡忘的长期记忆，每条都带时间。名字里的「鱼」来自 DeepSeek 的鲸鱼。
 - [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) ⭐331 — DeepSeek Harness 滑动变阻器皮肤
 - [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) ⭐162 — 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风。
-- [webkubor/dsh-bloom-theme](https://github.com/webkubor/dsh-bloom-theme) ⭐134 — DSH 主题插件：Bloom 莫兰迪中国风配色，OKLCH 调色、明暗双主题、顶栏一键切换，实测达 WCAG AA。 / A DSH theme plugin: Morandi Chinese-style palettes, OKLCH, light/dark, WCAG AA.
+- [webkubor/dsh-bloom-theme](https://github.com/webkubor/dsh-bloom-theme) ⭐162 — DSH 主题插件：Bloom 莫兰迪中国风配色，OKLCH 调色、明暗双主题、顶栏一键切换，实测达 WCAG AA。 / A DSH theme plugin: Morandi Chinese-style palettes, OKLCH, light/dark, WCAG AA.
 - [Something11235/dsh-video-skin](https://github.com/Something11235/dsh-video-skin) ⭐104 — DSH 视频皮肤：聊天背景 + 有声开机动画 + 界面内透明度调节
 - [berhbro/dsh-cyrene-theme](https://github.com/berhbro/dsh-cyrene-theme) ⭐57 — Cyrene theme dsh plugin. Contributions are welcome!
 - [chen731215-dev/dsh-tavern-v2](https://github.com/chen731215-dev/dsh-tavern-v2) ⭐53 — DeepSeek Harness Tavern Plugin - character card roleplay, worldbook management, preset switching, dark theme, memory summary, relationship graph, PolyForm-Noncommercial-Copyleft-1.0.0
@@ -43,11 +43,11 @@
 - [PerryLink/dsh-mask](https://github.com/PerryLink/dsh-mask) ⭐17 — PII masking middleware for DeepSeek Harness: anonymize names, phones, emails, ID cards, bank cards, keys, and addresses to placeholders before they reach the model, restore them at the display layer, keep the restore table only in memory and a controlled storage domain, never log plaintext, and expose /mask and the mask_test tool
 - [tingfeng347/dsh-vscode-workbench](https://github.com/tingfeng347/dsh-vscode-workbench) ⭐14 — DeepSeek Harness 的 VS Code 风格本地开发工作台：文件管理、Monaco 编辑、文档预览、搜索、Git、分屏终端与 DSH 对话一体化。
 - [Small-tailqwq/dsh-deepcel](https://github.com/Small-tailqwq/dsh-deepcel) ⭐14 — 一款模仿 excel 的 dsh 皮肤
+- [Darianliu23/dsh-stardew-blind-whale-farmer](https://github.com/Darianliu23/dsh-stardew-blind-whale-farmer) ⭐13 — 大肥鱼种白饭 Blind Whale Farmer: let DeepSeek play Stardew Valley without a vision model (SMAPI mod + MCP + DSH plugin)
 - [suzike/dsh-freestyle-theme](https://github.com/suzike/dsh-freestyle-theme) ⭐12 — DeepSeek Harness 主题体验插件：OKLCH 主题提案 + 主题设计器（跨重启持久化）
 - [zhijun-dai/Catppuccin-dsh-theme](https://github.com/zhijun-dai/Catppuccin-dsh-theme) ⭐10 — 🐱 Soothing pastel theme for DeepSeek Harness
 - [kelemiao/dsh-animation-optimization](https://github.com/kelemiao/dsh-animation-optimization) ⭐10 — DSH 动画优化：输出流式动画与 Claude Code 风格外观插件
 - [AcidGr/dsh-web-whale-maid](https://github.com/AcidGr/dsh-web-whale-maid) ⭐10 — DeepSeek Harness (dsh) Web plugin — Anime maid whale desktop pet with satiety system and real-time LLM interaction
-- [Darianliu23/dsh-stardew-blind-whale-farmer](https://github.com/Darianliu23/dsh-stardew-blind-whale-farmer) ⭐10 — 大肥鱼种白饭 Blind Whale Farmer: let DeepSeek play Stardew Valley without a vision model (SMAPI mod + MCP + DSH plugin)
 - [wally8-8/dsh-done-whale](https://github.com/wally8-8/dsh-done-whale) ⭐9 — DeepSeek Harness 插件：标签页鲸鱼状态灯 —— 会话完成变绿，有待处理交互变琥珀。Tab-whale status light: green when done, amber when something awaits you.
 - [Hyna-hla/dsh-remote](https://github.com/Hyna-hla/dsh-remote) ⭐9 — DSH Remote 手机遥控端：把电脑上的 DeepSeek Harness 装进口袋。手机连上就能给 AI 派活、看实时回复、批审批；支持局域网/内网穿透、扫码连接、审批通知、会话管理、多主题换装，还能解锁加密保险库。第三方社区作品，开源免费。
 - [keman-ai/dsh-skin-market](https://github.com/keman-ai/dsh-skin-market) ⭐9 — Skin marketplace for DeepSeek Harness — search and install community skins from dsh.a2hmarket.ai right in the settings page

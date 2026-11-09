@@ -14,11 +14,12 @@
 - [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐21 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
 - [omdsh-dev/stent](https://github.com/omdsh-dev/stent) ⭐19 — 灵感来源于MC Fabric的Cordis/DSH hook处理器
 - [omdsh-dev/dsh-mygo](https://github.com/omdsh-dev/dsh-mygo) ⭐12
-- [Liaoyuanxinghuo/DSH-Plugin-Manager](https://github.com/Liaoyuanxinghuo/DSH-Plugin-Manager) ⭐11 — 车同轨，书同文。DSH 的多版本、插件、Profile 与整合包，从此归于一统。
-- [morlay/dsh-plugin](https://github.com/morlay/dsh-plugin) ⭐9 — dsh plugins
+- [Liaoyuanxinghuo/DSH-Plugin-Manager](https://github.com/Liaoyuanxinghuo/DSH-Plugin-Manager) ⭐12 — 车同轨，书同文。DSH 的多版本、插件、Profile 与整合包，从此归于一统。
+- [morlay/dsh-plugin](https://github.com/morlay/dsh-plugin) ⭐10 — dsh plugins
 - [EliteOtaku/dsh-opendesign-go](https://github.com/EliteOtaku/dsh-opendesign-go) ⭐9 — 为opendesign订阅开发的DSH插件
 - [fu827707013/dsh-codebuddy-cli](https://github.com/fu827707013/dsh-codebuddy-cli) ⭐8 — dsh-codebuddy-cli
 - [omdsh-dev/dsh-fun-ticker](https://github.com/omdsh-dev/dsh-fun-ticker) ⭐5 — DSH 行情跑马灯插件：可自选标的的加密/汇率/A股/指数/港美股跑马灯，免 key 数据源，宿主代理+缓存
+- [Alice-Marx/dsh-boot-animation](https://github.com/Alice-Marx/dsh-boot-animation) ⭐4 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
 - [omdsh-dev/dsh-daily-fortune](https://github.com/omdsh-dev/dsh-daily-fortune) ⭐3 — DSH daily fortune plugin with Guan Yin lots, Tarot spreads, and daily quotes
 - [omdsh-dev/dsh-ernie-image](https://github.com/omdsh-dev/dsh-ernie-image) ⭐3
 - [omdsh-dev/dsh-daily-progress](https://github.com/omdsh-dev/dsh-daily-progress) ⭐3
@@ -37,7 +38,6 @@
 - [helibeiqi/dsh-csp-runtime](https://github.com/helibeiqi/dsh-csp-runtime) ⭐1 — Cognitive State Protocol (CSP) v0.1 — the cross-framework interop layer that makes AI thinking state serializable, persistable, and transferable. Host-side Cordis plugin for the DSH ecosystem.
 - [dymzz/lgtm-dsh](https://github.com/dymzz/lgtm-dsh) ⭐1 — lgtm-dsh is a DSH plugin that automatically installs lgtm, reuses the Jev already configured in DSH, and lets the agent automatically call lgtm during the testing phase.
 - [YuMo-233/dsh-kubejs](https://github.com/YuMo-233/dsh-kubejs) ⭐1 — DSH 插件修改者：以独立脚本包定制其他已安装插件，不改插件源码（KubeJS 模式）
-- [Alice-Marx/dsh-boot-animation](https://github.com/Alice-Marx/dsh-boot-animation) ⭐1 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
 - [Jydsh/dsh-ding-card](https://github.com/Jydsh/dsh-ding-card) ⭐1 — dsh上基于dsh-im插件开发的插件，主要接入钉钉卡片模板，可设计，可拓展可测试的功能。
 - [alice0721021-web/dsh-local-devkit](https://github.com/alice0721021-web/dsh-local-devkit) ⭐1
 - [dev-HuTao/dsh-plugin-landscape-bg](https://github.com/dev-HuTao/dsh-plugin-landscape-bg) ⭐1

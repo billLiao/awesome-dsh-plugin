@@ -6547,6 +6547,8 @@
 - [liamugong/dsh--web-fetch](https://github.com/liamugong/dsh--web-fetch) — 可拖动排序的 DSH 网页抓取聚合插件：直连 / Jina / Firecrawl / fastCRW / Exa / 无头浏览器 / Lightpanda。Drag-orderable web-fetch provider for DeepSeek Harness.
 - [comeonzhj/dsh-pm-plugin](https://github.com/comeonzhj/dsh-pm-plugin) — DeepSeek Harness plugin market index (format 1) hosted on GitHub Pages
 - [ckilwork/dsh-plugin-llama-manager](https://github.com/ckilwork/dsh-plugin-llama-manager) — Windows llama.cpp manager for DeepSeek Harness with GGUF launch profiles, logs, and model picker integration.
+- [cyrus-xc/better-ego-browser](https://github.com/cyrus-xc/better-ego-browser) — Connects DSH to the installed Windows ego lite app over authenticated loopback HTTP for navigation, clicks, form input and screenshots.
+
 
 ---
 

@@ -7719,6 +7719,8 @@
 - [LaFantasque520/dsh-sidebar-reader](https://github.com/LaFantasque520/dsh-sidebar-reader)
 - [new2023start/dsh-pomodoro-clock](https://github.com/new2023start/dsh-pomodoro-clock) — A pomodoro timer for the DeepSeek Harness right sidebar: draggable edge handle, one-shot or cycle counting, and selectable WebAudio cues including an airport-style announcement.
 
+- [skystart233-code/dsh-plugin-market](https://github.com/skystart233-code/dsh-plugin-market) — 侧边栏插件市场：浏览 7,557 个 DSH 插件，一键安装、更新、启停和卸载；安装任务在离开页面后继续，并支持针对单个插件提问。A sidebar plugin market for DSH: browse 7,557 plugins, install/update/enable/remove in one click, with background jobs and per-plugin support chat.
+
 ---
 
 

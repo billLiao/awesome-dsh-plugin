@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**23 plugins**
+**24 plugins**
 
 
 ---
@@ -32,8 +32,9 @@
 - [xnwang1999/dsh-dragon-maid-pet](https://github.com/xnwang1999/dsh-dragon-maid-pet)
 - [x-cores/dsh-3d-mine-game](https://github.com/x-cores/dsh-3d-mine-game)
 - [260807094-alt/dsh-star-pet](https://github.com/260807094-alt/dsh-star-pet) — self code and software
+- [luk-Henry/dsh-game-adventure](https://github.com/luk-Henry/dsh-game-adventure) — 门后冒险，一个基于dsh的文字挂机陪伴插件。
 
 ---
 
 
-*Generated on 2026-11-09 · 23 plugins in this category*
+*Generated on 2026-11-10 · 24 plugins in this category*

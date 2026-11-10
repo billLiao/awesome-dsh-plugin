@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**126 plugins**
+**127 plugins**
 
 
 ---
@@ -54,6 +54,7 @@
 - [JeffTsuiCUG/dsh-connect-minimaxcode](https://github.com/JeffTsuiCUG/dsh-connect-minimaxcode) ⭐1 — Bring MiniMax Code desktop app models into DeepSeek Harness: zero-config, no API key, Anthropic Messages compatible, dynamic model catalog, and the credit balance plus expiring credits shown in the composer and plugin page. Unofficial plugin; relies on MiniMax non-public client APIs, for study and research use only.
 - [Esper967/dsh-music-insight](https://github.com/Esper967/dsh-music-insight) ⭐1 — 让你的dsh模型感受音乐
 - [GaoHu1997/dsh-maestro-codex](https://github.com/GaoHu1997/dsh-maestro-codex) ⭐1
+- [betsunninda9-lgtm/dsh-model-groups](https://github.com/betsunninda9-lgtm/dsh-model-groups) ⭐1 — DSH 模型选择器：供应商与多密钥配置折叠、精确模型路由（DSH 0.2.2-rc.1）
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -139,4 +140,4 @@
 ---
 
 
-*Generated on 2026-11-10 · 126 plugins in this category*
+*Generated on 2026-11-10 · 127 plugins in this category*

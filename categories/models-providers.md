@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**127 plugins**
+**128 plugins**
 
 
 ---
@@ -136,8 +136,9 @@
 - [Paurika1113/dsh-opencode-live](https://github.com/Paurika1113/dsh-opencode-live) — DSH route for OpenCode Go and Zen: live model roster, per-model wire protocol, and capacities from the official models.dev catalogue.
 - [Cheeserackery/deepseek-time](https://github.com/Cheeserackery/deepseek-time) — 一款Agent插件，能够实时直观显示DeepSeek当前收费时段状态。DeepSeek pricing-period status indicator with Hermes, DSH, and Codex adapters.
 - [locqueliu/lianben-workbench](https://github.com/locqueliu/lianben-workbench) — DSH 炼本工作台：1.0/2.0 双模式剧本前置、炼本与配乐插件
+- [davzlcm/model-price-radar](https://github.com/davzlcm/model-price-radar) — DSH ??:?????????,???????,??????????
 
 ---
 
 
-*Generated on 2026-11-10 · 127 plugins in this category*
+*Generated on 2026-11-10 · 128 plugins in this category*

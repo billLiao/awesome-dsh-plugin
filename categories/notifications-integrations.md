@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**55 plugins**
+**57 plugins**
 
 
 ---
@@ -64,8 +64,10 @@
 - [tsurumi-yizhou/dsh-live-notify](https://github.com/tsurumi-yizhou/dsh-live-notify)
 - [Mapleru/dsh-codex-bridge](https://github.com/Mapleru/dsh-codex-bridge)
 - [lunatic-eclipse/dsh-codebuddy-bridge](https://github.com/lunatic-eclipse/dsh-codebuddy-bridge)
+- [lmy060307/dsh-mail-bridge](https://github.com/lmy060307/dsh-mail-bridge) — 让agent连接您的邮箱，替您发送或接收邮件
+- [LouXiaXiaoHei/dsh-chrome-bridge](https://github.com/LouXiaXiaoHei/dsh-chrome-bridge) — codex 同款 dsh chrome 操作：@ 提及真实 Chrome 标签页，用可信输入点击、输入、拖拽
 
 ---
 
 
-*Generated on 2026-11-10 · 55 plugins in this category*
+*Generated on 2026-11-11 · 57 plugins in this category*

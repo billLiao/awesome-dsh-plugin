@@ -17,7 +17,7 @@
 - [omdsh-dev/dsh-mygo](https://github.com/omdsh-dev/dsh-mygo) ⭐12
 - [Liaoyuanxinghuo/DSH-Plugin-Manager](https://github.com/Liaoyuanxinghuo/DSH-Plugin-Manager) ⭐12 — 车同轨，书同文。DSH 的多版本、插件、Profile 与整合包，从此归于一统。
 - [morlay/dsh-plugin](https://github.com/morlay/dsh-plugin) ⭐10 — dsh plugins
-- [EliteOtaku/dsh-opendesign-go](https://github.com/EliteOtaku/dsh-opendesign-go) ⭐9 — 为opendesign订阅开发的DSH插件
+- [EliteOtaku/dsh-opendesign-go](https://github.com/EliteOtaku/dsh-opendesign-go) ⭐10 — 为opendesign订阅开发的DSH插件
 - [omdsh-dev/dsh-fun-ticker](https://github.com/omdsh-dev/dsh-fun-ticker) ⭐5 — DSH 行情跑马灯插件：可自选标的的加密/汇率/A股/指数/港美股跑马灯，免 key 数据源，宿主代理+缓存
 - [Alice-Marx/dsh-boot-animation](https://github.com/Alice-Marx/dsh-boot-animation) ⭐4 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
 - [omdsh-dev/dsh-daily-fortune](https://github.com/omdsh-dev/dsh-daily-fortune) ⭐3 — DSH daily fortune plugin with Guan Yin lots, Tarot spreads, and daily quotes

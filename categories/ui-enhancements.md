@@ -8021,6 +8021,7 @@
 - [SternChiri/dsh-panel-tidy](https://github.com/SternChiri/dsh-panel-tidy) — 侧栏面板自由拖动：长按拖到任意位置排序，拖进「更多」即收纳、拖出即放回 | Sidebar panel organizer for DeepSeek Harness
 - [Limsanity/dsh-video-summary](https://github.com/Limsanity/dsh-video-summary) — 为 DSH Web GUI 加一个视频总结面板：粘链接即转录（B站/YouTube，MLX 或 CPU Whisper）并生成带时间轴的总结，按条归档。A video-summary panel for the DSH Web GUI: paste a link, get a timestamped transcript and summary, keep every record.
 
+- [sheep645/dsh-sidebar-panel-fold](https://github.com/sheep645/dsh-sidebar-panel-fold) — 在 DSH Web 侧边栏「新会话」下方加一个折叠行：一键收起或展开插件与其他面板入口，状态保存在本地 | Adds a fold row under New session in the DSH Web sidebar: one click collapses or restores the plugin and panel entries, remembering the state locally.
 ---
 
 

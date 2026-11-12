@@ -4,7 +4,7 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**815 plugins**
+**816 plugins**
 
 
 ---
@@ -168,6 +168,7 @@
 - [ty2922059981-stack/fish-memory](https://github.com/ty2922059981-stack/fish-memory) ⭐2 — 给 AI 用的长期记忆服务 + DeepSeek Harness 插件：提炼 / 混合召回 / 生命周期 / 日记 / 成长档案 / 记忆星图，本地 SQLite，单机自用
 - [Light-EI/dsh-ebbing-context](https://github.com/Light-EI/dsh-ebbing-context) ⭐2 — 模拟记忆衰退的 DSH 分层上下文压缩插件：原文 → L1 → L2 → L3，越旧分辨率越低，但从不删除。
 - [sergey-akhalkov/dsh-setup](https://github.com/sergey-akhalkov/dsh-setup) ⭐2 — A portable DeepSeek Harness setup: sixteen plugins that make an agent work in small verified steps (second-model review, loop recovery, lazy MCP, local memory), plus a one-command installer.
+- [OakcoderX/solopup-memory](https://github.com/OakcoderX/solopup-memory) ⭐2 — Source-linked text memory for DeepSeek Harness (DSH). 保留原话来源、项目边界与修订历史的文字记忆插件。Public beta · MIT.
 - [1DAdidi/dsh-memory-brain-plugin](https://github.com/1DAdidi/dsh-memory-brain-plugin) ⭐2 — DSH记忆星脑插件，3D神经元记忆图谱，记忆分区管理
 - [risense-ai/respire-dsh](https://github.com/risense-ai/respire-dsh) ⭐2 — Respire memory for DeepSeek Harness (dsh). npm: @rsrsai/dsh
 - [1129742588/dsh-memory-tiers](https://github.com/1129742588/dsh-memory-tiers) ⭐2 — 让 dsh 记住你说过的话，忘掉无关的，聊再久也不多花钱。
@@ -308,7 +309,6 @@
 - [yhPrime/dsh-exp-lib-provider](https://github.com/yhPrime/dsh-exp-lib-provider) ⭐1 — 经验库：dsh-mnemon 的记忆空间 Provider（exp-lib），同时注册 exp_recall / exp_record 工具（JitRL 优势排序）。
 - [shadowRjh/dsh-neuron-memory](https://github.com/shadowRjh/dsh-neuron-memory) ⭐1 — Neuron-inspired memory framework + 3D neuron star-ring panel for DeepSeek Harness.
 - [wz20/dsh-dafeiyu-dot](https://github.com/wz20/dsh-dafeiyu-dot) ⭐1 — DeepSeek Harness 陪伴插件：情绪语音、记忆宫殿、QQ、语音通话与记账挂件。
-- [OakcoderX/solopup-memory](https://github.com/OakcoderX/solopup-memory) ⭐1 — Source-linked text memory for DeepSeek Harness (DSH). 保留原话来源、项目边界与修订历史的文字记忆插件。Public beta · MIT.
 - [Treasure-hub-agent/dsh-ai-with-u](https://github.com/Treasure-hub-agent/dsh-ai-with-u) ⭐1 — DeepSeek Harness 角色扮演插件：选卡即用、日记记忆、可视化面板
 - [Soulmate793/dsh-memory](https://github.com/Soulmate793/dsh-memory) ⭐1 — Human-like memory plugin for DeepSeek Harness: Ebbinghaus decay, sleep consolidation, memory zones, hash-chain audit. Local-only, zero dependencies.
 - [ifenc/dsh-persona-memory](https://github.com/ifenc/dsh-persona-memory) ⭐1 — 「DSH 人设 + 记忆 + 日记插件」
@@ -764,7 +764,7 @@
 - [LingYS-14/ai-companion-engine](https://github.com/LingYS-14/ai-companion-engine) — Stateful AI companion kernel: long-term memory, autonomous intent, sleep rhythm, QQ + web workbench · DSH plugin
 - [kelunisi/dsh-neocortex](https://github.com/kelunisi/dsh-neocortex) — Zhinao (second brain) for DeepSeek Harness: layered Markdown memory with a local recall ledger, lifecycle engine, weekly review and a Web panel.
 - [mike1-huh/dsh-plugin-neural-cloud](https://github.com/mike1-huh/dsh-plugin-neural-cloud) — 别人家的记忆插件靠关键词，这个带向量库和 11 条召回通道｜双击安装，拔掉不留痕A DSH memory plugin that ships its own vector engine — dedupe, provenance, memory graph, multi-channel RRF recall. Double-click install, data stays local.
-- [Yanlrx/dsh-memory-v2](https://github.com/Yanlrx/dsh-memory-v2)
+- [Yanlrx/dsh-memory-v2](https://github.com/Yanlrx/dsh-memory-v2) — 瑞希的记忆 —— 注重隐私的 DeepSeek Harness 本地长期记忆插件
 - [china-wkz/dsh-window-state](https://github.com/china-wkz/dsh-window-state) — 记住 DSH Desktop 主窗口的位置、尺寸与最大化状态，重开原样恢复。Remembers the DeepSeek Harness desktop window geometry (position, size, maximized) and restores it on the next launch. Windows only.
 - [flaukowski/dsh-plugin-kannaka](https://github.com/flaukowski/dsh-plugin-kannaka) — Kannaka memory, swarm and KAX compute tools for DeepSeek Harness (dsh-plugin)
 - [hejiwan77-byte/dsh-bili-review](https://github.com/hejiwan77-byte/dsh-bili-review) — Bilibili reviews and knowledge base for DeepSeek Harness: browse by category, read each video, and write grounded reviews.
@@ -824,8 +824,9 @@
 - [Kanzhenijuede/dsh-aurabot-douyin](https://github.com/Kanzhenijuede/dsh-aurabot-douyin) — 独立跑在抖音上的 Aurabot：专属人设、心情、记忆，读抖音私信并按人格回复（默认只读）
 - [Jasery/dsh-workbuddy-memory](https://github.com/Jasery/dsh-workbuddy-memory) — Read and write WorkBuddy memory files from DSH: one set of Markdown files, two clients.
 - [clair0314/dsh-inspiration-vault](https://github.com/clair0314/dsh-inspiration-vault) — A local idea vault for DSH: jot one line, find it by keyword. Plain markdown, zero dependencies, no unsolicited AI commentary.
+- [xiaofeiyu39/dsh-memory-xfy](https://github.com/xiaofeiyu39/dsh-memory-xfy) — DSH 分层记忆插件：跨层检索、按需简报、文件驱动。零 native 依赖、不做每轮 prompt 注入。
 
 ---
 
 
-*Generated on 2026-11-12 · 815 plugins in this category*
+*Generated on 2026-11-12 · 816 plugins in this category*

@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**128 plugins**
+**129 plugins**
 
 
 ---
@@ -126,7 +126,7 @@
 - [zengxiangpeng123/dsh-our-free-model-balance-zxp](https://github.com/zengxiangpeng123/dsh-our-free-model-balance-zxp)
 - [yorelog/dsh-open-model](https://github.com/yorelog/dsh-open-model)
 - [SB-TDM/dsh-rvc-cover](https://github.com/SB-TDM/dsh-rvc-cover) — 用本机 RVC 模型翻唱，并让说话走同一个模型。
-- [backtomyfuture/dsh-resource-center](https://github.com/backtomyfuture/dsh-resource-center)
+- [backtomyfuture/dsh-litellm-panel](https://github.com/backtomyfuture/dsh-litellm-panel)
 - [mhxy13867806343/dsh-plugin-select-model](https://github.com/mhxy13867806343/dsh-plugin-select-model)
 - [twoweeks1995/dsh-subagent-setup](https://github.com/twoweeks1995/dsh-subagent-setup)
 - [xiong4huo/dsh-recursive-best-of-n](https://github.com/xiong4huo/dsh-recursive-best-of-n) — DSH 插件 · Recursive Best-of-N（递归择优树）agent preset：并行数与递归深度跟随用户的 Subagent 设置，主 agent 一次并行派发多个子代理，每层择优上送。
@@ -137,8 +137,9 @@
 - [Cheeserackery/deepseek-time](https://github.com/Cheeserackery/deepseek-time) — 一款Agent插件，能够实时直观显示DeepSeek当前收费时段状态。DeepSeek pricing-period status indicator with Hermes, DSH, and Codex adapters.
 - [locqueliu/lianben-workbench](https://github.com/locqueliu/lianben-workbench) — DSH 炼本工作台：1.0/2.0 双模式剧本前置、炼本与配乐插件
 - [davzlcm/model-price-radar](https://github.com/davzlcm/model-price-radar) — DSH ??:?????????,???????,??????????
+- [No-ni/billion-context-patched](https://github.com/No-ni/billion-context-patched) — DSH 上下文压缩与请求加速插件：fork 继承、图片折叠，内置模型请求加速器。
 
 ---
 
 
-*Generated on 2026-11-12 · 128 plugins in this category*
+*Generated on 2026-11-12 · 129 plugins in this category*

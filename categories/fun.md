@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**24 plugins**
+**25 plugins**
 
 
 ---
@@ -19,6 +19,7 @@
 - [xuexiaolei1997/dsh-plugin-stock-x](https://github.com/xuexiaolei1997/dsh-plugin-stock-x) ⭐1
 - [hulibuld/dsh-pet-cuteness-plugin](https://github.com/hulibuld/dsh-pet-cuteness-plugin) ⭐1 — 由 DSH 上传：AI娘化插件
 - [haaahhhis/MultiGameAssistant](https://github.com/haaahhhis/MultiGameAssistant) ⭐1 — 基于dsh核心搭建的多游戏脚本综合管理Agent，长期使用容易目光呆滞。
+- [l359199387/dsh-pet-enhance](https://github.com/l359199387/dsh-pet-enhance) ⭐1 — 给 dsh-pet 的增强插件：能闲聊、能看屏干活、能口述带教并写入本机技能。
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
 - [Helly0000/dsh-life-game](https://github.com/Helly0000/dsh-life-game)
@@ -37,4 +38,4 @@
 ---
 
 
-*Generated on 2026-11-13 · 24 plugins in this category*
+*Generated on 2026-11-13 · 25 plugins in this category*

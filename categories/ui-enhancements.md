@@ -4,7 +4,7 @@
 > Plugins that enhance the DSH web/terminal user interface.
 
 
-**8355 plugins**
+**8354 plugins**
 
 
 ---
@@ -6420,7 +6420,6 @@
 - [dddmxza/dsh-mimo-voice](https://github.com/dddmxza/dsh-mimo-voice) — Xiaomi MiMo TTS voice plugin for DeepSeek Harness — speaks a line through your local speakers, with voice design, preview and approval alerts built in.
 - [LCspax/dsh-ocgo-ring](https://github.com/LCspax/dsh-ocgo-ring) — OpenCode Go quota ring for DeepSeek Harness: three windows beside the composer context meter.
 - [qiqingyo/dsh-daily-tasks](https://github.com/qiqingyo/dsh-daily-tasks) — Calendar-synced daily task checklist plugin for the DeepSeek Harness Web UI.
-- [AIcivilization/dsh-mishu](https://github.com/AIcivilization/dsh-mishu) — DSH 小秘书：替你盯着 GitHub 通知（按当前状态分诊，已解决的替你关掉）并记住你交代的到期事项（账单、续费、证件、生日），密码只进系统钥匙串。中英双语，macOS/Windows/Linux | DSH secretary: triages GitHub notifications by real state, tracks dated reminders, keychain-only secrets.
 - [copyninja123/dsh-bubble-skins](https://github.com/copyninja123/dsh-bubble-skins) — DeepSeek Harness user message bubble skin library | DSH 用户消息气泡样式库插件
 - [androidly/dsh-restart-control](https://github.com/androidly/dsh-restart-control) — DSH Web sidebar restart control: graceful host exit, supervisor-aware replacement, pid-verified status notice.
 - [CatLollipop/dsh-composer-draft-cache](https://github.com/CatLollipop/dsh-composer-draft-cache) — DeepSeek Harness 输入框草稿缓存插件：按工作区缓存新会话草稿、按会话缓存历史会话草稿，切换后自动恢复；已发送或已清空的草稿不会再出现，直到关闭应用。
@@ -8368,4 +8367,4 @@
 ---
 
 
-*Generated on 2026-11-13 · 8355 plugins in this category*
+*Generated on 2026-11-13 · 8354 plugins in this category*

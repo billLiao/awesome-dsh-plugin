@@ -157,6 +157,15 @@ def categorize(repo):
     if 'dsh-theme-blue-planet' in name:
         return 'themes-appearance'
 
+    # Issue #36 (2026-11-13): dsh-mishu is a notification-triage secretary
+    # (GitHub notifications triaged by real state, read-only IMAP inbox,
+    # URL/RSS watching). Its description's reminder examples
+    # "（账单、续费、证件、生日）" hit the UI list's '账单' keyword (intended
+    # for billing/cost panels) before the notifications-integrations list is
+    # reached. Narrow name token → Notifications & Integrations.
+    if 'dsh-mishu' in name:
+        return 'notifications-integrations'
+
     # Cross-session inbox / session dashboards → Sessions & Messages
     # (must run before the UI keyword list, whose bare 'ui' token occurs inside
     # owner slugs like Lingrui98 — issue #22, 2026-10-23)

@@ -20,13 +20,13 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 | Category | Count | Description |
 |----------|-------|-------------|
-| 🎨 [UI Enhancements](categories/ui-enhancements.md) | 8355 | Plugins that enhance the DSH web/terminal user interface. |
+| 🎨 [UI Enhancements](categories/ui-enhancements.md) | 8354 | Plugins that enhance the DSH web/terminal user interface. |
 | 🎭 [Themes & Appearance](categories/themes-appearance.md) | 680 | Skins, themes, and appearance customization for DSH. |
 | 💬 [Sessions & Messages](categories/sessions-messages.md) | 4432 | Session management, message editing, sharing, and conversation tools. |
 | 🧠 [Memory](categories/memory.md) | 829 | Persistent memory, knowledge bases, and context retention plugins. |
 | 🛠️ [Tools & Capabilities](categories/tools-capabilities.md) | 6914 | Vision, browser, terminal, SSH, Docker, and other capability extensions. |
 | 🔁 [Workflow & Automation](categories/workflow-automation.md) | 5190 | Automation loops, scheduled tasks, multi-agent teams, and workflow engines. |
-| 🔔 [Notifications & Integrations](categories/notifications-integrations.md) | 57 | WeChat, Telegram, IM bridges, desktop notifications, and external integrations. |
+| 🔔 [Notifications & Integrations](categories/notifications-integrations.md) | 58 | WeChat, Telegram, IM bridges, desktop notifications, and external integrations. |
 | 🔌 [Models & Providers](categories/models-providers.md) | 130 | Multi-model support, OAuth login, LLM fallback strategies, and provider bridges. |
 | 🧑‍💻 [Development & Runtime](categories/development-runtime.md) | 85 | Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling. |
 | 🔒 [Security & Privacy](categories/security-privacy.md) | 19 | Credential management, encryption, audit, and security tooling. |
@@ -46,7 +46,7 @@ A selection of notable plugins by category:
 - [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) ⭐21198 — dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 - [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) ⭐10378 — DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-▶️ [View all 8355 plugins →](categories/ui-enhancements.md)
+▶️ [View all 8354 plugins →](categories/ui-enhancements.md)
 
 
 ### 🎭 Themes & Appearance
@@ -100,7 +100,7 @@ A selection of notable plugins by category:
 - [minhdevtry/dsh-markdown-ide](https://github.com/minhdevtry/dsh-markdown-ide) ⭐5 — DSH Plugin for Markdown like Notion experience
 - [bill9109/dsh-webbridge](https://github.com/bill9109/dsh-webbridge) ⭐4 — DSH 结合 Kimi WebBridge
 
-▶️ [View all 57 plugins →](categories/notifications-integrations.md)
+▶️ [View all 58 plugins →](categories/notifications-integrations.md)
 
 
 ### 🔌 Models & Providers

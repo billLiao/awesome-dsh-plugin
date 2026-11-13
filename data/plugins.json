@@ -94869,30 +94869,6 @@
         "updated_at": "2026-10-22T08:51:04Z"
       },
       {
-        "full_name": "AIcivilization/dsh-mishu",
-        "url": "https://github.com/AIcivilization/dsh-mishu",
-        "description": "DSH 小秘书：替你盯着 GitHub 通知（按当前状态分诊，已解决的替你关掉）并记住你交代的到期事项（账单、续费、证件、生日），密码只进系统钥匙串。中英双语，macOS/Windows/Linux | DSH secretary: triages GitHub notifications by real state, tracks dated reminders, keychain-only secrets.",
-        "stars": 0,
-        "topics": [
-          "cordis",
-          "deepseek",
-          "deepseek-harness",
-          "dsh",
-          "dsh-plugin",
-          "dsh-plugins",
-          "email",
-          "github",
-          "imap",
-          "inbox",
-          "notifications",
-          "reminder",
-          "secretary",
-          "todo",
-          "triage"
-        ],
-        "updated_at": "2026-11-12T06:47:51Z"
-      },
-      {
         "full_name": "copyninja123/dsh-bubble-skins",
         "url": "https://github.com/copyninja123/dsh-bubble-skins",
         "description": "DeepSeek Harness user message bubble skin library | DSH 用户消息气泡样式库插件",
@@ -377964,6 +377940,30 @@
           "dsh-plugin"
         ],
         "updated_at": "2026-11-12T10:57:06Z"
+      },
+      {
+        "full_name": "AIcivilization/dsh-mishu",
+        "url": "https://github.com/AIcivilization/dsh-mishu",
+        "description": "DSH 小秘书：替你盯着 GitHub 通知（按当前状态分诊，已解决的替你关掉）并记住你交代的到期事项（账单、续费、证件、生日），密码只进系统钥匙串。中英双语，macOS/Windows/Linux | DSH secretary: triages GitHub notifications by real state, tracks dated reminders, keychain-only secrets.",
+        "stars": 0,
+        "topics": [
+          "cordis",
+          "deepseek",
+          "deepseek-harness",
+          "dsh",
+          "dsh-plugin",
+          "dsh-plugins",
+          "email",
+          "github",
+          "imap",
+          "inbox",
+          "notifications",
+          "reminder",
+          "secretary",
+          "todo",
+          "triage"
+        ],
+        "updated_at": "2026-11-12T06:47:51Z"
       }
     ],
     "models-providers": [

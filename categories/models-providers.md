@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**130 plugins**
+**131 plugins**
 
 
 ---
@@ -139,8 +139,9 @@
 - [Cheeserackery/deepseek-time](https://github.com/Cheeserackery/deepseek-time) — 一款Agent插件，能够实时直观显示DeepSeek当前收费时段状态。DeepSeek pricing-period status indicator with Hermes, DSH, and Codex adapters.
 - [locqueliu/lianben-workbench](https://github.com/locqueliu/lianben-workbench) — DSH 炼本工作台：1.0/2.0 双模式剧本前置、炼本与配乐插件
 - [davzlcm/model-price-radar](https://github.com/davzlcm/model-price-radar) — DSH ??:?????????,???????,??????????
+- [YoungerHy/dsh-prompt-detailer](https://github.com/YoungerHy/dsh-prompt-detailer) — 输入一句粗需求，先由任意 OpenAI 兼容模型细化成可执行提示词，再交给 DSH 主模型执行。
 
 ---
 
 
-*Generated on 2026-11-13 · 130 plugins in this category*
+*Generated on 2026-11-14 · 131 plugins in this category*

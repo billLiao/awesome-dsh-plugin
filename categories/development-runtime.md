@@ -98,4 +98,4 @@
 ---
 
 
-*Generated on 2026-11-13 · 85 plugins in this category*
+*Generated on 2026-11-14 · 85 plugins in this category*

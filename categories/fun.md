@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**25 plugins**
+**26 plugins**
 
 
 ---
@@ -34,8 +34,9 @@
 - [x-cores/dsh-3d-mine-game](https://github.com/x-cores/dsh-3d-mine-game)
 - [260807094-alt/dsh-star-pet](https://github.com/260807094-alt/dsh-star-pet) — self code and software
 - [luk-Henry/dsh-game-adventure](https://github.com/luk-Henry/dsh-game-adventure) — 门后冒险，一个基于dsh的文字挂机陪伴插件。
+- [henryzhc26/dsh-darena](https://github.com/henryzhc26/dsh-darena) — D宠大乐斗：DSH 的实时匹配真人对战小游戏（11 档难度、三局两胜、全球净胜榜）
 
 ---
 
 
-*Generated on 2026-11-13 · 25 plugins in this category*
+*Generated on 2026-11-14 · 26 plugins in this category*

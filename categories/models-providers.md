@@ -4,13 +4,14 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**133 plugins**
+**135 plugins**
 
 
 ---
 
 - [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model) ⭐12 — Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.
 - [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐12 — DSH Web 模型余量与用量监控插件
+- [guohwa/dsh-plugin-image-workbench](https://github.com/guohwa/dsh-plugin-image-workbench) ⭐12 — Bluxe 手绘工坊 · 生图工作台：装在 DSH 侧栏的 AI 生图工作台插件，内置账号池装好即用，输入提示词一键生成图文 / 摄影配图，也能接你自己的 OpenAI 兼容接口。
 - [HuanLinOTO/dsh-plugin-auto-blame](https://github.com/HuanLinOTO/dsh-plugin-auto-blame) ⭐11 — 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 | After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips
 - [HuanLinOTO/dsh-plugin-d399](https://github.com/HuanLinOTO/dsh-plugin-d399) ⭐9 — 模型生成时右下角弹出小游戏菜单（Wordle/消消乐/192 款参数化小游戏，可拓展注册表） | Pops up a mini-game menu while the model generates (Wordle/Match-3/192 parametric mini-games, extensible registry)
 - [MoRanYue/dsh-openrouter-providers](https://github.com/MoRanYue/dsh-openrouter-providers) ⭐7 — DSH 插件：设置页配置 OpenRouter 提供商列表，注入 provider.only / provider.order 路由参数；状态持久化
@@ -142,8 +143,9 @@
 - [davzlcm/model-price-radar](https://github.com/davzlcm/model-price-radar) — DSH ??:?????????,???????,??????????
 - [YoungerHy/dsh-prompt-detailer](https://github.com/YoungerHy/dsh-prompt-detailer) — 输入一句粗需求，先由任意 OpenAI 兼容模型细化成可执行提示词，再交给 DSH 主模型执行。
 - [Darkhe55/dsh-plugin-models-fingerprint](https://github.com/Darkhe55/dsh-plugin-models-fingerprint) — 用于监控和诊断接入厂商的模型是否发生指纹变动，提示可能存在的不稳定路由情况。
+- [CharlesLizzy/dsh-model-lens](https://github.com/CharlesLizzy/dsh-model-lens) — 一个基于DSH的本地模型监管插件：监控模型服务的运行状态、请求速率和 GPU/CPU/内存的使用情况等，并提供一个手动拉起/卸载的入口。
 
 ---
 
 
-*Generated on 2026-11-14 · 133 plugins in this category*
+*Generated on 2026-11-15 · 135 plugins in this category*

@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**85 plugins**
+**86 plugins**
 
 
 ---
@@ -99,3 +99,5 @@
 
 
 *Generated on 2026-11-14 · 85 plugins in this category*
+
+- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) — SSH remote workspaces for DSH with parallel projects across hosts, file browsing and editing, recursive search, terminals, Git diffs, and Agent tools to edit, build and test remotely. Optional IDE layout.

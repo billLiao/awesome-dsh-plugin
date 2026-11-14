@@ -166,6 +166,14 @@ def categorize(repo):
     if 'dsh-mishu' in name:
         return 'notifications-integrations'
 
+    # PR #37 (2026-11-14): flymysql/dsh-remote is an SSH remote-development
+    # workspace (remote file editing, terminals, Git diffs, build/test over
+    # SSH). Its description's "build" hits the UI list's bare 'ui' substring
+    # before the development list is reached. Owner-prefixed name token →
+    # Development & Runtime (submitter/maintainer-requested placement).
+    if 'flymysql/dsh-remote' in name:
+        return 'development-runtime'
+
     # Cross-session inbox / session dashboards → Sessions & Messages
     # (must run before the UI keyword list, whose bare 'ui' token occurs inside
     # owner slugs like Lingrui98 — issue #22, 2026-10-23)

@@ -4,12 +4,13 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**85 plugins**
+**86 plugins**
 
 
 ---
 
 - [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) ⭐339 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
+- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) ⭐287 — SSH remote workspaces for DeepSeek Harness: parallel projects across hosts, remote file browsing and editing, recursive search, terminals, Git diffs, and workspace-bound Agent tools to edit, build and test remotely. Optional IDE layout.
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐71 — Support dsh runtime on Multica.
 - [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐21 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
 - [omdsh-dev/stent](https://github.com/omdsh-dev/stent) ⭐19 — 灵感来源于MC Fabric的Cordis/DSH hook处理器
@@ -98,4 +99,4 @@
 ---
 
 
-*Generated on 2026-11-15 · 85 plugins in this category*
+*Generated on 2026-11-15 · 86 plugins in this category*

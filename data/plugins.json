@@ -1011,28 +1011,6 @@
         "updated_at": "2026-11-10T11:20:53Z"
       },
       {
-        "full_name": "flymysql/dsh-remote",
-        "url": "https://github.com/flymysql/dsh-remote",
-        "description": "SSH remote workspaces for DeepSeek Harness: parallel projects across hosts, remote file browsing and editing, recursive search, terminals, Git diffs, and workspace-bound Agent tools to edit, build and test remotely. Optional IDE layout.",
-        "stars": 287,
-        "topics": [
-          "agent-tools",
-          "deepseek-harness",
-          "developer-tools",
-          "dsh",
-          "dsh-plugin",
-          "ide",
-          "remote",
-          "remote-development",
-          "remote-workspace",
-          "sftp",
-          "ssh",
-          "tunnel",
-          "workspace"
-        ],
-        "updated_at": "2026-11-14T13:55:33Z"
-      },
-      {
         "full_name": "toolclub/dsh-agent-team-gui",
         "url": "https://github.com/toolclub/dsh-agent-team-gui",
         "description": "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
@@ -387453,6 +387431,28 @@
           "screensaver"
         ],
         "updated_at": "2026-11-11T03:20:10Z"
+      },
+      {
+        "full_name": "flymysql/dsh-remote",
+        "url": "https://github.com/flymysql/dsh-remote",
+        "description": "SSH remote workspaces for DeepSeek Harness: parallel projects across hosts, remote file browsing and editing, recursive search, terminals, Git diffs, and workspace-bound Agent tools to edit, build and test remotely. Optional IDE layout.",
+        "stars": 287,
+        "topics": [
+          "agent-tools",
+          "deepseek-harness",
+          "developer-tools",
+          "dsh",
+          "dsh-plugin",
+          "ide",
+          "remote",
+          "remote-development",
+          "remote-workspace",
+          "sftp",
+          "ssh",
+          "tunnel",
+          "workspace"
+        ],
+        "updated_at": "2026-11-14T13:55:33Z"
       },
       {
         "full_name": "multica-ai/dsh-multica-runtime",

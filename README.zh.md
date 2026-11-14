@@ -20,7 +20,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 
 | 分类 | 数量 | 说明 |
 |------|------|------|
-| 🎨 [UI 增强](categories/ui-enhancements.md) | 8532 | 增强 DSH Web/终端用户界面的插件。 |
+| 🎨 [UI 增强](categories/ui-enhancements.md) | 8531 | 增强 DSH Web/终端用户界面的插件。 |
 | 🎭 [主题与外观](categories/themes-appearance.md) | 692 | DSH 皮肤、主题与外观定制。 |
 | 💬 [会话与消息](categories/sessions-messages.md) | 4540 | 会话管理、消息编辑、分享与对话工具。 |
 | 🧠 [记忆](categories/memory.md) | 847 | 持久记忆、知识库与上下文保留插件。 |
@@ -28,7 +28,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 | 🔁 [工作流与自动化](categories/workflow-automation.md) | 5264 | 自动化循环、定时任务、多智能体团队与工作流引擎。 |
 | 🔔 [通知与集成](categories/notifications-integrations.md) | 60 | 微信、Telegram、IM 桥接、桌面通知与外部集成。 |
 | 🔌 [模型与账号接入](categories/models-providers.md) | 135 | 多模型支持、OAuth 登录、LLM 回退策略与提供商桥接。 |
-| 🧑‍💻 [开发与运行时](categories/development-runtime.md) | 85 | 插件管理器、SDK、CLI、桌面壳与开发者工具。 |
+| 🧑‍💻 [开发与运行时](categories/development-runtime.md) | 86 | 插件管理器、SDK、CLI、桌面壳与开发者工具。 |
 | 🔒 [安全与隐私](categories/security-privacy.md) | 19 | 凭证管理、加密、审计与安全工具。 |
 | 🎮 [娱乐](categories/fun.md) | 27 | 游戏、桌宠、娱乐与趣味插件。 |
 | 📋 [精选列表与合集](categories/awesome-lists.md) | 578 | DSH 插件精选列表与合集。 |
@@ -43,7 +43,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) ⭐22536 — dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 - [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) ⭐10421 — DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-▶️ [查看全部 8532 个插件 →](categories/ui-enhancements.md)
+▶️ [查看全部 8531 个插件 →](categories/ui-enhancements.md)
 
 
 ### 🎭 主题与外观
@@ -112,10 +112,10 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 ### 🧑‍💻 开发与运行时
 
 - [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) ⭐339 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
+- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) ⭐287 — SSH remote workspaces for DeepSeek Harness: parallel projects across hosts, remote file browsing and editing, recursive search, terminals, Git diffs, and workspace-bound Agent tools to edit, build and test remotely. Optional IDE layout.
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐71 — Support dsh runtime on Multica.
-- [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐21 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
 
-▶️ [查看全部 85 个插件 →](categories/development-runtime.md)
+▶️ [查看全部 86 个插件 →](categories/development-runtime.md)
 
 
 ### 🔒 安全与隐私

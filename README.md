@@ -20,7 +20,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 
 | Category | Count | Description |
 |----------|-------|-------------|
-| 🎨 [UI Enhancements](categories/ui-enhancements.md) | 8532 | Plugins that enhance the DSH web/terminal user interface. |
+| 🎨 [UI Enhancements](categories/ui-enhancements.md) | 8531 | Plugins that enhance the DSH web/terminal user interface. |
 | 🎭 [Themes & Appearance](categories/themes-appearance.md) | 692 | Skins, themes, and appearance customization for DSH. |
 | 💬 [Sessions & Messages](categories/sessions-messages.md) | 4540 | Session management, message editing, sharing, and conversation tools. |
 | 🧠 [Memory](categories/memory.md) | 847 | Persistent memory, knowledge bases, and context retention plugins. |
@@ -28,7 +28,7 @@ DeepSeek Harness is DeepSeek's open-source agent harness — a runnable coding a
 | 🔁 [Workflow & Automation](categories/workflow-automation.md) | 5264 | Automation loops, scheduled tasks, multi-agent teams, and workflow engines. |
 | 🔔 [Notifications & Integrations](categories/notifications-integrations.md) | 60 | WeChat, Telegram, IM bridges, desktop notifications, and external integrations. |
 | 🔌 [Models & Providers](categories/models-providers.md) | 135 | Multi-model support, OAuth login, LLM fallback strategies, and provider bridges. |
-| 🧑‍💻 [Development & Runtime](categories/development-runtime.md) | 85 | Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling. |
+| 🧑‍💻 [Development & Runtime](categories/development-runtime.md) | 86 | Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling. |
 | 🔒 [Security & Privacy](categories/security-privacy.md) | 19 | Credential management, encryption, audit, and security tooling. |
 | 🎮 [Just for Fun](categories/fun.md) | 27 | Games, pets, entertainment, and playful plugins. |
 | 📋 [Awesome Lists & Collections](categories/awesome-lists.md) | 578 | Curated collections and awesome lists of DSH plugins. |
@@ -46,7 +46,7 @@ A selection of notable plugins by category:
 - [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) ⭐22536 — dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 - [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web) ⭐10421 — DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
 
-▶️ [View all 8532 plugins →](categories/ui-enhancements.md)
+▶️ [View all 8531 plugins →](categories/ui-enhancements.md)
 
 
 ### 🎭 Themes & Appearance
@@ -115,10 +115,10 @@ A selection of notable plugins by category:
 ### 🧑‍💻 Development & Runtime
 
 - [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) ⭐339 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
+- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) ⭐287 — SSH remote workspaces for DeepSeek Harness: parallel projects across hosts, remote file browsing and editing, recursive search, terminals, Git diffs, and workspace-bound Agent tools to edit, build and test remotely. Optional IDE layout.
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐71 — Support dsh runtime on Multica.
-- [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐21 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
 
-▶️ [View all 85 plugins →](categories/development-runtime.md)
+▶️ [View all 86 plugins →](categories/development-runtime.md)
 
 
 ### 🔒 Security & Privacy

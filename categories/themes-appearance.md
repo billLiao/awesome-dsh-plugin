@@ -4,7 +4,7 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**687 plugins**
+**689 plugins**
 
 
 ---
@@ -43,7 +43,7 @@
 - [Respawn-ID/dsh-rhine-splash](https://github.com/Respawn-ID/dsh-rhine-splash) ⭐20 — Rhine Lab theme for DeepSeek Harness — 莱茵生命主题：开屏动画、界面主题、品牌标志与附加功能
 - [Darianliu23/dsh-stardew-blind-whale-farmer](https://github.com/Darianliu23/dsh-stardew-blind-whale-farmer) ⭐19 — 大肥鱼种白饭 Blind Whale Farmer: let DeepSeek play Stardew Valley without a vision model (SMAPI mod + MCP + DSH plugin)
 - [rongzi5/dsh-whale-pet](https://github.com/rongzi5/dsh-whale-pet) ⭐18
-- [PerryLink/dsh-mask](https://github.com/PerryLink/dsh-mask) ⭐17 — PII masking middleware for DeepSeek Harness: anonymize names, phones, emails, ID cards, bank cards, keys, and addresses to placeholders before they reach the model, restore them at the display layer, keep the restore table only in memory and a controlled storage domain, never log plaintext, and expose /mask and the mask_test tool
+- [PerryLink/dsh-mask](https://github.com/PerryLink/dsh-mask) ⭐18 — PII masking middleware for DeepSeek Harness: anonymize names, phones, emails, ID cards, bank cards, keys, and addresses to placeholders before they reach the model, restore them at the display layer, keep the restore table only in memory and a controlled storage domain, never log plaintext, and expose /mask and the mask_test tool
 - [tingfeng347/dsh-vscode-workbench](https://github.com/tingfeng347/dsh-vscode-workbench) ⭐17 — DeepSeek Harness 的 VS Code 风格工作台：资源管理器、Monaco 编辑、Markdown 与 PDF 预览、全文搜索、Git 暂存与提交、可分屏的官方终端和内置或系统浏览器都在同一界面，右侧可直接和 DSH 对话，主题、布局与语言服务在 DSH 设置中统一管理。
 - [Chael-Chael/dsh-ascii-whales](https://github.com/Chael-Chael/dsh-ascii-whales) ⭐15 — 让鲸群游过留白。ASCII whales, native settings and neutral frosted glass for DeepSeek Harness.
 - [Small-tailqwq/dsh-deepcel](https://github.com/Small-tailqwq/dsh-deepcel) ⭐14 — 一款模仿 excel 的 dsh 皮肤
@@ -672,7 +672,7 @@
 - [kuzmin-lemmi/deepseek-gruvbox-themes](https://github.com/kuzmin-lemmi/deepseek-gruvbox-themes) — Seven Gruvbox themes for DeepSeek Harness with a preview picker, persisted selection, and system light/dark following.
 - [xinchen262/dsh-whale-balance-pet](https://github.com/xinchen262/dsh-whale-balance-pet) — A floating whale-girl desktop pet for DeepSeek Harness showing live balance and token burn rate.
 - [abuluoshuai/DSH-color-style](https://github.com/abuluoshuai/DSH-color-style) — DSH的Markdown的渲染颜色方案
-- [ShawnZhangGy/dsh-whale-reminder](https://github.com/ShawnZhangGy/dsh-whale-reminder) — DSH 会话提醒插件：Windows 系统通知 + 声音 + 窗口内浮层 + 任务栏/托盘闪烁，通知可点击直达会话 / desktop notifications, sounds, in-window overlay and taskbar/tray blink for DeepSeek Harness; click a toast to jump straight to that session
+- [ShawnZhangGy/dsh-whale-reminder](https://github.com/ShawnZhangGy/dsh-whale-reminder) — DSH 会话提醒插件：Windows 系统通知 + 声音 + 窗口内浮层 + 任务栏/托盘闪烁；点击通知可直达会话（提到最前并聚焦输入框 / 只提窗 / 只提醒三档），DSH 在前台时不打扰，中英双语，已归档与子代理不计入未读
 - [ZZ-666666/dsh-plugin-ink-wash](https://github.com/ZZ-666666/dsh-plugin-ink-wash) — Ink-wash day/night backdrop plugin for DeepSeek Harness: painted landscapes with a time-driven sun and moon
 - [Ww-Cooooo/harness-share-dsh](https://github.com/Ww-Cooooo/harness-share-dsh) — DeepSeek Harness 社区非官方插件。Harness Share 可将用户选定的主题配置、已安装插件及 Skill 的清单与安装信息写入专属分享二维码。其他用户在插件中识别二维码图片或截图后，即可查看清单并一键安装所选内容，快速复用分享者的配置，无需逐项手动配置安装。
 - [simonguo/dsh-icons](https://github.com/simonguo/dsh-icons) — Native file and folder icon theme for DeepSeek Harness, powered by vscode-icons. 完整本地图标集，直接替换 DSH 原生文件树图标。
@@ -696,8 +696,10 @@
 - [kapibalawang-max/sone-wx](https://github.com/kapibalawang-max/sone-wx) — DeepSeek Harness (DSH) 微信风格主题皮肤 + 品牌自定义插件
 - [JasperGuWP/dsh-plugin-whale-soulmate](https://github.com/JasperGuWP/dsh-plugin-whale-soulmate) — 面向 DeepSeek Harness 的模块化 AI 伴侣（Soulmate）：人设、LLM Wiki 记忆、隐私防火墙、透明桌面宠物；AIGC 同步后续会加。dsh-plugin
 - [AndrossiKSL/DSHGAL](https://github.com/AndrossiKSL/DSHGAL) — 基于 dsh-whale-galgame 的个人学习二次魔改：22 位 AI 娘、GAL 界面与 Windows 便携窗口，DSH 默认 / Hermes 可选。非官方实验项目。
+- [fanyingnie2163663/dsh-whalebuddy](https://github.com/fanyingnie2163663/dsh-whalebuddy) — 给 DeepSeek Harness 带来有档案、有默契、能延续的同事。DSH 插件。
+- [simveit/dsh-whalepod](https://github.com/simveit/dsh-whalepod) — Whalepod: Coordinator chats for the DeepSeek Harness that hand work to Executor Sessions
 
 ---
 
 
-*Generated on 2026-11-14 · 687 plugins in this category*
+*Generated on 2026-11-14 · 689 plugins in this category*

@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**131 plugins**
+**133 plugins**
 
 
 ---
@@ -57,6 +57,7 @@
 - [GaoHu1997/dsh-maestro-codex](https://github.com/GaoHu1997/dsh-maestro-codex) ⭐1
 - [betsunninda9-lgtm/dsh-model-groups](https://github.com/betsunninda9-lgtm/dsh-model-groups) ⭐1 — DSH 模型选择器：供应商与多密钥配置折叠、精确模型路由（DSH 0.2.2-rc.1）
 - [No-ni/billion-context-patched](https://github.com/No-ni/billion-context-patched) ⭐1 — DSH 上下文压缩与请求加速插件：fork 继承、图片折叠，内置模型请求加速器。
+- [HuoGu-Hub/dsh-sense-img](https://github.com/HuoGu-Hub/dsh-sense-img) ⭐1 — DSH插件：商汤生图模型调用插件
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -140,8 +141,9 @@
 - [locqueliu/lianben-workbench](https://github.com/locqueliu/lianben-workbench) — DSH 炼本工作台：1.0/2.0 双模式剧本前置、炼本与配乐插件
 - [davzlcm/model-price-radar](https://github.com/davzlcm/model-price-radar) — DSH ??:?????????,???????,??????????
 - [YoungerHy/dsh-prompt-detailer](https://github.com/YoungerHy/dsh-prompt-detailer) — 输入一句粗需求，先由任意 OpenAI 兼容模型细化成可执行提示词，再交给 DSH 主模型执行。
+- [Darkhe55/dsh-plugin-models-fingerprint](https://github.com/Darkhe55/dsh-plugin-models-fingerprint) — 用于监控和诊断接入厂商的模型是否发生指纹变动，提示可能存在的不稳定路由情况。
 
 ---
 
 
-*Generated on 2026-11-14 · 131 plugins in this category*
+*Generated on 2026-11-14 · 133 plugins in this category*

@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**58 plugins**
+**59 plugins**
 
 
 ---
@@ -67,8 +67,9 @@
 - [lmy060307/dsh-mail-bridge](https://github.com/lmy060307/dsh-mail-bridge) — 让agent连接您的邮箱，替您发送或接收邮件
 - [LouXiaXiaoHei/dsh-chrome-bridge](https://github.com/LouXiaXiaoHei/dsh-chrome-bridge) — codex 同款 dsh chrome 操作：@ 提及真实 Chrome 标签页，用可信输入点击、输入、拖拽
 - [AIcivilization/dsh-mishu](https://github.com/AIcivilization/dsh-mishu) — DSH 小秘书：替你盯着 GitHub 通知（按当前状态分诊，已解决的替你关掉）并记住你交代的到期事项（账单、续费、证件、生日），密码只进系统钥匙串。中英双语，macOS/Windows/Linux | DSH secretary: triages GitHub notifications by real state, tracks dated reminders, keychain-only secrets.
+- [mirguest/dsh-wecom-plugin](https://github.com/mirguest/dsh-wecom-plugin)
 
 ---
 
 
-*Generated on 2026-11-14 · 58 plugins in this category*
+*Generated on 2026-11-14 · 59 plugins in this category*

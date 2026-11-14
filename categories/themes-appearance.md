@@ -4,7 +4,7 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**689 plugins**
+**692 plugins**
 
 
 ---
@@ -13,7 +13,7 @@
 - [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐3103 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
 - [Yuuyuko-uu/dsh-fish-memory](https://github.com/Yuuyuko-uu/dsh-fish-memory) ⭐515 — 🐋 DSH 鱼的记忆：给会话一份会淡忘的长期记忆，每条都带时间。名字里的「鱼」来自 DeepSeek 的鲸鱼。
 - [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) ⭐386 — DeepSeek Harness 滑动变阻器皮肤
-- [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐328 — 浏览、搜索、安装并管理 DSH 皮肤
+- [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐329 — 浏览、搜索、安装并管理 DSH 皮肤
 - [webkubor/dsh-bloom-theme](https://github.com/webkubor/dsh-bloom-theme) ⭐248 — DSH 主题插件：Bloom 莫兰迪中国风配色，OKLCH 调色、明暗双主题、顶栏一键切换，实测达 WCAG AA。 / A DSH theme plugin: Morandi Chinese-style palettes, OKLCH, light/dark, WCAG AA.
 - [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) ⭐170 — 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风。
 - [Something11235/dsh-video-skin](https://github.com/Something11235/dsh-video-skin) ⭐104 — DSH 视频皮肤：聊天背景 + 有声开机动画 + 界面内透明度调节
@@ -121,6 +121,7 @@
 - [Weidows/dsh-whalechan-herself](https://github.com/Weidows/dsh-whalechan-herself) ⭐3 — 给 DeepSeek Harness 装一个鲸鱼娘（DeepSeek娘）Agent 预设：完整干活能力 + 人设，开工吐槽、收工讨饭，按概率发表情包（设置页可调）。
 - [geekjourneyx/dsh-md2wechat](https://github.com/geekjourneyx/dsh-md2wechat) ⭐3 — DSH 一站式公众号创作插件，集成写作润色、标题优化、主题与高级模块排版、智能配图，支持预览、导出及保存到公众号草稿箱。
 - [AntheaLaffy/dsh-plugin-tomato-todo](https://github.com/AntheaLaffy/dsh-plugin-tomato-todo) ⭐3 — 番茄 Todo：DeepSeek Harness (DSH) 插件形态的专注与学习工具——整站番茄皮肤、番茄钟与专注保护、任务/课表/应试教育、本地资料库索引，数据全在本机（TypeScript 核心 + Node runtime + Rust 原生守卫）。
+- [GuYou9799/dsh-turn-sieve](https://github.com/GuYou9799/dsh-turn-sieve) ⭐2 — 手动筛选并移除 DSH 会话中的低价值问答或单条消息：对话内原位选中、✓ 确认 / ✕ 取消，筛除后内容立即从对话消失且可撤销；默认使用宿主原生外观，另有一个默认关闭的「特效」开关。
 - [1720198650/dsh-cognition-engine](https://github.com/1720198650/dsh-cognition-engine) ⭐2 — 给 AI 装一个会作废、会记账、会自我纠错的长期记忆。双时态记忆 + 人定主题 + 准则本（证据链/来源分级/冲突裁决），零外部依赖纯本地 JSON。
 - [Flamencoff/dsh-xiaozhushou](https://github.com/Flamencoff/dsh-xiaozhushou) ⭐2 — 给不会编程的人用的工作任务管理看板 + 共同成长的智能助手；带鲸鱼娘浮窗，秘书/CEO/史官陪你把事做完。
 - [thjyy/dph-endfield-theme](https://github.com/thjyy/dph-endfield-theme) ⭐2 — Unofficial Endfield-inspired theme and animated mascot for DeepSeek Harness Web
@@ -698,8 +699,10 @@
 - [AndrossiKSL/DSHGAL](https://github.com/AndrossiKSL/DSHGAL) — 基于 dsh-whale-galgame 的个人学习二次魔改：22 位 AI 娘、GAL 界面与 Windows 便携窗口，DSH 默认 / Hermes 可选。非官方实验项目。
 - [fanyingnie2163663/dsh-whalebuddy](https://github.com/fanyingnie2163663/dsh-whalebuddy) — 给 DeepSeek Harness 带来有档案、有默契、能延续的同事。DSH 插件。
 - [simveit/dsh-whalepod](https://github.com/simveit/dsh-whalepod) — Whalepod: Coordinator chats for the DeepSeek Harness that hand work to Executor Sessions
+- [fengshu-ai/DSH-boot](https://github.com/fengshu-ai/DSH-boot) — 这是饲养染的30DAYs的DSH启动界面插件
+- [xiaohuangbo/dsh-e621-style](https://github.com/xiaohuangbo/dsh-e621-style) — 给 DeepSeek Harness 换上 e621 经典深蓝六边形主题：自定义背景、随机图库、定时轮换、彩色代码高亮，以及独立的设置页面。
 
 ---
 
 
-*Generated on 2026-11-14 · 689 plugins in this category*
+*Generated on 2026-11-14 · 692 plugins in this category*

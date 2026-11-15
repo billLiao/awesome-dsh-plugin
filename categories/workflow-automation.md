@@ -5311,6 +5311,7 @@
 - [FXZeng-97/dsh-prompt-booster](https://github.com/FXZeng-97/dsh-prompt-booster)
 - [sssdex/dsh-plugins](https://github.com/sssdex/dsh-plugins) — 自研 DeepSeek Harness 插件与预设合集，按功能分类
 - [ACAneSe1/dsh-work-guard](https://github.com/ACAneSe1/dsh-work-guard)
+- [intelfabs/dsh-scheduled-message](https://github.com/intelfabs/dsh-scheduled-message) — Schedule the message you are writing in the DSH composer (text, images, files) to be sent later by the Host; a Scheduled sidebar tab lists and edits every scheduled message across conversations, and Repeat turns it into an Automation task.
 
 ---
 

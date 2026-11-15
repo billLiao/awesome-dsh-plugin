@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**28 plugins**
+**30 plugins**
 
 
 ---
@@ -37,8 +37,10 @@
 - [henryzhc26/dsh-darena](https://github.com/henryzhc26/dsh-darena) — D宠大乐斗：DSH 的实时匹配真人对战小游戏（11 档难度、三局两胜、全球净胜榜）
 - [wang-yudong/dsh-pet-extend](https://github.com/wang-yudong/dsh-pet-extend) — dsh-pet扩展插件
 - [Yuhuan-zz/pet-kit](https://github.com/Yuhuan-zz/pet-kit) — Give your dsh-pet feeding, status and screen-looking — without touching upstream.
+- [game25011/dsh-remote-access](https://github.com/game25011/dsh-remote-access)
+- [sabishii-me/dsh-happenings](https://github.com/sabishii-me/dsh-happenings) — A live AI-game and vibe-coding event calendar on Cloudflare Workers + D1.
 
 ---
 
 
-*Generated on 2026-11-15 · 28 plugins in this category*
+*Generated on 2026-11-16 · 30 plugins in this category*

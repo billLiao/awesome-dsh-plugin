@@ -4,7 +4,7 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**847 plugins**
+**848 plugins**
 
 
 ---
@@ -27,12 +27,12 @@
 - [pk14742952-AD/dsh-host-rsi](https://github.com/pk14742952-AD/dsh-host-rsi) ⭐37 — DSH host RSI for local LLMs (currently Qwen3.8 27B): per-use continual self-improvement, counter-reason self-check, critic escalation, and memory retrieval.简单来说根据论文建立的长期反思教训机制，让大模型不再犯错，越用越强！重点是千问3.8 27B/FLASH这种本地LLM模型！当然在线大模型理论上也可以通用！
 - [LittleBlackTong/dsh-plugin-memory](https://github.com/LittleBlackTong/dsh-plugin-memory) ⭐36
 - [LaplaceYoung/dsh-directorx](https://github.com/LaplaceYoung/dsh-directorx) ⭐35 — DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
+- [drscrewdriver/dsh-prime-memory](https://github.com/drscrewdriver/dsh-prime-memory) ⭐34
 - [minedalang/dsh-dafeiyu-life](https://github.com/minedalang/dsh-dafeiyu-life) ⭐34 — 让大肥鱼在 DSH 中长期生活：在B站社交、生活（未来扩展多平台），具有长期记忆、可塑造人格、自然好友关系
 - [00080000/dsh-project-memory](https://github.com/00080000/dsh-project-memory) ⭐33 — Read-time project memory plugin for DeepSeek Harness (dsh)
 - [Roarpeng/GraphFlow](https://github.com/Roarpeng/GraphFlow) ⭐30 — Local-first code knowledge graph and context harness for coding agents. MCP + DeepSeek Harness (dsh) plugin.
 - [JKZeng-cell/moki-library-for-dsh](https://github.com/JKZeng-cell/moki-library-for-dsh) ⭐29 — MOKI资料库 for DeepSeek Harness：本地文件管理、多格式预览与 Office / AI 选区协同编辑。Local file management, rich previews and precise AI editing for DSH.
 - [PerryLink/dsh-library](https://github.com/PerryLink/dsh-library) ⭐27 — Local document knowledge base for DeepSeek Harness: library_add/remove/list, hybrid semantic+keyword library_search with diversity re-ranking, relevance filtering and lost-in-the-middle avoidance, citation-aware injection, library_cite_check and library_diagnose — SQLite-backed index via the storage domain, local embedding, zero model downloads.
-- [drscrewdriver/dsh-prime-memory](https://github.com/drscrewdriver/dsh-prime-memory) ⭐27
 - [tdcq9594/dsh-roost](https://github.com/tdcq9594/dsh-roost) ⭐25 — DSH 插件：让 AI 通过 Roost 住进 QQ —— 官方接口，不用 hook 客户端
 - [lemoncat7/dsh-knowledge](https://github.com/lemoncat7/dsh-knowledge) ⭐24 — Installable DeepSeek Harness knowledge base plugin
 - [Swd146296/dsh-memos-bridge](https://github.com/Swd146296/dsh-memos-bridge) ⭐21 — DeepSeek Harness bundle that bridges the MemOS memory service into the agent over MCP: persistent memory tools (mcp__memos__*), with start-up preflight and host-run endpoint resolution.
@@ -43,7 +43,6 @@
 - [NeoHotaru/dsh-knowledge-canvas](https://github.com/NeoHotaru/dsh-knowledge-canvas) ⭐17 — Tree-shaped knowledge bases for DeepSeek Harness: a right-side canvas you edit by hand, plus tools the model reads and writes. Nodes carry a trigger line saying when they apply; a base can be injected in full or as an index.
 - [S3K926/dsh-memory-board](https://github.com/S3K926/dsh-memory-board) ⭐17 — DSH（DeepSeek Harness）插件：把一份基于文件的本地记忆档案（日记 / 状态 / 生长记录 / 事件流）搬进设置页面板 —— 概览、搜索、追加、谨慎编辑，读写都带指纹守卫与改前备份。MIT。
 - [lzzzz666888/dsh-purge-optimized](https://github.com/lzzzz666888/dsh-purge-optimized) ⭐17 — dsh-purge 优化版（衍生分支）：在上游 1.1.90 基础上恢复技能库 23 个技能、POC/EXP 知识库与本地靶场白名单，并补齐 nuclei 模板类目筛选与翻页。Derivative of dsh-purge — restores the skill library, knowledge base and local-lab allowlist.
-- [yoza10635/dsh-argp](https://github.com/yoza10635/dsh-argp) ⭐16 — Guarded context compaction for DeepSeek Harness (dsh): the LLM proposes, deterministic guards dispose — eager per-atom shrink (extract/summary/false under verbatim guards) + lazy reference-graph eviction (0-LLM) + byte-exact recall from an append-only log. 守卫式上下文压缩：LLM 只提议、确定性守卫裁决——逐原子缩放 + 惰性引用图剪枝（0-LLM）+ 追加式日志逐字节召回；压缩率精确兑现，历史永不销毁。
 - [RestRegular/dsh-memory](https://github.com/RestRegular/dsh-memory) ⭐16 — DSH 记忆系统 (Memory System): local-first memory — JSONL + local embeddings, five tools, auto recall, hard rules, visual panel.
 - [Breeze136/dsh-kb-rag](https://github.com/Breeze136/dsh-kb-rag) ⭐15 — 本地优先的文献知识库 RAG(DeepSeek Harness 插件):混合检索正文与图注,把模糊记忆定位到具体段落与图表,DOI 一键直达原文。Local-first literature RAG for DSH — turn a fuzzy memory into an exact passage/figure, one-click DOI to source.
 - [Scorp1o117/dsh-tdai-memory](https://github.com/Scorp1o117/dsh-tdai-memory) ⭐14 — Agent memory for DeepSeek Harness | DeepSeek Harness 记忆插件
@@ -856,8 +855,10 @@
 - [XZX888/dsh-knowledge-base](https://github.com/XZX888/dsh-knowledge-base) — Knowledge Base for DeepSeek Harness - a categorized file library with five kb_* tools so the agent can search, read, cite and revise your documents.
 - [De22323/dsh-memory](https://github.com/De22323/dsh-memory) — 本地优先的 AI 长期记忆：纯文本 JSONL 存在你自己的 workspace，人可读、可改、可删；六个工具 + 定时沉降，不依赖服务端。Local-first memory for DSH agents.
 - [Apauto-to-all/dsh-hindsight-control-plane](https://github.com/Apauto-to-all/dsh-hindsight-control-plane) — Embed the Hindsight memory console into the DeepSeek Harness main panel | 把 Hindsight 记忆控制台嵌进 DSH 主面板
+- [Wuming1101/dsh-memory-preset](https://github.com/Wuming1101/dsh-memory-preset) — 记忆优先预设：只留最近一轮原文，更早的历史走记忆库检索
+- [AvenYQ/dsh-knowledge](https://github.com/AvenYQ/dsh-knowledge) — 知识库 — 把本地 Obsidian 库与项目文件夹建成可检索索引，DSH 左侧栏一个入口直接问，回答带文件与行号出处（DeepSeek Harness 插件）
 
 ---
 
 
-*Generated on 2026-11-15 · 847 plugins in this category*
+*Generated on 2026-11-15 · 848 plugins in this category*

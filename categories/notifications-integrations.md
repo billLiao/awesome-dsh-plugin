@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**60 plugins**
+**61 plugins**
 
 
 ---
@@ -69,8 +69,9 @@
 - [AIcivilization/dsh-mishu](https://github.com/AIcivilization/dsh-mishu) — DSH 小秘书：替你盯着 GitHub 通知（按当前状态分诊，已解决的替你关掉）并记住你交代的到期事项（账单、续费、证件、生日），密码只进系统钥匙串。中英双语，macOS/Windows/Linux | DSH secretary: triages GitHub notifications by real state, tracks dated reminders, keychain-only secrets.
 - [mirguest/dsh-wecom-plugin](https://github.com/mirguest/dsh-wecom-plugin)
 - [yurin7/dsh-turn-alert](https://github.com/yurin7/dsh-turn-alert)
+- [undertale11121/dsh-phone-bridge](https://github.com/undertale11121/dsh-phone-bridge)
 
 ---
 
 
-*Generated on 2026-11-15 · 60 plugins in this category*
+*Generated on 2026-11-15 · 61 plugins in this category*

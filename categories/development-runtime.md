@@ -4,13 +4,13 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**87 plugins**
+**88 plugins**
 
 
 ---
 
 - [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) ⭐339 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
-- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) ⭐293 — SSH remote workspaces for DeepSeek Harness: parallel projects across hosts, remote file browsing and editing, recursive search, terminals, Git diffs, and workspace-bound Agent tools to edit, build and test remotely. Optional IDE layout.
+- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) ⭐298 — SSH remote workspaces for DeepSeek Harness: parallel projects across hosts, remote file browsing and editing, recursive search, terminals, Git diffs, and workspace-bound Agent tools to edit, build and test remotely. Optional IDE layout.
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐71 — Support dsh runtime on Multica.
 - [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐21 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
 - [omdsh-dev/stent](https://github.com/omdsh-dev/stent) ⭐19 — 灵感来源于MC Fabric的Cordis/DSH hook处理器
@@ -96,8 +96,9 @@
 - [flyingHX/DSH-Content-Hub](https://github.com/flyingHX/DSH-Content-Hub) — 一份内容，多个平台，事实不漂移。把长文/访谈/报告拆成六类可复用内容原子（观点、证据、故事、步骤、引语、问题），按文章/短视频的媒介语法重新编排，并打包检查跨稿事实一致性。DSH 插件。One source, many formats, zero fact drift. Atomize long-form content into six reusable units (claim, evidence, story, step, quote, question), adapt them to article and short-video templates, and audit cross-draft consistency. A DSH plugin.
 - [SouthM/dsh-nanshan-publish-manager](https://github.com/SouthM/dsh-nanshan-publish-manager) — 【南山】DSH发布管理：以 npm 包（dsh.bundle + dsh.client）的官方形式，管理本机 DSH 组件的发布设置、发布预检查、npm 发布与发布记录。
 - [contextos-devops/dsh-contextos-devops](https://github.com/contextos-devops/dsh-contextos-devops) — contextos devops for ai
+- [liuhange789/dsh-clinic-intake](https://github.com/liuhange789/dsh-clinic-intake) — Pre-visit intake structuring for clinics (DSH plugin): six patient questions → structured intake summary ≤300 字, rule-based, local-only, no diagnosis.
 
 ---
 
 
-*Generated on 2026-11-16 · 87 plugins in this category*
+*Generated on 2026-11-17 · 88 plugins in this category*

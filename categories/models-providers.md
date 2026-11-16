@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**135 plugins**
+**137 plugins**
 
 
 ---
@@ -24,6 +24,7 @@
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐4 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
 - [jyao-SUSE-power-group/dsh-provider-rate-limit](https://github.com/jyao-SUSE-power-group/dsh-provider-rate-limit) ⭐4 — dsh-provider-rate-limit
 - [Vesna-Strivozha/DSH-LLM-wiki-plugin](https://github.com/Vesna-Strivozha/DSH-LLM-wiki-plugin) ⭐4 — 基于Karpathy的wiki方法论搭建的插件，让你的DSH直接变身成LLM wiki，不需要Obsidian+Claudian插件，国内网络友好
+- [wycto/dsh-balance-panel](https://github.com/wycto/dsh-balance-panel) ⭐4 — DSH插件-模型余额显示功能
 - [liaoyuqing/dsh-llm-error-retry](https://github.com/liaoyuqing/dsh-llm-error-retry) ⭐3 — 用于在deepseek-harnees中报错时重试大模型请求，支持配置http状态，字段-值命中。
 - [xiaobbl/dsh-opencode-go-model-list](https://github.com/xiaobbl/dsh-opencode-go-model-list) ⭐3 — 修复dsh上opencode go模型列表问题
 - [Leafyezi233/dsh-model-gateway](https://github.com/Leafyezi233/dsh-model-gateway) ⭐3
@@ -59,6 +60,7 @@
 - [betsunninda9-lgtm/dsh-model-groups](https://github.com/betsunninda9-lgtm/dsh-model-groups) ⭐1 — DSH 模型选择器：供应商与多密钥配置折叠、精确模型路由（DSH 0.2.2-rc.1）
 - [No-ni/billion-context-patched](https://github.com/No-ni/billion-context-patched) ⭐1 — DSH 上下文压缩与请求加速插件：fork 继承、图片折叠，内置模型请求加速器。
 - [HuoGu-Hub/dsh-sense-img](https://github.com/HuoGu-Hub/dsh-sense-img) ⭐1 — DSH插件：商汤生图模型调用插件
+- [windxxf/dsh-nvidia-models-panel](https://github.com/windxxf/dsh-nvidia-models-panel) ⭐1 — NVIDIA 模型面板，侧栏面板，用于发现和配置 NVIDIA NIM 模型，带有模型简介
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -148,4 +150,4 @@
 ---
 
 
-*Generated on 2026-11-16 · 135 plugins in this category*
+*Generated on 2026-11-16 · 137 plugins in this category*

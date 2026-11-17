@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**137 plugins**
+**138 plugins**
 
 
 ---
@@ -146,8 +146,9 @@
 - [YoungerHy/dsh-prompt-detailer](https://github.com/YoungerHy/dsh-prompt-detailer) — 输入一句粗需求，先由任意 OpenAI 兼容模型细化成可执行提示词，再交给 DSH 主模型执行。
 - [Darkhe55/dsh-plugin-models-fingerprint](https://github.com/Darkhe55/dsh-plugin-models-fingerprint) — 用于监控和诊断接入厂商的模型是否发生指纹变动，提示可能存在的不稳定路由情况。
 - [CharlesLizzy/dsh-model-lens](https://github.com/CharlesLizzy/dsh-model-lens) — 一个基于DSH的本地模型监管插件：监控模型服务的运行状态、请求速率和 GPU/CPU/内存的使用情况等，并提供一个手动拉起/卸载的入口。
+- [Carrylin104/dsh-auto-reasoning-go](https://github.com/Carrylin104/dsh-auto-reasoning-go) — Native Android dsh-Go auto reasoning plugin with model templates and upstream level sync
 
 ---
 
 
-*Generated on 2026-11-17 · 137 plugins in this category*
+*Generated on 2026-11-17 · 138 plugins in this category*

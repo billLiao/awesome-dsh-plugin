@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**31 plugins**
+**32 plugins**
 
 
 ---
@@ -40,8 +40,9 @@
 - [game25011/dsh-remote-access](https://github.com/game25011/dsh-remote-access)
 - [sabishii-me/dsh-happenings](https://github.com/sabishii-me/dsh-happenings) — A live AI-game and vibe-coding event calendar on Cloudflare Workers + D1.
 - [AnJiaqi0926/dsh-style-mirror](https://github.com/AnJiaqi0926/dsh-style-mirror) — Reads a corpus library (PDF/Word/text) and answers in its scene-specific writing style with fewer AI mannerisms. DSH bundle.
+- [afeiaswell/dsh-doubao-pet](https://github.com/afeiaswell/dsh-doubao-pet)
 
 ---
 
 
-*Generated on 2026-11-17 · 31 plugins in this category*
+*Generated on 2026-11-18 · 32 plugins in this category*

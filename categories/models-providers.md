@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**140 plugins**
+**142 plugins**
 
 
 ---
@@ -61,6 +61,7 @@
 - [No-ni/billion-context-patched](https://github.com/No-ni/billion-context-patched) ⭐1 — DSH 上下文压缩与请求加速插件：fork 继承、图片折叠，内置模型请求加速器。
 - [HuoGu-Hub/dsh-sense-img](https://github.com/HuoGu-Hub/dsh-sense-img) ⭐1 — DSH插件：商汤生图模型调用插件
 - [windxxf/dsh-nvidia-models-panel](https://github.com/windxxf/dsh-nvidia-models-panel) ⭐1 — NVIDIA 模型面板，侧栏面板，用于发现和配置 NVIDIA NIM 模型，带有模型简介
+- [AmazarashiEnduerRain/dsh-unread](https://github.com/AmazarashiEnduerRain/dsh-unread) ⭐1 — A DSH plugin, enabling unread signal of Codex style.
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -149,8 +150,9 @@
 - [Carrylin104/dsh-auto-reasoning-go](https://github.com/Carrylin104/dsh-auto-reasoning-go) — Native Android dsh-Go auto reasoning plugin with model templates and upstream level sync
 - [Wakis-kaf/dsh-agents-models](https://github.com/Wakis-kaf/dsh-agents-models)
 - [ipedia825/dsh-ichuny-codex](https://github.com/ipedia825/dsh-ichuny-codex)
+- [liuhange789/dsh-geo-report-to-fix](https://github.com/liuhange789/dsh-geo-report-to-fix) — GEO audit to fix pack inside DSH: fetch a URL, score AI-search friendliness, then write ready-to-paste llms.txt and jsonld.html.
 
 ---
 
 
-*Generated on 2026-11-18 · 140 plugins in this category*
+*Generated on 2026-11-19 · 142 plugins in this category*

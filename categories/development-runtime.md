@@ -41,6 +41,7 @@
 - [Jydsh/dsh-ding-card](https://github.com/Jydsh/dsh-ding-card) ⭐1 — dsh上基于dsh-im插件开发的插件，主要接入钉钉卡片模板，可设计，可拓展可测试的功能。
 - [alice0721021-web/dsh-local-devkit](https://github.com/alice0721021-web/dsh-local-devkit) ⭐1
 - [dev-HuTao/dsh-plugin-landscape-bg](https://github.com/dev-HuTao/dsh-plugin-landscape-bg) ⭐1
+- [yhuan416/dsh-opencode-client](https://github.com/yhuan416/dsh-opencode-client) ⭐1
 - [sxwpskd/dsh-milieu](https://github.com/sxwpskd/dsh-milieu) ⭐1 — dsh-milieu插件开发仓库
 - [zdjmrq/dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) — DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins
 - [GoGoGoDoge/dsh-plugin-installer](https://github.com/GoGoGoDoge/dsh-plugin-installer)
@@ -85,7 +86,6 @@
 - [NingZhenPeng/dsh-plugin-preflight](https://github.com/NingZhenPeng/dsh-plugin-preflight) — DSH 插件安装预检闸门：装之前跑九项预检，拒绝即拦截，并留下审计日志
 - [yanyan-shub/dsh-fishday](https://github.com/yanyan-shub/dsh-fishday) — 让你的ds可以有自己的一套时间和她自己的世界！安装这个插件之后ds会在自己无聊的时候找事干，而且你还可以在一天结束的时候问问她今天都做了什么
 - [Wystan68/dsh-plugin-sync](https://github.com/Wystan68/dsh-plugin-sync) — DSH plugin: keep the installed plugin set identical across devices — sync codes or an encrypted Cloudflare relay.
-- [yhuan416/dsh-opencode-client](https://github.com/yhuan416/dsh-opencode-client)
 - [Lroyia/dsh-book-reader](https://github.com/Lroyia/dsh-book-reader) — 基于dsh开发的本地书架插件
 - [d342784178/dsh-opencli](https://github.com/d342784178/dsh-opencli) — opencli终端复用， 减少每次命令执行node启动耗时
 - [daoyan2142/dsh-runtime-kit](https://github.com/daoyan2142/dsh-runtime-kit) — DSH runtime plugin: context governance, fast path, PTC orchestration, sandbox isolation and audit - zero business dependencies
@@ -102,4 +102,4 @@
 ---
 
 
-*Generated on 2026-11-18 · 89 plugins in this category*
+*Generated on 2026-11-19 · 89 plugins in this category*

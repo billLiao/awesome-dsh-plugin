@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**62 plugins**
+**63 plugins**
 
 
 ---
@@ -71,8 +71,9 @@
 - [yurin7/dsh-turn-alert](https://github.com/yurin7/dsh-turn-alert)
 - [undertale11121/dsh-phone-bridge](https://github.com/undertale11121/dsh-phone-bridge)
 - [CarbeneLee/dsh-mac-notify](https://github.com/CarbeneLee/dsh-mac-notify)
+- [LeeRolling/dsh-notify-context](https://github.com/LeeRolling/dsh-notify-context)
 
 ---
 
 
-*Generated on 2026-11-18 · 62 plugins in this category*
+*Generated on 2026-11-18 · 63 plugins in this category*

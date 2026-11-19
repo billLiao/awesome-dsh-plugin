@@ -58,7 +58,6 @@
 - [Esper967/dsh-music-insight](https://github.com/Esper967/dsh-music-insight) ⭐1 — 让你的dsh模型感受音乐
 - [GaoHu1997/dsh-maestro-codex](https://github.com/GaoHu1997/dsh-maestro-codex) ⭐1
 - [betsunninda9-lgtm/dsh-model-groups](https://github.com/betsunninda9-lgtm/dsh-model-groups) ⭐1 — DSH 模型选择器：供应商与多密钥配置折叠、精确模型路由（DSH 0.2.2-rc.1）
-- [No-ni/billion-context-patched](https://github.com/No-ni/billion-context-patched) ⭐1 — DSH 上下文压缩与请求加速插件：fork 继承、图片折叠，内置模型请求加速器。
 - [HuoGu-Hub/dsh-sense-img](https://github.com/HuoGu-Hub/dsh-sense-img) ⭐1 — DSH插件：商汤生图模型调用插件
 - [windxxf/dsh-nvidia-models-panel](https://github.com/windxxf/dsh-nvidia-models-panel) ⭐1 — NVIDIA 模型面板，侧栏面板，用于发现和配置 NVIDIA NIM 模型，带有模型简介
 - [AmazarashiEnduerRain/dsh-unread](https://github.com/AmazarashiEnduerRain/dsh-unread) ⭐1 — A DSH plugin, enabling unread signal of Codex style.
@@ -144,6 +143,7 @@
 - [Cheeserackery/deepseek-time](https://github.com/Cheeserackery/deepseek-time) — 一款Agent插件，能够实时直观显示DeepSeek当前收费时段状态。DeepSeek pricing-period status indicator with Hermes, DSH, and Codex adapters.
 - [locqueliu/lianben-workbench](https://github.com/locqueliu/lianben-workbench) — DSH 炼本工作台：1.0/2.0 双模式剧本前置、炼本与配乐插件
 - [davzlcm/model-price-radar](https://github.com/davzlcm/model-price-radar) — DSH ??:?????????,???????,??????????
+- [No-ni/billion-context-patched](https://github.com/No-ni/billion-context-patched) — DSH 上下文压缩与请求加速插件：fork 继承、图片折叠，内置模型请求加速器。
 - [YoungerHy/dsh-prompt-detailer](https://github.com/YoungerHy/dsh-prompt-detailer) — 输入一句粗需求，先由任意 OpenAI 兼容模型细化成可执行提示词，再交给 DSH 主模型执行。
 - [Darkhe55/dsh-plugin-models-fingerprint](https://github.com/Darkhe55/dsh-plugin-models-fingerprint) — 用于监控和诊断接入厂商的模型是否发生指纹变动，提示可能存在的不稳定路由情况。
 - [CharlesLizzy/dsh-model-lens](https://github.com/CharlesLizzy/dsh-model-lens) — 一个基于DSH的本地模型监管插件：监控模型服务的运行状态、请求速率和 GPU/CPU/内存的使用情况等，并提供一个手动拉起/卸载的入口。

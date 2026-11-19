@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**64 plugins**
+**65 plugins**
 
 
 ---
@@ -73,8 +73,9 @@
 - [undertale11121/dsh-phone-bridge](https://github.com/undertale11121/dsh-phone-bridge)
 - [CarbeneLee/dsh-mac-notify](https://github.com/CarbeneLee/dsh-mac-notify)
 - [LeeRolling/dsh-notify-context](https://github.com/LeeRolling/dsh-notify-context)
+- [FanetheDivine/dsh-plugin-lark-bridge](https://github.com/FanetheDivine/dsh-plugin-lark-bridge) — 借助 lark-cli，让 Agent 和你通信
 
 ---
 
 
-*Generated on 2026-11-19 · 64 plugins in this category*
+*Generated on 2026-11-20 · 65 plugins in this category*

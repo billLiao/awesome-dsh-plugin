@@ -4,12 +4,12 @@
 > Persistent memory, knowledge bases, and context retention plugins.
 
 
-**891 plugins**
+**894 plugins**
 
 
 ---
 
-- [himovo/movo](https://github.com/himovo/movo) ⭐748 — Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.
+- [himovo/movo](https://github.com/himovo/movo) ⭐756 — Turn DeepSeek Harness into a self-hosted enterprise Agent platform with knowledge, deep research, content generation, vibe coding, browser automation, governance, and admin controls.
 - [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory) ⭐191 — Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 事件驱动的主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
 - [seriousz158/dsh-memory](https://github.com/seriousz158/dsh-memory) ⭐180
 - [AskTheWay/dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) ⭐133 — Trustworthy memory for DeepSeek Harness — 4-state trust machine, evidence chains, audited injections. Zero servers, just Markdown.
@@ -34,7 +34,7 @@
 - [JKZeng-cell/moki-library-for-dsh](https://github.com/JKZeng-cell/moki-library-for-dsh) ⭐30 — MOKI资料库 for DeepSeek Harness：本地文件管理、多格式预览与 Office / AI 选区协同编辑。Local file management, rich previews and precise AI editing for DSH.
 - [drscrewdriver/dsh-prime-memory](https://github.com/drscrewdriver/dsh-prime-memory) ⭐28
 - [lemoncat7/dsh-knowledge](https://github.com/lemoncat7/dsh-knowledge) ⭐27 — Installable DeepSeek Harness knowledge base plugin
-- [tdcq9594/dsh-roost](https://github.com/tdcq9594/dsh-roost) ⭐25 — DSH 插件：让 AI 通过 Roost 住进 QQ —— 官方接口，不用 hook 客户端
+- [tdcq9594/dsh-roost](https://github.com/tdcq9594/dsh-roost) ⭐26 — DSH 插件：让 AI 通过 Roost 住进 QQ —— 官方接口，不用 hook 客户端
 - [RestRegular/dsh-memory](https://github.com/RestRegular/dsh-memory) ⭐21 — DSH 记忆系统 (Memory System): local-first memory — JSONL + local embeddings, five tools, auto recall, hard rules, visual panel.
 - [Swd146296/dsh-memos-bridge](https://github.com/Swd146296/dsh-memos-bridge) ⭐21 — DeepSeek Harness bundle that bridges the MemOS memory service into the agent over MCP: persistent memory tools (mcp__memos__*), with start-up preflight and host-run endpoint resolution.
 - [canglight/dsh-chain](https://github.com/canglight/dsh-chain) ⭐20 — 神经元记忆网络 让 DSH 记住「为什么这么决定」，而不只是结论。思维链记忆插件：8 个池分级遗忘、每轮注入、神经元 3D 星云浏览、夜巡自动整理。
@@ -900,8 +900,11 @@
 - [gege9527/dsh-local-kb](https://github.com/gege9527/dsh-local-kb) — 给 DeepSeek Harness 的知识库与长期记忆插件：每轮自动带回记忆索引与项目地图，写入有护栏、改库自动体检、可选 WebDAV 备份
 - [rj-yejianping/dsh-memtree](https://github.com/rj-yejianping/dsh-memtree) — Long-term memory for DeepSeek Harness: memory-as-file (MEMORY.md, daily notes, digest knowledge), notes the agent writes itself, nightly Auto Dream consolidation, and hybrid BM25 + vector search with wikilink expansion.
 - [printing10101/dsh-research-forge](https://github.com/printing10101/dsh-research-forge) — DeepSeek Harness (DSH) research plugin: persistent blind-review autonomous goal loop, engineering-AI anti-fluff/data-leakage auditor, cross-disciplinary structural analogy, and local negative-results lab vault.
+- [xua123/dsh-server-monitor](https://github.com/xua123/dsh-server-monitor) — Server resource monitor for DeepSeek Harness: CPU, memory, disk, GPU/NPU/DCU, processes and Docker.
+- [hanhan9999999999999999999/dsh-macro-memory](https://github.com/hanhan9999999999999999999/dsh-macro-memory) — 宏记忆 · Macro Memory — 一个 DSH 记忆插件接管全部记忆能力：8 个统一工具（schema 56,759 B → 8,655 B）、1,085 字符常驻注入、meow 七层主库 + 可重建星图，能力一条没砍。
+- [howtomakeaname/dsh-memory-service](https://github.com/howtomakeaname/dsh-memory-service) — Long-term memory plugin for DeepSeek Harness.
 
 ---
 
 
-*Generated on 2026-11-19 · 891 plugins in this category*
+*Generated on 2026-11-20 · 894 plugins in this category*

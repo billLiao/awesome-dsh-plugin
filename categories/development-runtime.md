@@ -4,13 +4,13 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**90 plugins**
+**91 plugins**
 
 
 ---
 
 - [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) ⭐339 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
-- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) ⭐323 — SSH remote workspaces for DeepSeek Harness: parallel projects across hosts, remote file browsing and editing, recursive search, terminals, Git diffs, and workspace-bound Agent tools to edit, build and test remotely. Optional IDE layout.
+- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) ⭐328 — SSH remote workspaces for DeepSeek Harness: parallel projects across hosts, remote file browsing and editing, recursive search, terminals, Git diffs, and workspace-bound Agent tools to edit, build and test remotely. Optional IDE layout.
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐71 — Support dsh runtime on Multica.
 - [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐21 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
 - [omdsh-dev/stent](https://github.com/omdsh-dev/stent) ⭐19 — 灵感来源于MC Fabric的Cordis/DSH hook处理器
@@ -26,6 +26,7 @@
 - [codingayice/dsh-interview](https://github.com/codingayice/dsh-interview) ⭐3 — 面向开发岗位的 DSH AI面试助手，支持八股复习、模拟面试、场景题、力扣 Hot 100 和可视化练习管理。
 - [VibeDev-Si/dsh-film](https://github.com/VibeDev-Si/dsh-film) ⭐3
 - [zuwenyin/dsh-plugin-upgrader](https://github.com/zuwenyin/dsh-plugin-upgrader) ⭐3 — DSH plugin for DeepSeek Harness: upgrade plugins from the Plugins page, version history, rollback, live pnpm progress
+- [liyuhan7/dsh-phone-mirror](https://github.com/liyuhan7/dsh-phone-mirror) ⭐3 — 把安卓设备与 iPhone 投到 DSH 右侧栏并反控：scrcpy + CoreDevice
 - [omdsh-dev/dsh-sandbox-micro](https://github.com/omdsh-dev/dsh-sandbox-micro) ⭐2
 - [AtWhuhu/dsh-devin-cli](https://github.com/AtWhuhu/dsh-devin-cli) ⭐2 — dsh devin cli插件
 - [ystyle/dsh-harmonyos](https://github.com/ystyle/dsh-harmonyos) ⭐2 — dsh-harmonyos | 鸿蒙PC版本dsh, 支持鸿蒙PC一键安装
@@ -103,4 +104,4 @@
 ---
 
 
-*Generated on 2026-11-19 · 90 plugins in this category*
+*Generated on 2026-11-20 · 91 plugins in this category*

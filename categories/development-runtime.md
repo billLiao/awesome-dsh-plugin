@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**89 plugins**
+**90 plugins**
 
 
 ---
@@ -43,6 +43,7 @@
 - [dev-HuTao/dsh-plugin-landscape-bg](https://github.com/dev-HuTao/dsh-plugin-landscape-bg) ⭐1
 - [yhuan416/dsh-opencode-client](https://github.com/yhuan416/dsh-opencode-client) ⭐1
 - [sxwpskd/dsh-milieu](https://github.com/sxwpskd/dsh-milieu) ⭐1 — dsh-milieu插件开发仓库
+- [Jeremyly/dsh-plugin-offline-sync](https://github.com/Jeremyly/dsh-plugin-offline-sync) ⭐1 — 将本地已有的dsh插件打包，拷贝到其他电脑通过脚本直接安装或更新
 - [zdjmrq/dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) — DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins
 - [GoGoGoDoge/dsh-plugin-installer](https://github.com/GoGoGoDoge/dsh-plugin-installer)
 - [jiay98528-dev/dsh-plugin-weaknet-adaptor](https://github.com/jiay98528-dev/dsh-plugin-weaknet-adaptor)
@@ -102,4 +103,4 @@
 ---
 
 
-*Generated on 2026-11-19 · 89 plugins in this category*
+*Generated on 2026-11-19 · 90 plugins in this category*

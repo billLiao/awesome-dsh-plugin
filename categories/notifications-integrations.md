@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**63 plugins**
+**64 plugins**
 
 
 ---
@@ -26,6 +26,7 @@
 - [zhangDSK-Xu/dsh-sound-alert](https://github.com/zhangDSK-Xu/dsh-sound-alert) ⭐1 — DSH需要你授权或做出选择时播放提示音并弹出提醒卡片。Plays a sound and shows a reminder card when DSH needs your approval or a choice.
 - [flyinstar/dsh-qq-bridge](https://github.com/flyinstar/dsh-qq-bridge) ⭐1
 - [airenburen/dsh-windows-notify](https://github.com/airenburen/dsh-windows-notify) ⭐1
+- [qinvnb/dsh-cursor-integration](https://github.com/qinvnb/dsh-cursor-integration) ⭐1
 - [Num86/dsh-functions](https://github.com/Num86/dsh-functions) — 一级菜单旁添加可供插件接入的“功能”菜单栏，可以快捷添加插件功能，也可以自定义插件功能置入。v0.4.0 现已集成“重启dsh”功能
 - [67-68/dsh-music-alert](https://github.com/67-68/dsh-music-alert)
 - [zbxzbx98/dsh-peak-alert](https://github.com/zbxzbx98/dsh-peak-alert) — DeepSeek 峰谷定价提示插件（DSH Web 客户端插件，纯前端，无后端依赖）
@@ -76,4 +77,4 @@
 ---
 
 
-*Generated on 2026-11-19 · 63 plugins in this category*
+*Generated on 2026-11-19 · 64 plugins in this category*

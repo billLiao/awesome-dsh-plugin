@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**146 plugins**
+**147 plugins**
 
 
 ---
@@ -155,8 +155,9 @@
 - [KunChiang/dsh-kit-forecast](https://github.com/KunChiang/dsh-kit-forecast) — 用 KiT 扩散模型对任意 A 股做多周期概率预测：不是单一涨跌，而是一族未来路径
 - [moltocantabile/dsh-auto-model-router](https://github.com/moltocantabile/dsh-auto-model-router) — System One decision model routes every DSH agent request; tiers are envelopes, not model lists.
 - [SRTURK/dsh-writer](https://github.com/SRTURK/dsh-writer) — 把 README、文档、论文、回信的正文交给更人性化的写手模型，主模型只写代码
+- [NULLCOLORcat/dsh-Agent-team-fix](https://github.com/NULLCOLORcat/dsh-Agent-team-fix) — 针对于 DSH Agent Team的模型调用扩展
 
 ---
 
 
-*Generated on 2026-11-20 · 146 plugins in this category*
+*Generated on 2026-11-21 · 147 plugins in this category*

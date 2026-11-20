@@ -25,6 +25,7 @@
 - [Fnckerpoi/dsh-plugin-sirchmunk](https://github.com/Fnckerpoi/dsh-plugin-sirchmunk) ⭐1 — DSH集成sirchmunk插件管理。
 - [zhangDSK-Xu/dsh-sound-alert](https://github.com/zhangDSK-Xu/dsh-sound-alert) ⭐1 — DSH需要你授权或做出选择时播放提示音并弹出提醒卡片。Plays a sound and shows a reminder card when DSH needs your approval or a choice.
 - [flyinstar/dsh-qq-bridge](https://github.com/flyinstar/dsh-qq-bridge) ⭐1
+- [nobu2333/dsh-game-bridge](https://github.com/nobu2333/dsh-game-bridge) ⭐1
 - [airenburen/dsh-windows-notify](https://github.com/airenburen/dsh-windows-notify) ⭐1
 - [qinvnb/dsh-cursor-integration](https://github.com/qinvnb/dsh-cursor-integration) ⭐1
 - [Num86/dsh-functions](https://github.com/Num86/dsh-functions) — 一级菜单旁添加可供插件接入的“功能”菜单栏，可以快捷添加插件功能，也可以自定义插件功能置入。v0.4.0 现已集成“重启dsh”功能
@@ -58,7 +59,6 @@
 - [AlleyRain/dsh-notifier](https://github.com/AlleyRain/dsh-notifier) — 用于在dsh需要用户回应时及时通知
 - [heyitaowml-ctrl/dsh-vscode-bridge](https://github.com/heyitaowml-ctrl/dsh-vscode-bridge)
 - [lof6yo/dsh-opencode-live](https://github.com/lof6yo/dsh-opencode-live) — OpenCode as a DSH subagent, with a live ACP trace panel for its agents and self-spawned subagents
-- [nobu2333/dsh-game-bridge](https://github.com/nobu2333/dsh-game-bridge)
 - [YarXVI/dsh-npu](https://github.com/YarXVI/dsh-npu) — 燧心 / Hearthcore —— DSH 插件：AMD NPU + GPU 本地推理，按需点火、零残留进程、对外一个 OpenAI 端口，第五框架 amd-hybrid 双引擎协同。MIT。
 - [fevolq/terms-bridge](https://github.com/fevolq/terms-bridge) — DSH插件。桥接项目
 - [wwjzzy/dsh-weread](https://github.com/wwjzzy/dsh-weread) — 微信读书简易插件
@@ -78,4 +78,4 @@
 ---
 
 
-*Generated on 2026-11-20 · 65 plugins in this category*
+*Generated on 2026-11-21 · 65 plugins in this category*

@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**33 plugins**
+**34 plugins**
 
 
 ---
@@ -42,8 +42,9 @@
 - [AnJiaqi0926/dsh-style-mirror](https://github.com/AnJiaqi0926/dsh-style-mirror) — Reads a corpus library (PDF/Word/text) and answers in its scene-specific writing style with fewer AI mannerisms. DSH bundle.
 - [afeiaswell/dsh-doubao-pet](https://github.com/afeiaswell/dsh-doubao-pet)
 - [xinghe-1018/dsh-game-desk](https://github.com/xinghe-1018/dsh-game-desk) — 案卷台：DSH 插件，把剧本杀与游戏厅放进左侧入口栏（AI 主持 / 按幕剧本页图 / 白板与表格 / 公网房间）
+- [perfectnym/dsh-clean-search](https://github.com/perfectnym/dsh-clean-search) — 清爽搜索：DSH 无广告搜索首页（官网优先/行情/天气/以图搜图）
 
 ---
 
 
-*Generated on 2026-11-21 · 33 plugins in this category*
+*Generated on 2026-11-22 · 34 plugins in this category*

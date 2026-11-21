@@ -4,13 +4,13 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**91 plugins**
+**92 plugins**
 
 
 ---
 
 - [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) ⭐339 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
-- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) ⭐338 — SSH remote workspaces for DeepSeek Harness: parallel projects across hosts, remote file browsing and editing, recursive search, terminals, Git diffs, and workspace-bound Agent tools to edit, build and test remotely. Optional IDE layout.
+- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) ⭐339 — SSH remote workspaces for DeepSeek Harness: parallel projects across hosts, remote file browsing and editing, recursive search, terminals, Git diffs, and workspace-bound Agent tools to edit, build and test remotely. Optional IDE layout.
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐71 — Support dsh runtime on Multica.
 - [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐21 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
 - [omdsh-dev/stent](https://github.com/omdsh-dev/stent) ⭐19 — 灵感来源于MC Fabric的Cordis/DSH hook处理器
@@ -100,8 +100,9 @@
 - [contextos-devops/dsh-contextos-devops](https://github.com/contextos-devops/dsh-contextos-devops) — contextos devops for ai
 - [liuhange789/dsh-clinic-intake](https://github.com/liuhange789/dsh-clinic-intake) — Pre-visit intake structuring for clinics (DSH plugin): six patient questions → structured intake summary ≤300 字, rule-based, local-only, no diagnosis.
 - [gongxianjin/agentranch-dsh](https://github.com/gongxianjin/agentranch-dsh) — DSH plugin: bounded DSH control of AgentRanch aw-cli (agentranch-dsh)
+- [voidwrathhh/dsh-tao-prompt](https://github.com/voidwrathhh/dsh-tao-prompt) — DSH prompt library: tag your prompts, insert them at the caret with one click, and let an agent grow the library through a JSON file.
 
 ---
 
 
-*Generated on 2026-11-21 · 91 plugins in this category*
+*Generated on 2026-11-21 · 92 plugins in this category*

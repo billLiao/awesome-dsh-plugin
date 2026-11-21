@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**32 plugins**
+**33 plugins**
 
 
 ---
@@ -41,8 +41,9 @@
 - [sabishii-me/dsh-happenings](https://github.com/sabishii-me/dsh-happenings) — A live AI-game and vibe-coding event calendar on Cloudflare Workers + D1.
 - [AnJiaqi0926/dsh-style-mirror](https://github.com/AnJiaqi0926/dsh-style-mirror) — Reads a corpus library (PDF/Word/text) and answers in its scene-specific writing style with fewer AI mannerisms. DSH bundle.
 - [afeiaswell/dsh-doubao-pet](https://github.com/afeiaswell/dsh-doubao-pet)
+- [xinghe-1018/dsh-game-desk](https://github.com/xinghe-1018/dsh-game-desk) — 案卷台：DSH 插件，把剧本杀与游戏厅放进左侧入口栏（AI 主持 / 按幕剧本页图 / 白板与表格 / 公网房间）
 
 ---
 
 
-*Generated on 2026-11-21 · 32 plugins in this category*
+*Generated on 2026-11-21 · 33 plugins in this category*

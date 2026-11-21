@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**147 plugins**
+**148 plugins**
 
 
 ---
@@ -156,8 +156,9 @@
 - [moltocantabile/dsh-auto-model-router](https://github.com/moltocantabile/dsh-auto-model-router) — System One decision model routes every DSH agent request; tiers are envelopes, not model lists.
 - [SRTURK/dsh-writer](https://github.com/SRTURK/dsh-writer) — 把 README、文档、论文、回信的正文交给更人性化的写手模型，主模型只写代码
 - [NULLCOLORcat/dsh-Agent-team-fix](https://github.com/NULLCOLORcat/dsh-Agent-team-fix) — 针对于 DSH Agent Team的模型调用扩展
+- [DynasturnStudio/dsh-date-model](https://github.com/DynasturnStudio/dsh-date-model) — lol
 
 ---
 
 
-*Generated on 2026-11-21 · 147 plugins in this category*
+*Generated on 2026-11-21 · 148 plugins in this category*

@@ -4,12 +4,13 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**150 plugins**
+**151 plugins**
 
 
 ---
 
 - [guohwa/dsh-plugin-image-workbench](https://github.com/guohwa/dsh-plugin-image-workbench) ⭐23 — Bluxe 手绘工坊 · 生图工作台：装在 DSH 侧栏的 AI 生图工作台插件，内置账号池装好即用，输入提示词一键生成图文 / 摄影配图，也能接你自己的 OpenAI 兼容接口。
+- [CM-Silence/dsh-mo-image](https://github.com/CM-Silence/dsh-mo-image) ⭐20 — 让DSH能够接入生图模型并像GPT一样生成图片
 - [dingminhua/dsh-subagent-default-model](https://github.com/dingminhua/dsh-subagent-default-model) ⭐14 — Configurable default model for subagent delegations via settings.yaml, with single-model and multi-model round-robin/random strategies.
 - [licyer/dsh-token-monitor](https://github.com/licyer/dsh-token-monitor) ⭐12 — DSH Web 模型余量与用量监控插件
 - [HuanLinOTO/dsh-plugin-auto-blame](https://github.com/HuanLinOTO/dsh-plugin-auto-blame) ⭐11 — 模型回合结束后用 LLM 生成 3 条批判性跟进建议，点击即发送 | After a model turn, an LLM generates 3 critical follow-up suggestions shown as click-to-send chips
@@ -155,7 +156,7 @@
 - [KunChiang/dsh-kit-forecast](https://github.com/KunChiang/dsh-kit-forecast) — 用 KiT 扩散模型对任意 A 股做多周期概率预测：不是单一涨跌，而是一族未来路径
 - [moltocantabile/dsh-auto-model-router](https://github.com/moltocantabile/dsh-auto-model-router) — System One decision model routes every DSH agent request; tiers are envelopes, not model lists.
 - [SRTURK/dsh-writer](https://github.com/SRTURK/dsh-writer) — 把 README、文档、论文、回信的正文交给更人性化的写手模型，主模型只写代码
-- [NULLCOLORcat/dsh-Agent-team-fix](https://github.com/NULLCOLORcat/dsh-Agent-team-fix) — 针对于 DSH Agent Team的模型调用扩展
+- [NULLCOLORcat/dsh-Smarter-Subagent-level](https://github.com/NULLCOLORcat/dsh-Smarter-Subagent-level) — 针对于 DSH Agent Team的模型调用扩展
 - [DynasturnStudio/dsh-date-model](https://github.com/DynasturnStudio/dsh-date-model) — lol
 - [tlsneo/dsh-gpt-fastmode](https://github.com/tlsneo/dsh-gpt-fastmode) — enable fast mode for gpt llm models
 - [aiohow/dsh-prompt-wall](https://github.com/aiohow/dsh-prompt-wall) — 1077 image-generation prompt templates with example images, as a DSH plugin: card wall, search, favorites, per-model prompt adaptation. Fully local. 生图提示词选片墙，纯本地。
@@ -163,4 +164,4 @@
 ---
 
 
-*Generated on 2026-11-22 · 150 plugins in this category*
+*Generated on 2026-11-23 · 151 plugins in this category*

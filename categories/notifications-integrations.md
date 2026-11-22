@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**65 plugins**
+**66 plugins**
 
 
 ---
@@ -74,8 +74,9 @@
 - [CarbeneLee/dsh-mac-notify](https://github.com/CarbeneLee/dsh-mac-notify)
 - [LeeRolling/dsh-notify-context](https://github.com/LeeRolling/dsh-notify-context)
 - [FanetheDivine/dsh-plugin-lark-bridge](https://github.com/FanetheDivine/dsh-plugin-lark-bridge) — 借助 lark-cli，让 Agent 和你通信
+- [Zoanthamine/dsh-molecular-viewer](https://github.com/Zoanthamine/dsh-molecular-viewer) — Local molecular 3D viewer for DSH: Gaussian, ORCA, FCHK, trajectories and agent integration
 
 ---
 
 
-*Generated on 2026-11-22 · 65 plugins in this category*
+*Generated on 2026-11-23 · 66 plugins in this category*

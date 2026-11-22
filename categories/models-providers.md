@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**149 plugins**
+**150 plugins**
 
 
 ---
@@ -158,8 +158,9 @@
 - [NULLCOLORcat/dsh-Agent-team-fix](https://github.com/NULLCOLORcat/dsh-Agent-team-fix) — 针对于 DSH Agent Team的模型调用扩展
 - [DynasturnStudio/dsh-date-model](https://github.com/DynasturnStudio/dsh-date-model) — lol
 - [tlsneo/dsh-gpt-fastmode](https://github.com/tlsneo/dsh-gpt-fastmode) — enable fast mode for gpt llm models
+- [aiohow/dsh-prompt-wall](https://github.com/aiohow/dsh-prompt-wall) — 1077 image-generation prompt templates with example images, as a DSH plugin: card wall, search, favorites, per-model prompt adaptation. Fully local. 生图提示词选片墙，纯本地。
 
 ---
 
 
-*Generated on 2026-11-22 · 149 plugins in this category*
+*Generated on 2026-11-22 · 150 plugins in this category*

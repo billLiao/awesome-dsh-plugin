@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**151 plugins**
+**152 plugins**
 
 
 ---
@@ -160,8 +160,9 @@
 - [DynasturnStudio/dsh-date-model](https://github.com/DynasturnStudio/dsh-date-model) — lol
 - [tlsneo/dsh-gpt-fastmode](https://github.com/tlsneo/dsh-gpt-fastmode) — enable fast mode for gpt llm models
 - [aiohow/dsh-prompt-wall](https://github.com/aiohow/dsh-prompt-wall) — 1077 image-generation prompt templates with example images, as a DSH plugin: card wall, search, favorites, per-model prompt adaptation. Fully local. 生图提示词选片墙，纯本地。
+- [callaumyan-design/dshx-model-fingerprint](https://github.com/callaumyan-design/dshx-model-fingerprint) — DSH 插件：检验中转站实际提供的是哪个模型
 
 ---
 
 
-*Generated on 2026-11-23 · 151 plugins in this category*
+*Generated on 2026-11-24 · 152 plugins in this category*

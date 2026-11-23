@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**66 plugins**
+**67 plugins**
 
 
 ---
@@ -28,6 +28,7 @@
 - [nobu2333/dsh-game-bridge](https://github.com/nobu2333/dsh-game-bridge) ⭐1
 - [airenburen/dsh-windows-notify](https://github.com/airenburen/dsh-windows-notify) ⭐1
 - [qinvnb/dsh-cursor-integration](https://github.com/qinvnb/dsh-cursor-integration) ⭐1
+- [Zoanthamine/dsh-molecular-viewer](https://github.com/Zoanthamine/dsh-molecular-viewer) ⭐1 — Local molecular 3D viewer for DSH: Gaussian, ORCA, FCHK, trajectories and agent integration
 - [Num86/dsh-functions](https://github.com/Num86/dsh-functions) — 一级菜单旁添加可供插件接入的“功能”菜单栏，可以快捷添加插件功能，也可以自定义插件功能置入。v0.4.0 现已集成“重启dsh”功能
 - [67-68/dsh-music-alert](https://github.com/67-68/dsh-music-alert)
 - [zbxzbx98/dsh-peak-alert](https://github.com/zbxzbx98/dsh-peak-alert) — DeepSeek 峰谷定价提示插件（DSH Web 客户端插件，纯前端，无后端依赖）
@@ -74,9 +75,9 @@
 - [CarbeneLee/dsh-mac-notify](https://github.com/CarbeneLee/dsh-mac-notify)
 - [LeeRolling/dsh-notify-context](https://github.com/LeeRolling/dsh-notify-context)
 - [FanetheDivine/dsh-plugin-lark-bridge](https://github.com/FanetheDivine/dsh-plugin-lark-bridge) — 借助 lark-cli，让 Agent 和你通信
-- [Zoanthamine/dsh-molecular-viewer](https://github.com/Zoanthamine/dsh-molecular-viewer) — Local molecular 3D viewer for DSH: Gaussian, ORCA, FCHK, trajectories and agent integration
+- [1095314734/dsh-qq-notice](https://github.com/1095314734/dsh-qq-notice) — DSH基于QQ机器人的通知插件
 
 ---
 
 
-*Generated on 2026-11-23 · 66 plugins in this category*
+*Generated on 2026-11-24 · 67 plugins in this category*

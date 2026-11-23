@@ -20,6 +20,7 @@
 - [EliteOtaku/dsh-opendesign-go](https://github.com/EliteOtaku/dsh-opendesign-go) ⭐11 — 为opendesign订阅开发的DSH插件
 - [omdsh-dev/dsh-fun-ticker](https://github.com/omdsh-dev/dsh-fun-ticker) ⭐5 — DSH 行情跑马灯插件：可自选标的的加密/汇率/A股/指数/港美股跑马灯，免 key 数据源，宿主代理+缓存
 - [Alice-Marx/dsh-boot-animation](https://github.com/Alice-Marx/dsh-boot-animation) ⭐5 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
+- [ystyle/dsh-harmonyos](https://github.com/ystyle/dsh-harmonyos) ⭐4 — dsh-harmonyos | 鸿蒙PC版本dsh, 支持鸿蒙PC一键安装
 - [omdsh-dev/dsh-daily-fortune](https://github.com/omdsh-dev/dsh-daily-fortune) ⭐3 — DSH daily fortune plugin with Guan Yin lots, Tarot spreads, and daily quotes
 - [omdsh-dev/dsh-ernie-image](https://github.com/omdsh-dev/dsh-ernie-image) ⭐3
 - [omdsh-dev/dsh-daily-progress](https://github.com/omdsh-dev/dsh-daily-progress) ⭐3
@@ -29,7 +30,6 @@
 - [liyuhan7/dsh-phone-mirror](https://github.com/liyuhan7/dsh-phone-mirror) ⭐3 — 把安卓设备与 iPhone 投到 DSH 右侧栏并反控：scrcpy + CoreDevice
 - [omdsh-dev/dsh-sandbox-micro](https://github.com/omdsh-dev/dsh-sandbox-micro) ⭐2
 - [AtWhuhu/dsh-devin-cli](https://github.com/AtWhuhu/dsh-devin-cli) ⭐2 — dsh devin cli插件
-- [ystyle/dsh-harmonyos](https://github.com/ystyle/dsh-harmonyos) ⭐2 — dsh-harmonyos | 鸿蒙PC版本dsh, 支持鸿蒙PC一键安装
 - [2128627267/dsh-qbetter-config](https://github.com/2128627267/dsh-qbetter-config) ⭐1
 - [showlibia/dsh-plugin-installer](https://github.com/showlibia/dsh-plugin-installer) ⭐1
 - [q2316367743/dsh-plugin-manager](https://github.com/q2316367743/dsh-plugin-manager) ⭐1 — dsh 插件管理器
@@ -106,4 +106,4 @@
 ---
 
 
-*Generated on 2026-11-23 · 93 plugins in this category*
+*Generated on 2026-11-24 · 93 plugins in this category*

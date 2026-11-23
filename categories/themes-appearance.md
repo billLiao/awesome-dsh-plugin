@@ -4,17 +4,17 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**763 plugins**
+**767 plugins**
 
 
 ---
 
 - [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) ⭐4536 — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
-- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐3129 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
+- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐3140 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
 - [Yuuyuko-uu/dsh-fish-memory](https://github.com/Yuuyuko-uu/dsh-fish-memory) ⭐539 — 🐋 DSH 鱼的记忆：给会话一份会淡忘的长期记忆，每条都带时间。名字里的「鱼」来自 DeepSeek 的鲸鱼。
 - [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) ⭐386 — DeepSeek Harness 滑动变阻器皮肤
-- [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐338 — 浏览、搜索、安装并管理 DSH 皮肤
-- [webkubor/dsh-bloom-theme](https://github.com/webkubor/dsh-bloom-theme) ⭐313 — DSH 主题插件：Bloom 莫兰迪中国风配色，OKLCH 调色、明暗双主题、顶栏一键切换，实测达 WCAG AA。 / A DSH theme plugin: Morandi Chinese-style palettes, OKLCH, light/dark, WCAG AA.
+- [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐340 — 浏览、搜索、安装并管理 DSH 皮肤
+- [webkubor/dsh-bloom-theme](https://github.com/webkubor/dsh-bloom-theme) ⭐314 — DSH 主题插件：Bloom 莫兰迪中国风配色，OKLCH 调色、明暗双主题、顶栏一键切换，实测达 WCAG AA。 / A DSH theme plugin: Morandi Chinese-style palettes, OKLCH, light/dark, WCAG AA.
 - [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) ⭐175 — 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风。
 - [Something11235/dsh-video-skin](https://github.com/Something11235/dsh-video-skin) ⭐104 — DSH 视频皮肤：聊天背景 + 有声开机动画 + 界面内透明度调节
 - [Yuuyuko-uu/dsh-fish-buddy](https://github.com/Yuuyuko-uu/dsh-fish-buddy) ⭐76 — 鱼搭子：桌面小鲸鱼挂件 + DSH 插件（语音送话、陪看字幕、游戏弹幕、截图）
@@ -772,8 +772,12 @@
 - [brody715/dsh-skincare](https://github.com/brody715/dsh-skincare) — DSH 护肤插件 @brody715/dsh-skincare：有出处的护肤知识库 + 分诊助手，知识底座为 AAD 公众科普
 - [xinagcai/hachiware-pet](https://github.com/xinagcai/hachiware-pet) — Desktop pet for DeepSeek Harness: an always-on-top window with session moods, pending-approval alerts and swappable skins (macOS + Windows).
 - [xkshct198570/dsh-whale-memory](https://github.com/xkshct198570/dsh-whale-memory) — Whale Memory: local long-term memory and rule source for DeepSeek Harness
+- [silverglowGalike/dsh-whale-middleman](https://github.com/silverglowGalike/dsh-whale-middleman) — dsh中台：通过中台来实现半自动化工作流
+- [Flinn-X/dsh-plugins](https://github.com/Flinn-X/dsh-plugins) — Two DeepSeek Harness (DSH) web client plugins: five light/dark palettes, and collapsible long user messages.
+- [eastyy/dsh-git](https://github.com/eastyy/dsh-git) — Two DeepSeek Harness (dsh) plugins: a visual HTML editor for workspace pages, and a floating whale that snapshots a project into git.
+- [P3terHan/dsh-retro-pixel-themes](https://github.com/P3terHan/dsh-retro-pixel-themes) — Retro Pixel Themes — 12 visual themes for DeepSeek Harness (7 retro pixel/CRT styles). 复古像素主题：12 款主题，含 7 款复古像素/CRT 风。
 
 ---
 
 
-*Generated on 2026-11-23 · 763 plugins in this category*
+*Generated on 2026-11-24 · 767 plugins in this category*

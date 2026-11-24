@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**36 plugins**
+**38 plugins**
 
 
 ---
@@ -20,6 +20,7 @@
 - [xuexiaolei1997/dsh-plugin-stock-x](https://github.com/xuexiaolei1997/dsh-plugin-stock-x) ⭐1
 - [hulibuld/dsh-pet-cuteness-plugin](https://github.com/hulibuld/dsh-pet-cuteness-plugin) ⭐1 — 由 DSH 上传：AI娘化插件
 - [l359199387/dsh-pet-enhance](https://github.com/l359199387/dsh-pet-enhance) ⭐1 — 给 dsh-pet 的增强插件：能闲聊、能看屏干活、能口述带教并写入本机技能。
+- [qiumingzhi2006-web/shua-douyin](https://github.com/qiumingzhi2006-web/shua-douyin) ⭐1 — A DSH bundle that reads the Douyin For-You feed with a secondaryaccount, writes a one-line reaction, and records theresult.
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
 - [zixing2333/dsh-gmk-game](https://github.com/zixing2333/dsh-gmk-game)
 - [Helly0000/dsh-life-game](https://github.com/Helly0000/dsh-life-game)
@@ -42,11 +43,12 @@
 - [AnJiaqi0926/dsh-style-mirror](https://github.com/AnJiaqi0926/dsh-style-mirror) — Reads a corpus library (PDF/Word/text) and answers in its scene-specific writing style with fewer AI mannerisms. DSH bundle.
 - [afeiaswell/dsh-doubao-pet](https://github.com/afeiaswell/dsh-doubao-pet)
 - [xinghe-1018/dsh-game-desk](https://github.com/xinghe-1018/dsh-game-desk) — 案卷台：DSH 插件，把剧本杀与游戏厅放进左侧入口栏（AI 主持 / 按幕剧本页图 / 白板与表格 / 公网房间）
-- [perfectnym/dsh-clean-search](https://github.com/perfectnym/dsh-clean-search) — 清爽搜索：DSH 无广告搜索首页（官网优先/行情/天气/以图搜图）
+- [perfectnym/dsh-clean-search](https://github.com/perfectnym/dsh-clean-search) — 清爽搜索：DSH 无广告搜索首页（官网优先、公司官网置顶+行情、特殊号码、天气、以图搜图）
 - [feely0208/dsh-industry-pet](https://github.com/feely0208/dsh-industry-pet) — 宠物诊疗/宠物饲料/宠物运输/宠物医疗广告
 - [Camus2001/dsh-pet-see-live](https://github.com/Camus2001/dsh-pet-see-live) — 让dsh-pet能通过dsh-see-now实时看见屏幕
+- [y0n9/dsh-ccgs-studio](https://github.com/y0n9/dsh-ccgs-studio) — Claude Code Game Studios 的DSH移植版本
 
 ---
 
 
-*Generated on 2026-11-24 · 36 plugins in this category*
+*Generated on 2026-11-25 · 38 plugins in this category*

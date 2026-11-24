@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**152 plugins**
+**153 plugins**
 
 
 ---
@@ -161,8 +161,9 @@
 - [tlsneo/dsh-gpt-fastmode](https://github.com/tlsneo/dsh-gpt-fastmode) — enable fast mode for gpt llm models
 - [aiohow/dsh-prompt-wall](https://github.com/aiohow/dsh-prompt-wall) — 1077 image-generation prompt templates with example images, as a DSH plugin: card wall, search, favorites, per-model prompt adaptation. Fully local. 生图提示词选片墙，纯本地。
 - [callaumyan-design/dshx-model-fingerprint](https://github.com/callaumyan-design/dshx-model-fingerprint) — DSH 插件：检验中转站实际提供的是哪个模型
+- [HJ-Create-World/dsh-cineforge](https://github.com/HJ-Create-World/dsh-cineforge) — CineForge 影铸 · AI 视频导演台 — DSH 视频创作增强版插件，让普通模型也有 Opus 级设计感。上游 video-shotcraft。
 
 ---
 
 
-*Generated on 2026-11-24 · 152 plugins in this category*
+*Generated on 2026-11-25 · 153 plugins in this category*

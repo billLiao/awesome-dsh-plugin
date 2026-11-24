@@ -9,7 +9,7 @@
 
 ---
 
-- [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) ⭐25464 — A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
+- [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) ⭐25504 — A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 - [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) ⭐1510 — DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物
 - [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness) ⭐1316 — DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.
 - [Anil-matcha/awesome-dsh-plugin](https://github.com/Anil-matcha/awesome-dsh-plugin) ⭐987 — A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem
@@ -317,6 +317,7 @@
 - [liweitan2046-cyber/dsh-bili-lesson](https://github.com/liweitan2046-cyber/dsh-bili-lesson) ⭐1 — 星火课堂 — DSH 插件：B 站少儿科普片库 + 每周排片 + 课卡答题 + 错题本 + 勋章盲盒 + 家长锁 | Spark Classroom — a DSH plugin for curated Bilibili learning: weekly schedule, quiz cards, mistakes review, medals, parent lock
 - [Night-ended-dawn-not-broken/dsh-knowledge-base](https://github.com/Night-ended-dawn-not-broken/dsh-knowledge-base) ⭐1 — Manually curated knowledge base plugin for DeepSeek Harness: encryption, prompts, and knowledge-first web search.
 - [Richology/dsh-starharbor](https://github.com/Richology/dsh-starharbor) ⭐1 — StarHarbor 星港 · Daily high-star GitHub discoveries and Markdown collections for DeepSeek Harness
+- [2-qing/dsh-aftermath](https://github.com/2-qing/dsh-aftermath) ⭐1 — DeepSeek Harness 插件（npm: dsh-aftermath）：记录每轮对话中观测目录的文件变更，事后可倒查改了什么、出自哪条命令。
 - [zdt3476/dsh-subagent-routes](https://github.com/zdt3476/dsh-subagent-routes) ⭐1 — DeepSeek Harness 插件：按工作区目录给子智能体指定 provider、模型与思考等级，最长前缀匹配，带可视化设置页
 - [ayf-master/dsh-worklog](https://github.com/ayf-master/dsh-worklog) ⭐1 — 将 DSH 会话日志转换为按工作目录分组的每日、每周和每月 Markdown 工作报告。
 - [Mooling0602/awesome-mooling-dsh-plugins](https://github.com/Mooling0602/awesome-mooling-dsh-plugins) ⭐1 — My dsh-plugins.
@@ -615,7 +616,6 @@
 - [wadwaw7/dsh-session-delete](https://github.com/wadwaw7/dsh-session-delete) — Delete DSH sessions for real / 真正删除 DSH 会话：按 .session.json 精确匹配，同步清理项目会话目录
 - [dongsheng123132/dsh-project-gallery](https://github.com/dongsheng123132/dsh-project-gallery) — 项目相册：DeepSeek Harness 插件，把会话与项目目录里的图按项目攒成一册，悬停即看、点开有当时的对话与进展；零运行时依赖，MIT。
 - [femnn/dsh-plugin-yangmao](https://github.com/femnn/dsh-plugin-yangmao) — 薅羊毛情报看板 · DeepSeek Harness 插件：羊毛情报聚合、今日精选、三板块（雷达/VPS/Token）与智能体复核回写
-- [2-qing/dsh-aftermath](https://github.com/2-qing/dsh-aftermath) — DeepSeek Harness 插件（npm: dsh-aftermath）：记录每轮对话中观测目录的文件变更，事后可倒查改了什么、出自哪条命令。
 - [qianmokillstar/dsh-plugins](https://github.com/qianmokillstar/dsh-plugins) — 非官方第三方 DSH 插件核验站：55 条真机装机核验，记录版本、风险点、隐私分级与替代品；提供可搜索的报错诊断器、DSH 市场索引（format 1）与可嵌入核验徽章。
 - [SSHOOTING/awesome-dsh-plugins](https://github.com/SSHOOTING/awesome-dsh-plugins) — 社区维护的 DeepSeek Harness（DSH）插件目录，按场景整理可安装插件、安装命令与权限说明。
 - [Angel-Hair/dsh-instructions-policy](https://github.com/Angel-Hair/dsh-instructions-policy) — 给 DeepSeek Harness 的工作区指令（`AGENTS.md` / `CLAUDE.md` 等文件）加一层会话级策略：根文件可换、用户级可关、子目录遍历可关，且不复制任何预设文件。

@@ -101,6 +101,7 @@
 - [liuhange789/dsh-clinic-intake](https://github.com/liuhange789/dsh-clinic-intake) — Pre-visit intake structuring for clinics (DSH plugin): six patient questions → structured intake summary ≤300 字, rule-based, local-only, no diagnosis.
 - [gongxianjin/agentranch-dsh](https://github.com/gongxianjin/agentranch-dsh) — DSH plugin: bounded DSH control of AgentRanch aw-cli (agentranch-dsh)
 - [voidwrathhh/dsh-tao-prompt](https://github.com/voidwrathhh/dsh-tao-prompt) — DSH prompt library: tag your prompts, insert them at the caret with one click, and let an agent grow the library through a JSON file.
+- [ackniuw/dsh-image-drag-fix](https://github.com/ackniuw/dsh-image-drag-fix) — 修掉 DSH 从 QQ/微信拖图时误报「仅支持 PNG/JPG/WebP/GIF」：前端按扩展名猜 MIME、宿主按字节校验，两者不一致就拒；附 asar 补丁脚本、诊断分支标记与四个踩坑记录。Not a plugin: a repair recipe for a kernel-side mismatch.
 
 ---
 

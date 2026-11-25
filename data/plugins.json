@@ -1,7 +1,7 @@
 {
   "meta": {
-    "total_repos": 34381,
-    "total_plugins": 34288,
+    "total_repos": 34382,
+    "total_plugins": 34289,
     "generated_at": "2026-11-26"
   },
   "categories": {
@@ -438785,6 +438785,25 @@
           "prompts"
         ],
         "updated_at": "2026-11-21T05:55:54Z"
+      },
+      {
+        "full_name": "ackniuw/dsh-image-drag-fix",
+        "url": "https://github.com/ackniuw/dsh-image-drag-fix",
+        "description": "DSH 拖图被拒的根因与修复：前端按扩展名猜 MIME，宿主按字节校验，QQ 拖拽的图必然撞车。附 asar 手术脚本与避坑记录。",
+        "stars": 0,
+        "topics": [
+          "asar",
+          "deepseek-harness",
+          "drag-and-drop",
+          "dsh",
+          "dsh-plugin",
+          "electron",
+          "image-upload",
+          "patch",
+          "qq",
+          "windows"
+        ],
+        "updated_at": "2026-11-25T10:02:21Z"
       }
     ],
     "security-privacy": [

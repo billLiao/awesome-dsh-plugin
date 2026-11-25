@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**92 plugins**
+**93 plugins**
 
 
 ---
@@ -101,8 +101,9 @@
 - [liuhange789/dsh-clinic-intake](https://github.com/liuhange789/dsh-clinic-intake) — Pre-visit intake structuring for clinics (DSH plugin): six patient questions → structured intake summary ≤300 字, rule-based, local-only, no diagnosis.
 - [gongxianjin/agentranch-dsh](https://github.com/gongxianjin/agentranch-dsh) — DSH plugin: bounded DSH control of AgentRanch aw-cli (agentranch-dsh)
 - [voidwrathhh/dsh-tao-prompt](https://github.com/voidwrathhh/dsh-tao-prompt) — DSH prompt library: tag your prompts, insert them at the caret with one click, and let an agent grow the library through a JSON file.
+- [ackniuw/dsh-image-drag-fix](https://github.com/ackniuw/dsh-image-drag-fix) — DSH 拖图被拒的根因与修复：前端按扩展名猜 MIME，宿主按字节校验，QQ 拖拽的图必然撞车。附 asar 手术脚本与避坑记录。
 
 ---
 
 
-*Generated on 2026-11-26 · 92 plugins in this category*
+*Generated on 2026-11-26 · 93 plugins in this category*

@@ -174,6 +174,15 @@ def categorize(repo):
     if 'flymysql/dsh-remote' in name:
         return 'development-runtime'
 
+    # PR #39 (2026-11-26): ackniuw/dsh-image-drag-fix is an asar repair
+    # recipe for DSH's image-intake MIME mismatch (QQ/WeChat drag-dropped
+    # images rejected as "Only PNG/JPG/WebP/GIF are supported"). Its topic
+    # 'drag-and-drop' hits the UI list's 'drag-and-drop' keyword before the
+    # development list is reached. Owner-prefixed name token →
+    # Development & Runtime (submitter-requested placement).
+    if 'ackniuw/dsh-image-drag-fix' in name:
+        return 'development-runtime'
+
     # Cross-session inbox / session dashboards → Sessions & Messages
     # (must run before the UI keyword list, whose bare 'ui' token occurs inside
     # owner slugs like Lingrui98 — issue #22, 2026-10-23)

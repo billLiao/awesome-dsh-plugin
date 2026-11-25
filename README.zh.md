@@ -13,7 +13,7 @@
 DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行的 Coding Agent，底层又是一套「一切皆插件」的框架。
 
 
-**34288 个插件**，来自 GitHub 话题 [`dsh-plugin`](https://github.com/topics/dsh-plugin) · 欢迎 [PR](#贡献)
+**34289 个插件**，来自 GitHub 话题 [`dsh-plugin`](https://github.com/topics/dsh-plugin) · 欢迎 [PR](#贡献)
 
 
 ## 分类
@@ -28,7 +28,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 | 🔁 [工作流与自动化](categories/workflow-automation.md) | 5769 | 自动化循环、定时任务、多智能体团队与工作流引擎。 |
 | 🔔 [通知与集成](categories/notifications-integrations.md) | 67 | 微信、Telegram、IM 桥接、桌面通知与外部集成。 |
 | 🔌 [模型与账号接入](categories/models-providers.md) | 155 | 多模型支持、OAuth 登录、LLM 回退策略与提供商桥接。 |
-| 🧑‍💻 [开发与运行时](categories/development-runtime.md) | 92 | 插件管理器、SDK、CLI、桌面壳与开发者工具。 |
+| 🧑‍💻 [开发与运行时](categories/development-runtime.md) | 93 | 插件管理器、SDK、CLI、桌面壳与开发者工具。 |
 | 🔒 [安全与隐私](categories/security-privacy.md) | 22 | 凭证管理、加密、审计与安全工具。 |
 | 🎮 [娱乐](categories/fun.md) | 39 | 游戏、桌宠、娱乐与趣味插件。 |
 | 📋 [精选列表与合集](categories/awesome-lists.md) | 629 | DSH 插件精选列表与合集。 |
@@ -115,7 +115,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) ⭐339 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐71 — Support dsh runtime on Multica.
 
-▶️ [查看全部 92 个插件 →](categories/development-runtime.md)
+▶️ [查看全部 93 个插件 →](categories/development-runtime.md)
 
 
 ### 🔒 安全与隐私

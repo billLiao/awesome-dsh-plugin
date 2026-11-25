@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**153 plugins**
+**155 plugins**
 
 
 ---
@@ -21,6 +21,7 @@
 - [liceses/dsh-memes-reply](https://github.com/liceses/dsh-memes-reply) ⭐6 — DSH 插件：蓝色大肥鱼表情包回复 —— 模型按语境在回复里贴一张会动的大肥鱼，支持设置页预览墙与下一轮指定
 - [534119219/chicheng-stats](https://github.com/534119219/chicheng-stats) ⭐5 — DSH 全局用量统计插件：高度可配置侧边栏组件（文字/卡片）+ 统计面板（模型分布/趋势/首字节/耗时明细）
 - [1624318455/dsh-plugin-adapter](https://github.com/1624318455/dsh-plugin-adapter) ⭐5 — DSH adapter for OpenCode Zen free models (maintained fork with gateway-compat fixes)
+- [JeffTsuiCUG/dsh-connect-minimaxcode](https://github.com/JeffTsuiCUG/dsh-connect-minimaxcode) ⭐5 — Bring MiniMax Code desktop app models into DeepSeek Harness: zero-config, no API key, Anthropic Messages compatible, dynamic model catalog, and the credit balance plus expiring credits shown in the composer and plugin page. Unofficial plugin; relies on MiniMax non-public client APIs, for study and research use only.
 - [hongdougao111/dsh-bagu](https://github.com/hongdougao111/dsh-bagu) ⭐5 — 两道门。发出去的话像八股就打回（聊天/评论/邮件/commit/PR/文档/注释全管）；对方抛梗就接住（内置梗wiki 6792 条，模型开始想之前就查好怎么接）。
 - [detpecca/dsh-llm-wiki](https://github.com/detpecca/dsh-llm-wiki) ⭐4
 - [upJiang/dsh-ccswitch](https://github.com/upJiang/dsh-ccswitch) ⭐4 — dsh 直接连接 ccswith 的所有可用模型，包括密钥以及 auth 登录
@@ -30,7 +31,6 @@
 - [liaoyuqing/dsh-llm-error-retry](https://github.com/liaoyuqing/dsh-llm-error-retry) ⭐3 — 用于在deepseek-harnees中报错时重试大模型请求，支持配置http状态，字段-值命中。
 - [xiaobbl/dsh-opencode-go-model-list](https://github.com/xiaobbl/dsh-opencode-go-model-list) ⭐3 — 修复dsh上opencode go模型列表问题
 - [Leafyezi233/dsh-model-gateway](https://github.com/Leafyezi233/dsh-model-gateway) ⭐3
-- [JeffTsuiCUG/dsh-connect-minimaxcode](https://github.com/JeffTsuiCUG/dsh-connect-minimaxcode) ⭐3 — Bring MiniMax Code desktop app models into DeepSeek Harness: zero-config, no API key, Anthropic Messages compatible, dynamic model catalog, and the credit balance plus expiring credits shown in the composer and plugin page. Unofficial plugin; relies on MiniMax non-public client APIs, for study and research use only.
 - [Ralsei1337/dsh-doubao](https://github.com/Ralsei1337/dsh-doubao) ⭐3 — 把 DSH 的模型输出改造成「豆包语」：超长排比 + 否定清单 + 疗愈诊断 + 复读共情 + 服务化收尾。双通道、三种模式、全部参数可在设置页调。
 - [NLeRWantFly/dsh-HoldThatBigBlueFatFish](https://github.com/NLeRWantFly/dsh-HoldThatBigBlueFatFish) ⭐2 — 约束蓝色大肥鱼过度思考暂时的方案~模型测试opencode go实现
 - [R-LEI2536/dsh-more-agent-presets](https://github.com/R-LEI2536/dsh-more-agent-presets) ⭐2 — More Agent Presets for DSH derived from other coding agents (e.g. qwen code, iflow)
@@ -162,8 +162,10 @@
 - [aiohow/dsh-prompt-wall](https://github.com/aiohow/dsh-prompt-wall) — 1077 image-generation prompt templates with example images, as a DSH plugin: card wall, search, favorites, per-model prompt adaptation. Fully local. 生图提示词选片墙，纯本地。
 - [callaumyan-design/dshx-model-fingerprint](https://github.com/callaumyan-design/dshx-model-fingerprint) — DSH 插件：检验中转站实际提供的是哪个模型
 - [HJ-Create-World/dsh-cineforge](https://github.com/HJ-Create-World/dsh-cineforge) — CineForge 影铸 · AI 视频导演台 — DSH 视频创作增强版插件，让普通模型也有 Opus 级设计感。上游 video-shotcraft。
+- [znlgis/dsh-qwen-image-generate](https://github.com/znlgis/dsh-qwen-image-generate) — dsh-qwen-image-generate
+- [ILVACM/DSH-SetModel-for-ContextCompression](https://github.com/ILVACM/DSH-SetModel-for-ContextCompression) — 专门给DSH用于可视化设置上下文压缩专用模型。保证使用特殊渠道模型服务时，不容易出现异常崩溃。
 
 ---
 
 
-*Generated on 2026-11-25 · 153 plugins in this category*
+*Generated on 2026-11-25 · 155 plugins in this category*

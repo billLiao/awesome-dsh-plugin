@@ -4,12 +4,12 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**93 plugins**
+**92 plugins**
 
 
 ---
 
-- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) ⭐352 — SSH remote workspaces for DeepSeek Harness: parallel projects across hosts, remote file browsing and editing, recursive search, terminals, Git diffs, and workspace-bound Agent tools to edit, build and test remotely. Optional IDE layout.
+- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) ⭐358 — SSH remote workspaces for DeepSeek Harness: parallel projects across hosts, remote file browsing and editing, recursive search, terminals, Git diffs, and workspace-bound Agent tools to edit, build and test remotely. Optional IDE layout.
 - [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) ⭐339 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐71 — Support dsh runtime on Multica.
 - [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐21 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
@@ -45,7 +45,6 @@
 - [yhuan416/dsh-opencode-client](https://github.com/yhuan416/dsh-opencode-client) ⭐1
 - [sxwpskd/dsh-milieu](https://github.com/sxwpskd/dsh-milieu) ⭐1 — dsh-milieu插件开发仓库
 - [Jeremyly/dsh-plugin-offline-sync](https://github.com/Jeremyly/dsh-plugin-offline-sync) ⭐1 — 将本地已有的dsh插件打包，拷贝到其他电脑通过脚本直接安装或更新
-- [gougou1993/dsh-redis-client](https://github.com/gougou1993/dsh-redis-client) ⭐1 — dsh Redis客户端插件；dsh-redis-client
 - [zdjmrq/dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) — DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins
 - [GoGoGoDoge/dsh-plugin-installer](https://github.com/GoGoGoDoge/dsh-plugin-installer)
 - [jiay98528-dev/dsh-plugin-weaknet-adaptor](https://github.com/jiay98528-dev/dsh-plugin-weaknet-adaptor)
@@ -106,4 +105,4 @@
 ---
 
 
-*Generated on 2026-11-25 · 93 plugins in this category*
+*Generated on 2026-11-25 · 92 plugins in this category*

@@ -4,7 +4,7 @@
 > Games, pets, entertainment, and playful plugins.
 
 
-**38 plugins**
+**39 plugins**
 
 
 ---
@@ -47,8 +47,9 @@
 - [feely0208/dsh-industry-pet](https://github.com/feely0208/dsh-industry-pet) — 宠物诊疗/宠物饲料/宠物运输/宠物医疗广告
 - [Camus2001/dsh-pet-see-live](https://github.com/Camus2001/dsh-pet-see-live) — 让dsh-pet能通过dsh-see-now实时看见屏幕
 - [y0n9/dsh-ccgs-studio](https://github.com/y0n9/dsh-ccgs-studio) — Claude Code Game Studios 的DSH移植版本
+- [pykkkkk/EconTone-Studio](https://github.com/pykkkkk/EconTone-Studio) — A DSH game-theoretic workbench for refining economics and management papers.一个基于博弈思想的经管论文精修工作台
 
 ---
 
 
-*Generated on 2026-11-25 · 38 plugins in this category*
+*Generated on 2026-11-25 · 39 plugins in this category*

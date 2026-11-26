@@ -4,12 +4,12 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**93 plugins**
+**94 plugins**
 
 
 ---
 
-- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) ⭐358 — SSH remote workspaces for DeepSeek Harness: parallel projects across hosts, remote file browsing and editing, recursive search, terminals, Git diffs, and workspace-bound Agent tools to edit, build and test remotely. Optional IDE layout.
+- [flymysql/dsh-remote](https://github.com/flymysql/dsh-remote) ⭐361 — SSH remote workspaces for DeepSeek Harness: parallel projects across hosts, remote file browsing and editing, recursive search, terminals, Git diffs, and workspace-bound Agent tools to edit, build and test remotely. Optional IDE layout.
 - [lxj5820/dsh-boot-animation](https://github.com/lxj5820/dsh-boot-animation) ⭐339 — DSH plugin: replaces the kernel boot page with a full-window video clip, then dissolves into the app. 中文说明见 MANUAL.md
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) ⭐71 — Support dsh runtime on Multica.
 - [wzxaaaa/dsh-w-plugin-ecosystem](https://github.com/wzxaaaa/dsh-w-plugin-ecosystem) ⭐21 — 为dsh专属打造的贴近原生的自定义插件生态，支持插件可配置，独立协议，热拔插
@@ -30,6 +30,7 @@
 - [liyuhan7/dsh-phone-mirror](https://github.com/liyuhan7/dsh-phone-mirror) ⭐3 — 把安卓设备与 iPhone 投到 DSH 右侧栏并反控：scrcpy + CoreDevice
 - [omdsh-dev/dsh-sandbox-micro](https://github.com/omdsh-dev/dsh-sandbox-micro) ⭐2
 - [AtWhuhu/dsh-devin-cli](https://github.com/AtWhuhu/dsh-devin-cli) ⭐2 — dsh devin cli插件
+- [yhuan416/dsh-opencode-client](https://github.com/yhuan416/dsh-opencode-client) ⭐2
 - [2128627267/dsh-qbetter-config](https://github.com/2128627267/dsh-qbetter-config) ⭐1
 - [showlibia/dsh-plugin-installer](https://github.com/showlibia/dsh-plugin-installer) ⭐1
 - [q2316367743/dsh-plugin-manager](https://github.com/q2316367743/dsh-plugin-manager) ⭐1 — dsh 插件管理器
@@ -42,7 +43,6 @@
 - [Jydsh/dsh-ding-card](https://github.com/Jydsh/dsh-ding-card) ⭐1 — dsh上基于dsh-im插件开发的插件，主要接入钉钉卡片模板，可设计，可拓展可测试的功能。
 - [alice0721021-web/dsh-local-devkit](https://github.com/alice0721021-web/dsh-local-devkit) ⭐1
 - [dev-HuTao/dsh-plugin-landscape-bg](https://github.com/dev-HuTao/dsh-plugin-landscape-bg) ⭐1
-- [yhuan416/dsh-opencode-client](https://github.com/yhuan416/dsh-opencode-client) ⭐1
 - [sxwpskd/dsh-milieu](https://github.com/sxwpskd/dsh-milieu) ⭐1 — dsh-milieu插件开发仓库
 - [Jeremyly/dsh-plugin-offline-sync](https://github.com/Jeremyly/dsh-plugin-offline-sync) ⭐1 — 将本地已有的dsh插件打包，拷贝到其他电脑通过脚本直接安装或更新
 - [zdjmrq/dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) — DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins
@@ -102,8 +102,9 @@
 - [gongxianjin/agentranch-dsh](https://github.com/gongxianjin/agentranch-dsh) — DSH plugin: bounded DSH control of AgentRanch aw-cli (agentranch-dsh)
 - [voidwrathhh/dsh-tao-prompt](https://github.com/voidwrathhh/dsh-tao-prompt) — DSH prompt library: tag your prompts, insert them at the caret with one click, and let an agent grow the library through a JSON file.
 - [ackniuw/dsh-image-drag-fix](https://github.com/ackniuw/dsh-image-drag-fix) — DSH 拖图被拒的根因与修复：前端按扩展名猜 MIME，宿主按字节校验，QQ 拖拽的图必然撞车。附 asar 手术脚本与避坑记录。
+- [morning-start/dsh-plugin-creator](https://github.com/morning-start/dsh-plugin-creator) — DSH 插件开发增强：只扩展创造模式，覆盖从起模板到发版的全周期
 
 ---
 
 
-*Generated on 2026-11-26 · 93 plugins in this category*
+*Generated on 2026-11-27 · 94 plugins in this category*

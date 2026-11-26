@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**67 plugins**
+**68 plugins**
 
 
 ---
@@ -76,8 +76,9 @@
 - [LeeRolling/dsh-notify-context](https://github.com/LeeRolling/dsh-notify-context)
 - [FanetheDivine/dsh-plugin-lark-bridge](https://github.com/FanetheDivine/dsh-plugin-lark-bridge) — 借助 lark-cli，让 Agent 和你通信
 - [1095314734/dsh-qq-notice](https://github.com/1095314734/dsh-qq-notice) — DSH基于QQ机器人的通知插件
+- [G33s3Fr13s/dsh-weread-free-library](https://github.com/G33s3Fr13s/dsh-weread-free-library) — 微信读书「免费图书馆」每周书币价格排行 — DSH 技能插件（官方接口抓取，含评分，可排序 HTML/CSV/Markdown）
 
 ---
 
 
-*Generated on 2026-11-26 · 67 plugins in this category*
+*Generated on 2026-11-26 · 68 plugins in this category*

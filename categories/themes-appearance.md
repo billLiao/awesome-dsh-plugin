@@ -797,4 +797,5 @@
 ---
 
 
+- [manyuemeiquqi/dsh-gta6](https://github.com/manyuemeiquqi/dsh-gta6) ⭐1 — 基于 GTA VI 官方主视觉的 Vice City 主题：通缉星级接 Agent 运行状态，工具调用行按动作分色，右栏显示会话标题、token、模型与推理档位
 *Generated on 2026-11-26 · 784 plugins in this category*

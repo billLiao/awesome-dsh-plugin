@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**155 plugins**
+**156 plugins**
 
 
 ---
@@ -63,6 +63,7 @@
 - [windxxf/dsh-nvidia-models-panel](https://github.com/windxxf/dsh-nvidia-models-panel) ⭐1 — NVIDIA 模型面板，侧栏面板，用于发现和配置 NVIDIA NIM 模型，带有模型简介
 - [AmazarashiEnduerRain/dsh-unread](https://github.com/AmazarashiEnduerRain/dsh-unread) ⭐1 — A DSH plugin, enabling unread signal of Codex style.
 - [znshmily/dsh-model-value](https://github.com/znshmily/dsh-model-value) ⭐1 — Provide a cost-performance ranking of the models already integrated in DSH.
+- [lsit27/dsh-ad-manage](https://github.com/lsit27/dsh-ad-manage) ⭐1 — DSH 插件：可视化配置 AD/OpenLDAP 域连接，集中管理域用户、计算机、安全组/分发组、组织单元（OU）与组策略（GPO）。
 - [HB00/dsh-llm-failover](https://github.com/HB00/dsh-llm-failover) — dsh-llm-failover
 - [kingsunb/dsh-model-plus](https://github.com/kingsunb/dsh-model-plus)
 - [CanGeng/llm-fallback](https://github.com/CanGeng/llm-fallback) — Multi-level provider fallback for same-named models (dsh plugin)
@@ -168,4 +169,4 @@
 ---
 
 
-*Generated on 2026-11-26 · 155 plugins in this category*
+*Generated on 2026-11-26 · 156 plugins in this category*

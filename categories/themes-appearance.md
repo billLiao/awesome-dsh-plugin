@@ -4,18 +4,18 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**793 plugins**
+**795 plugins**
 
 
 ---
 
 - [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) ⭐4536 — DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
-- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐3152 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
+- [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) ⭐3156 — Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
 - [Yuuyuko-uu/dsh-fish-memory](https://github.com/Yuuyuko-uu/dsh-fish-memory) ⭐551 — 🐋 DSH 鱼的记忆：给会话一份会淡忘的长期记忆，每条都带时间。名字里的「鱼」来自 DeepSeek 的鲸鱼。
 - [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) ⭐386 — DeepSeek Harness 滑动变阻器皮肤
 - [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) ⭐344 — 浏览、搜索、安装并管理 DSH 皮肤
 - [webkubor/dsh-bloom-theme](https://github.com/webkubor/dsh-bloom-theme) ⭐321 — DSH 主题插件：Bloom 莫兰迪中国风配色，OKLCH 调色、明暗双主题、顶栏一键切换，实测达 WCAG AA。 / A DSH theme plugin: Morandi Chinese-style palettes, OKLCH, light/dark, WCAG AA.
-- [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) ⭐175 — 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风。
+- [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) ⭐180 — 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风。
 - [Something11235/dsh-video-skin](https://github.com/Something11235/dsh-video-skin) ⭐104 — DSH 视频皮肤：聊天背景 + 有声开机动画 + 界面内透明度调节
 - [Yuuyuko-uu/dsh-fish-buddy](https://github.com/Yuuyuko-uu/dsh-fish-buddy) ⭐79 — 鱼搭子：桌面小鲸鱼挂件 + DSH 插件（语音送话、陪看字幕、游戏弹幕、截图）
 - [berhbro/dsh-cyrene-theme](https://github.com/berhbro/dsh-cyrene-theme) ⭐61 — Cyrene theme dsh plugin. Contributions are welcome!
@@ -26,8 +26,8 @@
 - [seaison/dsh-plugin-eva-theme](https://github.com/seaison/dsh-plugin-eva-theme) ⭐46 — DSH / DeepSeek Harness EVA 主题插件：明日香暗色、绫波丽亮色，含驾驶员选择、启动语音、时钟与音乐播放器
 - [JAdpp/dsh-whale-galgame](https://github.com/JAdpp/dsh-whale-galgame) ⭐44 — 办公推gal两不误~面向DeepSeek Harness的跨会话事件感知Galgame引擎与界面，支持大肥鱼/GPT/Claude/Grok/Gemini/Kimi多位AI娘角色
 - [0x2fovo/DeepSeek-Balance-Whale-Widget-Bowl](https://github.com/0x2fovo/DeepSeek-Balance-Whale-Widget-Bowl) ⭐41 — DeepSeek Harness（DSH）常驻余额挂件，基于 MeteorNOX/DeepSeek-Balance-Whale-Widget 修改的铁盆鲸鱼娘版。
+- [Darianliu23/dsh-stardew-blind-whale-farmer](https://github.com/Darianliu23/dsh-stardew-blind-whale-farmer) ⭐37 — 大肥鱼种白饭 Blind Whale Farmer: let DeepSeek play Stardew Valley without a vision model (SMAPI mod + MCP + DSH plugin)
 - [luodaoyi/dsh-cabinet-mode](https://github.com/luodaoyi/dsh-cabinet-mode) ⭐36
-- [Darianliu23/dsh-stardew-blind-whale-farmer](https://github.com/Darianliu23/dsh-stardew-blind-whale-farmer) ⭐35 — 大肥鱼种白饭 Blind Whale Farmer: let DeepSeek play Stardew Valley without a vision model (SMAPI mod + MCP + DSH plugin)
 - [blueziii/dsh-mc-agent](https://github.com/blueziii/dsh-mc-agent) ⭐33 — 让 DeepSeek Harness 真的玩 Minecraft：AI 有自己的角色，能探索、挖矿、合成、熔炼、打怪、建造。基于 yzi1b/whale-craft 独立维护。
 - [SenmuuuuW/dsh-whale-report](https://github.com/SenmuuuuW/dsh-whale-report) ⭐31 — 深迹 DeepTrace — Your Agent, in numbers. DSH 插件：从会话事件日志生成日报/周报/月报/年报/自定义区间，确定性洞察与协作复盘，只读、不改写历史。
 - [AssassinVIX/fairy-zzz-plugin](https://github.com/AssassinVIX/fairy-zzz-plugin) ⭐30 — A theme that completely replaces the Web interface of DeepSeek Harness with the H.D.D terminal theme of "Fairy" from the game "Zenless Zone Zero", including the boot animation
@@ -92,6 +92,7 @@
 - [0x2fovo/dsh-ccx](https://github.com/0x2fovo/dsh-ccx) ⭐5 — Rice-dog/code-codex 的 DeepSeek Harness 改版
 - [TABmk/dsh-theme-ascetic](https://github.com/TABmk/dsh-theme-ascetic) ⭐5 — ASCetic — compact ASCII / terminal theme for DeepSeek Harness: 19 palettes, 3 densities, vim-style status line, ascii.rest art
 - [wld007/dsh-medical-anonymizer](https://github.com/wld007/dsh-medical-anonymizer) ⭐5 — DeepSeek Harness 医疗数据批量匿名化插件：规则识别 + 可选本地/内网模型复核，稳定假名替换，输出审计报告。
+- [juliiiiiiiu/my-cozy-dsh](https://github.com/juliiiiiiiu/my-cozy-dsh) ⭐5 — My Cozy DSH: an illustrated theme for DeepSeek Harness
 - [echoVic/dsh-workspace-ide](https://github.com/echoVic/dsh-workspace-ide) ⭐5 — VS Code-like workspace IDE panel for DeepSeek Harness: file tree + syntax-highlighted editor, full-text search, git status/diff/history, VSCode themes
 - [ChisaAlter/dsh-acp-agents](https://github.com/ChisaAlter/dsh-acp-agents) ⭐5 — Independent ACP coding-agent plugin for DeepSeek Harness and WhaleIsle Desktop: agent switching, authentication, and managed delegation.
 - [yushi-xxh/dsh-homepage-skin](https://github.com/yushi-xxh/dsh-homepage-skin) ⭐4 — 给 dsh web 换上 DeepSeek Harness 首页同款背景:深海流体、点线网格、数字鲸鱼,深浅双主题
@@ -104,7 +105,6 @@
 - [km5473/dsh-customizable-theme](https://github.com/km5473/dsh-customizable-theme) ⭐4 — DSH自定义主题：可自行修改背景图片，主题色，表情包与文案。基于[dsh-vesna-theme](https://github.com/Mahiru0427/dsh-vesna-theme)
 - [wuxiaosong10/dsh-lotm-sequence-atlas](https://github.com/wuxiaosong10/dsh-lotm-sequence-atlas) ⭐4 — 诡秘十序列：DSH 桌面主题插件，十套独立场景、静音动态背景与可读内容面板
 - [AbiTssE6/dsh-theme-zzz](https://github.com/AbiTssE6/dsh-theme-zzz) ⭐4
-- [juliiiiiiiu/my-cozy-dsh](https://github.com/juliiiiiiiu/my-cozy-dsh) ⭐4 — My Cozy DSH: an illustrated theme for DeepSeek Harness
 - [Yuanawaqwq/dsh-columbina-pet](https://github.com/Yuanawaqwq/dsh-columbina-pet) ⭐4 — Columbina (Genshin Impact) 2D live desktop pet for DeepSeek Harness — 4 skins, 76 voiced lines in Chinese, Japanese & English, weather briefings, real physics.
 - [z1223473749/dsh-QiuYaTools](https://github.com/z1223473749/dsh-QiuYaTools) ⭐3 — 为 DeepSeek Harness 提供 Git 分支、改动对比与 PR 管理，会话和计划批注、长文本附件、独立窗口、批量归档、提示词建议与 Q 主题，并支持 Mac/Windows 电脑操控和实时预览。
 - [zhxqc/dsh-oh-my-theme](https://github.com/zhxqc/dsh-oh-my-theme) ⭐3 — DeepSeek Harness (dsh) web plugin with themes, global typography, @file mentions, project file tree, and Markdown preview.
@@ -358,7 +358,7 @@
 - [Lin-Liszt/dsh-aemeath-theme](https://github.com/Lin-Liszt/dsh-aemeath-theme) ⭐1 — DeepSeek Harness 的 Aemeath（爱弥斯）主题：像素窗口框、全息卡片、4K 开屏、视频背景。
 - [zuoyunlai/dsh-zhuoer-theme](https://github.com/zuoyunlai/dsh-zhuoer-theme) ⭐1 — 卓尔主题（DSH Zhu'er Theme）：11 套内置配色 + 自定义主题编辑器（取色 / AI 生成 / 风格预设），纯本地 token 注入
 - [wgytcdx/dsh-typing-buddy](https://github.com/wgytcdx/dsh-typing-buddy) ⭐1 — DSH 活动头像：显示会话与工具状态，支持静音视频、外观设置和形象预览
-- [manyuemeiquqi/dsh-gta6](https://github.com/manyuemeiquqi/dsh-gta6) ⭐1 — 给 DeepSeek Harness 的 Vice City 主题：通缉星级跟随 Agent 运行状态，右栏实时显示会话数据，角落有两个人会跟着任务变累。
+- [manyuemeiquqi/dsh-gta6](https://github.com/manyuemeiquqi/dsh-gta6) ⭐1 — 给 DeepSeek Harness 的 GTA6 主题
 - [KevinZhangNothing/dsh-nico](https://github.com/KevinZhangNothing/dsh-nico) — Nico — 按住右 ⌘ 说一句，本地 AI 替我操作电脑。DSH cordis 插件：本地 SenseVoice 识别 → DSH 固定会话 → CosyVoice2 流式播报，可选 Live2D 鲸鱼娘悬浮窗。
 - [Charliewhale/bridge](https://github.com/Charliewhale/bridge) — Bridge: one plugin with two halves — an Obsidian plugin that exposes Obsidian capabilities over loopback HTTP, and a DSH plugin that drives sessions and injects vault notes into the system prompt.
 - [orchivo/dsh-conversation-tree](https://github.com/orchivo/dsh-conversation-tree) — 对话树 / Conversation Tree：把 DSH 的对话列表变成一棵可折叠的树——按「工作区 → 主题 → 对话」归类，拖动整理、状态一眼可见，9 个模型工具让助手替你维护。Turn DSH's flat conversation list into a collapsible workspace → topic tree: drag to file, status at a glance, 9 model tools.
@@ -802,8 +802,10 @@
 - [Glazyon/dsh-shuguang-skin](https://github.com/Glazyon/dsh-shuguang-skin) — 星源主题套装：四套日夜皮肤、开屏动画与三个交互 PET，适用于 DeepSeek Harness。
 - [QIFANAI/dsh-startup-moss](https://github.com/QIFANAI/dsh-startup-moss) — DeepSeek Harness 零点击启动动画「MOSS CORE 550W」：大鲸鱼背景 + Dune 仪表层 + 550W 核心，8.8 秒自动开幕；完整素材开源版（v0.1.2：两段视频随仓库与 Release 发布）
 - [PaoMoXML/dsh-theme-ink](https://github.com/PaoMoXML/dsh-theme-ink) — 原生优先的 DSH 主题：六套调色板、工作区密度、圆角、ASCII 字形与隐藏 logo，全部通过原生主题 token 生效。
+- [karsuness/dsh-whale-ds-token-bank](https://github.com/karsuness/dsh-whale-ds-token-bank)
+- [fuwenbo/dsh-thinking-viz](https://github.com/fuwenbo/dsh-thinking-viz) — Live thinking panel for DeepSeek Harness — real reasoning text, tool activity and 14 animated skins.
 
 ---
 
 
-*Generated on 2026-11-27 · 793 plugins in this category*
+*Generated on 2026-11-28 · 795 plugins in this category*

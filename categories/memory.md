@@ -21,12 +21,12 @@
 - [xuedai-mayi/wenshan](https://github.com/xuedai-mayi/wenshan) ⭐93 — 问山：DeepSeek Harness 地理野外实习知识图谱插件与非官方二次开发项目
 - [LockyBee/dsh-douyin-agent](https://github.com/LockyBee/dsh-douyin-agent) ⭐86 — DSH 原生抖音助手：有限自主观看、共享人格与兴趣记忆、原生设置和观看日报。
 - [btspoony/mstar-harness](https://github.com/btspoony/mstar-harness) ⭐74 — An omni-plugin for harness engineering workflows with multi-agents, programmatic gates and skills.
-- [kadaliao/dsh-bots](https://github.com/kadaliao/dsh-bots) ⭐63 — Bots for DeepSeek Harness: Grok-style bot teams, each bot with its own persona, model, skills and memory, and a dispatcher that hands out the work.
+- [kadaliao/dsh-bots](https://github.com/kadaliao/dsh-bots) ⭐62 — Bots for DeepSeek Harness: Grok-style bot teams, each bot with its own persona, model, skills and memory, and a dispatcher that hands out the work.
 - [HaoyueQin/dsh-better-reasoning-effort](https://github.com/HaoyueQin/dsh-better-reasoning-effort) ⭐61 — Reasoning-effort editing for third-party models in DeepSeek Harness: per-model thinking levels with a knowledge base + protocol inference, edited inside the official Models page card.
 - [Yuuyuko-uu/dsh-xingxi](https://github.com/Yuuyuko-uu/dsh-xingxi) ⭐55 — 星汐：把整理好的记忆档案连成一张看得见的星图
 - [mingzeng21/dsh-obsidian](https://github.com/mingzeng21/dsh-obsidian) ⭐54 — Connect DeepSeek Harness (dsh) to a local Obsidian vault: search, read, write, move, and trash notes.
+- [roost-qq/dsh-roost](https://github.com/roost-qq/dsh-roost) ⭐54 — DSH 插件：让 AI 通过 Roost 住进 QQ —— 官方接口，不用 hook 客户端
 - [lna-lab/distill-kura](https://github.com/lna-lab/distill-kura) ⭐53 — 蒸留蔵 — distilled long-term memory for agents: recall by meaning, writing gated by evidence, one kura per agent mode. Ships as a DeepSeek Harness plugin and an MCP server.
-- [roost-qq/dsh-roost](https://github.com/roost-qq/dsh-roost) ⭐53 — DSH 插件：让 AI 通过 Roost 住进 QQ —— 官方接口，不用 hook 客户端
 - [xiehuan123/dsh-deepread](https://github.com/xiehuan123/dsh-deepread) ⭐50 — Evidence-first reading for AI agents — turn articles, books and PDFs into traceable claims, evidence, source locations and knowledge maps.
 - [LittleBlackTong/dsh-plugin-memory](https://github.com/LittleBlackTong/dsh-plugin-memory) ⭐43
 - [pk14742952-AD/dsh-host-rsi](https://github.com/pk14742952-AD/dsh-host-rsi) ⭐37 — DSH host RSI for local LLMs (currently Qwen3.8 27B): per-use continual self-improvement, counter-reason self-check, critic escalation, and memory retrieval.简单来说根据论文建立的长期反思教训机制，让大模型不再犯错，越用越强！重点是千问3.8 27B/FLASH这种本地LLM模型！当然在线大模型理论上也可以通用！
@@ -211,6 +211,7 @@
 - [howtomakeaname/dsh-memory-service](https://github.com/howtomakeaname/dsh-memory-service) ⭐2 — Long-term memory plugin for DeepSeek Harness.
 - [whyguagua/dsh-qq-bridge](https://github.com/whyguagua/dsh-qq-bridge) ⭐2 — QQ 个人号（NapCat / OneBot11）接入 DeepSeek Harness：私聊/群聊、人格与记忆、生图、面板
 - [DrizzleGig/dsh-novel-kit](https://github.com/DrizzleGig/dsh-novel-kit) ⭐2 — 给长篇与同人写作的工作台：剧情决策、世界契约、长篇记忆、文风四段依据每次动笔前装配好；一章一条链（计划→开章→写→检查→落账，中断可恢复）。同人世界观逐条审阅后应用，草稿切作品不丢，默认关闭不占工具列表。
+- [IMLIULIAN/dsh-zeromem](https://github.com/IMLIULIAN/dsh-zeromem) ⭐2 — ZeroMem (零忆) — Local, evidence-grounded memory system plugin for DeepSeek Harness (node:sqlite + FTS5, Ollama & OpenAI-compatible APIs)
 - [drscrewdriver/dsh-spirit](https://github.com/drscrewdriver/dsh-spirit) ⭐2 — DSH 第一人称体验条目插件（prime-memory 姊妹线）：流程事件编译成角色体验 + 情绪档 + 模型前回忆卡注入。实验线 0.9.x
 - [cwbcheng/dsh-knowledge-graph](https://github.com/cwbcheng/dsh-knowledge-graph) ⭐1 — DSH Cordis plugin: turn any source text into an AI knowledge graph (facts/inferences/concepts/definitions/examples/counter-examples/rules) with two-way linking between the graph and the original text.
 - [madage/dsh-self-improved](https://github.com/madage/dsh-self-improved) ⭐1 — DeepSeek Harness long-term memory & self-evolving plugin: L0 capture -> L1 memory extraction -> L2 scene grouping -> L3 user persona, auto recall injection + skill synthesis, fully local.
@@ -948,7 +949,6 @@
 - [frankfurtlin/dsh-kb](https://github.com/frankfurtlin/dsh-kb) — Knowledge base for DeepSeek Harness: hybrid search, graph, and an LLM-written wiki
 - [qiyaogongfang/dsh-hub-brain](https://github.com/qiyaogongfang/dsh-hub-brain) — 中枢大脑：DSH 知识元 / 技能 / 角色三合一插件
 - [tingfeng-droid/dsh-compaction-vcc](https://github.com/tingfeng-droid/dsh-compaction-vcc) — LLM-free deterministic context compaction for DeepSeek Harness. A drop-in replacement for @deepseek-ai/dsh-compaction-basic that moves original tokens instead of summarizing them; anything cut stays recoverable verbatim through (seq N) pointers and recall.
-- [IMLIULIAN/dsh-zeromem](https://github.com/IMLIULIAN/dsh-zeromem) — ZeroMem (零忆) — Local, evidence-grounded memory system plugin for DeepSeek Harness (node:sqlite + FTS5, Ollama & OpenAI-compatible APIs)
 - [pravets/dsh-ai-wiki](https://github.com/pravets/dsh-ai-wiki) — Read-only BM25 gateway to an ai-wiki-template vault for DeepSeek Harness
 - [Nikolors/dsh-screen-memory](https://github.com/Nikolors/dsh-screen-memory) — DSH / DeepSeek Harness plugin: rolling screen memory - start a short frame buffer, then ask what was on screen a minute ago. Windows.
 - [zirscard/dsh-ocr](https://github.com/zirscard/dsh-ocr) — General-purpose document scanner for DeepSeek Harness (domain-agnostic): one doc_ocr tool turns PDFs/images into structured content — per-page text, table structure with self-consistency checks, and clause/legal/strategy keyword hits — plus doc_preprocess for 7-stage knowledge-base ingestion. RapidOCR PP-OCRv6, fully local, no network, no API fees.

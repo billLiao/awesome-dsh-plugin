@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**68 plugins**
+**69 plugins**
 
 
 ---
@@ -30,6 +30,7 @@
 - [airenburen/dsh-windows-notify](https://github.com/airenburen/dsh-windows-notify) ⭐1
 - [qinvnb/dsh-cursor-integration](https://github.com/qinvnb/dsh-cursor-integration) ⭐1
 - [Zoanthamine/dsh-molecular-viewer](https://github.com/Zoanthamine/dsh-molecular-viewer) ⭐1 — Local molecular 3D viewer for DSH: Gaussian, ORCA, FCHK, trajectories and agent integration
+- [NEVSTOP-LAB/dsh-bridge-tunnel-hub](https://github.com/NEVSTOP-LAB/dsh-bridge-tunnel-hub) ⭐1 — dsh-bridge 公网隧道地址登记：把每台机器的隧道地址汇总到一个 Gist，随时查得到
 - [Num86/dsh-functions](https://github.com/Num86/dsh-functions) — 一级菜单旁添加可供插件接入的“功能”菜单栏，可以快捷添加插件功能，也可以自定义插件功能置入。v0.4.0 现已集成“重启dsh”功能
 - [67-68/dsh-music-alert](https://github.com/67-68/dsh-music-alert)
 - [zbxzbx98/dsh-peak-alert](https://github.com/zbxzbx98/dsh-peak-alert) — DeepSeek 峰谷定价提示插件（DSH Web 客户端插件，纯前端，无后端依赖）
@@ -81,4 +82,4 @@
 ---
 
 
-*Generated on 2026-11-27 · 68 plugins in this category*
+*Generated on 2026-11-27 · 69 plugins in this category*

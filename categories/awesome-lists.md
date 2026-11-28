@@ -4,7 +4,7 @@
 > Curated collections and awesome lists of DSH plugins.
 
 
-**644 plugins**
+**646 plugins**
 
 
 ---
@@ -42,9 +42,9 @@
 - [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills) ⭐43 — An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准。Works with Claude Code, Codex, DSH, VS Code Copilot & any compatible agent.
 - [the-beating-light-of-the-nail/dsh-meme-hub](https://github.com/the-beating-light-of-the-nail/dsh-meme-hub) ⭐43 — 🐋 The meme side of DeepSeek Harness — 贪玩蓝鲸/QQ2006/whale girls/mini-games · A curated tour of the wildest dsh plugins
 - [FTShare-Lab/dsh_kline](https://github.com/FTShare-Lab/dsh_kline) ⭐37 — 面向 DeepSeek Harness 的交互式 K 线分析插件，支持多市场行情、技术指标、支撑压力位、新闻与基本面分析，并在原生侧栏中直接展示。
+- [wingsky-1/dsh-plugin-hub](https://github.com/wingsky-1/dsh-plugin-hub) ⭐33 — DSH (DeepSeek Harness) web GUI plugin collection — task notifications, provider usage, LAN proxy, MCP manager, worktree sidebar, isolated browser verification. Targets dsh release candidates (rc only, no alpha); exact baseline in README. Install: dsh plugin --profile web add @wingsky-1/dsh-plugins-all
 - [cherrchen/dsh-plugin-multi-root-workspace](https://github.com/cherrchen/dsh-plugin-multi-root-workspace) ⭐33 — 多文件夹 workspace：让 DSH（DeepSeek Harness）的 Agent 不只能读写主目录，还能同时读写你添加的其他文件夹。Multi-folder workspace for DeepSeek Harness: let the agent read and write several folders at once, not just the primary one.
 - [world-geniuses/dsh-plugin-shop-accounts](https://github.com/world-geniuses/dsh-plugin-shop-accounts) ⭐33 — DSH 插件：电商店铺账号管理（拼多多 / 淘宝 / 天猫 / 抖音 / 京东 / 1688 商家端）—— 一店一档、登录一次长期复用；按五个经营域定时采集并生成成品工作簿（配套 dsh-plugin-shop-dashboard 数据看板）
-- [wingsky-1/dsh-plugin-hub](https://github.com/wingsky-1/dsh-plugin-hub) ⭐32 — DSH (DeepSeek Harness) web GUI plugin collection — task notifications, provider usage, LAN proxy, MCP manager, worktree sidebar, isolated browser verification. Targets dsh release candidates (rc only, no alpha); exact baseline in README. Install: dsh plugin --profile web add @wingsky-1/dsh-plugins-all
 - [AwesomeHou/dsh-plugin-marketplace](https://github.com/AwesomeHou/dsh-plugin-marketplace) ⭐29 — Plugin marketplace for DeepSeek Harness — live-syncs the GitHub dsh-plugin topic (1800+ repos) into a searchable, paginated settings tab with one-click install and agent tools (market_search / market_install).
 - [Zhenyu98/dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor) ⭐29 — DSH 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突；Web UI 圆环面板 + context_audit 工具。Context Doctor for DeepSeek Harness: audit instruction-chain / skill catalog / tool schemas token cost.
 - [omdsh-dev/dsh-toolkit](https://github.com/omdsh-dev/dsh-toolkit) ⭐29 — DSH 零依赖工具包 collection —— time / encoding / json / calculator / csv / regex / markdown / diff / stat / schema 十个确定性工具，统一入口一键安装
@@ -330,6 +330,7 @@
 - [dsh-suite-store/dsh-suite-store-catalog](https://github.com/dsh-suite-store/dsh-suite-store-catalog) ⭐1 — 收录精选Deepseek Harness 插件整合包。 / Includes the DeepSeek Harness plugin suites.
 - [Gatsby666-jay/dsh-doubaowork-connect](https://github.com/Gatsby666-jay/dsh-doubaowork-connect) ⭐1 — 把本机登录的豆包工作接入 DeepSeek Harness 模型选择器：倍率由上游目录给出，逐模型图片输入开关、账号池自动换号、只读积分胶囊。Doubao Work models for DSH.
 - [0sparrow0/dsh-protect-files](https://github.com/0sparrow0/dsh-protect-files) ⭐1 — 把「生产级配置」挡在 agent 的工具之外：按分组登记不允许被读取、搜索或写入的目录与文件，DeepSeek Harness 会在工具真正执行之前拒绝任何触碰它们的调用。
+- [Fridheim1/Awesome-DSH-Plugins](https://github.com/Fridheim1/Awesome-DSH-Plugins) ⭐1 — 给 DSH（DeepSeek Harness）注入灵魂：V2 人格卡导入导出 · 工作区级提示词与采样参数隔离 · 就地改消息重答 · 会话清理，内置请求回执可逐字段核验参数是否真的下发。
 - [zzh799/dsh-mobile-adaptive](https://github.com/zzh799/dsh-mobile-adaptive) — dsh web 移动端适配插件：侧边栏抽屉 + 设置页单列布局；目录浏览移动端化 + 本地上传到工作区 ./上传/
 - [LeeKai233/dsh-whale-picks](https://github.com/LeeKai233/dsh-whale-picks) — 🐳 鲸选 dsh-whale-picks — 敢装，值得装：有品味的 DeepSeek Harness 插件精品商店（创始人亲测 + 安全体检 + 四维评分）
 - [futongxu9-maker/dsh-path-reveal](https://github.com/futongxu9-maker/dsh-path-reveal) — 点击消息里的 Windows 绝对路径在资源管理器中打开所在文件夹（文件定位选中/目录直接打开），纯插件实现
@@ -653,8 +654,9 @@
 - [LeoHwang74/DeepSeekHarness-delete-chat](https://github.com/LeoHwang74/DeepSeekHarness-delete-chat) — 给 DeepSeek Harness（DSH）加一个真正的「删除会话」动作：整个会话目录移入 Windows 回收站（可配置为 session-trash），列表立即消失、随时可还原。 A DSH plugin that deletes a conversation for real: the whole session folder goes to the Windows Recycle Bin (configurable), restorable at any time.
 - [xingcha-lab/dsh-market-next](https://github.com/xingcha-lab/dsh-market-next) — 每个插件都装过、跑过基本测试、查过没风险，还有精选榜单看大家都在用啥——看完就敢装的 DSH 插件市场。Every plugin is installed, smoke-tested, and scanned clean — plus a curated list showing what everyone else is using. The DSH plugin marketplace you'll dare to install from at first glance.
 - [heiyedehen/dsh-task-panel-local](https://github.com/heiyedehen/dsh-task-panel-local) — 脚本与计划：只看、不乱动的计划任务与脚本面板——列出本机 Windows 计划任务和你指定的目录里的脚本，能手动跑一次、看日志尾巴；不起停、不删除。Scripts & Schedules: a read-only panel for Windows scheduled tasks and your script folders — run one by hand, peek at the log tail.
+- [2676368593/dsh-localkb](https://github.com/2676368593/dsh-localkb) — DSH 本地知识库插件：把任意绝对目录按 Analog/Digital/Test/Other 分类并按文件类型分层，生成 Markdown 标签索引；带侧栏面板与 localkb_* 模型工具。
 
 ---
 
 
-*Generated on 2026-11-28 · 644 plugins in this category*
+*Generated on 2026-11-29 · 646 plugins in this category*

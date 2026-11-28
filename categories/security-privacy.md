@@ -4,7 +4,7 @@
 > Credential management, encryption, audit, and security tooling.
 
 
-**22 plugins**
+**23 plugins**
 
 
 ---
@@ -31,8 +31,9 @@
 - [Lqba-dx/dsh-egress-audit](https://github.com/Lqba-dx/dsh-egress-audit)
 - [Lee2277-t/dsh-repo-audit](https://github.com/Lee2277-t/dsh-repo-audit) — 项目公开前的机器体检：凭据特征、泄漏的本机路径、缺失文档、过大文件，逐条给出文件与行号。
 - [daijiaoshou-ds/dsh-auditor](https://github.com/daijiaoshou-ds/dsh-auditor) — DSH 审计工作台插件：序时账清洗 / 现金流量表编写 / 对方科目分析 / 会计分录测试。A DSH plugin for Chinese accounting: journal cleaning, cash-flow statements, contra-account analysis and entry testing.
+- [anyeduke11/dsh-seckanban](https://github.com/anyeduke11/dsh-seckanban) — 安全从业者资讯看板dsh插件
 
 ---
 
 
-*Generated on 2026-11-28 · 22 plugins in this category*
+*Generated on 2026-11-29 · 23 plugins in this category*

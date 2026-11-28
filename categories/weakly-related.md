@@ -4,12 +4,13 @@
 > Repositories tagged dsh-plugin but with weak relevance signals — may use DeepSeek API or have loose association.
 
 
-**1947 plugins**
+**1954 plugins**
 
 
 ---
 
-- [bigricedumpling/typocket](https://github.com/bigricedumpling/typocket) — A local Markdown editor for you and your agent. Read and edit files in the browser, connect an agent over MCP, and review its changes.
+- [zhiyuanvision-lang/InkMap](https://github.com/zhiyuanvision-lang/InkMap) ⭐5 — Markdown Mindmap · Inkmap (墨图): Turn long, messy AI Markdown into a clear, two-way editable mind map (Markmap alternative), visual Mermaid flowchart & clipboard paste-image (.assets/) workspace for VS Code, Cursor, Desktop, DeepSeek Harness, Claude & Codex — Markdown 双向思维导图 / 脑图 / 流程图 / 剪贴板贴图
+- [bigricedumpling/typocket](https://github.com/bigricedumpling/typocket) ⭐1 — A local Markdown editor for you and your agent. Read and edit files in the browser, connect an agent over MCP, and review its changes.
 - [xiaoge480/coopanion-dsh-qzone-diary](https://github.com/xiaoge480/coopanion-dsh-qzone-diary) ⭐1 — 依赖 Ego 浏览器配合养在Coopanion的加装了“大肥鱼功能复合包”，并注入QQ的大肥鱼发送空间动态日记。
 - [xqe-bkflda/dshgo-dir-share](https://github.com/xqe-bkflda/dshgo-dir-share) ⭐1 — 把工作区目录用 FTP + WebDAV 转发出来，MT 管理器等客户端直接挂载读写，零第三方依赖
 - [wangzhen110/omni-memory](https://github.com/wangzhen110/omni-memory) ⭐1 — 全息记忆：本地优先的 AI 长期记忆。MCP / HTTP / CLI，SQLite，零云端依赖，AGPL-3.0。
@@ -31,12 +32,12 @@
 - [LuminariSoftwares/tool-guardian](https://github.com/LuminariSoftwares/tool-guardian) ⭐2 — Too many MCP servers eating your context? tool-guardian sits in front of all of them and loads each tool’s schema only when needed. A 7-server setup went from 20,005 tokens to 1,084. Any MCP client.
 - [jerryxff26-alt/delivery-board](https://github.com/jerryxff26-alt/delivery-board) ⭐4 — Plan, owners, status & handoffs in one delivery.json next to your code. No SaaS. Diffable in PRs.
 - [luochang212/godview](https://github.com/luochang212/godview) — Give your agents a god's eye view: file leases, claim and release records, and a Gantt of who holds what, so parallel agents stop overwriting each other.
-- [zhoushoujianwork/easyeda-agent](https://github.com/zhoushoujianwork/easyeda-agent) ⭐1250 — 嘉立创 EDA 专业版（EasyEDA Pro）开源 AI 自动化：原理图、PCB 布局布线与工程检查，支持 CLI / Agent Skill / MCP。配套 EdaDesk Desktop 内测版可下载体验。Open-source AI schematic and PCB automation for EasyEDA Pro.
-- [edison7009/EchoBird](https://github.com/edison7009/EchoBird) ⭐3594 — All-in-one AI desktop app: one-click install for Claude Code, Codex CLI, DeepSeek and more, manage AI accounts and quotas, smart model routing with auto-failover, voice input, and run local LLMs. Bonus: a Token Pet that grows as you use AI.
+- [zhoushoujianwork/easyeda-agent](https://github.com/zhoushoujianwork/easyeda-agent) ⭐1259 — 嘉立创 EDA 专业版（EasyEDA Pro）开源 AI 自动化：原理图、PCB 布局布线与工程检查，支持 CLI / Agent Skill / MCP。配套 EdaDesk Desktop 内测版可下载体验。Open-source AI schematic and PCB automation for EasyEDA Pro.
+- [edison7009/EchoBird](https://github.com/edison7009/EchoBird) ⭐3596 — All-in-one AI desktop app: one-click install for Claude Code, Codex CLI, DeepSeek and more, manage AI accounts and quotas, smart model routing with auto-failover, voice input, and run local LLMs. Bonus: a Token Pet that grows as you use AI.
 - [pixelligue/mcpbids-plugins](https://github.com/pixelligue/mcpbids-plugins) — MCP Bids client adapters for researching collected public procurement notices and source documents
 - [Ultmebius/universal-plugin-hub](https://github.com/Ultmebius/universal-plugin-hub) ⭐14 — 在 DSH 中使用 Claude Code、Codex 等软件生态的插件，一站式管理插件、Skills 与 MCP。支持添加 Git 插件源和 marketplace、上传插件和 Skills、添加 MCP 服务器，自动扫描并开关本地 Skills，接入插件提供的子代理、MCP、Hooks 与 LSP。
 - [scotthuang/agent-knock-knock](https://github.com/scotthuang/agent-knock-knock) ⭐7 — Delegate from OpenClaw, Pi or DeepSeek Harness to existing Codex CLI, Codex Desktop and Claude Code sessions. Track progress and results.
-- [EternalNight996/memory-eternal](https://github.com/EternalNight996/memory-eternal) ⭐232 — 🧠 给 AI 一个可信的第二大脑：本地 SQLite · 先审核再入库 · 不可篡改审计 · 记忆账本。🕷 蜘蛛侠皮肤 · 🔍 自建集 R@5 99.1% / LongMemEval-S 97.2% · 🧩 一个库接入 DSH / Claude Code / Codex / Cursor / 任意 MCP · ⭐ MIT 开源 · 🚀 零依赖开箱即用
+- [EternalNight996/memory-eternal](https://github.com/EternalNight996/memory-eternal) ⭐233 — 🧠 给 AI 一个可信的第二大脑：本地 SQLite · 先审核再入库 · 不可篡改审计 · 记忆账本。🕷 蜘蛛侠皮肤 · 🔍 自建集 R@5 99.1% / LongMemEval-S 97.2% · 🧩 一个库接入 DSH / Claude Code / Codex / Cursor / 任意 MCP · ⭐ MIT 开源 · 🚀 零依赖开箱即用
 - [necigit/Coral-Memory](https://github.com/necigit/Coral-Memory) — DEPRECATED — see Coral-Context
 - [jingchangzhao-gif/error-knowledge-base](https://github.com/jingchangzhao-gif/error-knowledge-base) ⭐1 — Error knowledge base for LLM tools: record a failure once, keep the fix, and hand it back before the model re-diagnoses. Windows CLI and daemon, DSH/Codex/Claude connectors, MCP server, PostgreSQL store.
 - [ddtcorex/maestro-reviewer](https://github.com/ddtcorex/maestro-reviewer) ⭐1 — AI merge-request review engine and GitLab CI reviewer: one secrets-holding reviewer project, secret-free bridge jobs, per-project AI providers, Docker image ddtcorex/maestro-reviewer
@@ -50,7 +51,7 @@
 - [chenweigao/perch](https://github.com/chenweigao/perch) ⭐5 — A native macOS workspace for local and remote coding agents. Conversations, tools, approvals and tasks — with Kimi, Codex and more.
 - [Alfred-Lau/OPC-Fellows](https://github.com/Alfred-Lau/OPC-Fellows) ⭐3 — One workbench for a one-person company — every occupation is a member you talk to, and your business data never leaves your machine. Local-first Electron desktop; new capabilities arrive as modules.
 - [diqierjia/StrataGate-AgentMemory](https://github.com/diqierjia/StrataGate-AgentMemory) ⭐124 — Recent memories stay detailed. Older ones grow concise. Important ones live on.近期记忆保持详细，旧记忆逐渐精简，重要记忆长期存在。
-- [xing-shuyin/keel](https://github.com/xing-shuyin/keel) ⭐405 — Just open your browser — get all your work done.
+- [xing-shuyin/keel](https://github.com/xing-shuyin/keel) ⭐406 — Just open your browser — get all your work done.
 - [openma-ai/open-managed-agents](https://github.com/openma-ai/open-managed-agents) ⭐282 — Open Managed Agents — an open-source alternative to Claude Managed Agents and OpenAI Agents API. Deploy with Node.js or Docker, run on Cloudflare, or use hosted OpenMA. Choose your models, harnesses and sandboxes.
 - [GM-HZ/agent-dag-workflow](https://github.com/GM-HZ/agent-dag-workflow) ⭐10 — Host-neutral durable DAG workflows for Agents: CLI-native access, fixed MCP gateway, on-demand Skills, triggers, replay, and visual Canvas.
 - [bainianlaoyao/bash-on-windows](https://github.com/bainianlaoyao/bash-on-windows) ⭐1 — On Windows, the available bash tool is limited to Git Bash and PowerShell is disabled.
@@ -66,7 +67,7 @@
 - [fishzjp/qa-skills](https://github.com/fishzjp/qa-skills) ⭐49 — 让 AI 像资深测试工程师一样工作：面向 AI Agent 的测试工程 Skill 框架——11 Skills + 共享知识库 + 类型决策矩阵（Claude Code / dsh 等 Agent 可用）
 - [mudden2380078550-creator/write-chinese-long-screenplay](https://github.com/mudden2380078550-creator/write-chinese-long-screenplay) ⭐19 — 中文电影与剧集长剧本写作 skill
 - [cchenbin042/yuque-notes-plugin](https://github.com/cchenbin042/yuque-notes-plugin) — 把零散笔记（文本+图片）保存到语雀知识库，由模型自动分类；图片经 GitHub 图床上传（jsdelivr CDN）| Save messy notes (text + images) to a Yuque knowledge base, auto-classified; images hosted via GitHub repo
-- [openBitFun/OpenBitFun](https://github.com/openBitFun/OpenBitFun) ⭐4590 — OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.
+- [openBitFun/OpenBitFun](https://github.com/openBitFun/OpenBitFun) ⭐4619 — OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.
 - [BingChanCN/fabric-theme-studio](https://github.com/BingChanCN/fabric-theme-studio) ⭐1
 - [BingChanCN/fabric](https://github.com/BingChanCN/fabric) ⭐2
 - [morluto/jacobian](https://github.com/morluto/jacobian) ⭐361 — Composable mathematics tools for agents
@@ -83,7 +84,7 @@
 - [Jensen-Yao/agents-skills](https://github.com/Jensen-Yao/agents-skills) ⭐4 — 个人 Agent 技能库（SKILL.md）：140+ 技能，供 DeepSeek Harness / Claude Code 等 agent 使用
 - [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) ⭐567 — Re-debugging Solved Failures? No Way. 1000+ Evidence-graded fix lessons, One MCP Call-->https://misakanet.org
 - [Vladimir-Human/humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru) ⭐118 — Скилл для ИИ-агентов: находит и убирает следы машинной генерации из русского текста, не трогает живое и не дописывает факты. 58 паттернов, 40 regex-маркеров (реестр доказательств 38/40), ось «дельта детектируемости до/после» с FP-контролем, снятие меток C2PA/EXIF/XMP, пакет на PyPI и онлайн-демо. Гейтов 73/69, 193 теста.
-- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) ⭐3943 — The World's First Virtual Terminal for AI Agents
+- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) ⭐3944 — The World's First Virtual Terminal for AI Agents
 - [GrayCodeTeam/graycode-for-dsh](https://github.com/GrayCodeTeam/graycode-for-dsh) ⭐5
 - [HomoLand/dshp-balance-hp](https://github.com/HomoLand/dshp-balance-hp)
 - [GongYuanCaiJi/dsh-claude-skills](https://github.com/GongYuanCaiJi/dsh-claude-skills) — 362 个技能库（移植自 alirezarezvani/claude-skills）
@@ -99,7 +100,7 @@
 - [cerebrixos-org/tuning-engines-cli](https://github.com/cerebrixos-org/tuning-engines-cli) ⭐5 — CLI & MCP server for Tuning Engines — fine-tune LLMs on code repositories
 - [pulseaiclub/phi](https://github.com/pulseaiclub/phi) ⭐1012 — A fast coding agent, rpc plugin, sub-agents, sloppy edits, and mcp
 - [N0zoM1z0/th08](https://github.com/N0zoM1z0/th08) ⭐65 — Source reconstruction of Touhou Eiyashou (TH08) 1.00d
-- [YaoApp/yao](https://github.com/YaoApp/yao) ⭐8351 — ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
+- [YaoApp/yao](https://github.com/YaoApp/yao) ⭐8355 — ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 - [WOOK98/airesearch-plugin](https://github.com/WOOK98/airesearch-plugin)
 - [linhay/harmony-next.skills](https://github.com/linhay/harmony-next.skills) ⭐366 — Offline HarmonyOS NEXT developer skill library for AI coding assistants. Covers API 12–26 declarations, ArkTS/ArkUI, NDK, DevEco Studio, emulator automation, debugging, publishing, and reproducible local tooling.
 - [ZihaoVistonWang/Stata-AI-Skill](https://github.com/ZihaoVistonWang/Stata-AI-Skill) ⭐2 — Stata AI Skill Native Service: Native localhost HTTP service that lets AI agents run Stata without VS Code, Node.js, or Python on the user side.
@@ -120,7 +121,7 @@
 - [wwumit/skills-compliance-intl](https://github.com/wwumit/skills-compliance-intl) — CCPA/GDPR/COPPA/HIPAA 国际隐私合规技能，纯本地运行
 - [Neplich/dsh_plugin](https://github.com/Neplich/dsh_plugin) ⭐2
 - [Anlushu/hkinsure](https://github.com/Anlushu/hkinsure) — 香港保险数据 MCP：260+ 真实产品、17 家保司、分红实现率，行业经验逐条校准。供 Hermes / dsh / Claude Code 等 AI 工具接入。
-- [fwerkor/local-shell-mcp](https://github.com/fwerkor/local-shell-mcp) ⭐114 — Enables LLM to use a cli environment.
+- [fwerkor/local-shell-mcp](https://github.com/fwerkor/local-shell-mcp) ⭐115 — Enables LLM to use a cli environment.
 - [kuailexiaozixin/tkinter-desktop](https://github.com/kuailexiaozixin/tkinter-desktop) — Tkinter/ttk 原生桌面应用全生命周期技能（MVC + pygubu .ui + SQLite + PyInstaller）
 - [kuailexiaozixin/fasthtml-desktop](https://github.com/kuailexiaozixin/fasthtml-desktop) — FastHTML + pywebview 桌面应用全生命周期技能（本地 HTTP + WebView2 + PyInstaller）
 - [mecoren/deepseek-harness-launcher](https://github.com/mecoren/deepseek-harness-launcher) ⭐1
@@ -133,7 +134,7 @@
 - [wwumit/skills-tools](https://github.com/wwumit/skills-tools) — 通用工具技能（Excel/CSV/PPT/健身等）
 - [wwumit/skills-stock](https://github.com/wwumit/skills-stock) — A 股市场分析技能（情绪/选股/回测/资金流）
 - [weishao2/tizhuang-agent-skills](https://github.com/weishao2/tizhuang-agent-skills) ⭐39 — 2000万+中小学K12真题题库 Skill：免费注册、免费抽题、教材/章节/知识点检索、练习测验与AI智能组卷。
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) ⭐42957 — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) ⭐42974 — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [GOU-GEE/deepseek-vision](https://github.com/GOU-GEE/deepseek-vision) ⭐5
 - [lujoai/Lujo-MCP](https://github.com/lujoai/Lujo-MCP) ⭐1 — 基于 MCP 协议的 AI 调试追踪平台，提供会话管理、链路追踪、错误分析与 Dashboard 可视化
 - [laosji/clamicro](https://github.com/laosji/clamicro) ⭐4 — 在手机上审批 Claude Code 、DeepSeek Harness 的操作。局域网直连，零依赖。
@@ -147,7 +148,7 @@
 - [reshuibuduo/tmcra-memory](https://github.com/reshuibuduo/tmcra-memory) ⭐5 — TMCRA Core — local-first, scope-isolated long-term memory runtime for AI agents.
 - [ldgeng/dsh-claudecode-tips](https://github.com/ldgeng/dsh-claudecode-tips) ⭐1 — 将deep diving替换为claudecode式的working tips
 - [omdsh-dev/ex-setting](https://github.com/omdsh-dev/ex-setting) ⭐2 — DSH的设置扩展
-- [superdesigndev/treg](https://github.com/superdesigndev/treg) ⭐9824 — OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- [superdesigndev/treg](https://github.com/superdesigndev/treg) ⭐9851 — OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 - [Leslie-SSS/seeWxapkg](https://github.com/Leslie-SSS/seeWxapkg) ⭐138 — 极简实用的微信小程序反编译 Web 工具
 - [AtlasCloudAI/mcp-server](https://github.com/AtlasCloudAI/mcp-server) ⭐18 — MCP server for Atlas Cloud - AI API aggregation platform for image/video generation and LLM
 - [RangeKing/vibemeter](https://github.com/RangeKing/vibemeter) ⭐4 — See what your agents are doing. Understand how you work together.
@@ -259,7 +260,7 @@
 - [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS) ⭐14018 — One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
 - [chiang21fcb/cn-linebreak](https://github.com/chiang21fcb/cn-linebreak) ⭐1 — 中文网页文案断行审查与修复工具：按《中文网页文案断行修复指南》检查孤字行/词组被拆/缺 keep-all 等问题，并自动插入。
 - [MicroSpotlight/openharness-plugins](https://github.com/MicroSpotlight/openharness-plugins)
-- [agentic-os-org/ANOLISA](https://github.com/agentic-os-org/ANOLISA) ⭐696 — ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost.
+- [agentic-os-org/ANOLISA](https://github.com/agentic-os-org/ANOLISA) ⭐697 — ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost.
 - [huawolf/news-agent](https://github.com/huawolf/news-agent) ⭐20 — AI-powered personal news aggregator with LLM scoring, Web console, and push notifications to Feishu/Discord.
 - [upstash/skills](https://github.com/upstash/skills) ⭐37 — Collection of skills for Upstash
 - [detpecca/LLM-Wiki](https://github.com/detpecca/LLM-Wiki) ⭐3 — Independent implementation of “Retrieval as Reasoning” (LLM-Wiki)
@@ -349,7 +350,7 @@
 - [Yourtsao/Offical-paper-Wrighting--Chinese--skill](https://github.com/Yourtsao/Offical-paper-Wrighting--Chinese--skill) ⭐2 — Gongwen writing Skill by a senior SOE office director (PhD) — 38 document types, GB/T 9704, no fabrication [待补], 10x faster first-draft approval. 公文写作技能包，38类文种。Wanna know how Chinese official writing works? Just try!
 - [BillyChen123/qdd](https://github.com/BillyChen123/qdd) ⭐5
 - [creght-dev/skills](https://github.com/creght-dev/skills) ⭐10 — Codex and agent skills for Cregh.
-- [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) ⭐1170 — Backend for AI Agents — Database, Auth, Functions,Storage,Hosting via Plugin, Skills & MCP.
+- [TencentCloudBase/CloudBase-AI-Toolkit](https://github.com/TencentCloudBase/CloudBase-AI-Toolkit) ⭐1169 — Backend for AI Agents — Database, Auth, Functions,Storage,Hosting via Plugin, Skills & MCP.
 - [kaiwangleo/xiwen](https://github.com/kaiwangleo/xiwen) ⭐1 — 析问：自然语言问数工作台
 - [Xiangbingyu/life-distiller](https://github.com/Xiangbingyu/life-distiller) — 这是一套用来“蒸馏人生”的 Skill 系统。  它会把人生经历整理成一条可回看、可补充、可迭代的本地记忆链，支持访谈构建、记忆重历、角色扮演、蒸馏复盘，以及后续的查看与分享。
 - [CJackHwang/Succinix](https://github.com/CJackHwang/Succinix) ⭐5 — Succinix — browser-native Linux (real Node + Unix userland inside WebContainer)
@@ -462,7 +463,7 @@
 - [ericshang98/Perfect-Web-Clone](https://github.com/ericshang98/Perfect-Web-Clone) ⭐253 — Pixel-perfect clones of any webpage. Paste a URL, get a measured Vite + React replica.
 - [taxueseek/argo](https://github.com/taxueseek/argo) ⭐286 — Multi-engine search and deep research for AI agents across 300+ sources, 18 languages, and MCP / CLI.
 - [Akimiya-z/codex-guard](https://github.com/Akimiya-z/codex-guard) ⭐139 — Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.
-- [yxqfg/phone-lens](https://github.com/yxqfg/phone-lens) ⭐2
+- [yxqfg/phone-lens](https://github.com/yxqfg/phone-lens) ⭐3
 - [IcyCreamDAS/shidi-skill](https://github.com/IcyCreamDAS/shidi-skill) ⭐14 — AI4S 科研 Agent 技能 | AI-for-Science research workflow skill for coding agents: literature review · experiment design · figures · paper reading — files out, cross-verified, zero deps | 文献调研/实验方案/作图/精读，交付文件+交叉验证，零依赖，MIT
 - [fxylabs/superself](https://github.com/fxylabs/superself) ⭐4 — The open Company State Runtime — version control for your project's state. Goals, decisions, work, and evidence outlive every chat, context window, and agent session. Ships the self CLI.
 - [yohanchen1/MathModelingAgent](https://github.com/yohanchen1/MathModelingAgent) ⭐4 — Closed-loop scientific modeling agent with evidence-backed verification and reproducible correction.
@@ -510,7 +511,7 @@
 - [ML-QSeek/SurvX](https://github.com/ML-QSeek/SurvX) ⭐1 — SurvX — A paradigm for building intelligent systems where behavior is driven by data change. It unifies capability units (F), structured entities (Matter), and self-evolving entities (Ego) under one architecture that works with or without AI. A prototype exploring XGI (Xenogenic General Intelligence) and the future of development.
 - [Unclecheng-li/DeepSec](https://github.com/Unclecheng-li/DeepSec) ⭐326 — DeepSec — AI Security Offense & Defense Platform. Shield audits AI-generated code for hallucinated packages, missing safeguards & AI pattern errors in real time. Spear automates authorized penetration testing with 40+ skill packs, from recon to PoC.
 - [Azzygoatcoder/agent-useful-skills](https://github.com/Azzygoatcoder/agent-useful-skills) ⭐9 — 模块化 AI 科研/工程技能 monorepo（DeepSeek Harness / Claude Code 通用）— plugins/ + skills/ + bin 脚本 + LaTeX 模板，验证环驱动
-- [hanelalo/browser-bridge](https://github.com/hanelalo/browser-bridge) ⭐57 — 让你的agent真的像你一样操控你的浏览器窗口
+- [hanelalo/browser-bridge](https://github.com/hanelalo/browser-bridge) ⭐59 — 让你的agent真的像你一样操控你的浏览器窗口
 - [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge) ⭐25 — OMK helps people and agents build, maintain, and reuse valuable knowledge from real work and collaboration, with readable content, traceable sources, and revision history for future tasks.
 - [Asher-Xuv/DeepSeek-Balance-Badge](https://github.com/Asher-Xuv/DeepSeek-Balance-Badge) ⭐1
 - [shendeguize/AgentSideCar](https://github.com/shendeguize/AgentSideCar) ⭐1 — A local-first CLI for observing AI-agent sessions
@@ -561,7 +562,7 @@
 - [Washington5533/guarftrain](https://github.com/Washington5533/guarftrain) ⭐2 — 🛡️ 一行命令，训练脚本零行改动，获得完整守护能力。GPU 监控 · 崩溃恢复 · OOM 自救 · Agent 决策 · MCP 35 工具 · Web Dashboard。
 - [recoluan/recowork](https://github.com/recoluan/recowork) ⭐5 — Give your AI a workflow.
 - [BruceLoveLee000/tokens-as-parameters](https://github.com/BruceLoveLee000/tokens-as-parameters)
-- [platonai/Browser4](https://github.com/platonai/Browser4) ⭐1191 — Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation.
+- [platonai/Browser4](https://github.com/platonai/Browser4) ⭐1190 — Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation.
 - [liangchen-harold/local-dsh](https://github.com/liangchen-harold/local-dsh) ⭐3
 - [ihorleleka/Local-Rag-Wiki](https://github.com/ihorleleka/Local-Rag-Wiki) — A per-repository, Docker-hosted MCP knowledge service that gives coding agents a governed Markdown "wiki" with semantic retrieval. The promise — a local RAG wiki that accumulates durable project knowledge across agentic sessions.
 - [zh851233/docs-mode](https://github.com/zh851233/docs-mode) ⭐4 — You can use this plugin to complete the writing of technical documents, including development briefs, user manuals, reports/summary materials, and interface/API documentation, while reducing traces of AIGC.
@@ -774,7 +775,7 @@
 - [Traveritas/petween-physics](https://github.com/Traveritas/petween-physics) — Throw-physics companion plugin for Petween (drag-fling, wall bounce, ground slide), consuming the petween extension services
 - [yailPeralta/ast-mcp-server](https://github.com/yailPeralta/ast-mcp-server) ⭐7 — Correctness-oriented MCP server and batch CLI for compact structural reads and reviewed TypeScript/JavaScript edits.
 - [morluto/smokinggun](https://github.com/morluto/smokinggun) ⭐22 — Help your agents find the smoking gun they're looking for. Optimization evidence for agents: find complexity hotspots.
-- [morluto/rea](https://github.com/morluto/rea) ⭐481444 — Reverse engineer anything with agents, from app behavior down to native binaries.
+- [morluto/rea](https://github.com/morluto/rea) ⭐481857 — Reverse engineer anything with agents, from app behavior down to native binaries.
 - [saqie803/ponytail](https://github.com/saqie803/ponytail) ⭐2 — Ship production-ready code with one line of AI-generated output, built for 20 agents and zero ceremony.
 - [johnx438-hub/cu-dsh](https://github.com/johnx438-hub/cu-dsh)
 - [lewes2/archpresent](https://github.com/lewes2/archpresent) ⭐1 — Agent skill: generate beautiful dark-themed architecture diagrams from your project/demo/idea. Interactive, verifiable, and editable. Delivered as self-contained HTML.
@@ -925,7 +926,7 @@
 - [Cyning12/SpecWave](https://github.com/Cyning12/SpecWave) ⭐6 — SpecWave — multi-host coding CLI + P0 gates/Harness (Cursor/Claude/DSH). Formerly SpecGate / dsh-coding-kit. npx spec-wave
 - [agentrq/agentrq](https://github.com/agentrq/agentrq) ⭐1198 — AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.
 - [cosyncing/cosyncing](https://github.com/cosyncing/cosyncing) ⭐65 — Synchronize and Orchestrate agents from CLI to GUI, across desktop to phone.
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) ⭐25041 — NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people make the decisions.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) ⭐25042 — NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people make the decisions.
 - [Co-Engram/Co-Engram](https://github.com/Co-Engram/Co-Engram) ⭐12 — Self-evolving team memory
 - [iwinoid/fakeip-compat](https://github.com/iwinoid/fakeip-compat) — Fake-IP-aware web.fetch provider for TUN (Mihomo/Clash) DNS environments plus pinned LAN CIDR access
 - [tinqiao-oss/clawtouch-mcp](https://github.com/tinqiao-oss/clawtouch-mcp) ⭐16 — ClawTouch MCP server — exposes a real USB-HID keyboard/mouse (Raspberry Pi Pico 2) as Model Context Protocol tools for any LLM agent. MIT.
@@ -1038,7 +1039,7 @@
 - [ManoloRemiddi/augmentor-dsh-extension-plugin](https://github.com/ManoloRemiddi/augmentor-dsh-extension-plugin) ⭐29 — Archived standalone Browser and historical releases. Active Desktop + Browser project: ManoloRemiddi/augmentor-agent.
 - [yixiuzhemu/Skills-Manager](https://github.com/yixiuzhemu/Skills-Manager) — Skills管理
 - [NanamiKite/Coyote-x-dsh](https://github.com/NanamiKite/Coyote-x-dsh) — AI 接入的体感文字冒险 MCP 插件。 AI 主持场景包驱动的角色扮演剧情，用实时文字状态推进故事， 并通过郊狼 Coyote V2/V3 外置反馈设备执行有界物理反馈增强沉浸感。
-- [dream-num/univer-workspace](https://github.com/dream-num/univer-workspace) ⭐2230 — Manage the Office content your agents create. An open-source, self-hosted workspace where people and AI agents edit, collaborate, and review changes. Built with Univer Office SDK.
+- [dream-num/univer-workspace](https://github.com/dream-num/univer-workspace) ⭐2220 — Manage the Office content your agents create. An open-source, self-hosted workspace where people and AI agents edit, collaborate, and review changes. Built with Univer Office SDK.
 - [Miaotofu01/Study-Mate](https://github.com/Miaotofu01/Study-Mate) ⭐1550 — 你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目
 - [changliang-c/zemingxingxiao-brand-diagnosis](https://github.com/changliang-c/zemingxingxiao-brand-diagnosis) — 择命行效·五行商业诊断：品牌体检 + AI 投入算账（检验企业 AI 投入是否成功、沉淀了什么、何时该停）。Zemingxingxiao: evidence-based brand diagnosis & AI investment ROI audit. Bilingual HTML reports. MIT.
 - [funcpn/volens](https://github.com/funcpn/volens) ⭐1 — Keeps a project's design doc in step with its decisions instead of letting it drift: an append-only decision log, a design snapshot derived from it, and a hook that refreshes it automatically. ADR-style docs that stay fresh. Ships as a plugin for Claude Code, Codex and DeepSeek Harness.
@@ -1083,7 +1084,7 @@
 - [YIYuNCU/DSHTrueDelete](https://github.com/YIYuNCU/DSHTrueDelete)
 - [Yuer6327/ModelTester](https://github.com/Yuer6327/ModelTester) ⭐1 — 模型测试器 ModelTester（前身 NoLetMe）
 - [w384/clinkai-dsh-web-search-searxng](https://github.com/w384/clinkai-dsh-web-search-searxng) ⭐1
-- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) ⭐2114 — A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus common attempts to access sensitive files, before a tool call runs. Supports Amp Code, Antigravity CLI, Claude Code, Codex, Cursor, DeepSeek Harness, Devin CLI, GitHub Copilot CLI, Grok Build, Hermes Agent, Kimi Code, OpenClaw, OpenCode, and Pi.
+- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) ⭐2115 — A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus common attempts to access sensitive files, before a tool call runs. Supports Amp Code, Antigravity CLI, Claude Code, Codex, Cursor, DeepSeek Harness, Devin CLI, GitHub Copilot CLI, Grok Build, Hermes Agent, Kimi Code, OpenClaw, OpenCode, and Pi.
 - [sgzeng/pbfuzz](https://github.com/sgzeng/pbfuzz) ⭐18 — Agentic Directed Fuzzing for PoV Generation
 - [breakstring/cfKanban](https://github.com/breakstring/cfKanban) ⭐28 — Agent-first Kanban system base on Cloudflare.
 - [Sculptor815/scrna-seq-workbench](https://github.com/Sculptor815/scrna-seq-workbench) ⭐1 — One plugin, six agent skills for guided single-cell RNA-seq analysis in Codex, Claude Code, and DeepSeek Harness. And one benchmark for evaluating agent performance on scRNA-seq data analysis .
@@ -1303,7 +1304,7 @@
 - [Stefano6929/argo](https://github.com/Stefano6929/argo) — 专门为 agent 打造的开源 agent 搜索工具，具备 200+的搜索源及多语言搜索能力，覆盖中文/英文/学术/代码/购物/金融/新闻/百科。
 - [Keith9122/argo](https://github.com/Keith9122/argo) — 专门为 agent 打造的开源 agent 搜索工具，具备 200+的搜索源及多语言搜索能力，覆盖中文/英文/学术/代码/购物/金融/新闻/百科。
 - [Schaefer2197/flameox](https://github.com/Schaefer2197/flameox) — Runtime evidence that helps agents trace, profile, and burn down hotspots in application and native code, GPU kernels, and inference stacks.
-- [ECNU/EduWork](https://github.com/ECNU/EduWork) ⭐424
+- [ECNU/EduWork](https://github.com/ECNU/EduWork) ⭐430
 - [partme-ai/full-aigc-plugins](https://github.com/partme-ai/full-aigc-plugins) ⭐1 — 面向 Codex、ZCode 与 Kimi Code 的 AIGC 插件市场，覆盖图像、视频、音频、音乐、3D 与多模态创作，让灵感一路走到交付。
 - [full-aigc-plugins/vectorcraft-plugin](https://github.com/full-aigc-plugins/vectorcraft-plugin) ⭐1 — Turn a brand brief into editable vector projects: logos, icons, infographics, charts.
 - [full-aigc-plugins/pdfcraft-plugin](https://github.com/full-aigc-plugins/pdfcraft-plugin) — Inspect, edit, and OCR PDFs with pinned native tooling and review gates.
@@ -1388,7 +1389,7 @@
 - [kdcadmin/jev-decision-kit](https://github.com/kdcadmin/jev-decision-kit) ⭐4 — 一个只负责技能，MCP，skill，插件筛选的jev模型，也能管理技能，MCP，skill和插件
 - [eloimovo/better-dsh-codex-effort-slider](https://github.com/eloimovo/better-dsh-codex-effort-slider)
 - [zsenpro/creating](https://github.com/zsenpro/creating)
-- [iflytek/skillhub](https://github.com/iflytek/skillhub) ⭐5505 — Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.
+- [iflytek/skillhub](https://github.com/iflytek/skillhub) ⭐5504 — Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.
 - [SunYanbox/DSHToolGate](https://github.com/SunYanbox/DSHToolGate)
 - [zwh9820-rgb/creator-canvas](https://github.com/zwh9820-rgb/creator-canvas) — Public
 - [MarOrZou/qwen-video-skill](https://github.com/MarOrZou/qwen-video-skill) ⭐1 — Enabling models without video understanding capabilities to gain video comprehension
@@ -1416,7 +1417,7 @@
 - [zhuzhaoyun/Molio](https://github.com/zhuzhaoyun/Molio) ⭐451 — A local-first personal knowledge layer for AI agents. Build evolving knowledge spaces with LLM Wiki, knowledge graphs, and agent workflows.
 - [Yixianqzm/deepseek-plastic-memory](https://github.com/Yixianqzm/deepseek-plastic-memory) ⭐1 — 给 AI 用的长期记忆：分文件夹存，久了会自己淡忘
 - [vicTop-cw/FIST-Mbt](https://github.com/vicTop-cw/FIST-Mbt) ⭐1
-- [Windsander/Mebular](https://github.com/Windsander/Mebular) ⭐353 — 🌌 Mebular 忆云 · 智能体共享记忆与任务协作 | One shared memory and task graph for all your AI agents and devices: automatic or on-demand, secure, controllable, and decentralized!
+- [Windsander/Mebular](https://github.com/Windsander/Mebular) ⭐359 — 🌌 Mebular 忆云 · 智能体共享记忆与任务协作 | One shared memory and task graph for all your AI agents and devices: automatic or on-demand, secure, controllable, and decentralized!
 - [hackmagic/AI-To-Sheet-Music](https://github.com/hackmagic/AI-To-Sheet-Music) — 用 AI 把一个音乐文件变成可以直接照着自弹自唱的网页吉他谱
 - [zy12342/usage-widget](https://github.com/zy12342/usage-widget)
 - [regrevia/Envoy](https://github.com/regrevia/Envoy) ⭐285 — 蒸馏一切链接：长视频、长 PDF、网页 → 带来源定位的材料，Wiki 和知识库交给你的 AI 组装。别刷干货视频，让 AI 替你刷。 / Distill any link into located material; your AI writes the wiki.
@@ -1462,7 +1463,7 @@
 - [cloudoyx/any-audio](https://github.com/cloudoyx/any-audio) ⭐65 — Agent-led audio production toolkit: sampled instruments, timeline-based arranging, sound effects, TTS, multitrack mixing, and video muxing.
 - [BeatAPI/beatapi-agent-plugin](https://github.com/BeatAPI/beatapi-agent-plugin) — Cross-host Agent plugin for BeatAPI, the Agent Router for Everything across Model, Data, Tool, and Workspace.
 - [876086405Git/DSH](https://github.com/876086405Git/DSH) ⭐1 — 插件共享仓
-- [dustinliang666-blip/lava-mcp](https://github.com/dustinliang666-blip/lava-mcp) ⭐65 — 熔岩 Lava：A 股股票与概念板块的消息面热度监测（结构化只读 MCP/REST，支持量化交易工具与 AI Agent 股市研究接入）
+- [dustinliang666-blip/lava-mcp](https://github.com/dustinliang666-blip/lava-mcp) ⭐68 — 熔岩 Lava：A 股股票与概念板块的消息面热度监测（结构化只读 MCP/REST，支持量化交易工具与 AI Agent 股市研究接入）
 - [elither-gpt/pixiv-skill](https://github.com/elither-gpt/pixiv-skill) ⭐1 — 给 AI 助手用的 Pixiv 技能：搜索、排行、详情，下载插画、漫画、动图和小说（多页转 PDF、动图转 GIF、小说系列合并）。兼容 Claude Code、Codex、OpenClaw、Hermes、DeepSeek Harness。
 - [yangdw2024/gaussian-dsh-plugin](https://github.com/yangdw2024/gaussian-dsh-plugin) ⭐1
 - [Thanksgiver233/PromptReel](https://github.com/Thanksgiver233/PromptReel) ⭐1 — PromptReel 是一个视频提示词中枢，解决跨平台反复查找、改写模板的问题。同一个创意，可灵要写成五段式，海螺要先给 `[Push in]` 括号运镜，MiniMax H3 要拆成 `[Shot N]` 加音景与配乐，Sora 则要转成英文并声明音频。PromptReel 把这些差异沉淀成 15 套模板：填一次创意、主体、动作与场景，就能得到按所选平台结构重排的整体提示词，以及景别递进、运镜不重复的分镜脚本。除网页外还提供命令行与 MCP 服务，并支持自定义模板。
@@ -1609,7 +1610,7 @@
 - [shiein/deepseek-harness-plugins](https://github.com/shiein/deepseek-harness-plugins)
 - [borui1757-cmd/claim-verify-wsc](https://github.com/borui1757-cmd/claim-verify-wsc) — Verify what AI agents claim they did — against real OS state, with signed receipts
 - [uhygyuf/quantitativeTrading-source-reliable](https://github.com/uhygyuf/quantitativeTrading-source-reliable) — Verified, agent-collectable sources for quantitative finance and crypto trading: regulator filings, PIT fundamentals, macro, exchange APIs, on-chain data and archives, each with authority tier and freshness probes. · 量化金融与加密交易信源注册表：监管原始文件、PIT 基本面、宏观、交易所 API、链上数据与归档，带权威分级与时效探测。
-- [dataelement/bisheng](https://github.com/dataelement/bisheng) ⭐12451 — BISHENG is an open-source enterprise Agent platform for building, deploying, and managing AI applications. It combines AI agents, workflows, RAG and knowledge management, desktop agent integration, and vibecoding app hosting with unified model management, evaluation, observability, access control, and enterprise administration.
+- [dataelement/bisheng](https://github.com/dataelement/bisheng) ⭐12455 — BISHENG is an open-source enterprise Agent platform for building, deploying, and managing AI applications. It combines AI agents, workflows, RAG and knowledge management, desktop agent integration, and vibecoding app hosting with unified model management, evaluation, observability, access control, and enterprise administration.
 - [Wanderer2814/gzh-huashuo-skill](https://github.com/Wanderer2814/gzh-huashuo-skill) — For the design on the gzh "Hua Shuo International Economic Law"
 - [back4app/back4app-plugin](https://github.com/back4app/back4app-plugin) — Back4app plugin for AI agents: deploy anything that runs in a container and get a live HTTPS address. No account needed to start.
 - [show-thesky/every-thing-is-possible](https://github.com/show-thesky/every-thing-is-possible) ⭐1 — 这是一个学习仓库
@@ -1639,13 +1640,13 @@
 - [Edsenpai/page-between](https://github.com/Edsenpai/page-between)
 - [wujiaxiao69-arch/manju-fenjing-check](https://github.com/wujiaxiao69-arch/manju-fenjing-check) — Storyboard quality linter for AI short-form drama: face drift, timing collapse, freeze-frame breaks, sensitive terms — graded report.
 - [wet86y/voice-terminal](https://github.com/wet86y/voice-terminal) ⭐7 — Windows 上的个人语音 Agent：低延迟语音交互、易配置、低占用。
-- [CarryChang/dsh-task2docker-studio](https://github.com/CarryChang/dsh-task2docker-studio) — 把本机跑不动/不敢跑的任务下发到你自己的 SSH 服务器执行：Docker 容器隔离运行 + scp 文件传输 + 状态/日志跟随监控，厂家中立，附带可装进 Claude Code/Cursor/Copilot 的通用 Agent Skill。
+- [CarryChang/dsh-task2docker-studio](https://github.com/CarryChang/dsh-task2docker-studio) ⭐1 — 把本机跑不动/不敢跑的任务下发到你自己的 SSH 服务器执行：Docker 容器隔离运行 + scp 文件传输 + 状态/日志跟随监控，厂家中立，附带可装进 Claude Code/Cursor/Copilot 的通用 Agent Skill。
 - [Luca-42/saber-dsh-plugin](https://github.com/Luca-42/saber-dsh-plugin)
 - [Gaffsailstenopterygiusquadrisicissus463/plugin-hub](https://github.com/Gaffsailstenopterygiusquadrisicissus463/plugin-hub) — Orchestrate out-of-process Rust plugins via contract center, registry, event bus, MCP tools, and a web console.
 - [2856964164-lab/deepseek](https://github.com/2856964164-lab/deepseek) — 开机动画
 - [Qiuses/neatfeed](https://github.com/Qiuses/neatfeed) — A local library for creators: crawl the sites you follow, then search and export your own archive. (WIP)
 - [zo0043/aby](https://github.com/zo0043/aby) — A-share (510300) multi-agent game sandbox: 30 psychology-driven agents, 5-min replay, news/sentiment branches, probabilistic forecasts scored against real outcomes. Local research tool — not investment advice.
-- [tw93/Mole](https://github.com/tw93/Mole) ⭐76471 — 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
+- [tw93/Mole](https://github.com/tw93/Mole) ⭐76500 — 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
 - [bw496915-cmyk/Sports-desk-ops](https://github.com/bw496915-cmyk/Sports-desk-ops) ⭐2
 - [Scodive/Paper-Agent-Skills](https://github.com/Scodive/Paper-Agent-Skills) ⭐20 — A comprehensive library of AI agent skills for academic research and writing, designed to be used by autonomous agents to generate high-quality research outputs.
 - [a2092776074-collab/-](https://github.com/a2092776074-collab/-) — 插件
@@ -1685,7 +1686,7 @@
 - [lilinshuei/pc-privacy-shield](https://github.com/lilinshuei/pc-privacy-shield) ⭐1 — 截屏、录屏、远控时让敏感窗口自动变黑，本机照常使用｜Windows 一键隐私防护，零遮挡、零删除。
 - [lilinshuei/novel-atlas](https://github.com/lilinshuei/novel-atlas) ⭐1 — 把一本小说变成能读、能点、能探索的离线世界｜阅读器、世界地图、人物关系、成长曲线，一条命令出成品。
 - [geml-spec/gemworks](https://github.com/geml-spec/gemworks) — GEML workflows for coding agents: a Claude Code plugin (a band above the prompt, a board), DeepSeek Harness and Pi adapters, an MCP server and a CLI.
-- [keli-wen/agy-staff](https://github.com/keli-wen/agy-staff) ⭐900 — Hire Google's Antigravity CLI (agy) as a fast Gemini staffer for Claude Code, OpenAI Codex, and DeepSeek Harness.
+- [keli-wen/agy-staff](https://github.com/keli-wen/agy-staff) ⭐940 — Hire Google's Antigravity CLI (agy) as a fast Gemini staffer for Claude Code, OpenAI Codex, and DeepSeek Harness.
 - [zsw1363574747/hk-jobmatch-ai](https://github.com/zsw1363574747/hk-jobmatch-ai) — 香港求职匹配台 · Local-first Hong Kong job-match workbench: scrape JobsDB, score every posting against your CV, and explain the salary and skills the market actually asks for. Zero-dependency Node app, runs on 127.0.0.1 only.
 - [Ethereal-Space-one/code2kb-agent-toolkit](https://github.com/Ethereal-Space-one/code2kb-agent-toolkit) ⭐85 — 面向 AI 编码助手的源码知识生产工具包：提取业务规则，生成可追溯的机器人问答知识 | An agent toolkit for evidence-backed knowledge from source code.
 - [chenzhenhong/English-Reader](https://github.com/chenzhenhong/English-Reader) ⭐1 — AI English reading studio: discover or import articles, get evidence-backed sentence-level analysis, and grow a personal knowledge base.
@@ -1702,7 +1703,7 @@
 - [shaobrad639-cpu/jiwei](https://github.com/shaobrad639-cpu/jiwei) ⭐2 — 一个微信窗口装下所有琐碎：文章收藏、日程、灵感想法、报销记账。 发进来自动分好类，每早给你一份提要，周日发送周报。积微成著。
 - [JiamingShi-JsPhys/chelate-shell](https://github.com/JiamingShi-JsPhys/chelate-shell) ⭐11 — Orchestrating local agent skills into deterministic workflows. Built by @JiamingShi-JsPhys, Chelate Shell enforces a 4-layer routing architecture for research and engineering.
 - [grh-cb/excel2ppt-studio](https://github.com/grh-cb/excel2ppt-studio) — Excel2PPT Studio 插件与市场索引
-- [nexu-io/openmotion](https://github.com/nexu-io/openmotion) ⭐17021 — The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.
+- [nexu-io/openmotion](https://github.com/nexu-io/openmotion) ⭐17128 — The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.
 - [HudsonHuang/agent-ear](https://github.com/HudsonHuang/agent-ear) — Offline ear for text-only agents: compile audio/video into one timestamped audio-score — 40ms event boundaries, word-level transcript, BPM/downbeats, and how far off a cut point is.
 - [good-saltfish/novel-deconstruct](https://github.com/good-saltfish/novel-deconstruct) ⭐1 — 本地优先的中文网文拆书 CLI：小说文本 → 章节切分 → 结构化拆书产物（Markdown+JSONL），证据可追溯，模型可插拔 | Local-first Chinese web-novel deconstruction CLI
 - [AMeYunCloud/renpy-toolkit](https://github.com/AMeYunCloud/renpy-toolkit) — Ren'Py translation and localization toolkit: generate, port, validate and back up translation files.
@@ -1722,7 +1723,7 @@
 - [MykytaStel/ua-tts-text](https://github.com/MykytaStel/ua-tts-text) ⭐1 — Український текст до озвучки: числа, дати, наголоси під конкретний TTS-рушій
 - [z324169276/hubei-exam-skills](https://github.com/z324169276/hubei-exam-skills) — 湖北技能高考计算机类 Agent Skills：按考纲出题、整卷组卷、判分与错因分析
 - [choukin/sh-plugin-git-graph](https://github.com/choukin/sh-plugin-git-graph) — dhs git graph
-- [oscarka/pocketagents](https://github.com/oscarka/pocketagents) ⭐3 — PocketAgents — Control Claude Code, OpenAI Codex, Antigravity IDE, DeepSeek Harness & WorkBuddy from your phone. Self-hosted, swipe approvals, voice input & 5s terminal QR.
+- [oscarka/pocketagents](https://github.com/oscarka/pocketagents) ⭐6 — PocketAgents — Control Claude Code, OpenAI Codex, Antigravity IDE, DeepSeek Harness & WorkBuddy from your phone. Self-hosted, swipe approvals, voice input & 5s terminal QR.
 - [automagik-si/arca](https://github.com/automagik-si/arca) ⭐3 — Be your own cloud. Self-hosted infrastructure for AI agents on machines you own, with MCP and passkey approval.
 - [zxrobin01/vmware-console-mcp](https://github.com/zxrobin01/vmware-console-mcp) — mcp tool to help agents control vmware virtual machines. support local vmware player virtrual machines and esxi servers.
 - [automagik-si/omni](https://github.com/automagik-si/omni) ⭐70 — Universal event-driven omnichannel platform for AI agents to communicate across any messaging platform
@@ -1824,17 +1825,17 @@
 - [jiahuayu/sticky-wall](https://github.com/jiahuayu/sticky-wall) — dsh便签
 - [xuanqing-95/pipeline-xhs-harness-downloads](https://github.com/xuanqing-95/pipeline-xhs-harness-downloads) — Pipeline｜小红书内容生成：把选题或草稿生成笔记与配图，预览后复制下载。原创、仿写、品牌管理。
 - [songrui111/paper-review-revision](https://github.com/songrui111/paper-review-revision) ⭐1 — Codex skill for academic review, mathematical verification, English editing, and final manuscript checks
-- [openanysi/openany-mcp](https://github.com/openanysi/openany-mcp) ⭐2 — The B2A (business to agent) marketplace. One MCP endpoint for 4,400+ APIs across social, SEO/search, crypto, company/leads, finance and legal, plus 168+ AI models for chat, reasoning, image, video and audio, including GPT, Claude, Gemini, DeepSeek, Qwen, Midjourney, Veo and Kling. Browse free; pay per call.
+- [openanysi/openany-mcp](https://github.com/openanysi/openany-mcp) ⭐3 — The B2A (business to agent) marketplace. One MCP endpoint for 4,400+ APIs across social, SEO/search, crypto, company/leads, finance and legal, plus 168+ AI models for chat, reasoning, image, video and audio, including GPT, Claude, Gemini, DeepSeek, Qwen, Midjourney, Veo and Kling. Browse free; pay per call.
 - [Hieupt1904/project-flow-explainer](https://github.com/Hieupt1904/project-flow-explainer) ⭐1 — Skill agent: đọc repository mã nguồn và dựng sơ đồ quy trình HTML tương tác, mở offline, có căn cứ file/dòng | Read a codebase, trace a flow, render a self-contained interactive HTML workflow diagram
 - [nomadop/session-watcher](https://github.com/nomadop/session-watcher) ⭐8 — Context is inventory. Know when to restock.
-- [edsml-jz2321/QuoteMem](https://github.com/edsml-jz2321/QuoteMem) ⭐7 — Long-term memory for AI agents that keeps the exact words behind every memory. Updates keep the old version, and a forget request is carried out and stays forgotten. One local service shared by Claude Code, Codex CLI, Cursor, OpenCode, Gemini CLI, Cline, goose, OpenClaw, DSH and any MCP client. MIT.
+- [edsml-jz2321/QuoteMem](https://github.com/edsml-jz2321/QuoteMem) ⭐8 — Long-term memory for AI agents that keeps the exact words behind every memory. Updates keep the old version, and a forget request is carried out and stays forgotten. One local service shared by Claude Code, Codex CLI, Cursor, OpenCode, Gemini CLI, Cline, goose, OpenClaw, DSH and any MCP client. MIT.
 - [callaumyan-design/dshx-subagent-model-sync](https://github.com/callaumyan-design/dshx-subagent-model-sync) — Sync the official subagent model-selection allowlist from selected LLM providers' live catalogs. Pick providers (e.g. openai); every registered model under them joins the allowlist for NEW sessions. Manual entries are preserved; only plugin-managed entries are ever withdrawn.
 - [Lynn-Sunset/dsh-forward-to-claude](https://github.com/Lynn-Sunset/dsh-forward-to-claude)
 - [MUKAPP/Retenixa](https://github.com/MUKAPP/Retenixa) — 基于本地 SQLite 的 MCP 项目记忆服务，面向多客户端与多 Git worktree 提供可靠的任务接续、版本化知识检索与并发写入协调。
 - [mahaoboy/memalyze](https://github.com/mahaoboy/memalyze) — Self-hosted MCP memory for AI agents: redaction before write, append-only audit, local embeddings, one static binary.
 - [ftrans-cn/ft-ftp-mcp-stdio](https://github.com/ftrans-cn/ft-ftp-mcp-stdio) ⭐2
 - [m-f-vip/ugi-font](https://github.com/m-f-vip/ugi-font) — 中文标题字 text-mask 批量出图：智能 tag 选字体，32 位 RGBA 白字透明底 PNG，按「国」字光学校正，自动裁边后四周精确补 3px。Chinese title text mask batch drawing: intelligent tag font selection, 32-bit RGBA white text transparent background PNG, press the "country" character to highlight the school, automatically trim the edges and accurately fill in 3px around the edges.
-- [ai-timon/timon](https://github.com/ai-timon/timon) ⭐796 — Timon is an Agentic Workstation who let you orchestrates all your AI agents in the same place
+- [ai-timon/timon](https://github.com/ai-timon/timon) ⭐803 — Timon is an Agentic Workstation who let you orchestrates all your AI agents in the same place
 - [RTyp20/deepseekharness_s-plugin](https://github.com/RTyp20/deepseekharness_s-plugin) — plugin building
 - [Lhy220402/traceless](https://github.com/Lhy220402/traceless) ⭐1 — Forget how it thought. Keep what it said.
 - [fangqiuci/feiyu-brain](https://github.com/fangqiuci/feiyu-brain) — 大肥鱼的大脑内核：人设是根，情绪/记忆/意识流/归因都从人设长出来。平台无关，手机/平板/电脑三具身体。
@@ -1861,7 +1862,7 @@
 - [wednesday-solutions/chime-scheduler](https://github.com/wednesday-solutions/chime-scheduler) — Schedule and publish LinkedIn posts from your AI chat. Hosted MCP server: https://schedule.getchime.co/mcp
 - [dongasai/dsh_compact_queue](https://github.com/dongasai/dsh_compact_queue)
 - [deemo0666/pallas-phone-control](https://github.com/deemo0666/pallas-phone-control) ⭐22 — Phone Control for Pallas Agent: lets the AI operate other apps on your iPhone or iPad, set up on the device itself with no computer. 手机操控插件。
-- [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact) ⭐715 — Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.
+- [JimLiu/open-artifact](https://github.com/JimLiu/open-artifact) ⭐728 — Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.
 - [fongap-labs/delta](https://github.com/fongap-labs/delta) — Local-first personal AI agent for work, research, analysis, and creation that improves with use.
 - [JoblessJoe/deep-projects](https://github.com/JoblessJoe/deep-projects) — Project rooms for the DeepSeek Harness (dsh) web GUI: a goal, memory, instructions and knowledge per project, auto-loaded into every chat. Claude-Desktop-style Projects for dsh.
 - [edward-polat/final-cut-win](https://github.com/edward-polat/final-cut-win) ⭐154 — Apple Final Cut - video editing software for timeline-based editing, multicam synchronization and color grading on Windows 10/11
@@ -1871,7 +1872,7 @@
 - [yinfandi/pet-phone-checkpoint](https://github.com/yinfandi/pet-phone-checkpoint)
 - [killher1/dsh-claude-preset](https://github.com/killher1/dsh-claude-preset) ⭐3
 - [eat-ice-gpu/wilbot](https://github.com/eat-ice-gpu/wilbot) — .
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐76494 — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐76685 — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [tonymingyang-prog/definition-logic](https://github.com/tonymingyang-prog/definition-logic) — 定义逻辑 · 可参数化的 PPT 逻辑图体系：44 个图形原子 / 15 种图纸 / 80 页模板映射 / 可编辑 PPTX + SVG
 - [lennney/stop-that-shit](https://github.com/lennney/stop-that-shit) ⭐4103 — Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.
 - [omnimux-ai/omnimux-client](https://github.com/omnimux-ai/omnimux-client) ⭐148 — Open-source local AI video studio & editor for e-commerce product videos, UGC ads & AI agent workflows (macOS/Windows). 开源本地 AI 电商带货与 UGC 短视频工作台，集成数字人资产库、灵感拆解、无限多模态画布与多轨剪辑。
@@ -1924,16 +1925,16 @@
 - [slobaloncar/livelaunch-mcp](https://github.com/slobaloncar/livelaunch-mcp) — Remote MCP server for LiveLaunch, the Solana token launchpad. Unsigned-transaction tools for AI agents.
 - [hxliu4mcgill/iMem-skill](https://github.com/hxliu4mcgill/iMem-skill) ⭐2 — Online Memory System for Agents and LLM.
 - [SI-sases/sases-control](https://github.com/SI-sases/sases-control) — SASES Control: let agents operate self-hosted SASES instances (MCP + CLI)
-- [nexu-io/opengame](https://github.com/nexu-io/opengame) ⭐2501 — The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.
+- [nexu-io/opengame](https://github.com/nexu-io/opengame) ⭐2804 — The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.
 - [ultrafastmov/ultrafast](https://github.com/ultrafastmov/ultrafast) ⭐4 — Shot on the GPU. Shaders, 3D, motion type and camera optics, written by your agent and rendered on the GPU. Open source.
 - [zizhennini/nextskills](https://github.com/zizhennini/nextskills)
 - [qq1003240666/qingshi-agent](https://github.com/qq1003240666/qingshi-agent) — 青史官方agent插件
 - [zhaojiale001016/video-hub](https://github.com/zhaojiale001016/video-hub) ⭐2 — 外网视频自动搬运中台：yt-dlp下载 → whisper字幕翻译烧录 → LLM中文标题 → Web管理台 → 一键发布 B站 + sau 全平台(快手/视频号/抖音/小红书/TikTok等13个)
 - [regrevia/wiser](https://github.com/regrevia/wiser) — 把一条真实做过的流程沉淀成窄 skill，并用五道闸判定够不够格发布
 - [dkmnx/recollect](https://github.com/dkmnx/recollect) — Local-first, Markdown-native memory engine for coding agents. Durable facts, ranked and hybrid search, privacy filters, and an OpenCode adapter.
-- [heenljy/tan-memory](https://github.com/heenljy/tan-memory) — Portable long-term memory for AI agents: L1 profile, topic cards with hard routing, journal and session archive. Zero-dependency core; runs as a library, an MCP server, or a host plugin.
+- [heenljy/tan-memory](https://github.com/heenljy/tan-memory) ⭐1 — Portable long-term memory for AI agents: L1 profile, topic cards with hard routing, journal and session archive. Zero-dependency core; runs as a library, an MCP server, or a host plugin.
 - [Dreftian/Rea](https://github.com/Dreftian/Rea) — Ingeniería inversa de cualquier cosa con agentes, desde el comportamiento de una aplicación hasta binarios nativos.
-- [qianhaoq/dota2.ai](https://github.com/qianhaoq/dota2.ai) ⭐8 — An evidence-first Dota 2 post-match coach — web, JSON API, CLI and MCP. 拿证据说话的 Dota 2 赛后教练。
+- [qianhaoq/dota2.ai](https://github.com/qianhaoq/dota2.ai) ⭐9 — An evidence-first Dota 2 post-match coach — web, JSON API, CLI and MCP. 拿证据说话的 Dota 2 赛后教练。
 - [ElementBen555/context-hub](https://github.com/ElementBen555/context-hub) — context-hub
 - [EverMind-AI/EverMe](https://github.com/EverMind-AI/EverMe) ⭐82 — Open-source CLI and Agent plugin suite for EverMe — cross-device, cross-Agent personal memory for AI Agents.
 - [sweeete/six-step](https://github.com/sweeete/six-step)
@@ -1949,15 +1950,21 @@
 - [holderlink/fishclick](https://github.com/holderlink/fishclick)
 - [huan0111/ai-streamer-doudizhu](https://github.com/huan0111/ai-streamer-doudizhu) — 微信小程序斗地主的实时识别、决策、执行与 AI 主播口播事件引擎。Real-time Doudizhu gameplay and execution-aligned commentary events for AI streamers.
 - [LST3645/dst-lst_input_optimizer](https://github.com/LST3645/dst-lst_input_optimizer)
-- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) ⭐30644 — #1 Persistent memory for AI coding agents based on real-world benchmarks
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) ⭐30655 — #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [Parado-D/stata-copilot](https://github.com/Parado-D/stata-copilot) — MCP server + skill pack that turn a coding agent into a disciplined Stata analyst: structured results, command safety rails, reproducible run ledger. Zero dependencies.
 - [yangdw2024/omni-desktop-mcp](https://github.com/yangdw2024/omni-desktop-mcp) — MCP server for desktop automation: compact UIA tree diffs, Windows OCR (zh/en), background-first input, safety guardrails. Windows supported; macOS/Linux experimental.
 - [ChongCyrus/agent-team-playbook](https://github.com/ChongCyrus/agent-team-playbook) — 多智能体协作工作流：档位、审计、任务书、复盘的可执行规程
-- [meka-im/google-trends-for-agent](https://github.com/meka-im/google-trends-for-agent) ⭐8 — Open-source (MIT) pytrends alternative for AI agents, CLI & MCP — calibrated daily search volume via 59 Google Ads anchors
+- [meka-im/google-trends-for-agent](https://github.com/meka-im/google-trends-for-agent) ⭐25 — Open-source (MIT) pytrends alternative for AI agents, CLI & MCP — calibrated daily search volume via 59 Google Ads anchors
 - [NitishReddy26/new-term-radar](https://github.com/NitishReddy26/new-term-radar) ⭐2 — Catch emerging AI search terms the day they appear, before keyword tools list them.
 - [northwang-lucky/workloom](https://github.com/northwang-lucky/workloom) — A working method that has AI deliver requirements through a fixed process. It turns one requirement into clear role responsibilities and a traceable record.
+- [sogeisetsu/subagent-preset-select](https://github.com/sogeisetsu/subagent-preset-select) — Adds a Lead Agent preset that lets the main agent assign a different preset to each spawned subagent, plus Worker and Reader teammate presets.
+- [page996/ToTranslateDSH](https://github.com/page996/ToTranslateDSH) — a lite version
+- [miaonatie/sashimi](https://github.com/miaonatie/sashimi) — 鱼片资源
+- [recued/office-routines](https://github.com/recued/office-routines) — Give an AI agent Excel, Word, and PowerPoint over MCP: change documents open in Office with undo, change saved files safely, and replay work as recipes.
+- [KasLee14/Bangumi-MCP-Lite](https://github.com/KasLee14/Bangumi-MCP-Lite) ⭐1 — 面向所有标准 MCP 客户端的独立本地只读 Bangumi MCP Server
+- [ChaseRabbit/project-starter](https://github.com/ChaseRabbit/project-starter) — agent开发项目启动skill
 
 ---
 
 
-*Generated on 2026-11-28 · 1947 plugins in this category*
+*Generated on 2026-11-29 · 1954 plugins in this category*

@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**72 plugins**
+**73 plugins**
 
 
 ---
@@ -81,8 +81,9 @@
 - [youkucola/dsh-aurabot-private-notice](https://github.com/youkucola/dsh-aurabot-private-notice) — Aurabot 模块：主人私聊时注入通知，并附带距上次说话的间隔
 - [thelou1s/dsh-doing](https://github.com/thelou1s/dsh-doing)
 - [Butcher-hub/dsh-im-wecom](https://github.com/Butcher-hub/dsh-im-wecom)
+- [eyeofflame/dsh-integration](https://github.com/eyeofflame/dsh-integration)
 
 ---
 
 
-*Generated on 2026-11-28 · 72 plugins in this category*
+*Generated on 2026-11-29 · 73 plugins in this category*

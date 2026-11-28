@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**94 plugins**
+**95 plugins**
 
 
 ---
@@ -103,8 +103,9 @@
 - [gongxianjin/agentranch-dsh](https://github.com/gongxianjin/agentranch-dsh) — DSH plugin: bounded DSH control of AgentRanch aw-cli (agentranch-dsh)
 - [voidwrathhh/dsh-tao-prompt](https://github.com/voidwrathhh/dsh-tao-prompt) — DSH prompt library: tag your prompts, insert them at the caret with one click, and let an agent grow the library through a JSON file.
 - [morning-start/dsh-plugin-creator](https://github.com/morning-start/dsh-plugin-creator) — DSH 插件开发增强：只扩展创造模式，覆盖从起模板到发版的全周期
+- [tunaflsh/dsh-safe-plugin-manager](https://github.com/tunaflsh/dsh-safe-plugin-manager) — dsh-plugin-manager wrapper to install host-changing plugins async-safe
 
 ---
 
 
-*Generated on 2026-11-28 · 94 plugins in this category*
+*Generated on 2026-11-28 · 95 plugins in this category*

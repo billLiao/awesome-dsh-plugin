@@ -4,7 +4,7 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**795 plugins**
+**797 plugins**
 
 
 ---
@@ -316,6 +316,7 @@
 - [GIT121995/dsh-feiyu-wardrobe](https://github.com/GIT121995/dsh-feiyu-wardrobe) ⭐1 — 🐋 大肥鱼衣橱 — DSH 插件：token 花销变鱼粮 + 侧边栏换装小游戏（Q版/少女版双身形、整套穿着立绘、悬浮小鲸鱼，纯本地离线）
 - [Wang341223/dsh-umbrella-startup](https://github.com/Wang341223/dsh-umbrella-startup) ⭐1 — DeepSeek Harness 启动动画插件 · 生化危机保护伞公司主题（含音频素材）
 - [iemgnod/dsh-shark-bg](https://github.com/iemgnod/dsh-shark-bg) ⭐1 — 在 Harness Web 界面背景中游动的 ASCII 鲨鱼
+- [fanyingnie2163663/dsh-whale-journal](https://github.com/fanyingnie2163663/dsh-whale-journal) ⭐1 — 给陪伴型 agent 的日记 / 叙事记忆插件（DSH plugin）：每天写几句自己的话，每句能回指当天的消息；只读日记页 + 简笔画/照片 + 接地审计，纯本地不联网。
 - [Timelk/dsh-ascii-sharks](https://github.com/Timelk/dsh-ascii-sharks) ⭐1 — Whole-page ASCII shark ocean for DeepSeek Harness — boid schools and hunting sharks behind a transparent, theme-aware frosted page layer.
 - [AAAjzx111/dsh-theme-jing-chiyang](https://github.com/AAAjzx111/dsh-theme-jing-chiyang) ⭐1 — 王者荣耀「镜 · 炽阳神光」动态主题 —— DeepSeek Harness 主题插件
 - [pmqzienbcka/dsh-theme-aurora](https://github.com/pmqzienbcka/dsh-theme-aurora) ⭐1
@@ -648,7 +649,6 @@
 - [Makesupper/dsh-plugin-whale](https://github.com/Makesupper/dsh-plugin-whale) — DeepSeek Harness plugin: 3D DeepSeek whale companion, real-time LLM speech synthesis, wooden-fish accompaniment
 - [ggxx001/dsh-bili-whale](https://github.com/ggxx001/dsh-bili-whale) — 养一条有日子的鱼：让 DSH 里的 agent 自己刷 B 站、看懂视频、写两本日记，把值得的 @ 你。设置里有「养鱼」完整设置页（27 项）+ 依赖体检 + cookie 写入 + 共享配置（与工具链同一份 bili-whale.config.json）。
 - [lukeAyin/dsh-whalebook](https://github.com/lukeAyin/dsh-whalebook) — 鲸事本！
-- [fanyingnie2163663/dsh-whale-journal](https://github.com/fanyingnie2163663/dsh-whale-journal) — 给陪伴型 agent 的日记 / 叙事记忆插件（DSH plugin）：每天写几句自己的话，每句能回指当天的消息；只读日记页 + 简笔画/照片 + 接地审计，纯本地不联网。
 - [hugo2046/dsh-ascii-sharks-skin](https://github.com/hugo2046/dsh-ascii-sharks-skin) — DeepSeek Harness 的 ASCII 鲨鱼皮肤：让字符鲨鱼游过新会话与聊天窗口，随界面切换深浅配色，支持自定义鱼群和保存预设。
 - [huangyuanhu3-dev/dsh-chat-skin](https://github.com/huangyuanhu3-dev/dsh-chat-skin) — 给 DSH 的聊天区换一层真正属于你的背景：氛围渐变 / 自定义图片、遮罩深浅、毛玻璃、CSS 动画、字体、emoji 头像与运行图标。所有调整实时生效，配置保存在本机，重启后仍在。
 - [heiyedehen/dsh-whale-whispers](https://github.com/heiyedehen/dsh-whale-whispers) — 鲸语：DSH 输入框上方的语录标签页。agent 可写、每句带上文、可改名、可导出。Whale Whispers: a quotes tab above the DSH input box. The agent can write, every line keeps its context, rename or export anytime.
@@ -781,7 +781,7 @@
 - [eastyy/dsh-git](https://github.com/eastyy/dsh-git) — Two DeepSeek Harness (dsh) plugins: a visual HTML editor for workspace pages, and a floating whale that snapshots a project into git.
 - [P3terHan/dsh-retro-pixel-themes](https://github.com/P3terHan/dsh-retro-pixel-themes) — Retro Pixel Themes — 12 visual themes for DeepSeek Harness (7 retro pixel/CRT styles). 复古像素主题：12 款主题，含 7 款复古像素/CRT 风。
 - [MicroCapCap/dsh-icon-studio](https://github.com/MicroCapCap/dsh-icon-studio) — Give DeepSeek Harness your own icon across the tray, About panel, shortcuts, taskbar, and executable, with backup and restore.
-- [STARDUSTLC666/dsh-blender-studio](https://github.com/STARDUSTLC666/dsh-blender-studio) — DeepSeek Harness Blender 3D Studio (6 tools · 9 skills · Blender 3.6–5.x): Cycles GPU + OPTIX-safe clay, EEVEE raytracing, multi-shot batching, translucent PBR GLB 3D viewer v3, A/B compare, atomic patch_script, wait:true, 1-click Live Bridge 0.5.1, 8 templates + 5 pro exemplars, 24 DSH_KIT helpers, QC-3D & 13 themes.
+- [STARDUSTLC666/dsh-blender-studio](https://github.com/STARDUSTLC666/dsh-blender-studio) — DeepSeek Harness Blender 3D Studio (7 tools · 9 skills · Blender 3.6–5.x): workflow recording & cross-project replay, Cycles GPU auto-fallback, OPTIX-safe clay, EEVEE raytracing, multi-shot batching, PBR GLB 3D viewer v3, atomic patch_script, wait:true, Live Bridge 0.5.1, 8 templates + 5 pro exemplars, 24 DSH_KIT helpers, QC-3D & 13 themes.
 - [xiaomao361/dsh-afterwave-style](https://github.com/xiaomao361/dsh-afterwave-style) — 四号船坞 · DeepSeek Harness 干船坞主题与会话工作台
 - [Awoodwhale/dsh-skill-mcp-manager](https://github.com/Awoodwhale/dsh-skill-mcp-manager) — Skills and MCP server management for DeepSeek Harness (DSH) at global, project, and session scope.
 - [scottlc211/dsh-columbina-theme](https://github.com/scottlc211/dsh-columbina-theme)
@@ -804,8 +804,10 @@
 - [PaoMoXML/dsh-theme-ink](https://github.com/PaoMoXML/dsh-theme-ink) — 原生优先的 DSH 主题：六套调色板、工作区密度、圆角、ASCII 字形与隐藏 logo，全部通过原生主题 token 生效。
 - [karsuness/dsh-whale-ds-token-bank](https://github.com/karsuness/dsh-whale-ds-token-bank)
 - [fuwenbo/dsh-thinking-viz](https://github.com/fuwenbo/dsh-thinking-viz) — Live thinking panel for DeepSeek Harness — real reasoning text, tool activity and 14 animated skins.
+- [AOD-YAN16/dsh-linglong-beautify](https://github.com/AOD-YAN16/dsh-linglong-beautify) — 玲珑美化（Linglong Beautify）：三套温柔配色 + 柔光、纸纹、花瓣，可换配色、可调装饰，侧栏 logo 也能换成小花
+- [ArmedHelicopter/dsh-timelessNascence-skin](https://github.com/ArmedHelicopter/dsh-timelessNascence-skin) — Timeless Nascence 主题：藏青 / 黑 / 白极简科技风的 DeepSeek Harness 客户端皮肤（派生自 dsh-closure-skin，MIT）
 
 ---
 
 
-*Generated on 2026-11-28 · 795 plugins in this category*
+*Generated on 2026-11-28 · 797 plugins in this category*

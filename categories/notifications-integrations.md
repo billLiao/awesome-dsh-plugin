@@ -4,7 +4,7 @@
 > WeChat, Telegram, IM bridges, desktop notifications, and external integrations.
 
 
-**71 plugins**
+**72 plugins**
 
 
 ---
@@ -80,8 +80,9 @@
 - [G33s3Fr13s/dsh-weread-free-library](https://github.com/G33s3Fr13s/dsh-weread-free-library) — 微信读书「免费图书馆」每周书币价格排行 — DSH 技能插件（官方接口抓取，含评分，可排序 HTML/CSV/Markdown）
 - [youkucola/dsh-aurabot-private-notice](https://github.com/youkucola/dsh-aurabot-private-notice) — Aurabot 模块：主人私聊时注入通知，并附带距上次说话的间隔
 - [thelou1s/dsh-doing](https://github.com/thelou1s/dsh-doing)
+- [Butcher-hub/dsh-im-wecom](https://github.com/Butcher-hub/dsh-im-wecom)
 
 ---
 
 
-*Generated on 2026-11-28 · 71 plugins in this category*
+*Generated on 2026-11-28 · 72 plugins in this category*

@@ -4,7 +4,7 @@
 > Plugin managers, SDKs, CLIs, desktop wrappers, and developer tooling.
 
 
-**95 plugins**
+**96 plugins**
 
 
 ---
@@ -46,6 +46,7 @@
 - [Jeremyly/dsh-plugin-offline-sync](https://github.com/Jeremyly/dsh-plugin-offline-sync) ⭐1 — 将本地已有的dsh插件打包，拷贝到其他电脑通过脚本直接安装或更新
 - [ackniuw/dsh-image-drag-fix](https://github.com/ackniuw/dsh-image-drag-fix) ⭐1 — DSH 拖图被拒的根因与修复：前端按扩展名猜 MIME，宿主按字节校验，QQ 拖拽的图必然撞车。附 asar 手术脚本与避坑记录。
 - [ccl4-56-23-5/DSH-Plugins](https://github.com/ccl4-56-23-5/DSH-Plugins) ⭐1 — DSH 宿主插件合集。提供插件源码、使用说明与安装包。
+- [Daaaaavid-zhou/dsh-camera](https://github.com/Daaaaavid-zhou/dsh-camera) ⭐1 — Lets DeepSeek access the camera directly, supports one-click photo capture into the input box, and bundles a Mac camera app.
 - [zdjmrq/dsh-restart-plugin](https://github.com/zdjmrq/dsh-restart-plugin) — DSH web plugin: one-click backend shutdown & frontend refresh that keeps creation-mode hot plugins
 - [GoGoGoDoge/dsh-plugin-installer](https://github.com/GoGoGoDoge/dsh-plugin-installer)
 - [jiay98528-dev/dsh-plugin-weaknet-adaptor](https://github.com/jiay98528-dev/dsh-plugin-weaknet-adaptor)
@@ -108,4 +109,4 @@
 ---
 
 
-*Generated on 2026-11-28 · 95 plugins in this category*
+*Generated on 2026-11-28 · 96 plugins in this category*

@@ -4,7 +4,7 @@
 > Multi-model support, OAuth login, LLM fallback strategies, and provider bridges.
 
 
-**157 plugins**
+**158 plugins**
 
 
 ---
@@ -166,8 +166,9 @@
 - [znlgis/dsh-qwen-image-generate](https://github.com/znlgis/dsh-qwen-image-generate) — dsh-qwen-image-generate
 - [ILVACM/DSH-SetModel-for-ContextCompression](https://github.com/ILVACM/DSH-SetModel-for-ContextCompression) — 专门给DSH用于可视化设置上下文压缩专用模型。保证使用特殊渠道模型服务时，不容易出现异常崩溃。
 - [wsdzwx2001/dshgo-connect-madao](https://github.com/wsdzwx2001/dshgo-connect-madao) — 把华为云码道（CodeArts Agent）接入 dsh-go：本机 OpenAI 兼容桥 + 原生状态条与面板
+- [Haaland-a/dsh-process-lens](https://github.com/Haaland-a/dsh-process-lens) — 把 AI 每一步干了什么、结果如何，用三行大白话摆在你面前；讲解用插件自己选的模型，只在你要的时候才花调用。
 
 ---
 
 
-*Generated on 2026-11-28 · 157 plugins in this category*
+*Generated on 2026-11-28 · 158 plugins in this category*

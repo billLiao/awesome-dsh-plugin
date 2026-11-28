@@ -4,7 +4,7 @@
 > Skins, themes, and appearance customization for DSH.
 
 
-**797 plugins**
+**801 plugins**
 
 
 ---
@@ -18,7 +18,7 @@
 - [ymh0000123/dsh-theme-endfield](https://github.com/ymh0000123/dsh-theme-endfield) ⭐180 — 终末地官网风格的 DSH Web 主题：奶油纸底、墨黑文字、信号黄强调、全直角工业编辑风。
 - [Something11235/dsh-video-skin](https://github.com/Something11235/dsh-video-skin) ⭐104 — DSH 视频皮肤：聊天背景 + 有声开机动画 + 界面内透明度调节
 - [Yuuyuko-uu/dsh-fish-buddy](https://github.com/Yuuyuko-uu/dsh-fish-buddy) ⭐79 — 鱼搭子：桌面小鲸鱼挂件 + DSH 插件（语音送话、陪看字幕、游戏弹幕、截图）
-- [berhbro/dsh-cyrene-theme](https://github.com/berhbro/dsh-cyrene-theme) ⭐61 — Cyrene theme dsh plugin. Contributions are welcome!
+- [berhbro/dsh-cyrene-theme](https://github.com/berhbro/dsh-cyrene-theme) ⭐63 — Cyrene theme dsh plugin. Contributions are welcome!
 - [gulagala001/oh-my-dsh](https://github.com/gulagala001/oh-my-dsh) ⭐53 — DeepSeek Harness 增强插件：上下文压缩与 Dream 记忆、Ultra 多智能体、OpenCU 电脑操作、代码理解、扩展管理、人格和主题。 All-in-one plugin for DeepSeek Harness: context compaction and memory, multi-agent Ultra, computer use, code understanding, extensions, personalities and themes.
 - [chen731215-dev/dsh-tavern-v2](https://github.com/chen731215-dev/dsh-tavern-v2) ⭐53 — DeepSeek Harness Tavern Plugin - character card roleplay, worldbook management, preset switching, dark theme, memory summary, relationship graph, PolyForm-Noncommercial-Copyleft-1.0.0
 - [STARDUSTLC666/dsh-email](https://github.com/STARDUSTLC666/dsh-email) ⭐52 — DeepSeek Harness 邮件工作台：默认「信桌」航空信叠卡分拣（1 键切经典三栏）、IMAP/POP3/SMTP、Google/Outlook OAuth 与 AgentMail 多账号、本地通讯录拼音补全、图文草稿定时发与互动鲸鱼娘信使，支持 13 套风格与 8 套字体。欢迎提交 issues 和 PR。
@@ -33,7 +33,7 @@
 - [AssassinVIX/fairy-zzz-plugin](https://github.com/AssassinVIX/fairy-zzz-plugin) ⭐30 — A theme that completely replaces the Web interface of DeepSeek Harness with the H.D.D terminal theme of "Fairy" from the game "Zenless Zone Zero", including the boot animation
 - [10086ggqq/dsh_theme_terraria](https://github.com/10086ggqq/dsh_theme_terraria) ⭐29 — 把 DeepSeek Harness 的 AI 编码控制台变成泰拉瑞亚像素世界——向导陪你写代码，真实对话、工具审批、难度切换，单文件零依赖。
 - [HiWhaleW/dsh-toolbox](https://github.com/HiWhaleW/dsh-toolbox) ⭐29 — Local-first DeepSeek Harness plugins for product research, context routing, plugin preflight, and compatibility monitoring.
-- [coeasy/dsh-go](https://github.com/coeasy/dsh-go) ⭐27 — DeepSeek Harness 插件市场导航站
+- [coeasy/dsh-go](https://github.com/coeasy/dsh-go) ⭐28 — DeepSeek Harness 插件市场导航站
 - [tingfeng347/dsh-vscode-workbench](https://github.com/tingfeng347/dsh-vscode-workbench) ⭐27 — DeepSeek Harness 的 VS Code 风格工作台：资源管理器、Monaco 编辑、Markdown 与 PDF 预览、全文搜索、Git 暂存与提交、可分屏的官方终端和内置或系统浏览器都在同一界面，右侧可直接和 DSH 对话，主题、布局与语言服务在 DSH 设置中统一管理。
 - [Respawn-ID/dsh-rhine-splash](https://github.com/Respawn-ID/dsh-rhine-splash) ⭐26 — Rhine Lab theme for DeepSeek Harness — 莱茵生命主题：开屏动画、界面主题、品牌标志与附加功能
 - [3150481853/molly-qq-whale](https://github.com/3150481853/molly-qq-whale) ⭐26 — 基于 DeepSeek Harness 的 QQ 人格化框架：稳定人设、长期记忆、表情包与语音，附一个能看懂她此刻在干什么的控制台。人设由你自己写。
@@ -357,7 +357,7 @@
 - [Lh1314-China/dsh-whale-sight](https://github.com/Lh1314-China/dsh-whale-sight) ⭐1 — Video vision for DeepSeek Harness: sample a clip with ffmpeg, return timestamped frames or one labelled contact sheet as native image attachments.
 - [sensencjq/dsh-dragon-raja](https://github.com/sensencjq/dsh-dragon-raja) ⭐1 — 《龙族》执行员登录主题 for DeepSeek Harness：权限确认开场动画、黑金执行部配色与全屏 HUD。
 - [Lin-Liszt/dsh-aemeath-theme](https://github.com/Lin-Liszt/dsh-aemeath-theme) ⭐1 — DeepSeek Harness 的 Aemeath（爱弥斯）主题：像素窗口框、全息卡片、4K 开屏、视频背景。
-- [zuoyunlai/dsh-zhuoer-theme](https://github.com/zuoyunlai/dsh-zhuoer-theme) ⭐1 — 卓尔主题（DSH Zhu'er Theme）：11 套内置配色 + 自定义主题编辑器（取色 / AI 生成 / 风格预设），纯本地 token 注入
+- [zuoyunlai/dsh-zhuoer-theme](https://github.com/zuoyunlai/dsh-zhuoer-theme) ⭐1 — 卓尔主题（DSH Zhuoer Theme）：11 套内置配色 + 自定义主题编辑器（取色 / AI 生成 / 风格预设），纯本地 token 注入
 - [wgytcdx/dsh-typing-buddy](https://github.com/wgytcdx/dsh-typing-buddy) ⭐1 — DSH 活动头像：显示会话与工具状态，支持静音视频、外观设置和形象预览
 - [manyuemeiquqi/dsh-gta6](https://github.com/manyuemeiquqi/dsh-gta6) ⭐1 — 给 DeepSeek Harness 的 GTA6 主题
 - [KevinZhangNothing/dsh-nico](https://github.com/KevinZhangNothing/dsh-nico) — Nico — 按住右 ⌘ 说一句，本地 AI 替我操作电脑。DSH cordis 插件：本地 SenseVoice 识别 → DSH 固定会话 → CosyVoice2 流式播报，可选 Live2D 鲸鱼娘悬浮窗。
@@ -806,8 +806,12 @@
 - [fuwenbo/dsh-thinking-viz](https://github.com/fuwenbo/dsh-thinking-viz) — Live thinking panel for DeepSeek Harness — real reasoning text, tool activity and 14 animated skins.
 - [AOD-YAN16/dsh-linglong-beautify](https://github.com/AOD-YAN16/dsh-linglong-beautify) — 玲珑美化（Linglong Beautify）：三套温柔配色 + 柔光、纸纹、花瓣，可换配色、可调装饰，侧栏 logo 也能换成小花
 - [ArmedHelicopter/dsh-timelessNascence-skin](https://github.com/ArmedHelicopter/dsh-timelessNascence-skin) — Timeless Nascence 主题：藏青 / 黑 / 白极简科技风的 DeepSeek Harness 客户端皮肤（派生自 dsh-closure-skin，MIT）
+- [seaflynowing/dsh-skin-zhengwu](https://github.com/seaflynowing/dsh-skin-zhengwu) — DeepSeek Harness 政务办公皮肤：宣纸底色、墨色正文、朱砂强调，浅色与深色两套；新会话 logo 区为朱红书法「为人民服务」，正文按公文排版（仿宋两字缩进、黑体/楷体标题、三线表）。
+- [cssn12333/dsh-antigravity-prism](https://github.com/cssn12333/dsh-antigravity-prism) — DeepSeek Harness (DSH) optical prism theme — WebGL2 horizon aurora & matrix ripple field, Codex soft rainbow typography, frosted glass, 24-node water-vial context monitor, color-shifting effort slider & 4 pixel mascots.
+- [kapibalawang-max/dsh-capybara-theme](https://github.com/kapibalawang-max/dsh-capybara-theme) — 圆角卡片配色皮肤 for DeepSeek Harness
+- [kapibalawang-max/dsh-cherry-theme](https://github.com/kapibalawang-max/dsh-cherry-theme) — Cherry Studio inspired light/dark skin plugin for DeepSeek Harness
 
 ---
 
 
-*Generated on 2026-11-28 · 797 plugins in this category*
+*Generated on 2026-11-28 · 801 plugins in this category*
